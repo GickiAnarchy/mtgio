@@ -13,7 +13,7 @@ from time import perf_counter
 import pickle
 import requests
 import datetime
-
+import certifi
 
 
 D_SETS = os.path.abspath(os.path.join(os.path.dirname(__file__),".", "Sets"))
@@ -270,7 +270,9 @@ class MTGFiler:
                 print(f"skipping {file}")
                 continue
             with open(file, 'wb') as f:
-                f.write(requests.get(card.url).content)
+                self.log(card.url, f =  False)
+                req = requests.get(f"{card.url}")
+                f.write(req.content)
                 f.close()
             print(f"{file} is downloaded")
 
@@ -284,7 +286,10 @@ class MTGFiler:
             print(f"skipping {file}")
             return
         with open(file, 'wb') as f:
-            f.write(requests.get(card.url).content)
+            self.log(card.url, f =  False)
+            req = requests.get(f"{card.url}")
+            self.log(req, f =  False)
+            f.write(req.content)
             f.close()
             print(f"{file} is downloaded")
 

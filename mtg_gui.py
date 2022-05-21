@@ -14,6 +14,7 @@ import random
 from PIL import Image, ImageTk
 import requests
 import io
+import certifi
 
 
 class MTG_GUI:
@@ -28,9 +29,6 @@ class MTG_GUI:
 
 
     def make_window(self):
-        w, h = sg.Window.get_screen_size()
-        self.h = h
-        self.w = w
 
         ran = random.choice(sg.theme_list())        
         sg.theme(ran)
@@ -60,6 +58,7 @@ class MTG_GUI:
             ]
 
         self.layout_R = [
+                [sg.Text(size = (20, 3), key = '-URL-')],
                 [sg.Image(key = '-IMAGE-')]
             ]
 
@@ -73,7 +72,7 @@ class MTG_GUI:
 
         self.layout = [[self.layout_top], [self.layout_middle], [self.layout_bottom]]
 
-        return sg.Window("MTG", self.layout, resizable = True)
+        return sg.Window("MTG", self.layout, grab_anywhere=True, resizable=True, margins=(0,0))
 
 
     def run(self):
@@ -116,6 +115,7 @@ class MTG_GUI:
                     img.save(image_bytes, format = "PNG")
                     img2 = ImageTk.PhotoImage(img)
                     del img
+                    window['-URL-'].update(self.card.url)
                     window['-IMAGE-'].update(data = img2)
                 window['cardText'].update(self.card.text)
                 window.refresh()
@@ -133,14 +133,6 @@ class MTG_GUI:
 
         window.close()            
 
-
-
-"""
-response = requests.get("https://i.imgur.com/ExdKOOz.png")
-image_bytes = io.BytesIO(response.content)
-
-img = PIL.Image.open(image_bytes)
-"""
 
 
 if __name__ == "__main__":
