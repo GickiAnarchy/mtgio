@@ -1,0 +1,2032 @@
+[
+    {
+        "name": "Akroma, Angel of Wrath",
+        "manaCost": "{5}{W}{W}{W}",
+        "cmc": 8.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Legendary Creature — Angel",
+        "rarity": "Rare",
+        "set": "LGN",
+        "text": "Flying, first strike, vigilance, trample, haste, protection from black and from red",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=42049&type=card",
+        "multiverseId": "42049"
+    },
+    {
+        "name": "Akroma's Devoted",
+        "manaCost": "{3}{W}",
+        "cmc": 4.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Human Cleric",
+        "rarity": "Uncommon",
+        "set": "LGN",
+        "text": "Cleric creatures have vigilance.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=44747&type=card",
+        "multiverseId": "44747"
+    },
+    {
+        "name": "Aven Redeemer",
+        "manaCost": "{3}{W}",
+        "cmc": 4.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Bird Cleric",
+        "rarity": "Common",
+        "set": "LGN",
+        "text": "Flying\n{T}: Prevent the next 2 damage that would be dealt to any target this turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=43497&type=card",
+        "multiverseId": "43497"
+    },
+    {
+        "name": "Aven Warhawk",
+        "manaCost": "{4}{W}",
+        "cmc": 5.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Bird Soldier",
+        "rarity": "Uncommon",
+        "set": "LGN",
+        "text": "Amplify 1 (As this creature enters the battlefield, put a +1/+1 counter on it for each Bird and/or Soldier card you reveal in your hand.)\nFlying",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=45838&type=card",
+        "multiverseId": "45838"
+    },
+    {
+        "name": "Beacon of Destiny",
+        "manaCost": "{1}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Human Cleric",
+        "rarity": "Rare",
+        "set": "LGN",
+        "text": "{T}: The next time a source of your choice would deal damage to you this turn, that damage is dealt to Beacon of Destiny instead.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=44496&type=card",
+        "multiverseId": "44496"
+    },
+    {
+        "name": "Celestial Gatekeeper",
+        "manaCost": "{3}{W}{W}",
+        "cmc": 5.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Bird Cleric",
+        "rarity": "Rare",
+        "set": "LGN",
+        "text": "Flying\nWhen Celestial Gatekeeper dies, exile it, then return up to two target Bird and/or Cleric permanent cards from your graveyard to the battlefield.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=42271&type=card",
+        "multiverseId": "42271"
+    },
+    {
+        "name": "Cloudreach Cavalry",
+        "manaCost": "{1}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Human Soldier",
+        "rarity": "Uncommon",
+        "set": "LGN",
+        "text": "As long as you control a Bird, Cloudreach Cavalry gets +2/+2 and has flying.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=45839&type=card",
+        "multiverseId": "45839"
+    },
+    {
+        "name": "Daru Mender",
+        "manaCost": "{W}",
+        "cmc": 1.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Human Cleric",
+        "rarity": "Uncommon",
+        "set": "LGN",
+        "text": "Morph {W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Daru Mender is turned face up, regenerate target creature.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=42053&type=card",
+        "multiverseId": "42053"
+    },
+    {
+        "name": "Daru Sanctifier",
+        "manaCost": "{3}{W}",
+        "cmc": 4.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Human Cleric",
+        "rarity": "Common",
+        "set": "LGN",
+        "text": "Morph {1}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Daru Sanctifier is turned face up, destroy target enchantment.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=44504&type=card",
+        "multiverseId": "44504"
+    },
+    {
+        "name": "Daru Stinger",
+        "manaCost": "{3}{W}",
+        "cmc": 4.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Soldier",
+        "rarity": "Common",
+        "set": "LGN",
+        "text": "Amplify 1 (As this creature enters the battlefield, put a +1/+1 counter on it for each Soldier card you reveal in your hand.)\n{T}: Daru Stinger deals damage equal to the number of +1/+1 counters on it to target attacking or blocking creature.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=42278&type=card",
+        "multiverseId": "42278"
+    },
+    {
+        "name": "Defender of the Order",
+        "manaCost": "{3}{W}",
+        "cmc": 4.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Human Cleric",
+        "rarity": "Rare",
+        "set": "LGN",
+        "text": "Morph {W}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Defender of the Order is turned face up, creatures you control get +0/+2 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=44329&type=card",
+        "multiverseId": "44329"
+    },
+    {
+        "name": "Deftblade Elite",
+        "manaCost": "{W}",
+        "cmc": 1.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Human Soldier",
+        "rarity": "Common",
+        "set": "LGN",
+        "text": "Provoke (Whenever this creature attacks, you may have target creature defending player controls untap and block it if able.)\n{1}{W}: Prevent all combat damage that would be dealt to and dealt by Deftblade Elite this turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=45132&type=card",
+        "multiverseId": "45132"
+    },
+    {
+        "name": "Essence Sliver",
+        "manaCost": "{3}{W}",
+        "cmc": 4.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Sliver",
+        "rarity": "Rare",
+        "set": "LGN",
+        "text": "Whenever a Sliver deals damage, its controller gains that much life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=42025&type=card",
+        "multiverseId": "42025"
+    },
+    {
+        "name": "Gempalm Avenger",
+        "manaCost": "{5}{W}",
+        "cmc": 6.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Human Soldier",
+        "rarity": "Common",
+        "set": "LGN",
+        "text": "Cycling {2}{W} ({2}{W}, Discard this card: Draw a card.)\nWhen you cycle Gempalm Avenger, Soldier creatures get +1/+1 and gain first strike until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=43791&type=card",
+        "multiverseId": "43791"
+    },
+    {
+        "name": "Glowrider",
+        "manaCost": "{2}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Human Cleric",
+        "rarity": "Rare",
+        "set": "LGN",
+        "text": "Noncreature spells cost {1} more to cast.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=42073&type=card",
+        "multiverseId": "42073"
+    },
+    {
+        "name": "Liege of the Axe",
+        "manaCost": "{3}{W}",
+        "cmc": 4.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Human Soldier",
+        "rarity": "Uncommon",
+        "set": "LGN",
+        "text": "Vigilance\nMorph {1}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Liege of the Axe is turned face up, untap it.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=39603&type=card",
+        "multiverseId": "39603"
+    },
+    {
+        "name": "Lowland Tracker",
+        "manaCost": "{4}{W}",
+        "cmc": 5.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Human Soldier",
+        "rarity": "Common",
+        "set": "LGN",
+        "text": "First strike\nProvoke (Whenever this creature attacks, you may have target creature defending player controls untap and block it if able.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=45131&type=card",
+        "multiverseId": "45131"
+    },
+    {
+        "name": "Planar Guide",
+        "manaCost": "{W}",
+        "cmc": 1.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Human Cleric",
+        "rarity": "Rare",
+        "set": "LGN",
+        "text": "{3}{W}, Exile Planar Guide: Exile all creatures. At the beginning of the next end step, return those cards to the battlefield under their owners' control.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=44323&type=card",
+        "multiverseId": "44323"
+    },
+    {
+        "name": "Plated Sliver",
+        "manaCost": "{W}",
+        "cmc": 1.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Sliver",
+        "rarity": "Common",
+        "set": "LGN",
+        "text": "All Sliver creatures get +0/+1.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=42017&type=card",
+        "multiverseId": "42017"
+    },
+    {
+        "name": "Starlight Invoker",
+        "manaCost": "{1}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Human Cleric Mutant",
+        "rarity": "Common",
+        "set": "LGN",
+        "text": "{7}{W}: You gain 5 life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=43792&type=card",
+        "multiverseId": "43792"
+    },
+    {
+        "name": "Stoic Champion",
+        "manaCost": "{W}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Human Soldier",
+        "rarity": "Uncommon",
+        "set": "LGN",
+        "text": "Whenever a player cycles a card, Stoic Champion gets +2/+2 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=42265&type=card",
+        "multiverseId": "42265"
+    },
+    {
+        "name": "Sunstrike Legionnaire",
+        "manaCost": "{1}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Human Soldier",
+        "rarity": "Rare",
+        "set": "LGN",
+        "text": "Sunstrike Legionnaire doesn't untap during your untap step.\nWhenever another creature enters the battlefield, untap Sunstrike Legionnaire.\n{T}: Tap target creature with mana value 3 or less.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=44328&type=card",
+        "multiverseId": "44328"
+    },
+    {
+        "name": "Swooping Talon",
+        "manaCost": "{4}{W}{W}",
+        "cmc": 6.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Bird Soldier",
+        "rarity": "Uncommon",
+        "set": "LGN",
+        "text": "Flying\n{1}: Swooping Talon loses flying until end of turn.\nProvoke (Whenever this creature attacks, you may have target creature defending player controls untap and block it if able.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=45126&type=card",
+        "multiverseId": "45126"
+    },
+    {
+        "name": "Wall of Hope",
+        "manaCost": "{W}",
+        "cmc": 1.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Wall",
+        "rarity": "Common",
+        "set": "LGN",
+        "text": "Defender (This creature can't attack.)\nWhenever Wall of Hope is dealt damage, you gain that much life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=44324&type=card",
+        "multiverseId": "44324"
+    },
+    {
+        "name": "Ward Sliver",
+        "manaCost": "{4}{W}",
+        "cmc": 5.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Sliver",
+        "rarity": "Uncommon",
+        "set": "LGN",
+        "text": "As Ward Sliver enters the battlefield, choose a color.\nAll Slivers have protection from the chosen color.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=44296&type=card",
+        "multiverseId": "44296"
+    },
+    {
+        "name": "Whipgrass Entangler",
+        "manaCost": "{2}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Human Cleric",
+        "rarity": "Common",
+        "set": "LGN",
+        "text": "{1}{W}: Until end of turn, target creature gains \"This creature can't attack or block unless its controller pays {1} for each Cleric on the battlefield.\"",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=45122&type=card",
+        "multiverseId": "45122"
+    },
+    {
+        "name": "White Knight",
+        "manaCost": "{W}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Human Knight",
+        "rarity": "Uncommon",
+        "set": "LGN",
+        "text": "First strike (This creature deals combat damage before creatures without first strike.)\nProtection from black (This creature can't be blocked, targeted, dealt damage, or enchanted by anything black.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=44212&type=card",
+        "multiverseId": "44212"
+    },
+    {
+        "name": "Windborn Muse",
+        "manaCost": "{3}{W}",
+        "cmc": 4.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Spirit",
+        "rarity": "Rare",
+        "set": "LGN",
+        "text": "Flying\nCreatures can't attack you unless their controller pays {2} for each creature they control that's attacking you.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=44837&type=card",
+        "multiverseId": "44837"
+    },
+    {
+        "name": "Wingbeat Warrior",
+        "manaCost": "{2}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Bird Soldier Warrior",
+        "rarity": "Common",
+        "set": "LGN",
+        "text": "Flying\nMorph {2}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Wingbeat Warrior is turned face up, target creature gains first strike until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=42058&type=card",
+        "multiverseId": "42058"
+    },
+    {
+        "name": "Aven Envoy",
+        "manaCost": "{U}",
+        "cmc": 1.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Bird Soldier",
+        "rarity": "Common",
+        "set": "LGN",
+        "text": "Flying",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=44325&type=card",
+        "multiverseId": "44325"
+    },
+    {
+        "name": "Cephalid Pathmage",
+        "manaCost": "{2}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Cephalid Wizard",
+        "rarity": "Common",
+        "set": "LGN",
+        "text": "Cephalid Pathmage can't be blocked.\n{T}, Sacrifice Cephalid Pathmage: Target creature can't be blocked this turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=29717&type=card",
+        "multiverseId": "29717"
+    },
+    {
+        "name": "Chromeshell Crab",
+        "manaCost": "{4}{U}",
+        "cmc": 5.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Crab Beast",
+        "rarity": "Rare",
+        "set": "LGN",
+        "text": "Morph {4}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Chromeshell Crab is turned face up, you may exchange control of target creature you control and target creature an opponent controls.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=44205&type=card",
+        "multiverseId": "44205"
+    },
+    {
+        "name": "Covert Operative",
+        "manaCost": "{4}{U}",
+        "cmc": 5.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Human Wizard",
+        "rarity": "Common",
+        "set": "LGN",
+        "text": "Covert Operative can't be blocked.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=30659&type=card",
+        "multiverseId": "30659"
+    },
+    {
+        "name": "Crookclaw Elder",
+        "manaCost": "{5}{U}",
+        "cmc": 6.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Bird Wizard",
+        "rarity": "Uncommon",
+        "set": "LGN",
+        "text": "Flying\nTap two untapped Birds you control: Draw a card.\nTap two untapped Wizards you control: Target creature gains flying until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=42172&type=card",
+        "multiverseId": "42172"
+    },
+    {
+        "name": "Dermoplasm",
+        "manaCost": "{2}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Shapeshifter",
+        "rarity": "Rare",
+        "set": "LGN",
+        "text": "Flying\nMorph {2}{U}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Dermoplasm is turned face up, you may put a creature card with a morph ability from your hand onto the battlefield face up. If you do, return Dermoplasm to its owner's hand.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=44300&type=card",
+        "multiverseId": "44300"
+    },
+    {
+        "name": "Dreamborn Muse",
+        "manaCost": "{2}{U}{U}",
+        "cmc": 4.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Spirit",
+        "rarity": "Rare",
+        "set": "LGN",
+        "text": "At the beginning of each player's upkeep, that player mills X cards, where X is the number of cards in their hand.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=44840&type=card",
+        "multiverseId": "44840"
+    },
+    {
+        "name": "Echo Tracer",
+        "manaCost": "{2}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Human Wizard",
+        "rarity": "Common",
+        "set": "LGN",
+        "text": "Morph {2}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Echo Tracer is turned face up, return target creature to its owner's hand.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=42059&type=card",
+        "multiverseId": "42059"
+    },
+    {
+        "name": "Fugitive Wizard",
+        "manaCost": "{U}",
+        "cmc": 1.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Human Wizard",
+        "rarity": "Common",
+        "set": "LGN",
+        "text": null,
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=42160&type=card",
+        "multiverseId": "42160"
+    },
+    {
+        "name": "Gempalm Sorcerer",
+        "manaCost": "{2}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Human Wizard",
+        "rarity": "Uncommon",
+        "set": "LGN",
+        "text": "Cycling {2}{U} ({2}{U}, Discard this card: Draw a card.)\nWhen you cycle Gempalm Sorcerer, Wizard creatures gain flying until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=42064&type=card",
+        "multiverseId": "42064"
+    },
+    {
+        "name": "Glintwing Invoker",
+        "manaCost": "{4}{U}",
+        "cmc": 5.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Human Wizard Mutant",
+        "rarity": "Common",
+        "set": "LGN",
+        "text": "{7}{U}: Glintwing Invoker gets +3/+3 and gains flying until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=44204&type=card",
+        "multiverseId": "44204"
+    },
+    {
+        "name": "Keeneye Aven",
+        "manaCost": "{3}{U}",
+        "cmc": 4.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Bird Soldier",
+        "rarity": "Common",
+        "set": "LGN",
+        "text": "Flying\nCycling {2} ({2}, Discard this card: Draw a card.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=35335&type=card",
+        "multiverseId": "35335"
+    },
+    {
+        "name": "Keeper of the Nine Gales",
+        "manaCost": "{2}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Bird Wizard",
+        "rarity": "Rare",
+        "set": "LGN",
+        "text": "Flying\n{T}, Tap two untapped Birds you control: Return target permanent to its owner's hand.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=44626&type=card",
+        "multiverseId": "44626"
+    },
+    {
+        "name": "Master of the Veil",
+        "manaCost": "{2}{U}{U}",
+        "cmc": 4.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Human Wizard",
+        "rarity": "Uncommon",
+        "set": "LGN",
+        "text": "Morph {2}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Master of the Veil is turned face up, you may turn target creature with a morph ability face down.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=42068&type=card",
+        "multiverseId": "42068"
+    },
+    {
+        "name": "Merchant of Secrets",
+        "manaCost": "{2}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Human Wizard",
+        "rarity": "Common",
+        "set": "LGN",
+        "text": "When Merchant of Secrets enters the battlefield, draw a card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=44501&type=card",
+        "multiverseId": "44501"
+    },
+    {
+        "name": "Mistform Seaswift",
+        "manaCost": "{3}{U}",
+        "cmc": 4.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Illusion",
+        "rarity": "Common",
+        "set": "LGN",
+        "text": "Flying\n{1}: Mistform Seaswift becomes the creature type of your choice until end of turn.\nMorph {1}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=43721&type=card",
+        "multiverseId": "43721"
+    },
+    {
+        "name": "Mistform Sliver",
+        "manaCost": "{1}{U}",
+        "cmc": 2.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Illusion Sliver",
+        "rarity": "Common",
+        "set": "LGN",
+        "text": "All Slivers have \"{1}: This permanent becomes the creature type of your choice in addition to its other types until end of turn.\"",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=42037&type=card",
+        "multiverseId": "42037"
+    },
+    {
+        "name": "Mistform Ultimus",
+        "manaCost": "{3}{U}",
+        "cmc": 4.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Legendary Creature — Illusion",
+        "rarity": "Rare",
+        "set": "LGN",
+        "text": "Mistform Ultimus is every creature type (even if this card isn't on the battlefield).",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=45840&type=card",
+        "multiverseId": "45840"
+    },
+    {
+        "name": "Mistform Wakecaster",
+        "manaCost": "{4}{U}",
+        "cmc": 5.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Illusion",
+        "rarity": "Uncommon",
+        "set": "LGN",
+        "text": "Flying\n{1}: Mistform Wakecaster becomes the creature type of your choice until end of turn.\n{2}{U}{U}, {T}: Choose a creature type. Each creature you control becomes that type until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=42165&type=card",
+        "multiverseId": "42165"
+    },
+    {
+        "name": "Primoc Escapee",
+        "manaCost": "{6}{U}",
+        "cmc": 7.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Bird Beast",
+        "rarity": "Uncommon",
+        "set": "LGN",
+        "text": "Flying\nCycling {2} ({2}, Discard this card: Draw a card.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=42437&type=card",
+        "multiverseId": "42437"
+    },
+    {
+        "name": "Riptide Director",
+        "manaCost": "{2}{U}{U}",
+        "cmc": 4.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Human Wizard",
+        "rarity": "Rare",
+        "set": "LGN",
+        "text": "{2}{U}{U}, {T}: Draw a card for each Wizard you control.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=39733&type=card",
+        "multiverseId": "39733"
+    },
+    {
+        "name": "Riptide Mangler",
+        "manaCost": "{1}{U}",
+        "cmc": 2.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Beast",
+        "rarity": "Rare",
+        "set": "LGN",
+        "text": "{1}{U}: Change Riptide Mangler's base power to target creature's power. (This effect lasts indefinitely.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=39914&type=card",
+        "multiverseId": "39914"
+    },
+    {
+        "name": "Shifting Sliver",
+        "manaCost": "{3}{U}",
+        "cmc": 4.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Sliver",
+        "rarity": "Uncommon",
+        "set": "LGN",
+        "text": "Slivers can't be blocked except by Slivers.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=42078&type=card",
+        "multiverseId": "42078"
+    },
+    {
+        "name": "Synapse Sliver",
+        "manaCost": "{4}{U}",
+        "cmc": 5.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Sliver",
+        "rarity": "Rare",
+        "set": "LGN",
+        "text": "Whenever a Sliver deals combat damage to a player, its controller may draw a card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=42026&type=card",
+        "multiverseId": "42026"
+    },
+    {
+        "name": "Voidmage Apprentice",
+        "manaCost": "{1}{U}",
+        "cmc": 2.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Human Wizard",
+        "rarity": "Common",
+        "set": "LGN",
+        "text": "Morph {2}{U}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Voidmage Apprentice is turned face up, counter target spell.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=42069&type=card",
+        "multiverseId": "42069"
+    },
+    {
+        "name": "Wall of Deceit",
+        "manaCost": "{1}{U}",
+        "cmc": 2.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Wall",
+        "rarity": "Uncommon",
+        "set": "LGN",
+        "text": "Defender (This creature can't attack.)\n{3}: Turn Wall of Deceit face down.\nMorph {U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=39850&type=card",
+        "multiverseId": "39850"
+    },
+    {
+        "name": "Warped Researcher",
+        "manaCost": "{4}{U}",
+        "cmc": 5.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Human Wizard Mutant",
+        "rarity": "Uncommon",
+        "set": "LGN",
+        "text": "Whenever a player cycles a card, Warped Researcher gains flying and shroud until end of turn. (It can't be the target of spells or abilities.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=44274&type=card",
+        "multiverseId": "44274"
+    },
+    {
+        "name": "Weaver of Lies",
+        "manaCost": "{5}{U}{U}",
+        "cmc": 7.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Beast",
+        "rarity": "Rare",
+        "set": "LGN",
+        "text": "Morph {4}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Weaver of Lies is turned face up, turn any number of target creatures with morph abilities other than Weaver of Lies face down.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=42156&type=card",
+        "multiverseId": "42156"
+    },
+    {
+        "name": "Willbender",
+        "manaCost": "{1}{U}",
+        "cmc": 2.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Human Wizard",
+        "rarity": "Uncommon",
+        "set": "LGN",
+        "text": "Morph {1}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Willbender is turned face up, change the target of target spell or ability with a single target.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=42054&type=card",
+        "multiverseId": "42054"
+    },
+    {
+        "name": "Aphetto Exterminator",
+        "manaCost": "{2}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Human Wizard",
+        "rarity": "Uncommon",
+        "set": "LGN",
+        "text": "Morph {3}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Aphetto Exterminator is turned face up, target creature gets -3/-3 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=42060&type=card",
+        "multiverseId": "42060"
+    },
+    {
+        "name": "Bane of the Living",
+        "manaCost": "{2}{B}{B}",
+        "cmc": 4.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Insect",
+        "rarity": "Rare",
+        "set": "LGN",
+        "text": "Morph {X}{B}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Bane of the Living is turned face up, all creatures get -X/-X until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=44493&type=card",
+        "multiverseId": "44493"
+    },
+    {
+        "name": "Blood Celebrant",
+        "manaCost": "{B}",
+        "cmc": 1.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Human Cleric",
+        "rarity": "Common",
+        "set": "LGN",
+        "text": "{B}, Pay 1 life: Add one mana of any color.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=44206&type=card",
+        "multiverseId": "44206"
+    },
+    {
+        "name": "Corpse Harvester",
+        "manaCost": "{3}{B}{B}",
+        "cmc": 5.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Zombie Wizard",
+        "rarity": "Uncommon",
+        "set": "LGN",
+        "text": "{1}{B}, {T}, Sacrifice a creature: Search your library for a Zombie card and a Swamp card, reveal them, put them into your hand, then shuffle.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=44279&type=card",
+        "multiverseId": "44279"
+    },
+    {
+        "name": "Crypt Sliver",
+        "manaCost": "{1}{B}",
+        "cmc": 2.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Sliver",
+        "rarity": "Common",
+        "set": "LGN",
+        "text": "All Slivers have \"{T}: Regenerate target Sliver.\"",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=42033&type=card",
+        "multiverseId": "42033"
+    },
+    {
+        "name": "Dark Supplicant",
+        "manaCost": "{B}",
+        "cmc": 1.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Human Cleric",
+        "rarity": "Uncommon",
+        "set": "LGN",
+        "text": "{T}, Sacrifice three Clerics: Search your graveyard, hand, and/or library for a card named Scion of Darkness and put it onto the battlefield. If you search your library this way, shuffle.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=42077&type=card",
+        "multiverseId": "42077"
+    },
+    {
+        "name": "Deathmark Prelate",
+        "manaCost": "{3}{B}",
+        "cmc": 4.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Human Cleric",
+        "rarity": "Uncommon",
+        "set": "LGN",
+        "text": "{2}{B}, {T}, Sacrifice a Zombie: Destroy target non-Zombie creature. It can't be regenerated. Activate only as a sorcery.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=35249&type=card",
+        "multiverseId": "35249"
+    },
+    {
+        "name": "Drinker of Sorrow",
+        "manaCost": "{2}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Horror",
+        "rarity": "Rare",
+        "set": "LGN",
+        "text": "Drinker of Sorrow can't block.\nWhenever Drinker of Sorrow deals combat damage, sacrifice a permanent.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=44492&type=card",
+        "multiverseId": "44492"
+    },
+    {
+        "name": "Dripping Dead",
+        "manaCost": "{4}{B}{B}",
+        "cmc": 6.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Zombie",
+        "rarity": "Common",
+        "set": "LGN",
+        "text": "Dripping Dead can't block.\nWhenever Dripping Dead deals combat damage to a creature, destroy that creature. It can't be regenerated.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=44316&type=card",
+        "multiverseId": "44316"
+    },
+    {
+        "name": "Earthblighter",
+        "manaCost": "{1}{B}",
+        "cmc": 2.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Human Cleric",
+        "rarity": "Uncommon",
+        "set": "LGN",
+        "text": "{2}{B}, {T}, Sacrifice a Goblin: Destroy target land.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=42171&type=card",
+        "multiverseId": "42171"
+    },
+    {
+        "name": "Embalmed Brawler",
+        "manaCost": "{2}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Zombie",
+        "rarity": "Common",
+        "set": "LGN",
+        "text": "Amplify 1 (As this creature enters the battlefield, put a +1/+1 counter on it for each Zombie card you reveal in your hand.)\nWhenever Embalmed Brawler attacks or blocks, you lose 1 life for each +1/+1 counter on it.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=43724&type=card",
+        "multiverseId": "43724"
+    },
+    {
+        "name": "Gempalm Polluter",
+        "manaCost": "{5}{B}",
+        "cmc": 6.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Zombie",
+        "rarity": "Common",
+        "set": "LGN",
+        "text": "Cycling {B}{B} ({B}{B}, Discard this card: Draw a card.)\nWhen you cycle Gempalm Polluter, you may have target player lose life equal to the number of Zombies on the battlefield.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=42065&type=card",
+        "multiverseId": "42065"
+    },
+    {
+        "name": "Ghastly Remains",
+        "manaCost": "{B}{B}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Zombie",
+        "rarity": "Rare",
+        "set": "LGN",
+        "text": "Amplify 1 (As this creature enters the battlefield, put a +1/+1 counter on it for each Zombie card you reveal in your hand.)\nAt the beginning of your upkeep, if Ghastly Remains is in your graveyard, you may pay {B}{B}{B}. If you do, return Ghastly Remains to your hand.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=42178&type=card",
+        "multiverseId": "42178"
+    },
+    {
+        "name": "Goblin Turncoat",
+        "manaCost": "{1}{B}",
+        "cmc": 2.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Goblin Mercenary",
+        "rarity": "Common",
+        "set": "LGN",
+        "text": "Sacrifice a Goblin: Regenerate Goblin Turncoat.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=44294&type=card",
+        "multiverseId": "44294"
+    },
+    {
+        "name": "Graveborn Muse",
+        "manaCost": "{2}{B}{B}",
+        "cmc": 4.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Zombie Spirit",
+        "rarity": "Rare",
+        "set": "LGN",
+        "text": "At the beginning of your upkeep, you draw X cards and you lose X life, where X is the number of Zombies you control.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=44841&type=card",
+        "multiverseId": "44841"
+    },
+    {
+        "name": "Havoc Demon",
+        "manaCost": "{5}{B}{B}",
+        "cmc": 7.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Demon",
+        "rarity": "Rare",
+        "set": "LGN",
+        "text": "Flying\nWhen Havoc Demon dies, all creatures get -5/-5 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=44299&type=card",
+        "multiverseId": "44299"
+    },
+    {
+        "name": "Hollow Specter",
+        "manaCost": "{1}{B}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Specter",
+        "rarity": "Rare",
+        "set": "LGN",
+        "text": "Flying\nWhenever Hollow Specter deals combat damage to a player, you may pay {X}. If you do, that player reveals X cards from their hand and you choose one of them. That player discards that card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=8829&type=card",
+        "multiverseId": "8829"
+    },
+    {
+        "name": "Infernal Caretaker",
+        "manaCost": "{3}{B}",
+        "cmc": 4.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Human Cleric",
+        "rarity": "Common",
+        "set": "LGN",
+        "text": "Morph {3}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Infernal Caretaker is turned face up, return all Zombie cards from all graveyards to their owners' hands.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=44411&type=card",
+        "multiverseId": "44411"
+    },
+    {
+        "name": "Noxious Ghoul",
+        "manaCost": "{3}{B}{B}",
+        "cmc": 5.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Zombie",
+        "rarity": "Uncommon",
+        "set": "LGN",
+        "text": "Whenever Noxious Ghoul or another Zombie enters the battlefield, all non-Zombie creatures get -1/-1 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=44276&type=card",
+        "multiverseId": "44276"
+    },
+    {
+        "name": "Phage the Untouchable",
+        "manaCost": "{3}{B}{B}{B}{B}",
+        "cmc": 7.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Legendary Creature — Avatar Minion",
+        "rarity": "Rare",
+        "set": "LGN",
+        "text": "When Phage the Untouchable enters the battlefield, if you didn't cast it from your hand, you lose the game.\nWhenever Phage deals combat damage to a creature, destroy that creature. It can't be regenerated.\nWhenever Phage deals combat damage to a player, that player loses the game.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=40545&type=card",
+        "multiverseId": "40545"
+    },
+    {
+        "name": "Scion of Darkness",
+        "manaCost": "{5}{B}{B}{B}",
+        "cmc": 8.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Avatar",
+        "rarity": "Rare",
+        "set": "LGN",
+        "text": "Trample\nWhenever Scion of Darkness deals combat damage to a player, you may put target creature card from that player's graveyard onto the battlefield under your control.\nCycling {3} ({3}, Discard this card: Draw a card.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=42050&type=card",
+        "multiverseId": "42050"
+    },
+    {
+        "name": "Skinthinner",
+        "manaCost": "{1}{B}",
+        "cmc": 2.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Zombie",
+        "rarity": "Common",
+        "set": "LGN",
+        "text": "Morph {3}{B}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Skinthinner is turned face up, destroy target nonblack creature. It can't be regenerated.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=42055&type=card",
+        "multiverseId": "42055"
+    },
+    {
+        "name": "Smokespew Invoker",
+        "manaCost": "{2}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Zombie Mutant",
+        "rarity": "Common",
+        "set": "LGN",
+        "text": "{7}{B}: Target creature gets -3/-3 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=43714&type=card",
+        "multiverseId": "43714"
+    },
+    {
+        "name": "Sootfeather Flock",
+        "manaCost": "{4}{B}",
+        "cmc": 5.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Bird",
+        "rarity": "Common",
+        "set": "LGN",
+        "text": "Flying\nMorph {3}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=44207&type=card",
+        "multiverseId": "44207"
+    },
+    {
+        "name": "Spectral Sliver",
+        "manaCost": "{2}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Sliver Spirit",
+        "rarity": "Uncommon",
+        "set": "LGN",
+        "text": "All Sliver creatures have \"{2}: This creature gets +1/+1 until end of turn.\"",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=44277&type=card",
+        "multiverseId": "44277"
+    },
+    {
+        "name": "Toxin Sliver",
+        "manaCost": "{3}{B}",
+        "cmc": 4.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Sliver",
+        "rarity": "Rare",
+        "set": "LGN",
+        "text": "Whenever a Sliver deals combat damage to a creature, destroy that creature. It can't be regenerated.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=42038&type=card",
+        "multiverseId": "42038"
+    },
+    {
+        "name": "Vile Deacon",
+        "manaCost": "{2}{B}{B}",
+        "cmc": 4.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Human Cleric",
+        "rarity": "Common",
+        "set": "LGN",
+        "text": "Whenever Vile Deacon attacks, it gets +X/+X until end of turn, where X is the number of Clerics on the battlefield.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=45150&type=card",
+        "multiverseId": "45150"
+    },
+    {
+        "name": "Withered Wretch",
+        "manaCost": "{B}{B}",
+        "cmc": 2.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Zombie Cleric",
+        "rarity": "Uncommon",
+        "set": "LGN",
+        "text": "{1}: Exile target card from a graveyard.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=46510&type=card",
+        "multiverseId": "46510"
+    },
+    {
+        "name": "Zombie Brute",
+        "manaCost": "{6}{B}",
+        "cmc": 7.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Zombie",
+        "rarity": "Uncommon",
+        "set": "LGN",
+        "text": "Amplify 1 (As this creature enters the battlefield, put a +1/+1 counter on it for each Zombie card you reveal in your hand.)\nTrample",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=42270&type=card",
+        "multiverseId": "42270"
+    },
+    {
+        "name": "Blade Sliver",
+        "manaCost": "{2}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Sliver",
+        "rarity": "Uncommon",
+        "set": "LGN",
+        "text": "All Sliver creatures get +1/+0.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=42016&type=card",
+        "multiverseId": "42016"
+    },
+    {
+        "name": "Bloodstoke Howler",
+        "manaCost": "{5}{R}",
+        "cmc": 6.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Beast",
+        "rarity": "Common",
+        "set": "LGN",
+        "text": "Morph {6}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Bloodstoke Howler is turned face up, Beast creatures you control get +3/+0 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=44209&type=card",
+        "multiverseId": "44209"
+    },
+    {
+        "name": "Clickslither",
+        "manaCost": "{1}{R}{R}{R}",
+        "cmc": 4.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Insect",
+        "rarity": "Rare",
+        "set": "LGN",
+        "text": "Haste\nSacrifice a Goblin: Clickslither gets +2/+2 and gains trample until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=42277&type=card",
+        "multiverseId": "42277"
+    },
+    {
+        "name": "Crested Craghorn",
+        "manaCost": "{4}{R}",
+        "cmc": 5.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Goat Beast",
+        "rarity": "Common",
+        "set": "LGN",
+        "text": "Haste\nProvoke (Whenever this creature attacks, you may have target creature defending player controls untap and block it if able.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=45127&type=card",
+        "multiverseId": "45127"
+    },
+    {
+        "name": "Flamewave Invoker",
+        "manaCost": "{2}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Goblin Mutant",
+        "rarity": "Common",
+        "set": "LGN",
+        "text": "{7}{R}: Flamewave Invoker deals 5 damage to target player or planeswalker.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=43523&type=card",
+        "multiverseId": "43523"
+    },
+    {
+        "name": "Frenetic Raptor",
+        "manaCost": "{5}{R}",
+        "cmc": 6.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Dinosaur Beast",
+        "rarity": "Uncommon",
+        "set": "LGN",
+        "text": "Beasts can't block.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=42028&type=card",
+        "multiverseId": "42028"
+    },
+    {
+        "name": "Gempalm Incinerator",
+        "manaCost": "{2}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Goblin",
+        "rarity": "Uncommon",
+        "set": "LGN",
+        "text": "Cycling {1}{R} ({1}{R}, Discard this card: Draw a card.)\nWhen you cycle Gempalm Incinerator, you may have it deal X damage to target creature, where X is the number of Goblins on the battlefield.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=42066&type=card",
+        "multiverseId": "42066"
+    },
+    {
+        "name": "Goblin Assassin",
+        "manaCost": "{3}{R}{R}",
+        "cmc": 5.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Goblin Assassin",
+        "rarity": "Uncommon",
+        "set": "LGN",
+        "text": "Whenever Goblin Assassin or another Goblin enters the battlefield, each player flips a coin. Each player whose coin comes up tails sacrifices a creature.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=44656&type=card",
+        "multiverseId": "44656"
+    },
+    {
+        "name": "Goblin Clearcutter",
+        "manaCost": "{3}{R}",
+        "cmc": 4.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Goblin",
+        "rarity": "Uncommon",
+        "set": "LGN",
+        "text": "{T}, Sacrifice a Forest: Add three mana in any combination of {R} and/or {G}.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=44317&type=card",
+        "multiverseId": "44317"
+    },
+    {
+        "name": "Goblin Dynamo",
+        "manaCost": "{5}{R}{R}",
+        "cmc": 7.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Goblin Mutant",
+        "rarity": "Uncommon",
+        "set": "LGN",
+        "text": "{T}: Goblin Dynamo deals 1 damage to any target.\n{X}{R}, {T}, Sacrifice Goblin Dynamo: It deals X damage to any target.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=42274&type=card",
+        "multiverseId": "42274"
+    },
+    {
+        "name": "Goblin Firebug",
+        "manaCost": "{1}{R}",
+        "cmc": 2.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Goblin",
+        "rarity": "Common",
+        "set": "LGN",
+        "text": "When Goblin Firebug leaves the battlefield, sacrifice a land.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=44286&type=card",
+        "multiverseId": "44286"
+    },
+    {
+        "name": "Goblin Goon",
+        "manaCost": "{3}{R}",
+        "cmc": 4.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Goblin Mutant",
+        "rarity": "Rare",
+        "set": "LGN",
+        "text": "Goblin Goon can't attack unless you control more creatures than defending player.\nGoblin Goon can't block unless you control more creatures than attacking player.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=39888&type=card",
+        "multiverseId": "39888"
+    },
+    {
+        "name": "Goblin Grappler",
+        "manaCost": "{R}",
+        "cmc": 1.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Goblin",
+        "rarity": "Common",
+        "set": "LGN",
+        "text": "Provoke (Whenever this creature attacks, you may have target creature defending player controls untap and block it if able.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=45125&type=card",
+        "multiverseId": "45125"
+    },
+    {
+        "name": "Goblin Lookout",
+        "manaCost": "{1}{R}",
+        "cmc": 2.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Goblin",
+        "rarity": "Common",
+        "set": "LGN",
+        "text": "{T}, Sacrifice a Goblin: Goblin creatures get +2/+0 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=45123&type=card",
+        "multiverseId": "45123"
+    },
+    {
+        "name": "Hunter Sliver",
+        "manaCost": "{1}{R}",
+        "cmc": 2.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Sliver",
+        "rarity": "Common",
+        "set": "LGN",
+        "text": "All Sliver creatures have provoke. (Whenever a Sliver attacks, its controller may have target creature defending player controls untap and block it if able.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=44772&type=card",
+        "multiverseId": "44772"
+    },
+    {
+        "name": "Imperial Hellkite",
+        "manaCost": "{5}{R}{R}",
+        "cmc": 7.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Dragon",
+        "rarity": "Rare",
+        "set": "LGN",
+        "text": "Flying\nMorph {6}{R}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Imperial Hellkite is turned face up, you may search your library for a Dragon card, reveal it, put it into your hand, then shuffle.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=44623&type=card",
+        "multiverseId": "44623"
+    },
+    {
+        "name": "Kilnmouth Dragon",
+        "manaCost": "{5}{R}{R}",
+        "cmc": 7.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Dragon",
+        "rarity": "Rare",
+        "set": "LGN",
+        "text": "Amplify 3 (As this creature enters the battlefield, put three +1/+1 counters on it for each Dragon card you reveal in your hand.)\nFlying\n{T}: Kilnmouth Dragon deals damage equal to the number of +1/+1 counters on it to any target.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=39653&type=card",
+        "multiverseId": "39653"
+    },
+    {
+        "name": "Lavaborn Muse",
+        "manaCost": "{3}{R}",
+        "cmc": 4.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Spirit",
+        "rarity": "Rare",
+        "set": "LGN",
+        "text": "At the beginning of each opponent's upkeep, if that player has two or fewer cards in hand, Lavaborn Muse deals 3 damage to that player.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=44842&type=card",
+        "multiverseId": "44842"
+    },
+    {
+        "name": "Macetail Hystrodon",
+        "manaCost": "{6}{R}",
+        "cmc": 7.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Beast",
+        "rarity": "Common",
+        "set": "LGN",
+        "text": "First strike, haste\nCycling {3} ({3}, Discard this card: Draw a card.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=42440&type=card",
+        "multiverseId": "42440"
+    },
+    {
+        "name": "Magma Sliver",
+        "manaCost": "{3}{R}",
+        "cmc": 4.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Sliver",
+        "rarity": "Rare",
+        "set": "LGN",
+        "text": "All Slivers have \"{T}: Target Sliver creature gets +X/+0 until end of turn, where X is the number of Slivers on the battlefield.\"",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=42041&type=card",
+        "multiverseId": "42041"
+    },
+    {
+        "name": "Ridgetop Raptor",
+        "manaCost": "{3}{R}",
+        "cmc": 4.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Dinosaur Beast",
+        "rarity": "Uncommon",
+        "set": "LGN",
+        "text": "Double strike (This creature deals both first-strike and regular combat damage.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=39566&type=card",
+        "multiverseId": "39566"
+    },
+    {
+        "name": "Rockshard Elemental",
+        "manaCost": "{5}{R}{R}",
+        "cmc": 7.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Elemental",
+        "rarity": "Rare",
+        "set": "LGN",
+        "text": "Double strike (This creature deals both first-strike and regular combat damage.)\nMorph {4}{R}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=39736&type=card",
+        "multiverseId": "39736"
+    },
+    {
+        "name": "Shaleskin Plower",
+        "manaCost": "{3}{R}",
+        "cmc": 4.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Beast",
+        "rarity": "Common",
+        "set": "LGN",
+        "text": "Morph {4}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Shaleskin Plower is turned face up, destroy target land.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=44282&type=card",
+        "multiverseId": "44282"
+    },
+    {
+        "name": "Skirk Alarmist",
+        "manaCost": "{1}{R}",
+        "cmc": 2.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Human Wizard",
+        "rarity": "Rare",
+        "set": "LGN",
+        "text": "Haste\n{T}: Turn target face-down creature you control face up. At the beginning of the next end step, sacrifice it.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=44306&type=card",
+        "multiverseId": "44306"
+    },
+    {
+        "name": "Skirk Drill Sergeant",
+        "manaCost": "{1}{R}",
+        "cmc": 2.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Goblin",
+        "rarity": "Uncommon",
+        "set": "LGN",
+        "text": "Whenever Skirk Drill Sergeant or another Goblin dies, you may pay {2}{R}. If you do, reveal the top card of your library. If it's a Goblin permanent card, put it onto the battlefield. Otherwise, put it into your graveyard.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=46457&type=card",
+        "multiverseId": "46457"
+    },
+    {
+        "name": "Skirk Marauder",
+        "manaCost": "{1}{R}",
+        "cmc": 2.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Goblin",
+        "rarity": "Common",
+        "set": "LGN",
+        "text": "Morph {2}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Skirk Marauder is turned face up, it deals 2 damage to any target.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=42056&type=card",
+        "multiverseId": "42056"
+    },
+    {
+        "name": "Skirk Outrider",
+        "manaCost": "{3}{R}",
+        "cmc": 4.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Goblin",
+        "rarity": "Common",
+        "set": "LGN",
+        "text": "As long as you control a Beast, Skirk Outrider gets +2/+2 and has trample.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=42082&type=card",
+        "multiverseId": "42082"
+    },
+    {
+        "name": "Unstable Hulk",
+        "manaCost": "{1}{R}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Goblin Mutant",
+        "rarity": "Rare",
+        "set": "LGN",
+        "text": "Morph {3}{R}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Unstable Hulk is turned face up, it gets +6/+6 and gains trample until end of turn. You skip your next turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=44405&type=card",
+        "multiverseId": "44405"
+    },
+    {
+        "name": "Warbreak Trumpeter",
+        "manaCost": "{R}",
+        "cmc": 1.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Goblin",
+        "rarity": "Uncommon",
+        "set": "LGN",
+        "text": "Morph {X}{X}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Warbreak Trumpeter is turned face up, create X 1/1 red Goblin creature tokens.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=45130&type=card",
+        "multiverseId": "45130"
+    },
+    {
+        "name": "Berserk Murlodont",
+        "manaCost": "{4}{G}",
+        "cmc": 5.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Beast",
+        "rarity": "Common",
+        "set": "LGN",
+        "text": "Whenever a Beast becomes blocked, it gets +1/+1 until end of turn for each creature blocking it.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=44334&type=card",
+        "multiverseId": "44334"
+    },
+    {
+        "name": "Branchsnap Lorian",
+        "manaCost": "{1}{G}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Beast",
+        "rarity": "Uncommon",
+        "set": "LGN",
+        "text": "Trample\nMorph {G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=37909&type=card",
+        "multiverseId": "37909"
+    },
+    {
+        "name": "Brontotherium",
+        "manaCost": "{4}{G}{G}",
+        "cmc": 6.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Beast",
+        "rarity": "Uncommon",
+        "set": "LGN",
+        "text": "Trample\nProvoke (Whenever this creature attacks, you may have target creature defending player controls untap and block it if able.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=45133&type=card",
+        "multiverseId": "45133"
+    },
+    {
+        "name": "Brood Sliver",
+        "manaCost": "{4}{G}",
+        "cmc": 5.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Sliver",
+        "rarity": "Rare",
+        "set": "LGN",
+        "text": "Whenever a Sliver deals combat damage to a player, its controller may create a 1/1 colorless Sliver creature token.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=39738&type=card",
+        "multiverseId": "39738"
+    },
+    {
+        "name": "Caller of the Claw",
+        "manaCost": "{2}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Elf",
+        "rarity": "Rare",
+        "set": "LGN",
+        "text": "Flash\nWhen Caller of the Claw enters the battlefield, create a 2/2 green Bear creature token for each nontoken creature put into your graveyard from the battlefield this turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=42187&type=card",
+        "multiverseId": "42187"
+    },
+    {
+        "name": "Canopy Crawler",
+        "manaCost": "{3}{G}",
+        "cmc": 4.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Beast",
+        "rarity": "Uncommon",
+        "set": "LGN",
+        "text": "Amplify 1 (As this creature enters the battlefield, put a +1/+1 counter on it for each Beast card you reveal in your hand.)\n{T}: Target creature gets +1/+1 until end of turn for each +1/+1 counter on Canopy Crawler.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=45849&type=card",
+        "multiverseId": "45849"
+    },
+    {
+        "name": "Defiant Elf",
+        "manaCost": "{G}",
+        "cmc": 1.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Elf",
+        "rarity": "Common",
+        "set": "LGN",
+        "text": "Trample",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=39707&type=card",
+        "multiverseId": "39707"
+    },
+    {
+        "name": "Elvish Soultiller",
+        "manaCost": "{3}{G}{G}",
+        "cmc": 5.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Elf Mutant",
+        "rarity": "Rare",
+        "set": "LGN",
+        "text": "When Elvish Soultiller dies, choose a creature type. Shuffle all creature cards of that type from your graveyard into your library.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=42083&type=card",
+        "multiverseId": "42083"
+    },
+    {
+        "name": "Enormous Baloth",
+        "manaCost": "{6}{G}",
+        "cmc": 7.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Beast",
+        "rarity": "Uncommon",
+        "set": "LGN",
+        "text": null,
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=44500&type=card",
+        "multiverseId": "44500"
+    },
+    {
+        "name": "Feral Throwback",
+        "manaCost": "{4}{G}{G}",
+        "cmc": 6.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Beast",
+        "rarity": "Rare",
+        "set": "LGN",
+        "text": "Amplify 2 (As this creature enters the battlefield, put two +1/+1 counters on it for each Beast card you reveal in your hand.)\nProvoke (Whenever this creature attacks, you may have target creature defending player controls untap and block it if able.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=34263&type=card",
+        "multiverseId": "34263"
+    },
+    {
+        "name": "Gempalm Strider",
+        "manaCost": "{1}{G}",
+        "cmc": 2.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Elf",
+        "rarity": "Uncommon",
+        "set": "LGN",
+        "text": "Cycling {2}{G}{G} ({2}{G}{G}, Discard this card: Draw a card.)\nWhen you cycle Gempalm Strider, Elf creatures get +2/+2 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=42067&type=card",
+        "multiverseId": "42067"
+    },
+    {
+        "name": "Glowering Rogon",
+        "manaCost": "{5}{G}",
+        "cmc": 6.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Beast",
+        "rarity": "Common",
+        "set": "LGN",
+        "text": "Amplify 1 (As this creature enters the battlefield, put a +1/+1 counter on it for each Beast card you reveal in your hand.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=43723&type=card",
+        "multiverseId": "43723"
+    },
+    {
+        "name": "Hundroog",
+        "manaCost": "{6}{G}",
+        "cmc": 7.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Beast",
+        "rarity": "Common",
+        "set": "LGN",
+        "text": "Cycling {3} ({3}, Discard this card: Draw a card.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=42249&type=card",
+        "multiverseId": "42249"
+    },
+    {
+        "name": "Krosan Cloudscraper",
+        "manaCost": "{7}{G}{G}{G}",
+        "cmc": 10.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Beast Mutant",
+        "rarity": "Rare",
+        "set": "LGN",
+        "text": "At the beginning of your upkeep, sacrifice Krosan Cloudscraper unless you pay {G}{G}.\nMorph {7}{G}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=35166&type=card",
+        "multiverseId": "35166"
+    },
+    {
+        "name": "Krosan Vorine",
+        "manaCost": "{3}{G}",
+        "cmc": 4.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Cat Beast",
+        "rarity": "Common",
+        "set": "LGN",
+        "text": "Provoke (Whenever this creature attacks, you may have target creature defending player controls untap and block it if able.)\nKrosan Vorine can't be blocked by more than one creature.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=45134&type=card",
+        "multiverseId": "45134"
+    },
+    {
+        "name": "Nantuko Vigilante",
+        "manaCost": "{3}{G}",
+        "cmc": 4.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Insect Druid Mutant",
+        "rarity": "Common",
+        "set": "LGN",
+        "text": "Morph {1}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Nantuko Vigilante is turned face up, destroy target artifact or enchantment.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=44210&type=card",
+        "multiverseId": "44210"
+    },
+    {
+        "name": "Needleshot Gourna",
+        "manaCost": "{4}{G}{G}",
+        "cmc": 6.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Beast",
+        "rarity": "Common",
+        "set": "LGN",
+        "text": "Reach (This creature can block creatures with flying.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=42039&type=card",
+        "multiverseId": "42039"
+    },
+    {
+        "name": "Patron of the Wild",
+        "manaCost": "{G}",
+        "cmc": 1.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Elf",
+        "rarity": "Common",
+        "set": "LGN",
+        "text": "Morph {2}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Patron of the Wild is turned face up, target creature gets +3/+3 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=42057&type=card",
+        "multiverseId": "42057"
+    },
+    {
+        "name": "Primal Whisperer",
+        "manaCost": "{4}{G}",
+        "cmc": 5.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Elf Soldier",
+        "rarity": "Rare",
+        "set": "LGN",
+        "text": "Primal Whisperer gets +2/+2 for each face-down creature on the battlefield.\nMorph {3}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=42272&type=card",
+        "multiverseId": "42272"
+    },
+    {
+        "name": "Quick Sliver",
+        "manaCost": "{1}{G}",
+        "cmc": 2.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Sliver",
+        "rarity": "Common",
+        "set": "LGN",
+        "text": "Flash\nAny player may cast Sliver spells as though they had flash.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=42029&type=card",
+        "multiverseId": "42029"
+    },
+    {
+        "name": "Root Sliver",
+        "manaCost": "{3}{G}",
+        "cmc": 4.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Sliver",
+        "rarity": "Uncommon",
+        "set": "LGN",
+        "text": "This spell can't be countered.\nSliver spells can't be countered.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=44271&type=card",
+        "multiverseId": "44271"
+    },
+    {
+        "name": "Seedborn Muse",
+        "manaCost": "{3}{G}{G}",
+        "cmc": 5.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Spirit",
+        "rarity": "Rare",
+        "set": "LGN",
+        "text": "Untap all permanents you control during each other player's untap step.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=43607&type=card",
+        "multiverseId": "43607"
+    },
+    {
+        "name": "Stonewood Invoker",
+        "manaCost": "{1}{G}",
+        "cmc": 2.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Elf Mutant",
+        "rarity": "Common",
+        "set": "LGN",
+        "text": "{7}{G}: Stonewood Invoker gets +5/+5 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=43534&type=card",
+        "multiverseId": "43534"
+    },
+    {
+        "name": "Timberwatch Elf",
+        "manaCost": "{2}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Elf",
+        "rarity": "Common",
+        "set": "LGN",
+        "text": "{T}: Target creature gets +X/+X until end of turn, where X is the number of Elves on the battlefield.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=45121&type=card",
+        "multiverseId": "45121"
+    },
+    {
+        "name": "Totem Speaker",
+        "manaCost": "{4}{G}",
+        "cmc": 5.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Elf Druid",
+        "rarity": "Uncommon",
+        "set": "LGN",
+        "text": "Whenever a Beast enters the battlefield, you may gain 3 life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=45124&type=card",
+        "multiverseId": "45124"
+    },
+    {
+        "name": "Tribal Forcemage",
+        "manaCost": "{1}{G}",
+        "cmc": 2.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Elf Wizard",
+        "rarity": "Rare",
+        "set": "LGN",
+        "text": "Morph {1}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Tribal Forcemage is turned face up, creatures of the creature type of your choice get +2/+2 and gain trample until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=42170&type=card",
+        "multiverseId": "42170"
+    },
+    {
+        "name": "Vexing Beetle",
+        "manaCost": "{4}{G}",
+        "cmc": 5.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Insect",
+        "rarity": "Rare",
+        "set": "LGN",
+        "text": "This spell can't be countered.\nVexing Beetle gets +3/+3 as long as no opponent controls a creature.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=44327&type=card",
+        "multiverseId": "44327"
+    },
+    {
+        "name": "Wirewood Channeler",
+        "manaCost": "{3}{G}",
+        "cmc": 4.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Elf Druid",
+        "rarity": "Uncommon",
+        "set": "LGN",
+        "text": "{T}: Add X mana of any one color, where X is the number of Elves on the battlefield.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=35299&type=card",
+        "multiverseId": "35299"
+    },
+    {
+        "name": "Wirewood Hivemaster",
+        "manaCost": "{1}{G}",
+        "cmc": 2.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Elf",
+        "rarity": "Uncommon",
+        "set": "LGN",
+        "text": "Whenever another nontoken Elf enters the battlefield, you may create a 1/1 green Insect creature token.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=43794&type=card",
+        "multiverseId": "43794"
+    }
+]

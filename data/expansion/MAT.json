@@ -1,0 +1,3350 @@
+[
+    {
+        "name": "Coppercoat Vanguard",
+        "manaCost": "{1}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Human Soldier",
+        "rarity": "Uncommon",
+        "set": "MAT",
+        "text": "Each other Human you control gets +1/+0 and has ward {1}. (Whenever it becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615394&type=card",
+        "multiverseId": "615394"
+    },
+    {
+        "name": "Deification",
+        "manaCost": "{1}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Enchantment",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "As Deification enters the battlefield, choose a planeswalker type.\nPlaneswalkers you control of the chosen type have hexproof.\nAs long as you control a creature, if damage dealt to a planeswalker you control of the chosen type would result in all loyalty counters on it being removed, instead all but one of those counters are removed.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615395&type=card",
+        "multiverseId": "615395"
+    },
+    {
+        "name": "Harnessed Snubhorn",
+        "manaCost": "{3}{W}",
+        "cmc": 4.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Dinosaur",
+        "rarity": "Uncommon",
+        "set": "MAT",
+        "text": "Vigilance\nWhenever Harnessed Snubhorn deals combat damage to a player, return target artifact or enchantment card from your graveyard to the battlefield.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615396&type=card",
+        "multiverseId": "615396"
+    },
+    {
+        "name": "Metropolis Reformer",
+        "manaCost": "{2}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Angel Cleric",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Flying, vigilance\nYou have hexproof.\nWhenever Metropolis Reformer is dealt damage, you gain that much life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615397&type=card",
+        "multiverseId": "615397"
+    },
+    {
+        "name": "Spark Rupture",
+        "manaCost": "{2}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Enchantment",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "When Spark Rupture enters the battlefield, draw a card.\nEach planeswalker with one or more loyalty counters on it loses all abilities and is a creature with power and toughness each equal to the number of loyalty counters on it.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615398&type=card",
+        "multiverseId": "615398"
+    },
+    {
+        "name": "Tazri, Stalwart Survivor",
+        "manaCost": "{2}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Legendary Creature — Human Warrior",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Each creature you control has \"{T}: Add one mana of any of this creature's colors. Spend this mana only to activate an ability of a creature. Activate only if this creature has another activated ability.\"\n{W}{U}{B}{R}{G}, {T}: Mill five cards. Put all creature cards with activated abilities that aren't mana abilities from among the milled cards into your hand.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615399&type=card",
+        "multiverseId": "615399"
+    },
+    {
+        "name": "Filter Out",
+        "manaCost": "{1}{U}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon",
+        "set": "MAT",
+        "text": "Return all noncreature, nonland permanents to their owners' hands.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615400&type=card",
+        "multiverseId": "615400"
+    },
+    {
+        "name": "Tolarian Contempt",
+        "manaCost": "{3}{U}{U}",
+        "cmc": 5.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Enchantment",
+        "rarity": "Uncommon",
+        "set": "MAT",
+        "text": "When Tolarian Contempt enters the battlefield, put a rejection counter on each creature your opponents control.\nAt the beginning of your end step, for each opponent, choose up to one target creature they control with a rejection counter on it. That creature's owner puts it on the top or bottom of their library.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615401&type=card",
+        "multiverseId": "615401"
+    },
+    {
+        "name": "Training Grounds",
+        "manaCost": "{U}",
+        "cmc": 1.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Enchantment",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Activated abilities of creatures you control cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615402&type=card",
+        "multiverseId": "615402"
+    },
+    {
+        "name": "Vesuvan Drifter",
+        "manaCost": "{2}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Shapeshifter",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Flying\nYou may look at the top card of your library any time.\nAt the beginning of each combat, you may reveal the top card of your library. If you reveal a creature card this way, Vesuvan Drifter becomes a copy of that card until end of turn, except it has flying.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615403&type=card",
+        "multiverseId": "615403"
+    },
+    {
+        "name": "Ayara's Oathsworn",
+        "manaCost": "{1}{B}",
+        "cmc": 2.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Human Knight",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Menace\nWhenever Ayara's Oathsworn deals combat damage to a player, if it has fewer than four +1/+1 counters on it, put a +1/+1 counter on it. Then if it has exactly four +1/+1 counters on it, search your library for a card, put it into your hand, then shuffle.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615404&type=card",
+        "multiverseId": "615404"
+    },
+    {
+        "name": "Blot Out",
+        "manaCost": "{2}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon",
+        "set": "MAT",
+        "text": "Target opponent exiles a creature or planeswalker they control with the greatest mana value among creatures and planeswalkers they control.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615405&type=card",
+        "multiverseId": "615405"
+    },
+    {
+        "name": "Death-Rattle Oni",
+        "manaCost": "{6}{B}",
+        "cmc": 7.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Demon Spirit",
+        "rarity": "Uncommon",
+        "set": "MAT",
+        "text": "Flash\nThis spell costs {2} less to cast for each creature that died this turn.\nWhen Death-Rattle Oni enters the battlefield, destroy all other creatures that were dealt damage this turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615406&type=card",
+        "multiverseId": "615406"
+    },
+    {
+        "name": "Markov Baron",
+        "manaCost": "{2}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Vampire Noble",
+        "rarity": "Uncommon",
+        "set": "MAT",
+        "text": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nLifelink\nOther Vampires you control get +1/+1.\nMadness {2}{B} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615407&type=card",
+        "multiverseId": "615407"
+    },
+    {
+        "name": "Urborg Scavengers",
+        "manaCost": "{2}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Spirit",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Whenever Urborg Scavengers enters the battlefield or attacks, exile target card from a graveyard. Put a +1/+1 counter on Urborg Scavengers.\nUrborg Scavengers has flying as long as a card exiled with it has flying. The same is true for first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, menace, reach, trample, and vigilance.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615408&type=card",
+        "multiverseId": "615408"
+    },
+    {
+        "name": "Arni Metalbrow",
+        "manaCost": "{2}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Legendary Creature — Human Berserker",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Whenever a creature you control attacks or a creature enters the battlefield under your control attacking, you may pay {1}{R}. If you do, you may put a creature card with mana value less than that creature's mana value from your hand onto the battlefield tapped and attacking.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615409&type=card",
+        "multiverseId": "615409"
+    },
+    {
+        "name": "Kolaghan Warmonger",
+        "manaCost": "{2}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Ogre Warrior",
+        "rarity": "Uncommon",
+        "set": "MAT",
+        "text": "Haste\nWhenever Kolaghan Warmonger attacks, look at the top six cards of your library. You may reveal a Dragon card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615410&type=card",
+        "multiverseId": "615410"
+    },
+    {
+        "name": "Plargg and Nassari",
+        "manaCost": "{3}{R}{R}",
+        "cmc": 5.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Legendary Creature — Orc Efreet",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "At the beginning of your upkeep, each player exiles cards from the top of their library until they exile a nonland card. An opponent chooses a nonland card exiled this way. You may cast up to two spells from among the other cards exiled this way without paying their mana costs.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615411&type=card",
+        "multiverseId": "615411"
+    },
+    {
+        "name": "Reckless Handling",
+        "manaCost": "{1}{R}",
+        "cmc": 2.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "MAT",
+        "text": "Search your library for an artifact card, reveal it, put it into your hand, shuffle, then discard a card at random. If an artifact card was discarded this way, Reckless Handling deals 2 damage to each opponent.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615412&type=card",
+        "multiverseId": "615412"
+    },
+    {
+        "name": "Animist's Might",
+        "manaCost": "{2}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "MAT",
+        "text": "This spell costs {2} less to cast if it targets a legendary creature you control.\nTarget creature you control deals damage equal to twice its power to target creature or planeswalker you don't control.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615413&type=card",
+        "multiverseId": "615413"
+    },
+    {
+        "name": "Leyline Immersion",
+        "manaCost": "{3}{G}",
+        "cmc": 4.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Enchant legendary creature\nEnchanted creature has ward {2} and \"{T}: Add five mana in any combination of colors. Spend this mana only to cast spells.\"",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615414&type=card",
+        "multiverseId": "615414"
+    },
+    {
+        "name": "Nissa, Resurgent Animist",
+        "manaCost": "{2}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Legendary Creature — Elf Scout",
+        "rarity": "Mythic",
+        "set": "MAT",
+        "text": "Landfall — Whenever a land enters the battlefield under your control, add one mana of any color. Then if this is the second time this ability has resolved this turn, reveal cards from the top of your library until you reveal an Elf or Elemental card. Put that card into your hand and the rest on the bottom of your library in a random order.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615415&type=card",
+        "multiverseId": "615415"
+    },
+    {
+        "name": "Open the Way",
+        "manaCost": "{X}{G}{G}",
+        "cmc": 2.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Sorcery",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "X can't be greater than the number of players in the game.\nReveal cards from the top of your library until you reveal X land cards. Put those land cards onto the battlefield tapped and the rest on the bottom of your library in a random order.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615416&type=card",
+        "multiverseId": "615416"
+    },
+    {
+        "name": "Tranquil Frillback",
+        "manaCost": "{2}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Dinosaur",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "When Tranquil Frillback enters the battlefield, you may pay {G} up to three times. When you pay this cost one or more times, choose up to that many —\n• Destroy target artifact or enchantment.\n• Exile target player's graveyard.\n• You gain 4 life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615417&type=card",
+        "multiverseId": "615417"
+    },
+    {
+        "name": "Undercity Upheaval",
+        "manaCost": "{1}{G}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "MAT",
+        "text": "Undergrowth — Distribute X +1/+1 counters among any number of target creatures you control, where X is the number of creature cards in your graveyard as you cast this spell. Creatures you control gain vigilance until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615418&type=card",
+        "multiverseId": "615418"
+    },
+    {
+        "name": "Calix, Guided by Fate",
+        "manaCost": "{1}{G}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "G",
+            "W"
+        ],
+        "type": "Legendary Enchantment Creature — Human Druid",
+        "rarity": "Mythic",
+        "set": "MAT",
+        "text": "Constellation — Whenever Calix, Guided by Fate or another enchantment enters the battlefield under your control, put a +1/+1 counter on target creature.\nWhenever Calix or an enchanted creature you control deals combat damage to a player, you may create a token that's a copy of a nonlegendary enchantment you control. Do this only once each turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615419&type=card",
+        "multiverseId": "615419"
+    },
+    {
+        "name": "Campus Renovation",
+        "manaCost": "{3}{R}{W}",
+        "cmc": 5.0,
+        "colors": [
+            "R",
+            "W"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "MAT",
+        "text": "Return up to one target artifact or enchantment card from your graveyard to the battlefield. Exile the top two cards of your library. Until the end of your next turn, you may play those cards.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615420&type=card",
+        "multiverseId": "615420"
+    },
+    {
+        "name": "Cosmic Rebirth",
+        "manaCost": "{1}{G}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "G",
+            "W"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon",
+        "set": "MAT",
+        "text": "Choose target permanent card in your graveyard. If it has mana value 3 or less, you may put it onto the battlefield. If you don't put it onto the battlefield, put it into your hand.\nYou gain 3 life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615421&type=card",
+        "multiverseId": "615421"
+    },
+    {
+        "name": "Danitha, New Benalia's Light",
+        "manaCost": "{1}{G}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "G",
+            "W"
+        ],
+        "type": "Legendary Creature — Human Knight",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Vigilance, trample, lifelink\nOnce during each of your turns, you may cast an Aura or Equipment spell from your graveyard.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615422&type=card",
+        "multiverseId": "615422"
+    },
+    {
+        "name": "Feast of the Victorious Dead",
+        "manaCost": "{W}{B}",
+        "cmc": 2.0,
+        "colors": [
+            "B",
+            "W"
+        ],
+        "type": "Enchantment",
+        "rarity": "Uncommon",
+        "set": "MAT",
+        "text": "At the beginning of your end step, if one or more creatures died this turn, you gain that much life and distribute that many +1/+1 counters among creatures you control.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615423&type=card",
+        "multiverseId": "615423"
+    },
+    {
+        "name": "Gold-Forged Thopteryx",
+        "manaCost": "{W}{U}",
+        "cmc": 2.0,
+        "colors": [
+            "U",
+            "W"
+        ],
+        "type": "Artifact Creature — Dinosaur Thopter",
+        "rarity": "Uncommon",
+        "set": "MAT",
+        "text": "Flying, lifelink\nEach legendary permanent you control has ward {2}. (Whenever it becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615424&type=card",
+        "multiverseId": "615424"
+    },
+    {
+        "name": "Jirina, Dauntless General",
+        "manaCost": "{W}{B}",
+        "cmc": 2.0,
+        "colors": [
+            "B",
+            "W"
+        ],
+        "type": "Legendary Creature — Human Soldier",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "When Jirina, Dauntless General enters the battlefield, exile target player's graveyard.\nSacrifice Jirina: Humans you control gain hexproof and indestructible until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615425&type=card",
+        "multiverseId": "615425"
+    },
+    {
+        "name": "Jolrael, Voice of Zhalfir",
+        "manaCost": "{2}{G}{U}",
+        "cmc": 4.0,
+        "colors": [
+            "G",
+            "U"
+        ],
+        "type": "Legendary Creature — Human Druid",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "At the beginning of combat on your turn, up to one target land you control becomes an X/X green and blue Bird creature with flying and haste until end of turn, where X is the number of cards in your hand. It's still a land.\nWhenever a land creature you control deals combat damage to a player, draw a card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615426&type=card",
+        "multiverseId": "615426"
+    },
+    {
+        "name": "The Kenriths' Royal Funeral",
+        "manaCost": "{2}{W}{B}",
+        "cmc": 4.0,
+        "colors": [
+            "B",
+            "W"
+        ],
+        "type": "Legendary Enchantment",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "When The Kenriths' Royal Funeral enters the battlefield, exile up to two target legendary creature cards from your graveyard. You draw X cards and you lose X life, where X is the greatest mana value among cards exiled this way.\nLegendary spells you cast cost {1} less to cast for each card exiled with The Kenriths' Royal Funeral.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615427&type=card",
+        "multiverseId": "615427"
+    },
+    {
+        "name": "Kiora, Sovereign of the Deep",
+        "manaCost": "{3}{G}{U}",
+        "cmc": 5.0,
+        "colors": [
+            "G",
+            "U"
+        ],
+        "type": "Legendary Creature — Merfolk Noble",
+        "rarity": "Mythic",
+        "set": "MAT",
+        "text": "Vigilance, ward {3}\nWhenever you cast a Kraken, Leviathan, Octopus, or Serpent spell from your hand, look at the top X cards of your library, where X is that spell's mana value. You may cast a spell with mana value less than X from among them without paying its mana cost. Put the rest on the bottom of your library in a random order.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615428&type=card",
+        "multiverseId": "615428"
+    },
+    {
+        "name": "Nahiri, Forged in Fury",
+        "manaCost": "{4}{R}{W}",
+        "cmc": 6.0,
+        "colors": [
+            "R",
+            "W"
+        ],
+        "type": "Legendary Creature — Kor Artificer",
+        "rarity": "Mythic",
+        "set": "MAT",
+        "text": "Affinity for Equipment (This spell costs {1} less to cast for each Equipment you control.)\nWhenever an equipped creature you control attacks, exile the top card of your library. You may play that card this turn. You may cast Equipment spells this way without paying their mana costs.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615429&type=card",
+        "multiverseId": "615429"
+    },
+    {
+        "name": "Nahiri's Resolve",
+        "manaCost": "{3}{R}{W}",
+        "cmc": 5.0,
+        "colors": [
+            "R",
+            "W"
+        ],
+        "type": "Enchantment",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Creatures you control get +1/+0 and have haste.\nAt the beginning of your end step, exile any number of nontoken artifacts and/or creatures you control. Return those cards to the battlefield under their owner's control at the beginning of your next upkeep.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615430&type=card",
+        "multiverseId": "615430"
+    },
+    {
+        "name": "Narset, Enlightened Exile",
+        "manaCost": "{1}{U}{R}{W}",
+        "cmc": 4.0,
+        "colors": [
+            "R",
+            "U",
+            "W"
+        ],
+        "type": "Legendary Creature — Human Monk",
+        "rarity": "Mythic",
+        "set": "MAT",
+        "text": "Creatures you control have prowess.\nWhenever Narset, Enlightened Exile attacks, exile target noncreature, nonland card with mana value less than Narset's power from a graveyard and copy it. You may cast the copy without paying its mana cost.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615431&type=card",
+        "multiverseId": "615431"
+    },
+    {
+        "name": "Nashi, Moon's Legacy",
+        "manaCost": "{B}{G}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "B",
+            "G",
+            "U"
+        ],
+        "type": "Legendary Creature — Rat Shaman",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Menace, ward {1}\nWhenever Nashi, Moon's Legacy attacks, exile up to one target legendary or Rat card from your graveyard and copy it. You may cast the copy. (You still pay its costs. A copy of a permanent spell becomes a token.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615432&type=card",
+        "multiverseId": "615432"
+    },
+    {
+        "name": "Niv-Mizzet, Supreme",
+        "manaCost": "{W}{U}{B}{R}{G}",
+        "cmc": 5.0,
+        "colors": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "type": "Legendary Creature — Dragon Avatar",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Flying, hexproof from monocolored\nEach instant and sorcery card in your graveyard that's exactly two colors has jump-start. (You may cast that card from your graveyard by discarding a card in addition to paying its other costs. Then exile it.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615433&type=card",
+        "multiverseId": "615433"
+    },
+    {
+        "name": "Ob Nixilis, Captive Kingpin",
+        "manaCost": "{2}{B}{R}",
+        "cmc": 4.0,
+        "colors": [
+            "B",
+            "R"
+        ],
+        "type": "Legendary Creature — Demon",
+        "rarity": "Mythic",
+        "set": "MAT",
+        "text": "Flying, trample\nWhenever one or more opponents each lose exactly 1 life, put a +1/+1 counter on Ob Nixilis, Captive Kingpin. Exile the top card of your library. Until your next end step, you may play that card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615434&type=card",
+        "multiverseId": "615434"
+    },
+    {
+        "name": "Pia Nalaar, Consul of Revival",
+        "manaCost": "{R}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "R",
+            "W"
+        ],
+        "type": "Legendary Creature — Human Artificer",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Thopters you control have haste.\nWhenever you play a land from exile or cast a spell from exile, create a 1/1 colorless Thopter artifact creature token with flying.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615435&type=card",
+        "multiverseId": "615435"
+    },
+    {
+        "name": "Rebuild the City",
+        "manaCost": "{3}{B}{R}{G}",
+        "cmc": 6.0,
+        "colors": [
+            "B",
+            "G",
+            "R"
+        ],
+        "type": "Sorcery",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Choose target land. Create three tokens that are copies of it, except they're 3/3 creatures in addition to their other types and they have vigilance and menace. (They're affected by summoning sickness.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615436&type=card",
+        "multiverseId": "615436"
+    },
+    {
+        "name": "Rocco, Street Chef",
+        "manaCost": "{R}{G}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "G",
+            "R",
+            "W"
+        ],
+        "type": "Legendary Creature — Elf Druid",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "At the beginning of your end step, each player exiles the top card of their library. Until your next end step, each player may play the card they exiled this way.\nWhenever a player plays a land from exile or casts a spell from exile, you put a +1/+1 counter on target creature and create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this artifact: You gain 3 life.\")",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615437&type=card",
+        "multiverseId": "615437"
+    },
+    {
+        "name": "Samut, Vizier of Naktamun",
+        "manaCost": "{1}{R}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G",
+            "R"
+        ],
+        "type": "Legendary Creature — Human Warrior Cleric",
+        "rarity": "Mythic",
+        "set": "MAT",
+        "text": "First strike, vigilance, haste\nWhenever a creature you control deals combat damage to a player, if that creature entered the battlefield this turn, draw a card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615438&type=card",
+        "multiverseId": "615438"
+    },
+    {
+        "name": "Sarkhan, Soul Aflame",
+        "manaCost": "{1}{U}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R",
+            "U"
+        ],
+        "type": "Legendary Creature — Human Shaman",
+        "rarity": "Mythic",
+        "set": "MAT",
+        "text": "Dragon spells you cast cost {1} less to cast.\nWhenever a Dragon enters the battlefield under your control, you may have Sarkhan, Soul Aflame become a copy of it until end of turn, except its name is Sarkhan, Soul Aflame and it's legendary in addition to its other types.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615439&type=card",
+        "multiverseId": "615439"
+    },
+    {
+        "name": "Sigarda, Font of Blessings",
+        "manaCost": "{2}{G}{W}",
+        "cmc": 4.0,
+        "colors": [
+            "G",
+            "W"
+        ],
+        "type": "Legendary Creature — Angel",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Flying\nOther permanents you control have hexproof.\nYou may look at the top card of your library any time.\nYou may cast Angel spells and Human spells from the top of your library.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615440&type=card",
+        "multiverseId": "615440"
+    },
+    {
+        "name": "Tyvar the Bellicose",
+        "manaCost": "{2}{B}{G}",
+        "cmc": 4.0,
+        "colors": [
+            "B",
+            "G"
+        ],
+        "type": "Legendary Creature — Elf Warrior",
+        "rarity": "Mythic",
+        "set": "MAT",
+        "text": "Whenever one or more Elves you control attack, they gain deathtouch until end of turn.\nEach creature you control has \"Whenever a mana ability of this creature resolves, put a number of +1/+1 counters on it equal to the amount of mana this creature produced. This ability triggers only once each turn.\"",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615441&type=card",
+        "multiverseId": "615441"
+    },
+    {
+        "name": "Karn, Legacy Reforged",
+        "manaCost": "{5}",
+        "cmc": 5.0,
+        "colors": null,
+        "type": "Legendary Artifact Creature — Golem",
+        "rarity": "Mythic",
+        "set": "MAT",
+        "text": "Karn, Legacy Reforged's power and toughness are each equal to the greatest mana value among artifacts you control.\nAt the beginning of your upkeep, add {C} for each artifact you control. This mana can't be spent to cast nonartifact spells. Until end of turn, you don't lose this mana as steps and phases end.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615442&type=card",
+        "multiverseId": "615442"
+    },
+    {
+        "name": "Drannith Ruins",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Land",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "{T}: Add {C}.\n{2}, {T}: Put two +1/+1 counters on target non-Human creature that entered the battlefield this turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615443&type=card",
+        "multiverseId": "615443"
+    },
+    {
+        "name": "Coppercoat Vanguard",
+        "manaCost": "{1}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Human Soldier",
+        "rarity": "Uncommon",
+        "set": "MAT",
+        "text": "Each other Human you control gets +1/+0 and has ward {1}. (Whenever it becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616487&type=card",
+        "multiverseId": "616487"
+    },
+    {
+        "name": "Deification",
+        "manaCost": "{1}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Enchantment",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "As Deification enters the battlefield, choose a planeswalker type.\nPlaneswalkers you control of the chosen type have hexproof.\nAs long as you control a creature, if damage dealt to a planeswalker you control of the chosen type would result in all loyalty counters on it being removed, instead all but one of those counters are removed.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616488&type=card",
+        "multiverseId": "616488"
+    },
+    {
+        "name": "Harnessed Snubhorn",
+        "manaCost": "{3}{W}",
+        "cmc": 4.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Dinosaur",
+        "rarity": "Uncommon",
+        "set": "MAT",
+        "text": "Vigilance\nWhenever Harnessed Snubhorn deals combat damage to a player, return target artifact or enchantment card from your graveyard to the battlefield.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616489&type=card",
+        "multiverseId": "616489"
+    },
+    {
+        "name": "Metropolis Reformer",
+        "manaCost": "{2}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Angel Cleric",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Flying, vigilance\nYou have hexproof.\nWhenever Metropolis Reformer is dealt damage, you gain that much life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616490&type=card",
+        "multiverseId": "616490"
+    },
+    {
+        "name": "Spark Rupture",
+        "manaCost": "{2}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Enchantment",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "When Spark Rupture enters the battlefield, draw a card.\nEach planeswalker with one or more loyalty counters on it loses all abilities and is a creature with power and toughness each equal to the number of loyalty counters on it.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615794&type=card",
+        "multiverseId": "615794"
+    },
+    {
+        "name": "Tazri, Stalwart Survivor",
+        "manaCost": "{2}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Legendary Creature — Human Warrior",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Each creature you control has \"{T}: Add one mana of any of this creature's colors. Spend this mana only to activate an ability of a creature. Activate only if this creature has another activated ability.\"\n{W}{U}{B}{R}{G}, {T}: Mill five cards. Put all creature cards with activated abilities that aren't mana abilities from among the milled cards into your hand.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616491&type=card",
+        "multiverseId": "616491"
+    },
+    {
+        "name": "Filter Out",
+        "manaCost": "{1}{U}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon",
+        "set": "MAT",
+        "text": "Return all noncreature, nonland permanents to their owners' hands.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616492&type=card",
+        "multiverseId": "616492"
+    },
+    {
+        "name": "Tolarian Contempt",
+        "manaCost": "{3}{U}{U}",
+        "cmc": 5.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Enchantment",
+        "rarity": "Uncommon",
+        "set": "MAT",
+        "text": "When Tolarian Contempt enters the battlefield, put a rejection counter on each creature your opponents control.\nAt the beginning of your end step, for each opponent, choose up to one target creature they control with a rejection counter on it. That creature's owner puts it on the top or bottom of their library.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616493&type=card",
+        "multiverseId": "616493"
+    },
+    {
+        "name": "Training Grounds",
+        "manaCost": "{U}",
+        "cmc": 1.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Enchantment",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Activated abilities of creatures you control cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616494&type=card",
+        "multiverseId": "616494"
+    },
+    {
+        "name": "Vesuvan Drifter",
+        "manaCost": "{2}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Shapeshifter",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Flying\nYou may look at the top card of your library any time.\nAt the beginning of each combat, you may reveal the top card of your library. If you reveal a creature card this way, Vesuvan Drifter becomes a copy of that card until end of turn, except it has flying.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616495&type=card",
+        "multiverseId": "616495"
+    },
+    {
+        "name": "Ayara's Oathsworn",
+        "manaCost": "{1}{B}",
+        "cmc": 2.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Human Knight",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Menace\nWhenever Ayara's Oathsworn deals combat damage to a player, if it has fewer than four +1/+1 counters on it, put a +1/+1 counter on it. Then if it has exactly four +1/+1 counters on it, search your library for a card, put it into your hand, then shuffle.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616496&type=card",
+        "multiverseId": "616496"
+    },
+    {
+        "name": "Blot Out",
+        "manaCost": "{2}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon",
+        "set": "MAT",
+        "text": "Target opponent exiles a creature or planeswalker they control with the greatest mana value among creatures and planeswalkers they control.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616497&type=card",
+        "multiverseId": "616497"
+    },
+    {
+        "name": "Death-Rattle Oni",
+        "manaCost": "{6}{B}",
+        "cmc": 7.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Demon Spirit",
+        "rarity": "Uncommon",
+        "set": "MAT",
+        "text": "Flash\nThis spell costs {2} less to cast for each creature that died this turn.\nWhen Death-Rattle Oni enters the battlefield, destroy all other creatures that were dealt damage this turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616498&type=card",
+        "multiverseId": "616498"
+    },
+    {
+        "name": "Markov Baron",
+        "manaCost": "{2}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Vampire Noble",
+        "rarity": "Uncommon",
+        "set": "MAT",
+        "text": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nLifelink\nOther Vampires you control get +1/+1.\nMadness {2}{B} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616499&type=card",
+        "multiverseId": "616499"
+    },
+    {
+        "name": "Urborg Scavengers",
+        "manaCost": "{2}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Spirit",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Whenever Urborg Scavengers enters the battlefield or attacks, exile target card from a graveyard. Put a +1/+1 counter on Urborg Scavengers.\nUrborg Scavengers has flying as long as a card exiled with it has flying. The same is true for first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, menace, reach, trample, and vigilance.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616500&type=card",
+        "multiverseId": "616500"
+    },
+    {
+        "name": "Arni Metalbrow",
+        "manaCost": "{2}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Legendary Creature — Human Berserker",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Whenever a creature you control attacks or a creature enters the battlefield under your control attacking, you may pay {1}{R}. If you do, you may put a creature card with mana value less than that creature's mana value from your hand onto the battlefield tapped and attacking.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616501&type=card",
+        "multiverseId": "616501"
+    },
+    {
+        "name": "Kolaghan Warmonger",
+        "manaCost": "{2}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Ogre Warrior",
+        "rarity": "Uncommon",
+        "set": "MAT",
+        "text": "Haste\nWhenever Kolaghan Warmonger attacks, look at the top six cards of your library. You may reveal a Dragon card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616502&type=card",
+        "multiverseId": "616502"
+    },
+    {
+        "name": "Plargg and Nassari",
+        "manaCost": "{3}{R}{R}",
+        "cmc": 5.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Legendary Creature — Orc Efreet",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "At the beginning of your upkeep, each player exiles cards from the top of their library until they exile a nonland card. An opponent chooses a nonland card exiled this way. You may cast up to two spells from among the other cards exiled this way without paying their mana costs.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616503&type=card",
+        "multiverseId": "616503"
+    },
+    {
+        "name": "Reckless Handling",
+        "manaCost": "{1}{R}",
+        "cmc": 2.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "MAT",
+        "text": "Search your library for an artifact card, reveal it, put it into your hand, shuffle, then discard a card at random. If an artifact card was discarded this way, Reckless Handling deals 2 damage to each opponent.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616504&type=card",
+        "multiverseId": "616504"
+    },
+    {
+        "name": "Animist's Might",
+        "manaCost": "{2}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "MAT",
+        "text": "This spell costs {2} less to cast if it targets a legendary creature you control.\nTarget creature you control deals damage equal to twice its power to target creature or planeswalker you don't control.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616445&type=card",
+        "multiverseId": "616445"
+    },
+    {
+        "name": "Leyline Immersion",
+        "manaCost": "{3}{G}",
+        "cmc": 4.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Enchant legendary creature\nEnchanted creature has ward {2} and \"{T}: Add five mana in any combination of colors. Spend this mana only to cast spells.\"",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616446&type=card",
+        "multiverseId": "616446"
+    },
+    {
+        "name": "Nissa, Resurgent Animist",
+        "manaCost": "{2}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Legendary Creature — Elf Scout",
+        "rarity": "Mythic",
+        "set": "MAT",
+        "text": "Landfall — Whenever a land enters the battlefield under your control, add one mana of any color. Then if this is the second time this ability has resolved this turn, reveal cards from the top of your library until you reveal an Elf or Elemental card. Put that card into your hand and the rest on the bottom of your library in a random order.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616447&type=card",
+        "multiverseId": "616447"
+    },
+    {
+        "name": "Open the Way",
+        "manaCost": "{X}{G}{G}",
+        "cmc": 2.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Sorcery",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "X can't be greater than the number of players in the game.\nReveal cards from the top of your library until you reveal X land cards. Put those land cards onto the battlefield tapped and the rest on the bottom of your library in a random order.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616448&type=card",
+        "multiverseId": "616448"
+    },
+    {
+        "name": "Tranquil Frillback",
+        "manaCost": "{2}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Dinosaur",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "When Tranquil Frillback enters the battlefield, you may pay {G} up to three times. When you pay this cost one or more times, choose up to that many —\n• Destroy target artifact or enchantment.\n• Exile target player's graveyard.\n• You gain 4 life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616505&type=card",
+        "multiverseId": "616505"
+    },
+    {
+        "name": "Undercity Upheaval",
+        "manaCost": "{1}{G}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "MAT",
+        "text": "Undergrowth — Distribute X +1/+1 counters among any number of target creatures you control, where X is the number of creature cards in your graveyard as you cast this spell. Creatures you control gain vigilance until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616506&type=card",
+        "multiverseId": "616506"
+    },
+    {
+        "name": "Calix, Guided by Fate",
+        "manaCost": "{1}{G}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "G",
+            "W"
+        ],
+        "type": "Legendary Enchantment Creature — Human Druid",
+        "rarity": "Mythic",
+        "set": "MAT",
+        "text": "Constellation — Whenever Calix, Guided by Fate or another enchantment enters the battlefield under your control, put a +1/+1 counter on target creature.\nWhenever Calix or an enchanted creature you control deals combat damage to a player, you may create a token that's a copy of a nonlegendary enchantment you control. Do this only once each turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616507&type=card",
+        "multiverseId": "616507"
+    },
+    {
+        "name": "Campus Renovation",
+        "manaCost": "{3}{R}{W}",
+        "cmc": 5.0,
+        "colors": [
+            "R",
+            "W"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "MAT",
+        "text": "Return up to one target artifact or enchantment card from your graveyard to the battlefield. Exile the top two cards of your library. Until the end of your next turn, you may play those cards.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616508&type=card",
+        "multiverseId": "616508"
+    },
+    {
+        "name": "Cosmic Rebirth",
+        "manaCost": "{1}{G}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "G",
+            "W"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon",
+        "set": "MAT",
+        "text": "Choose target permanent card in your graveyard. If it has mana value 3 or less, you may put it onto the battlefield. If you don't put it onto the battlefield, put it into your hand.\nYou gain 3 life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616509&type=card",
+        "multiverseId": "616509"
+    },
+    {
+        "name": "Danitha, New Benalia's Light",
+        "manaCost": "{1}{G}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "G",
+            "W"
+        ],
+        "type": "Legendary Creature — Human Knight",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Vigilance, trample, lifelink\nOnce during each of your turns, you may cast an Aura or Equipment spell from your graveyard.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616510&type=card",
+        "multiverseId": "616510"
+    },
+    {
+        "name": "Feast of the Victorious Dead",
+        "manaCost": "{W}{B}",
+        "cmc": 2.0,
+        "colors": [
+            "B",
+            "W"
+        ],
+        "type": "Enchantment",
+        "rarity": "Uncommon",
+        "set": "MAT",
+        "text": "At the beginning of your end step, if one or more creatures died this turn, you gain that much life and distribute that many +1/+1 counters among creatures you control.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616511&type=card",
+        "multiverseId": "616511"
+    },
+    {
+        "name": "Gold-Forged Thopteryx",
+        "manaCost": "{W}{U}",
+        "cmc": 2.0,
+        "colors": [
+            "U",
+            "W"
+        ],
+        "type": "Artifact Creature — Dinosaur Thopter",
+        "rarity": "Uncommon",
+        "set": "MAT",
+        "text": "Flying, lifelink\nEach legendary permanent you control has ward {2}. (Whenever it becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616512&type=card",
+        "multiverseId": "616512"
+    },
+    {
+        "name": "Jirina, Dauntless General",
+        "manaCost": "{W}{B}",
+        "cmc": 2.0,
+        "colors": [
+            "B",
+            "W"
+        ],
+        "type": "Legendary Creature — Human Soldier",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "When Jirina, Dauntless General enters the battlefield, exile target player's graveyard.\nSacrifice Jirina: Humans you control gain hexproof and indestructible until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616513&type=card",
+        "multiverseId": "616513"
+    },
+    {
+        "name": "Jolrael, Voice of Zhalfir",
+        "manaCost": "{2}{G}{U}",
+        "cmc": 4.0,
+        "colors": [
+            "G",
+            "U"
+        ],
+        "type": "Legendary Creature — Human Druid",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "At the beginning of combat on your turn, up to one target land you control becomes an X/X green and blue Bird creature with flying and haste until end of turn, where X is the number of cards in your hand. It's still a land.\nWhenever a land creature you control deals combat damage to a player, draw a card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616449&type=card",
+        "multiverseId": "616449"
+    },
+    {
+        "name": "The Kenriths' Royal Funeral",
+        "manaCost": "{2}{W}{B}",
+        "cmc": 4.0,
+        "colors": [
+            "B",
+            "W"
+        ],
+        "type": "Legendary Enchantment",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "When The Kenriths' Royal Funeral enters the battlefield, exile up to two target legendary creature cards from your graveyard. You draw X cards and you lose X life, where X is the greatest mana value among cards exiled this way.\nLegendary spells you cast cost {1} less to cast for each card exiled with The Kenriths' Royal Funeral.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616514&type=card",
+        "multiverseId": "616514"
+    },
+    {
+        "name": "Kiora, Sovereign of the Deep",
+        "manaCost": "{3}{G}{U}",
+        "cmc": 5.0,
+        "colors": [
+            "G",
+            "U"
+        ],
+        "type": "Legendary Creature — Merfolk Noble",
+        "rarity": "Mythic",
+        "set": "MAT",
+        "text": "Vigilance, ward {3}\nWhenever you cast a Kraken, Leviathan, Octopus, or Serpent spell from your hand, look at the top X cards of your library, where X is that spell's mana value. You may cast a spell with mana value less than X from among them without paying its mana cost. Put the rest on the bottom of your library in a random order.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616515&type=card",
+        "multiverseId": "616515"
+    },
+    {
+        "name": "Nahiri, Forged in Fury",
+        "manaCost": "{4}{R}{W}",
+        "cmc": 6.0,
+        "colors": [
+            "R",
+            "W"
+        ],
+        "type": "Legendary Creature — Kor Artificer",
+        "rarity": "Mythic",
+        "set": "MAT",
+        "text": "Affinity for Equipment (This spell costs {1} less to cast for each Equipment you control.)\nWhenever an equipped creature you control attacks, exile the top card of your library. You may play that card this turn. You may cast Equipment spells this way without paying their mana costs.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616516&type=card",
+        "multiverseId": "616516"
+    },
+    {
+        "name": "Nahiri's Resolve",
+        "manaCost": "{3}{R}{W}",
+        "cmc": 5.0,
+        "colors": [
+            "R",
+            "W"
+        ],
+        "type": "Enchantment",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Creatures you control get +1/+0 and have haste.\nAt the beginning of your end step, exile any number of nontoken artifacts and/or creatures you control. Return those cards to the battlefield under their owner's control at the beginning of your next upkeep.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616517&type=card",
+        "multiverseId": "616517"
+    },
+    {
+        "name": "Narset, Enlightened Exile",
+        "manaCost": "{1}{U}{R}{W}",
+        "cmc": 4.0,
+        "colors": [
+            "R",
+            "U",
+            "W"
+        ],
+        "type": "Legendary Creature — Human Monk",
+        "rarity": "Mythic",
+        "set": "MAT",
+        "text": "Creatures you control have prowess.\nWhenever Narset, Enlightened Exile attacks, exile target noncreature, nonland card with mana value less than Narset's power from a graveyard and copy it. You may cast the copy without paying its mana cost.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616518&type=card",
+        "multiverseId": "616518"
+    },
+    {
+        "name": "Nashi, Moon's Legacy",
+        "manaCost": "{B}{G}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "B",
+            "G",
+            "U"
+        ],
+        "type": "Legendary Creature — Rat Shaman",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Menace, ward {1}\nWhenever Nashi, Moon's Legacy attacks, exile up to one target legendary or Rat card from your graveyard and copy it. You may cast the copy. (You still pay its costs. A copy of a permanent spell becomes a token.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616519&type=card",
+        "multiverseId": "616519"
+    },
+    {
+        "name": "Niv-Mizzet, Supreme",
+        "manaCost": "{W}{U}{B}{R}{G}",
+        "cmc": 5.0,
+        "colors": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "type": "Legendary Creature — Dragon Avatar",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Flying, hexproof from monocolored\nEach instant and sorcery card in your graveyard that's exactly two colors has jump-start. (You may cast that card from your graveyard by discarding a card in addition to paying its other costs. Then exile it.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616520&type=card",
+        "multiverseId": "616520"
+    },
+    {
+        "name": "Ob Nixilis, Captive Kingpin",
+        "manaCost": "{2}{B}{R}",
+        "cmc": 4.0,
+        "colors": [
+            "B",
+            "R"
+        ],
+        "type": "Legendary Creature — Demon",
+        "rarity": "Mythic",
+        "set": "MAT",
+        "text": "Flying, trample\nWhenever one or more opponents each lose exactly 1 life, put a +1/+1 counter on Ob Nixilis, Captive Kingpin. Exile the top card of your library. Until your next end step, you may play that card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616521&type=card",
+        "multiverseId": "616521"
+    },
+    {
+        "name": "Pia Nalaar, Consul of Revival",
+        "manaCost": "{R}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "R",
+            "W"
+        ],
+        "type": "Legendary Creature — Human Artificer",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Thopters you control have haste.\nWhenever you play a land from exile or cast a spell from exile, create a 1/1 colorless Thopter artifact creature token with flying.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616522&type=card",
+        "multiverseId": "616522"
+    },
+    {
+        "name": "Rebuild the City",
+        "manaCost": "{3}{B}{R}{G}",
+        "cmc": 6.0,
+        "colors": [
+            "B",
+            "G",
+            "R"
+        ],
+        "type": "Sorcery",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Choose target land. Create three tokens that are copies of it, except they're 3/3 creatures in addition to their other types and they have vigilance and menace. (They're affected by summoning sickness.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616523&type=card",
+        "multiverseId": "616523"
+    },
+    {
+        "name": "Rocco, Street Chef",
+        "manaCost": "{R}{G}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "G",
+            "R",
+            "W"
+        ],
+        "type": "Legendary Creature — Elf Druid",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "At the beginning of your end step, each player exiles the top card of their library. Until your next end step, each player may play the card they exiled this way.\nWhenever a player plays a land from exile or casts a spell from exile, you put a +1/+1 counter on target creature and create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this artifact: You gain 3 life.\")",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616524&type=card",
+        "multiverseId": "616524"
+    },
+    {
+        "name": "Samut, Vizier of Naktamun",
+        "manaCost": "{1}{R}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G",
+            "R"
+        ],
+        "type": "Legendary Creature — Human Warrior Cleric",
+        "rarity": "Mythic",
+        "set": "MAT",
+        "text": "First strike, vigilance, haste\nWhenever a creature you control deals combat damage to a player, if that creature entered the battlefield this turn, draw a card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616525&type=card",
+        "multiverseId": "616525"
+    },
+    {
+        "name": "Sarkhan, Soul Aflame",
+        "manaCost": "{1}{U}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R",
+            "U"
+        ],
+        "type": "Legendary Creature — Human Shaman",
+        "rarity": "Mythic",
+        "set": "MAT",
+        "text": "Dragon spells you cast cost {1} less to cast.\nWhenever a Dragon enters the battlefield under your control, you may have Sarkhan, Soul Aflame become a copy of it until end of turn, except its name is Sarkhan, Soul Aflame and it's legendary in addition to its other types.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616526&type=card",
+        "multiverseId": "616526"
+    },
+    {
+        "name": "Sigarda, Font of Blessings",
+        "manaCost": "{2}{G}{W}",
+        "cmc": 4.0,
+        "colors": [
+            "G",
+            "W"
+        ],
+        "type": "Legendary Creature — Angel",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Flying\nOther permanents you control have hexproof.\nYou may look at the top card of your library any time.\nYou may cast Angel spells and Human spells from the top of your library.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616527&type=card",
+        "multiverseId": "616527"
+    },
+    {
+        "name": "Tyvar the Bellicose",
+        "manaCost": "{2}{B}{G}",
+        "cmc": 4.0,
+        "colors": [
+            "B",
+            "G"
+        ],
+        "type": "Legendary Creature — Elf Warrior",
+        "rarity": "Mythic",
+        "set": "MAT",
+        "text": "Whenever one or more Elves you control attack, they gain deathtouch until end of turn.\nEach creature you control has \"Whenever a mana ability of this creature resolves, put a number of +1/+1 counters on it equal to the amount of mana this creature produced. This ability triggers only once each turn.\"",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616528&type=card",
+        "multiverseId": "616528"
+    },
+    {
+        "name": "Karn, Legacy Reforged",
+        "manaCost": "{5}",
+        "cmc": 5.0,
+        "colors": null,
+        "type": "Legendary Artifact Creature — Golem",
+        "rarity": "Mythic",
+        "set": "MAT",
+        "text": "Karn, Legacy Reforged's power and toughness are each equal to the greatest mana value among artifacts you control.\nAt the beginning of your upkeep, add {C} for each artifact you control. This mana can't be spent to cast nonartifact spells. Until end of turn, you don't lose this mana as steps and phases end.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616450&type=card",
+        "multiverseId": "616450"
+    },
+    {
+        "name": "Drannith Ruins",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Land",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "{T}: Add {C}.\n{2}, {T}: Put two +1/+1 counters on target non-Human creature that entered the battlefield this turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616529&type=card",
+        "multiverseId": "616529"
+    },
+    {
+        "name": "Coppercoat Vanguard",
+        "manaCost": "{1}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Human Soldier",
+        "rarity": "Uncommon",
+        "set": "MAT",
+        "text": "Each other Human you control gets +1/+0 and has ward {1}. (Whenever it becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616045&type=card",
+        "multiverseId": "616045"
+    },
+    {
+        "name": "Deification",
+        "manaCost": "{1}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Enchantment",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "As Deification enters the battlefield, choose a planeswalker type.\nPlaneswalkers you control of the chosen type have hexproof.\nAs long as you control a creature, if damage dealt to a planeswalker you control of the chosen type would result in all loyalty counters on it being removed, instead all but one of those counters are removed.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616046&type=card",
+        "multiverseId": "616046"
+    },
+    {
+        "name": "Harnessed Snubhorn",
+        "manaCost": "{3}{W}",
+        "cmc": 4.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Dinosaur",
+        "rarity": "Uncommon",
+        "set": "MAT",
+        "text": "Vigilance\nWhenever Harnessed Snubhorn deals combat damage to a player, return target artifact or enchantment card from your graveyard to the battlefield.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616047&type=card",
+        "multiverseId": "616047"
+    },
+    {
+        "name": "Metropolis Reformer",
+        "manaCost": "{2}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Angel Cleric",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Flying, vigilance\nYou have hexproof.\nWhenever Metropolis Reformer is dealt damage, you gain that much life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616048&type=card",
+        "multiverseId": "616048"
+    },
+    {
+        "name": "Spark Rupture",
+        "manaCost": "{2}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Enchantment",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "When Spark Rupture enters the battlefield, draw a card.\nEach planeswalker with one or more loyalty counters on it loses all abilities and is a creature with power and toughness each equal to the number of loyalty counters on it.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616049&type=card",
+        "multiverseId": "616049"
+    },
+    {
+        "name": "Tazri, Stalwart Survivor",
+        "manaCost": "{2}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Legendary Creature — Human Warrior",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Each creature you control has \"{T}: Add one mana of any of this creature's colors. Spend this mana only to activate an ability of a creature. Activate only if this creature has another activated ability.\"\n{W}{U}{B}{R}{G}, {T}: Mill five cards. Put all creature cards with activated abilities that aren't mana abilities from among the milled cards into your hand.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616050&type=card",
+        "multiverseId": "616050"
+    },
+    {
+        "name": "Filter Out",
+        "manaCost": "{1}{U}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon",
+        "set": "MAT",
+        "text": "Return all noncreature, nonland permanents to their owners' hands.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616051&type=card",
+        "multiverseId": "616051"
+    },
+    {
+        "name": "Tolarian Contempt",
+        "manaCost": "{3}{U}{U}",
+        "cmc": 5.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Enchantment",
+        "rarity": "Uncommon",
+        "set": "MAT",
+        "text": "When Tolarian Contempt enters the battlefield, put a rejection counter on each creature your opponents control.\nAt the beginning of your end step, for each opponent, choose up to one target creature they control with a rejection counter on it. That creature's owner puts it on the top or bottom of their library.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616052&type=card",
+        "multiverseId": "616052"
+    },
+    {
+        "name": "Training Grounds",
+        "manaCost": "{U}",
+        "cmc": 1.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Enchantment",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Activated abilities of creatures you control cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616053&type=card",
+        "multiverseId": "616053"
+    },
+    {
+        "name": "Vesuvan Drifter",
+        "manaCost": "{2}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Shapeshifter",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Flying\nYou may look at the top card of your library any time.\nAt the beginning of each combat, you may reveal the top card of your library. If you reveal a creature card this way, Vesuvan Drifter becomes a copy of that card until end of turn, except it has flying.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616054&type=card",
+        "multiverseId": "616054"
+    },
+    {
+        "name": "Ayara's Oathsworn",
+        "manaCost": "{1}{B}",
+        "cmc": 2.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Human Knight",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Menace\nWhenever Ayara's Oathsworn deals combat damage to a player, if it has fewer than four +1/+1 counters on it, put a +1/+1 counter on it. Then if it has exactly four +1/+1 counters on it, search your library for a card, put it into your hand, then shuffle.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616055&type=card",
+        "multiverseId": "616055"
+    },
+    {
+        "name": "Blot Out",
+        "manaCost": "{2}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon",
+        "set": "MAT",
+        "text": "Target opponent exiles a creature or planeswalker they control with the greatest mana value among creatures and planeswalkers they control.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616056&type=card",
+        "multiverseId": "616056"
+    },
+    {
+        "name": "Death-Rattle Oni",
+        "manaCost": "{6}{B}",
+        "cmc": 7.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Demon Spirit",
+        "rarity": "Uncommon",
+        "set": "MAT",
+        "text": "Flash\nThis spell costs {2} less to cast for each creature that died this turn.\nWhen Death-Rattle Oni enters the battlefield, destroy all other creatures that were dealt damage this turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616057&type=card",
+        "multiverseId": "616057"
+    },
+    {
+        "name": "Markov Baron",
+        "manaCost": "{2}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Vampire Noble",
+        "rarity": "Uncommon",
+        "set": "MAT",
+        "text": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nLifelink\nOther Vampires you control get +1/+1.\nMadness {2}{B} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616058&type=card",
+        "multiverseId": "616058"
+    },
+    {
+        "name": "Urborg Scavengers",
+        "manaCost": "{2}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Spirit",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Whenever Urborg Scavengers enters the battlefield or attacks, exile target card from a graveyard. Put a +1/+1 counter on Urborg Scavengers.\nUrborg Scavengers has flying as long as a card exiled with it has flying. The same is true for first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, menace, reach, trample, and vigilance.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616059&type=card",
+        "multiverseId": "616059"
+    },
+    {
+        "name": "Arni Metalbrow",
+        "manaCost": "{2}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Legendary Creature — Human Berserker",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Whenever a creature you control attacks or a creature enters the battlefield under your control attacking, you may pay {1}{R}. If you do, you may put a creature card with mana value less than that creature's mana value from your hand onto the battlefield tapped and attacking.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616060&type=card",
+        "multiverseId": "616060"
+    },
+    {
+        "name": "Kolaghan Warmonger",
+        "manaCost": "{2}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Ogre Warrior",
+        "rarity": "Uncommon",
+        "set": "MAT",
+        "text": "Haste\nWhenever Kolaghan Warmonger attacks, look at the top six cards of your library. You may reveal a Dragon card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616061&type=card",
+        "multiverseId": "616061"
+    },
+    {
+        "name": "Plargg and Nassari",
+        "manaCost": "{3}{R}{R}",
+        "cmc": 5.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Legendary Creature — Orc Efreet",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "At the beginning of your upkeep, each player exiles cards from the top of their library until they exile a nonland card. An opponent chooses a nonland card exiled this way. You may cast up to two spells from among the other cards exiled this way without paying their mana costs.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616062&type=card",
+        "multiverseId": "616062"
+    },
+    {
+        "name": "Reckless Handling",
+        "manaCost": "{1}{R}",
+        "cmc": 2.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "MAT",
+        "text": "Search your library for an artifact card, reveal it, put it into your hand, shuffle, then discard a card at random. If an artifact card was discarded this way, Reckless Handling deals 2 damage to each opponent.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616063&type=card",
+        "multiverseId": "616063"
+    },
+    {
+        "name": "Animist's Might",
+        "manaCost": "{2}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "MAT",
+        "text": "This spell costs {2} less to cast if it targets a legendary creature you control.\nTarget creature you control deals damage equal to twice its power to target creature or planeswalker you don't control.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616064&type=card",
+        "multiverseId": "616064"
+    },
+    {
+        "name": "Leyline Immersion",
+        "manaCost": "{3}{G}",
+        "cmc": 4.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Enchant legendary creature\nEnchanted creature has ward {2} and \"{T}: Add five mana in any combination of colors. Spend this mana only to cast spells.\"",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616065&type=card",
+        "multiverseId": "616065"
+    },
+    {
+        "name": "Nissa, Resurgent Animist",
+        "manaCost": "{2}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Legendary Creature — Elf Scout",
+        "rarity": "Mythic",
+        "set": "MAT",
+        "text": "Landfall — Whenever a land enters the battlefield under your control, add one mana of any color. Then if this is the second time this ability has resolved this turn, reveal cards from the top of your library until you reveal an Elf or Elemental card. Put that card into your hand and the rest on the bottom of your library in a random order.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616066&type=card",
+        "multiverseId": "616066"
+    },
+    {
+        "name": "Open the Way",
+        "manaCost": "{X}{G}{G}",
+        "cmc": 2.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Sorcery",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "X can't be greater than the number of players in the game.\nReveal cards from the top of your library until you reveal X land cards. Put those land cards onto the battlefield tapped and the rest on the bottom of your library in a random order.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616067&type=card",
+        "multiverseId": "616067"
+    },
+    {
+        "name": "Tranquil Frillback",
+        "manaCost": "{2}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Dinosaur",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "When Tranquil Frillback enters the battlefield, you may pay {G} up to three times. When you pay this cost one or more times, choose up to that many —\n• Destroy target artifact or enchantment.\n• Exile target player's graveyard.\n• You gain 4 life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616068&type=card",
+        "multiverseId": "616068"
+    },
+    {
+        "name": "Undercity Upheaval",
+        "manaCost": "{1}{G}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "MAT",
+        "text": "Undergrowth — Distribute X +1/+1 counters among any number of target creatures you control, where X is the number of creature cards in your graveyard as you cast this spell. Creatures you control gain vigilance until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616069&type=card",
+        "multiverseId": "616069"
+    },
+    {
+        "name": "Calix, Guided by Fate",
+        "manaCost": "{1}{G}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "G",
+            "W"
+        ],
+        "type": "Legendary Enchantment Creature — Human Druid",
+        "rarity": "Mythic",
+        "set": "MAT",
+        "text": "Constellation — Whenever Calix, Guided by Fate or another enchantment enters the battlefield under your control, put a +1/+1 counter on target creature.\nWhenever Calix or an enchanted creature you control deals combat damage to a player, you may create a token that's a copy of a nonlegendary enchantment you control. Do this only once each turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616070&type=card",
+        "multiverseId": "616070"
+    },
+    {
+        "name": "Campus Renovation",
+        "manaCost": "{3}{R}{W}",
+        "cmc": 5.0,
+        "colors": [
+            "R",
+            "W"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "MAT",
+        "text": "Return up to one target artifact or enchantment card from your graveyard to the battlefield. Exile the top two cards of your library. Until the end of your next turn, you may play those cards.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616071&type=card",
+        "multiverseId": "616071"
+    },
+    {
+        "name": "Cosmic Rebirth",
+        "manaCost": "{1}{G}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "G",
+            "W"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon",
+        "set": "MAT",
+        "text": "Choose target permanent card in your graveyard. If it has mana value 3 or less, you may put it onto the battlefield. If you don't put it onto the battlefield, put it into your hand.\nYou gain 3 life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616072&type=card",
+        "multiverseId": "616072"
+    },
+    {
+        "name": "Danitha, New Benalia's Light",
+        "manaCost": "{1}{G}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "G",
+            "W"
+        ],
+        "type": "Legendary Creature — Human Knight",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Vigilance, trample, lifelink\nOnce during each of your turns, you may cast an Aura or Equipment spell from your graveyard.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616073&type=card",
+        "multiverseId": "616073"
+    },
+    {
+        "name": "Feast of the Victorious Dead",
+        "manaCost": "{W}{B}",
+        "cmc": 2.0,
+        "colors": [
+            "B",
+            "W"
+        ],
+        "type": "Enchantment",
+        "rarity": "Uncommon",
+        "set": "MAT",
+        "text": "At the beginning of your end step, if one or more creatures died this turn, you gain that much life and distribute that many +1/+1 counters among creatures you control.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616074&type=card",
+        "multiverseId": "616074"
+    },
+    {
+        "name": "Gold-Forged Thopteryx",
+        "manaCost": "{W}{U}",
+        "cmc": 2.0,
+        "colors": [
+            "U",
+            "W"
+        ],
+        "type": "Artifact Creature — Dinosaur Thopter",
+        "rarity": "Uncommon",
+        "set": "MAT",
+        "text": "Flying, lifelink\nEach legendary permanent you control has ward {2}. (Whenever it becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616075&type=card",
+        "multiverseId": "616075"
+    },
+    {
+        "name": "Jirina, Dauntless General",
+        "manaCost": "{W}{B}",
+        "cmc": 2.0,
+        "colors": [
+            "B",
+            "W"
+        ],
+        "type": "Legendary Creature — Human Soldier",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "When Jirina, Dauntless General enters the battlefield, exile target player's graveyard.\nSacrifice Jirina: Humans you control gain hexproof and indestructible until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616076&type=card",
+        "multiverseId": "616076"
+    },
+    {
+        "name": "Jolrael, Voice of Zhalfir",
+        "manaCost": "{2}{G}{U}",
+        "cmc": 4.0,
+        "colors": [
+            "G",
+            "U"
+        ],
+        "type": "Legendary Creature — Human Druid",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "At the beginning of combat on your turn, up to one target land you control becomes an X/X green and blue Bird creature with flying and haste until end of turn, where X is the number of cards in your hand. It's still a land.\nWhenever a land creature you control deals combat damage to a player, draw a card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616077&type=card",
+        "multiverseId": "616077"
+    },
+    {
+        "name": "The Kenriths' Royal Funeral",
+        "manaCost": "{2}{W}{B}",
+        "cmc": 4.0,
+        "colors": [
+            "B",
+            "W"
+        ],
+        "type": "Legendary Enchantment",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "When The Kenriths' Royal Funeral enters the battlefield, exile up to two target legendary creature cards from your graveyard. You draw X cards and you lose X life, where X is the greatest mana value among cards exiled this way.\nLegendary spells you cast cost {1} less to cast for each card exiled with The Kenriths' Royal Funeral.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616078&type=card",
+        "multiverseId": "616078"
+    },
+    {
+        "name": "Kiora, Sovereign of the Deep",
+        "manaCost": "{3}{G}{U}",
+        "cmc": 5.0,
+        "colors": [
+            "G",
+            "U"
+        ],
+        "type": "Legendary Creature — Merfolk Noble",
+        "rarity": "Mythic",
+        "set": "MAT",
+        "text": "Vigilance, ward {3}\nWhenever you cast a Kraken, Leviathan, Octopus, or Serpent spell from your hand, look at the top X cards of your library, where X is that spell's mana value. You may cast a spell with mana value less than X from among them without paying its mana cost. Put the rest on the bottom of your library in a random order.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616079&type=card",
+        "multiverseId": "616079"
+    },
+    {
+        "name": "Nahiri, Forged in Fury",
+        "manaCost": "{4}{R}{W}",
+        "cmc": 6.0,
+        "colors": [
+            "R",
+            "W"
+        ],
+        "type": "Legendary Creature — Kor Artificer",
+        "rarity": "Mythic",
+        "set": "MAT",
+        "text": "Affinity for Equipment (This spell costs {1} less to cast for each Equipment you control.)\nWhenever an equipped creature you control attacks, exile the top card of your library. You may play that card this turn. You may cast Equipment spells this way without paying their mana costs.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616080&type=card",
+        "multiverseId": "616080"
+    },
+    {
+        "name": "Nahiri's Resolve",
+        "manaCost": "{3}{R}{W}",
+        "cmc": 5.0,
+        "colors": [
+            "R",
+            "W"
+        ],
+        "type": "Enchantment",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Creatures you control get +1/+0 and have haste.\nAt the beginning of your end step, exile any number of nontoken artifacts and/or creatures you control. Return those cards to the battlefield under their owner's control at the beginning of your next upkeep.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616081&type=card",
+        "multiverseId": "616081"
+    },
+    {
+        "name": "Narset, Enlightened Exile",
+        "manaCost": "{1}{U}{R}{W}",
+        "cmc": 4.0,
+        "colors": [
+            "R",
+            "U",
+            "W"
+        ],
+        "type": "Legendary Creature — Human Monk",
+        "rarity": "Mythic",
+        "set": "MAT",
+        "text": "Creatures you control have prowess.\nWhenever Narset, Enlightened Exile attacks, exile target noncreature, nonland card with mana value less than Narset's power from a graveyard and copy it. You may cast the copy without paying its mana cost.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616082&type=card",
+        "multiverseId": "616082"
+    },
+    {
+        "name": "Nashi, Moon's Legacy",
+        "manaCost": "{B}{G}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "B",
+            "G",
+            "U"
+        ],
+        "type": "Legendary Creature — Rat Shaman",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Menace, ward {1}\nWhenever Nashi, Moon's Legacy attacks, exile up to one target legendary or Rat card from your graveyard and copy it. You may cast the copy. (You still pay its costs. A copy of a permanent spell becomes a token.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616083&type=card",
+        "multiverseId": "616083"
+    },
+    {
+        "name": "Niv-Mizzet, Supreme",
+        "manaCost": "{W}{U}{B}{R}{G}",
+        "cmc": 5.0,
+        "colors": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "type": "Legendary Creature — Dragon Avatar",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Flying, hexproof from monocolored\nEach instant and sorcery card in your graveyard that's exactly two colors has jump-start. (You may cast that card from your graveyard by discarding a card in addition to paying its other costs. Then exile it.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616084&type=card",
+        "multiverseId": "616084"
+    },
+    {
+        "name": "Ob Nixilis, Captive Kingpin",
+        "manaCost": "{2}{B}{R}",
+        "cmc": 4.0,
+        "colors": [
+            "B",
+            "R"
+        ],
+        "type": "Legendary Creature — Demon",
+        "rarity": "Mythic",
+        "set": "MAT",
+        "text": "Flying, trample\nWhenever one or more opponents each lose exactly 1 life, put a +1/+1 counter on Ob Nixilis, Captive Kingpin. Exile the top card of your library. Until your next end step, you may play that card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616085&type=card",
+        "multiverseId": "616085"
+    },
+    {
+        "name": "Pia Nalaar, Consul of Revival",
+        "manaCost": "{R}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "R",
+            "W"
+        ],
+        "type": "Legendary Creature — Human Artificer",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Thopters you control have haste.\nWhenever you play a land from exile or cast a spell from exile, create a 1/1 colorless Thopter artifact creature token with flying.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616086&type=card",
+        "multiverseId": "616086"
+    },
+    {
+        "name": "Rebuild the City",
+        "manaCost": "{3}{B}{R}{G}",
+        "cmc": 6.0,
+        "colors": [
+            "B",
+            "G",
+            "R"
+        ],
+        "type": "Sorcery",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Choose target land. Create three tokens that are copies of it, except they're 3/3 creatures in addition to their other types and they have vigilance and menace. (They're affected by summoning sickness.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616087&type=card",
+        "multiverseId": "616087"
+    },
+    {
+        "name": "Rocco, Street Chef",
+        "manaCost": "{R}{G}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "G",
+            "R",
+            "W"
+        ],
+        "type": "Legendary Creature — Elf Druid",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "At the beginning of your end step, each player exiles the top card of their library. Until your next end step, each player may play the card they exiled this way.\nWhenever a player plays a land from exile or casts a spell from exile, you put a +1/+1 counter on target creature and create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this artifact: You gain 3 life.\")",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616088&type=card",
+        "multiverseId": "616088"
+    },
+    {
+        "name": "Samut, Vizier of Naktamun",
+        "manaCost": "{1}{R}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G",
+            "R"
+        ],
+        "type": "Legendary Creature — Human Warrior Cleric",
+        "rarity": "Mythic",
+        "set": "MAT",
+        "text": "First strike, vigilance, haste\nWhenever a creature you control deals combat damage to a player, if that creature entered the battlefield this turn, draw a card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616089&type=card",
+        "multiverseId": "616089"
+    },
+    {
+        "name": "Sarkhan, Soul Aflame",
+        "manaCost": "{1}{U}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R",
+            "U"
+        ],
+        "type": "Legendary Creature — Human Shaman",
+        "rarity": "Mythic",
+        "set": "MAT",
+        "text": "Dragon spells you cast cost {1} less to cast.\nWhenever a Dragon enters the battlefield under your control, you may have Sarkhan, Soul Aflame become a copy of it until end of turn, except its name is Sarkhan, Soul Aflame and it's legendary in addition to its other types.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616090&type=card",
+        "multiverseId": "616090"
+    },
+    {
+        "name": "Sigarda, Font of Blessings",
+        "manaCost": "{2}{G}{W}",
+        "cmc": 4.0,
+        "colors": [
+            "G",
+            "W"
+        ],
+        "type": "Legendary Creature — Angel",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Flying\nOther permanents you control have hexproof.\nYou may look at the top card of your library any time.\nYou may cast Angel spells and Human spells from the top of your library.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616091&type=card",
+        "multiverseId": "616091"
+    },
+    {
+        "name": "Tyvar the Bellicose",
+        "manaCost": "{2}{B}{G}",
+        "cmc": 4.0,
+        "colors": [
+            "B",
+            "G"
+        ],
+        "type": "Legendary Creature — Elf Warrior",
+        "rarity": "Mythic",
+        "set": "MAT",
+        "text": "Whenever one or more Elves you control attack, they gain deathtouch until end of turn.\nEach creature you control has \"Whenever a mana ability of this creature resolves, put a number of +1/+1 counters on it equal to the amount of mana this creature produced. This ability triggers only once each turn.\"",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616092&type=card",
+        "multiverseId": "616092"
+    },
+    {
+        "name": "Karn, Legacy Reforged",
+        "manaCost": "{5}",
+        "cmc": 5.0,
+        "colors": null,
+        "type": "Legendary Artifact Creature — Golem",
+        "rarity": "Mythic",
+        "set": "MAT",
+        "text": "Karn, Legacy Reforged's power and toughness are each equal to the greatest mana value among artifacts you control.\nAt the beginning of your upkeep, add {C} for each artifact you control. This mana can't be spent to cast nonartifact spells. Until end of turn, you don't lose this mana as steps and phases end.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616093&type=card",
+        "multiverseId": "616093"
+    },
+    {
+        "name": "Drannith Ruins",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Land",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "{T}: Add {C}.\n{2}, {T}: Put two +1/+1 counters on target non-Human creature that entered the battlefield this turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=616094&type=card",
+        "multiverseId": "616094"
+    },
+    {
+        "name": "Deification",
+        "manaCost": "{1}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Enchantment",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "As Deification enters the battlefield, choose a planeswalker type.\nPlaneswalkers you control of the chosen type have hexproof.\nAs long as you control a creature, if damage dealt to a planeswalker you control of the chosen type would result in all loyalty counters on it being removed, instead all but one of those counters are removed.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615940&type=card",
+        "multiverseId": "615940"
+    },
+    {
+        "name": "Metropolis Reformer",
+        "manaCost": "{2}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Angel Cleric",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Flying, vigilance\nYou have hexproof.\nWhenever Metropolis Reformer is dealt damage, you gain that much life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615941&type=card",
+        "multiverseId": "615941"
+    },
+    {
+        "name": "Spark Rupture",
+        "manaCost": "{2}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Enchantment",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "When Spark Rupture enters the battlefield, draw a card.\nEach planeswalker with one or more loyalty counters on it loses all abilities and is a creature with power and toughness each equal to the number of loyalty counters on it.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615942&type=card",
+        "multiverseId": "615942"
+    },
+    {
+        "name": "Tazri, Stalwart Survivor",
+        "manaCost": "{2}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Legendary Creature — Human Warrior",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Each creature you control has \"{T}: Add one mana of any of this creature's colors. Spend this mana only to activate an ability of a creature. Activate only if this creature has another activated ability.\"\n{W}{U}{B}{R}{G}, {T}: Mill five cards. Put all creature cards with activated abilities that aren't mana abilities from among the milled cards into your hand.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615943&type=card",
+        "multiverseId": "615943"
+    },
+    {
+        "name": "Training Grounds",
+        "manaCost": "{U}",
+        "cmc": 1.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Enchantment",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Activated abilities of creatures you control cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615944&type=card",
+        "multiverseId": "615944"
+    },
+    {
+        "name": "Vesuvan Drifter",
+        "manaCost": "{2}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Shapeshifter",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Flying\nYou may look at the top card of your library any time.\nAt the beginning of each combat, you may reveal the top card of your library. If you reveal a creature card this way, Vesuvan Drifter becomes a copy of that card until end of turn, except it has flying.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615945&type=card",
+        "multiverseId": "615945"
+    },
+    {
+        "name": "Ayara's Oathsworn",
+        "manaCost": "{1}{B}",
+        "cmc": 2.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Human Knight",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Menace\nWhenever Ayara's Oathsworn deals combat damage to a player, if it has fewer than four +1/+1 counters on it, put a +1/+1 counter on it. Then if it has exactly four +1/+1 counters on it, search your library for a card, put it into your hand, then shuffle.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615946&type=card",
+        "multiverseId": "615946"
+    },
+    {
+        "name": "Urborg Scavengers",
+        "manaCost": "{2}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Spirit",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Whenever Urborg Scavengers enters the battlefield or attacks, exile target card from a graveyard. Put a +1/+1 counter on Urborg Scavengers.\nUrborg Scavengers has flying as long as a card exiled with it has flying. The same is true for first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, menace, reach, trample, and vigilance.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615947&type=card",
+        "multiverseId": "615947"
+    },
+    {
+        "name": "Arni Metalbrow",
+        "manaCost": "{2}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Legendary Creature — Human Berserker",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Whenever a creature you control attacks or a creature enters the battlefield under your control attacking, you may pay {1}{R}. If you do, you may put a creature card with mana value less than that creature's mana value from your hand onto the battlefield tapped and attacking.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615948&type=card",
+        "multiverseId": "615948"
+    },
+    {
+        "name": "Plargg and Nassari",
+        "manaCost": "{3}{R}{R}",
+        "cmc": 5.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Legendary Creature — Orc Efreet",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "At the beginning of your upkeep, each player exiles cards from the top of their library until they exile a nonland card. An opponent chooses a nonland card exiled this way. You may cast up to two spells from among the other cards exiled this way without paying their mana costs.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615949&type=card",
+        "multiverseId": "615949"
+    },
+    {
+        "name": "Leyline Immersion",
+        "manaCost": "{3}{G}",
+        "cmc": 4.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Enchant legendary creature\nEnchanted creature has ward {2} and \"{T}: Add five mana in any combination of colors. Spend this mana only to cast spells.\"",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615950&type=card",
+        "multiverseId": "615950"
+    },
+    {
+        "name": "Nissa, Resurgent Animist",
+        "manaCost": "{2}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Legendary Creature — Elf Scout",
+        "rarity": "Mythic",
+        "set": "MAT",
+        "text": "Landfall — Whenever a land enters the battlefield under your control, add one mana of any color. Then if this is the second time this ability has resolved this turn, reveal cards from the top of your library until you reveal an Elf or Elemental card. Put that card into your hand and the rest on the bottom of your library in a random order.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615951&type=card",
+        "multiverseId": "615951"
+    },
+    {
+        "name": "Open the Way",
+        "manaCost": "{X}{G}{G}",
+        "cmc": 2.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Sorcery",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "X can't be greater than the number of players in the game.\nReveal cards from the top of your library until you reveal X land cards. Put those land cards onto the battlefield tapped and the rest on the bottom of your library in a random order.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615952&type=card",
+        "multiverseId": "615952"
+    },
+    {
+        "name": "Tranquil Frillback",
+        "manaCost": "{2}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Dinosaur",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "When Tranquil Frillback enters the battlefield, you may pay {G} up to three times. When you pay this cost one or more times, choose up to that many —\n• Destroy target artifact or enchantment.\n• Exile target player's graveyard.\n• You gain 4 life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615953&type=card",
+        "multiverseId": "615953"
+    },
+    {
+        "name": "Calix, Guided by Fate",
+        "manaCost": "{1}{G}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "G",
+            "W"
+        ],
+        "type": "Legendary Enchantment Creature — Human Druid",
+        "rarity": "Mythic",
+        "set": "MAT",
+        "text": "Constellation — Whenever Calix, Guided by Fate or another enchantment enters the battlefield under your control, put a +1/+1 counter on target creature.\nWhenever Calix or an enchanted creature you control deals combat damage to a player, you may create a token that's a copy of a nonlegendary enchantment you control. Do this only once each turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615954&type=card",
+        "multiverseId": "615954"
+    },
+    {
+        "name": "Danitha, New Benalia's Light",
+        "manaCost": "{1}{G}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "G",
+            "W"
+        ],
+        "type": "Legendary Creature — Human Knight",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Vigilance, trample, lifelink\nOnce during each of your turns, you may cast an Aura or Equipment spell from your graveyard.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615955&type=card",
+        "multiverseId": "615955"
+    },
+    {
+        "name": "Jirina, Dauntless General",
+        "manaCost": "{W}{B}",
+        "cmc": 2.0,
+        "colors": [
+            "B",
+            "W"
+        ],
+        "type": "Legendary Creature — Human Soldier",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "When Jirina, Dauntless General enters the battlefield, exile target player's graveyard.\nSacrifice Jirina: Humans you control gain hexproof and indestructible until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615956&type=card",
+        "multiverseId": "615956"
+    },
+    {
+        "name": "Jolrael, Voice of Zhalfir",
+        "manaCost": "{2}{G}{U}",
+        "cmc": 4.0,
+        "colors": [
+            "G",
+            "U"
+        ],
+        "type": "Legendary Creature — Human Druid",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "At the beginning of combat on your turn, up to one target land you control becomes an X/X green and blue Bird creature with flying and haste until end of turn, where X is the number of cards in your hand. It's still a land.\nWhenever a land creature you control deals combat damage to a player, draw a card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615957&type=card",
+        "multiverseId": "615957"
+    },
+    {
+        "name": "The Kenriths' Royal Funeral",
+        "manaCost": "{2}{W}{B}",
+        "cmc": 4.0,
+        "colors": [
+            "B",
+            "W"
+        ],
+        "type": "Legendary Enchantment",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "When The Kenriths' Royal Funeral enters the battlefield, exile up to two target legendary creature cards from your graveyard. You draw X cards and you lose X life, where X is the greatest mana value among cards exiled this way.\nLegendary spells you cast cost {1} less to cast for each card exiled with The Kenriths' Royal Funeral.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615958&type=card",
+        "multiverseId": "615958"
+    },
+    {
+        "name": "Kiora, Sovereign of the Deep",
+        "manaCost": "{3}{G}{U}",
+        "cmc": 5.0,
+        "colors": [
+            "G",
+            "U"
+        ],
+        "type": "Legendary Creature — Merfolk Noble",
+        "rarity": "Mythic",
+        "set": "MAT",
+        "text": "Vigilance, ward {3}\nWhenever you cast a Kraken, Leviathan, Octopus, or Serpent spell from your hand, look at the top X cards of your library, where X is that spell's mana value. You may cast a spell with mana value less than X from among them without paying its mana cost. Put the rest on the bottom of your library in a random order.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615959&type=card",
+        "multiverseId": "615959"
+    },
+    {
+        "name": "Nahiri, Forged in Fury",
+        "manaCost": "{4}{R}{W}",
+        "cmc": 6.0,
+        "colors": [
+            "R",
+            "W"
+        ],
+        "type": "Legendary Creature — Kor Artificer",
+        "rarity": "Mythic",
+        "set": "MAT",
+        "text": "Affinity for Equipment (This spell costs {1} less to cast for each Equipment you control.)\nWhenever an equipped creature you control attacks, exile the top card of your library. You may play that card this turn. You may cast Equipment spells this way without paying their mana costs.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615960&type=card",
+        "multiverseId": "615960"
+    },
+    {
+        "name": "Nahiri's Resolve",
+        "manaCost": "{3}{R}{W}",
+        "cmc": 5.0,
+        "colors": [
+            "R",
+            "W"
+        ],
+        "type": "Enchantment",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Creatures you control get +1/+0 and have haste.\nAt the beginning of your end step, exile any number of nontoken artifacts and/or creatures you control. Return those cards to the battlefield under their owner's control at the beginning of your next upkeep.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615961&type=card",
+        "multiverseId": "615961"
+    },
+    {
+        "name": "Narset, Enlightened Exile",
+        "manaCost": "{1}{U}{R}{W}",
+        "cmc": 4.0,
+        "colors": [
+            "R",
+            "U",
+            "W"
+        ],
+        "type": "Legendary Creature — Human Monk",
+        "rarity": "Mythic",
+        "set": "MAT",
+        "text": "Creatures you control have prowess.\nWhenever Narset, Enlightened Exile attacks, exile target noncreature, nonland card with mana value less than Narset's power from a graveyard and copy it. You may cast the copy without paying its mana cost.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615962&type=card",
+        "multiverseId": "615962"
+    },
+    {
+        "name": "Nashi, Moon's Legacy",
+        "manaCost": "{B}{G}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "B",
+            "G",
+            "U"
+        ],
+        "type": "Legendary Creature — Rat Shaman",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Menace, ward {1}\nWhenever Nashi, Moon's Legacy attacks, exile up to one target legendary or Rat card from your graveyard and copy it. You may cast the copy. (You still pay its costs. A copy of a permanent spell becomes a token.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615963&type=card",
+        "multiverseId": "615963"
+    },
+    {
+        "name": "Niv-Mizzet, Supreme",
+        "manaCost": "{W}{U}{B}{R}{G}",
+        "cmc": 5.0,
+        "colors": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "type": "Legendary Creature — Dragon Avatar",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Flying, hexproof from monocolored\nEach instant and sorcery card in your graveyard that's exactly two colors has jump-start. (You may cast that card from your graveyard by discarding a card in addition to paying its other costs. Then exile it.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615964&type=card",
+        "multiverseId": "615964"
+    },
+    {
+        "name": "Ob Nixilis, Captive Kingpin",
+        "manaCost": "{2}{B}{R}",
+        "cmc": 4.0,
+        "colors": [
+            "B",
+            "R"
+        ],
+        "type": "Legendary Creature — Demon",
+        "rarity": "Mythic",
+        "set": "MAT",
+        "text": "Flying, trample\nWhenever one or more opponents each lose exactly 1 life, put a +1/+1 counter on Ob Nixilis, Captive Kingpin. Exile the top card of your library. Until your next end step, you may play that card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615965&type=card",
+        "multiverseId": "615965"
+    },
+    {
+        "name": "Pia Nalaar, Consul of Revival",
+        "manaCost": "{R}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "R",
+            "W"
+        ],
+        "type": "Legendary Creature — Human Artificer",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Thopters you control have haste.\nWhenever you play a land from exile or cast a spell from exile, create a 1/1 colorless Thopter artifact creature token with flying.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615966&type=card",
+        "multiverseId": "615966"
+    },
+    {
+        "name": "Rebuild the City",
+        "manaCost": "{3}{B}{R}{G}",
+        "cmc": 6.0,
+        "colors": [
+            "B",
+            "G",
+            "R"
+        ],
+        "type": "Sorcery",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Choose target land. Create three tokens that are copies of it, except they're 3/3 creatures in addition to their other types and they have vigilance and menace. (They're affected by summoning sickness.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615967&type=card",
+        "multiverseId": "615967"
+    },
+    {
+        "name": "Rocco, Street Chef",
+        "manaCost": "{R}{G}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "G",
+            "R",
+            "W"
+        ],
+        "type": "Legendary Creature — Elf Druid",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "At the beginning of your end step, each player exiles the top card of their library. Until your next end step, each player may play the card they exiled this way.\nWhenever a player plays a land from exile or casts a spell from exile, you put a +1/+1 counter on target creature and create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this artifact: You gain 3 life.\")",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615968&type=card",
+        "multiverseId": "615968"
+    },
+    {
+        "name": "Samut, Vizier of Naktamun",
+        "manaCost": "{1}{R}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G",
+            "R"
+        ],
+        "type": "Legendary Creature — Human Warrior Cleric",
+        "rarity": "Mythic",
+        "set": "MAT",
+        "text": "First strike, vigilance, haste\nWhenever a creature you control deals combat damage to a player, if that creature entered the battlefield this turn, draw a card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615969&type=card",
+        "multiverseId": "615969"
+    },
+    {
+        "name": "Sarkhan, Soul Aflame",
+        "manaCost": "{1}{U}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R",
+            "U"
+        ],
+        "type": "Legendary Creature — Human Shaman",
+        "rarity": "Mythic",
+        "set": "MAT",
+        "text": "Dragon spells you cast cost {1} less to cast.\nWhenever a Dragon enters the battlefield under your control, you may have Sarkhan, Soul Aflame become a copy of it until end of turn, except its name is Sarkhan, Soul Aflame and it's legendary in addition to its other types.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615970&type=card",
+        "multiverseId": "615970"
+    },
+    {
+        "name": "Sigarda, Font of Blessings",
+        "manaCost": "{2}{G}{W}",
+        "cmc": 4.0,
+        "colors": [
+            "G",
+            "W"
+        ],
+        "type": "Legendary Creature — Angel",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Flying\nOther permanents you control have hexproof.\nYou may look at the top card of your library any time.\nYou may cast Angel spells and Human spells from the top of your library.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615971&type=card",
+        "multiverseId": "615971"
+    },
+    {
+        "name": "Tyvar the Bellicose",
+        "manaCost": "{2}{B}{G}",
+        "cmc": 4.0,
+        "colors": [
+            "B",
+            "G"
+        ],
+        "type": "Legendary Creature — Elf Warrior",
+        "rarity": "Mythic",
+        "set": "MAT",
+        "text": "Whenever one or more Elves you control attack, they gain deathtouch until end of turn.\nEach creature you control has \"Whenever a mana ability of this creature resolves, put a number of +1/+1 counters on it equal to the amount of mana this creature produced. This ability triggers only once each turn.\"",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615972&type=card",
+        "multiverseId": "615972"
+    },
+    {
+        "name": "Karn, Legacy Reforged",
+        "manaCost": "{5}",
+        "cmc": 5.0,
+        "colors": null,
+        "type": "Legendary Artifact Creature — Golem",
+        "rarity": "Mythic",
+        "set": "MAT",
+        "text": "Karn, Legacy Reforged's power and toughness are each equal to the greatest mana value among artifacts you control.\nAt the beginning of your upkeep, add {C} for each artifact you control. This mana can't be spent to cast nonartifact spells. Until end of turn, you don't lose this mana as steps and phases end.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615973&type=card",
+        "multiverseId": "615973"
+    },
+    {
+        "name": "Drannith Ruins",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Land",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "{T}: Add {C}.\n{2}, {T}: Put two +1/+1 counters on target non-Human creature that entered the battlefield this turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615974&type=card",
+        "multiverseId": "615974"
+    },
+    {
+        "name": "Coppercoat Vanguard",
+        "manaCost": "{1}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Human Soldier",
+        "rarity": "Uncommon",
+        "set": "MAT",
+        "text": "Each other Human you control gets +1/+0 and has ward {1}. (Whenever it becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615811&type=card",
+        "multiverseId": "615811"
+    },
+    {
+        "name": "Deification",
+        "manaCost": "{1}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Enchantment",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "As Deification enters the battlefield, choose a planeswalker type.\nPlaneswalkers you control of the chosen type have hexproof.\nAs long as you control a creature, if damage dealt to a planeswalker you control of the chosen type would result in all loyalty counters on it being removed, instead all but one of those counters are removed.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615812&type=card",
+        "multiverseId": "615812"
+    },
+    {
+        "name": "Harnessed Snubhorn",
+        "manaCost": "{3}{W}",
+        "cmc": 4.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Dinosaur",
+        "rarity": "Uncommon",
+        "set": "MAT",
+        "text": "Vigilance\nWhenever Harnessed Snubhorn deals combat damage to a player, return target artifact or enchantment card from your graveyard to the battlefield.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615813&type=card",
+        "multiverseId": "615813"
+    },
+    {
+        "name": "Metropolis Reformer",
+        "manaCost": "{2}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Angel Cleric",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Flying, vigilance\nYou have hexproof.\nWhenever Metropolis Reformer is dealt damage, you gain that much life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615814&type=card",
+        "multiverseId": "615814"
+    },
+    {
+        "name": "Tazri, Stalwart Survivor",
+        "manaCost": "{2}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Legendary Creature — Human Warrior",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Each creature you control has \"{T}: Add one mana of any of this creature's colors. Spend this mana only to activate an ability of a creature. Activate only if this creature has another activated ability.\"\n{W}{U}{B}{R}{G}, {T}: Mill five cards. Put all creature cards with activated abilities that aren't mana abilities from among the milled cards into your hand.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615815&type=card",
+        "multiverseId": "615815"
+    },
+    {
+        "name": "Filter Out",
+        "manaCost": "{1}{U}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon",
+        "set": "MAT",
+        "text": "Return all noncreature, nonland permanents to their owners' hands.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615816&type=card",
+        "multiverseId": "615816"
+    },
+    {
+        "name": "Tolarian Contempt",
+        "manaCost": "{3}{U}{U}",
+        "cmc": 5.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Enchantment",
+        "rarity": "Uncommon",
+        "set": "MAT",
+        "text": "When Tolarian Contempt enters the battlefield, put a rejection counter on each creature your opponents control.\nAt the beginning of your end step, for each opponent, choose up to one target creature they control with a rejection counter on it. That creature's owner puts it on the top or bottom of their library.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615817&type=card",
+        "multiverseId": "615817"
+    },
+    {
+        "name": "Training Grounds",
+        "manaCost": "{U}",
+        "cmc": 1.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Enchantment",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Activated abilities of creatures you control cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615818&type=card",
+        "multiverseId": "615818"
+    },
+    {
+        "name": "Vesuvan Drifter",
+        "manaCost": "{2}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Shapeshifter",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Flying\nYou may look at the top card of your library any time.\nAt the beginning of each combat, you may reveal the top card of your library. If you reveal a creature card this way, Vesuvan Drifter becomes a copy of that card until end of turn, except it has flying.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615819&type=card",
+        "multiverseId": "615819"
+    },
+    {
+        "name": "Ayara's Oathsworn",
+        "manaCost": "{1}{B}",
+        "cmc": 2.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Human Knight",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Menace\nWhenever Ayara's Oathsworn deals combat damage to a player, if it has fewer than four +1/+1 counters on it, put a +1/+1 counter on it. Then if it has exactly four +1/+1 counters on it, search your library for a card, put it into your hand, then shuffle.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615820&type=card",
+        "multiverseId": "615820"
+    },
+    {
+        "name": "Blot Out",
+        "manaCost": "{2}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon",
+        "set": "MAT",
+        "text": "Target opponent exiles a creature or planeswalker they control with the greatest mana value among creatures and planeswalkers they control.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615821&type=card",
+        "multiverseId": "615821"
+    },
+    {
+        "name": "Death-Rattle Oni",
+        "manaCost": "{6}{B}",
+        "cmc": 7.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Demon Spirit",
+        "rarity": "Uncommon",
+        "set": "MAT",
+        "text": "Flash\nThis spell costs {2} less to cast for each creature that died this turn.\nWhen Death-Rattle Oni enters the battlefield, destroy all other creatures that were dealt damage this turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615822&type=card",
+        "multiverseId": "615822"
+    },
+    {
+        "name": "Markov Baron",
+        "manaCost": "{2}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Vampire Noble",
+        "rarity": "Uncommon",
+        "set": "MAT",
+        "text": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nLifelink\nOther Vampires you control get +1/+1.\nMadness {2}{B} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615823&type=card",
+        "multiverseId": "615823"
+    },
+    {
+        "name": "Urborg Scavengers",
+        "manaCost": "{2}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Spirit",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Whenever Urborg Scavengers enters the battlefield or attacks, exile target card from a graveyard. Put a +1/+1 counter on Urborg Scavengers.\nUrborg Scavengers has flying as long as a card exiled with it has flying. The same is true for first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, menace, reach, trample, and vigilance.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615824&type=card",
+        "multiverseId": "615824"
+    },
+    {
+        "name": "Arni Metalbrow",
+        "manaCost": "{2}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Legendary Creature — Human Berserker",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Whenever a creature you control attacks or a creature enters the battlefield under your control attacking, you may pay {1}{R}. If you do, you may put a creature card with mana value less than that creature's mana value from your hand onto the battlefield tapped and attacking.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615825&type=card",
+        "multiverseId": "615825"
+    },
+    {
+        "name": "Kolaghan Warmonger",
+        "manaCost": "{2}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Ogre Warrior",
+        "rarity": "Uncommon",
+        "set": "MAT",
+        "text": "Haste\nWhenever Kolaghan Warmonger attacks, look at the top six cards of your library. You may reveal a Dragon card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615826&type=card",
+        "multiverseId": "615826"
+    },
+    {
+        "name": "Plargg and Nassari",
+        "manaCost": "{3}{R}{R}",
+        "cmc": 5.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Legendary Creature — Orc Efreet",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "At the beginning of your upkeep, each player exiles cards from the top of their library until they exile a nonland card. An opponent chooses a nonland card exiled this way. You may cast up to two spells from among the other cards exiled this way without paying their mana costs.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615827&type=card",
+        "multiverseId": "615827"
+    },
+    {
+        "name": "Reckless Handling",
+        "manaCost": "{1}{R}",
+        "cmc": 2.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "MAT",
+        "text": "Search your library for an artifact card, reveal it, put it into your hand, shuffle, then discard a card at random. If an artifact card was discarded this way, Reckless Handling deals 2 damage to each opponent.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615828&type=card",
+        "multiverseId": "615828"
+    },
+    {
+        "name": "Tranquil Frillback",
+        "manaCost": "{2}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Dinosaur",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "When Tranquil Frillback enters the battlefield, you may pay {G} up to three times. When you pay this cost one or more times, choose up to that many —\n• Destroy target artifact or enchantment.\n• Exile target player's graveyard.\n• You gain 4 life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615829&type=card",
+        "multiverseId": "615829"
+    },
+    {
+        "name": "Undercity Upheaval",
+        "manaCost": "{1}{G}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "MAT",
+        "text": "Undergrowth — Distribute X +1/+1 counters among any number of target creatures you control, where X is the number of creature cards in your graveyard as you cast this spell. Creatures you control gain vigilance until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615830&type=card",
+        "multiverseId": "615830"
+    },
+    {
+        "name": "Calix, Guided by Fate",
+        "manaCost": "{1}{G}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "G",
+            "W"
+        ],
+        "type": "Legendary Enchantment Creature — Human Druid",
+        "rarity": "Mythic",
+        "set": "MAT",
+        "text": "Constellation — Whenever Calix, Guided by Fate or another enchantment enters the battlefield under your control, put a +1/+1 counter on target creature.\nWhenever Calix or an enchanted creature you control deals combat damage to a player, you may create a token that's a copy of a nonlegendary enchantment you control. Do this only once each turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615831&type=card",
+        "multiverseId": "615831"
+    },
+    {
+        "name": "Campus Renovation",
+        "manaCost": "{3}{R}{W}",
+        "cmc": 5.0,
+        "colors": [
+            "R",
+            "W"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "MAT",
+        "text": "Return up to one target artifact or enchantment card from your graveyard to the battlefield. Exile the top two cards of your library. Until the end of your next turn, you may play those cards.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615832&type=card",
+        "multiverseId": "615832"
+    },
+    {
+        "name": "Cosmic Rebirth",
+        "manaCost": "{1}{G}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "G",
+            "W"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon",
+        "set": "MAT",
+        "text": "Choose target permanent card in your graveyard. If it has mana value 3 or less, you may put it onto the battlefield. If you don't put it onto the battlefield, put it into your hand.\nYou gain 3 life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615833&type=card",
+        "multiverseId": "615833"
+    },
+    {
+        "name": "Danitha, New Benalia's Light",
+        "manaCost": "{1}{G}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "G",
+            "W"
+        ],
+        "type": "Legendary Creature — Human Knight",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Vigilance, trample, lifelink\nOnce during each of your turns, you may cast an Aura or Equipment spell from your graveyard.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615834&type=card",
+        "multiverseId": "615834"
+    },
+    {
+        "name": "Feast of the Victorious Dead",
+        "manaCost": "{W}{B}",
+        "cmc": 2.0,
+        "colors": [
+            "B",
+            "W"
+        ],
+        "type": "Enchantment",
+        "rarity": "Uncommon",
+        "set": "MAT",
+        "text": "At the beginning of your end step, if one or more creatures died this turn, you gain that much life and distribute that many +1/+1 counters among creatures you control.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615835&type=card",
+        "multiverseId": "615835"
+    },
+    {
+        "name": "Gold-Forged Thopteryx",
+        "manaCost": "{W}{U}",
+        "cmc": 2.0,
+        "colors": [
+            "U",
+            "W"
+        ],
+        "type": "Artifact Creature — Dinosaur Thopter",
+        "rarity": "Uncommon",
+        "set": "MAT",
+        "text": "Flying, lifelink\nEach legendary permanent you control has ward {2}. (Whenever it becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615836&type=card",
+        "multiverseId": "615836"
+    },
+    {
+        "name": "Jirina, Dauntless General",
+        "manaCost": "{W}{B}",
+        "cmc": 2.0,
+        "colors": [
+            "B",
+            "W"
+        ],
+        "type": "Legendary Creature — Human Soldier",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "When Jirina, Dauntless General enters the battlefield, exile target player's graveyard.\nSacrifice Jirina: Humans you control gain hexproof and indestructible until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615837&type=card",
+        "multiverseId": "615837"
+    },
+    {
+        "name": "The Kenriths' Royal Funeral",
+        "manaCost": "{2}{W}{B}",
+        "cmc": 4.0,
+        "colors": [
+            "B",
+            "W"
+        ],
+        "type": "Legendary Enchantment",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "When The Kenriths' Royal Funeral enters the battlefield, exile up to two target legendary creature cards from your graveyard. You draw X cards and you lose X life, where X is the greatest mana value among cards exiled this way.\nLegendary spells you cast cost {1} less to cast for each card exiled with The Kenriths' Royal Funeral.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615838&type=card",
+        "multiverseId": "615838"
+    },
+    {
+        "name": "Kiora, Sovereign of the Deep",
+        "manaCost": "{3}{G}{U}",
+        "cmc": 5.0,
+        "colors": [
+            "G",
+            "U"
+        ],
+        "type": "Legendary Creature — Merfolk Noble",
+        "rarity": "Mythic",
+        "set": "MAT",
+        "text": "Vigilance, ward {3}\nWhenever you cast a Kraken, Leviathan, Octopus, or Serpent spell from your hand, look at the top X cards of your library, where X is that spell's mana value. You may cast a spell with mana value less than X from among them without paying its mana cost. Put the rest on the bottom of your library in a random order.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615839&type=card",
+        "multiverseId": "615839"
+    },
+    {
+        "name": "Nahiri, Forged in Fury",
+        "manaCost": "{4}{R}{W}",
+        "cmc": 6.0,
+        "colors": [
+            "R",
+            "W"
+        ],
+        "type": "Legendary Creature — Kor Artificer",
+        "rarity": "Mythic",
+        "set": "MAT",
+        "text": "Affinity for Equipment (This spell costs {1} less to cast for each Equipment you control.)\nWhenever an equipped creature you control attacks, exile the top card of your library. You may play that card this turn. You may cast Equipment spells this way without paying their mana costs.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615840&type=card",
+        "multiverseId": "615840"
+    },
+    {
+        "name": "Nahiri's Resolve",
+        "manaCost": "{3}{R}{W}",
+        "cmc": 5.0,
+        "colors": [
+            "R",
+            "W"
+        ],
+        "type": "Enchantment",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Creatures you control get +1/+0 and have haste.\nAt the beginning of your end step, exile any number of nontoken artifacts and/or creatures you control. Return those cards to the battlefield under their owner's control at the beginning of your next upkeep.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615841&type=card",
+        "multiverseId": "615841"
+    },
+    {
+        "name": "Narset, Enlightened Exile",
+        "manaCost": "{1}{U}{R}{W}",
+        "cmc": 4.0,
+        "colors": [
+            "R",
+            "U",
+            "W"
+        ],
+        "type": "Legendary Creature — Human Monk",
+        "rarity": "Mythic",
+        "set": "MAT",
+        "text": "Creatures you control have prowess.\nWhenever Narset, Enlightened Exile attacks, exile target noncreature, nonland card with mana value less than Narset's power from a graveyard and copy it. You may cast the copy without paying its mana cost.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615842&type=card",
+        "multiverseId": "615842"
+    },
+    {
+        "name": "Nashi, Moon's Legacy",
+        "manaCost": "{B}{G}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "B",
+            "G",
+            "U"
+        ],
+        "type": "Legendary Creature — Rat Shaman",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Menace, ward {1}\nWhenever Nashi, Moon's Legacy attacks, exile up to one target legendary or Rat card from your graveyard and copy it. You may cast the copy. (You still pay its costs. A copy of a permanent spell becomes a token.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615843&type=card",
+        "multiverseId": "615843"
+    },
+    {
+        "name": "Niv-Mizzet, Supreme",
+        "manaCost": "{W}{U}{B}{R}{G}",
+        "cmc": 5.0,
+        "colors": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "type": "Legendary Creature — Dragon Avatar",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Flying, hexproof from monocolored\nEach instant and sorcery card in your graveyard that's exactly two colors has jump-start. (You may cast that card from your graveyard by discarding a card in addition to paying its other costs. Then exile it.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615844&type=card",
+        "multiverseId": "615844"
+    },
+    {
+        "name": "Ob Nixilis, Captive Kingpin",
+        "manaCost": "{2}{B}{R}",
+        "cmc": 4.0,
+        "colors": [
+            "B",
+            "R"
+        ],
+        "type": "Legendary Creature — Demon",
+        "rarity": "Mythic",
+        "set": "MAT",
+        "text": "Flying, trample\nWhenever one or more opponents each lose exactly 1 life, put a +1/+1 counter on Ob Nixilis, Captive Kingpin. Exile the top card of your library. Until your next end step, you may play that card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615845&type=card",
+        "multiverseId": "615845"
+    },
+    {
+        "name": "Pia Nalaar, Consul of Revival",
+        "manaCost": "{R}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "R",
+            "W"
+        ],
+        "type": "Legendary Creature — Human Artificer",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Thopters you control have haste.\nWhenever you play a land from exile or cast a spell from exile, create a 1/1 colorless Thopter artifact creature token with flying.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615846&type=card",
+        "multiverseId": "615846"
+    },
+    {
+        "name": "Rebuild the City",
+        "manaCost": "{3}{B}{R}{G}",
+        "cmc": 6.0,
+        "colors": [
+            "B",
+            "G",
+            "R"
+        ],
+        "type": "Sorcery",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Choose target land. Create three tokens that are copies of it, except they're 3/3 creatures in addition to their other types and they have vigilance and menace. (They're affected by summoning sickness.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615847&type=card",
+        "multiverseId": "615847"
+    },
+    {
+        "name": "Rocco, Street Chef",
+        "manaCost": "{R}{G}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "G",
+            "R",
+            "W"
+        ],
+        "type": "Legendary Creature — Elf Druid",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "At the beginning of your end step, each player exiles the top card of their library. Until your next end step, each player may play the card they exiled this way.\nWhenever a player plays a land from exile or casts a spell from exile, you put a +1/+1 counter on target creature and create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this artifact: You gain 3 life.\")",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615848&type=card",
+        "multiverseId": "615848"
+    },
+    {
+        "name": "Samut, Vizier of Naktamun",
+        "manaCost": "{1}{R}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G",
+            "R"
+        ],
+        "type": "Legendary Creature — Human Warrior Cleric",
+        "rarity": "Mythic",
+        "set": "MAT",
+        "text": "First strike, vigilance, haste\nWhenever a creature you control deals combat damage to a player, if that creature entered the battlefield this turn, draw a card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615849&type=card",
+        "multiverseId": "615849"
+    },
+    {
+        "name": "Sarkhan, Soul Aflame",
+        "manaCost": "{1}{U}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R",
+            "U"
+        ],
+        "type": "Legendary Creature — Human Shaman",
+        "rarity": "Mythic",
+        "set": "MAT",
+        "text": "Dragon spells you cast cost {1} less to cast.\nWhenever a Dragon enters the battlefield under your control, you may have Sarkhan, Soul Aflame become a copy of it until end of turn, except its name is Sarkhan, Soul Aflame and it's legendary in addition to its other types.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615850&type=card",
+        "multiverseId": "615850"
+    },
+    {
+        "name": "Sigarda, Font of Blessings",
+        "manaCost": "{2}{G}{W}",
+        "cmc": 4.0,
+        "colors": [
+            "G",
+            "W"
+        ],
+        "type": "Legendary Creature — Angel",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "Flying\nOther permanents you control have hexproof.\nYou may look at the top card of your library any time.\nYou may cast Angel spells and Human spells from the top of your library.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615851&type=card",
+        "multiverseId": "615851"
+    },
+    {
+        "name": "Tyvar the Bellicose",
+        "manaCost": "{2}{B}{G}",
+        "cmc": 4.0,
+        "colors": [
+            "B",
+            "G"
+        ],
+        "type": "Legendary Creature — Elf Warrior",
+        "rarity": "Mythic",
+        "set": "MAT",
+        "text": "Whenever one or more Elves you control attack, they gain deathtouch until end of turn.\nEach creature you control has \"Whenever a mana ability of this creature resolves, put a number of +1/+1 counters on it equal to the amount of mana this creature produced. This ability triggers only once each turn.\"",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615852&type=card",
+        "multiverseId": "615852"
+    },
+    {
+        "name": "Drannith Ruins",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Land",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "{T}: Add {C}.\n{2}, {T}: Put two +1/+1 counters on target non-Human creature that entered the battlefield this turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615853&type=card",
+        "multiverseId": "615853"
+    },
+    {
+        "name": "Spark Rupture",
+        "manaCost": "{2}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Enchantment",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "When Spark Rupture enters the battlefield, draw a card.\nEach planeswalker with one or more loyalty counters on it loses all abilities and is a creature with power and toughness each equal to the number of loyalty counters on it.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615802&type=card",
+        "multiverseId": "615802"
+    },
+    {
+        "name": "Jolrael, Voice of Zhalfir",
+        "manaCost": "{2}{G}{U}",
+        "cmc": 4.0,
+        "colors": [
+            "G",
+            "U"
+        ],
+        "type": "Legendary Creature — Human Druid",
+        "rarity": "Rare",
+        "set": "MAT",
+        "text": "At the beginning of combat on your turn, up to one target land you control becomes an X/X green and blue Bird creature with flying and haste until end of turn, where X is the number of cards in your hand. It's still a land.\nWhenever a land creature you control deals combat damage to a player, draw a card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=615803&type=card",
+        "multiverseId": "615803"
+    }
+]

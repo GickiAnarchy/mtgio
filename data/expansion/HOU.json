@@ -1,0 +1,2991 @@
+[
+    {
+        "name": "Act of Heroism",
+        "manaCost": "{1}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "Untap target creature. It gets +2/+2 until end of turn and can block an additional creature this turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430690&type=card",
+        "multiverseId": "430690"
+    },
+    {
+        "name": "Adorned Pouncer",
+        "manaCost": "{1}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Cat",
+        "rarity": "Rare",
+        "set": "HOU",
+        "text": "Double strike\nEternalize {3}{W}{W} ({3}{W}{W}, Exile this card from your graveyard: Create a token that's a copy of it, except it's a 4/4 black Zombie Cat with no mana cost. Eternalize only as a sorcery.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430691&type=card",
+        "multiverseId": "430691"
+    },
+    {
+        "name": "Angel of Condemnation",
+        "manaCost": "{2}{W}{W}",
+        "cmc": 4.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Angel",
+        "rarity": "Rare",
+        "set": "HOU",
+        "text": "Flying, vigilance\n{2}{W}, {T}: Exile another target creature. Return that card to the battlefield under its owner's control at the beginning of the next end step.\n{2}{W}, {T}, Exert Angel of Condemnation: Exile another target creature until Angel of Condemnation leaves the battlefield. (An exerted creature won't untap during your next untap step.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430692&type=card",
+        "multiverseId": "430692"
+    },
+    {
+        "name": "Angel of the God-Pharaoh",
+        "manaCost": "{4}{W}{W}",
+        "cmc": 6.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Angel",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "Flying\nCycling {2} ({2}, Discard this card: Draw a card.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430693&type=card",
+        "multiverseId": "430693"
+    },
+    {
+        "name": "Aven of Enduring Hope",
+        "manaCost": "{4}{W}",
+        "cmc": 5.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Bird Cleric",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "Flying\nWhen Aven of Enduring Hope enters the battlefield, you gain 3 life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430694&type=card",
+        "multiverseId": "430694"
+    },
+    {
+        "name": "Crested Sunmare",
+        "manaCost": "{3}{W}{W}",
+        "cmc": 5.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Horse",
+        "rarity": "Mythic",
+        "set": "HOU",
+        "text": "Other Horses you control have indestructible.\nAt the beginning of each end step, if you gained life this turn, create a 5/5 white Horse creature token.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430695&type=card",
+        "multiverseId": "430695"
+    },
+    {
+        "name": "Dauntless Aven",
+        "manaCost": "{2}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Bird Warrior",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "Flying\nWhenever Dauntless Aven attacks, untap target creature you control.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430696&type=card",
+        "multiverseId": "430696"
+    },
+    {
+        "name": "Desert's Hold",
+        "manaCost": "{2}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "Enchant creature\nWhen Desert's Hold enters the battlefield, if you control a Desert or there is a Desert card in your graveyard, you gain 3 life.\nEnchanted creature can't attack or block, and its activated abilities can't be activated.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430697&type=card",
+        "multiverseId": "430697"
+    },
+    {
+        "name": "Disposal Mummy",
+        "manaCost": "{2}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Zombie Jackal",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "When Disposal Mummy enters the battlefield, exile target card from an opponent's graveyard.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430698&type=card",
+        "multiverseId": "430698"
+    },
+    {
+        "name": "Djeru, With Eyes Open",
+        "manaCost": "{3}{W}{W}",
+        "cmc": 5.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Legendary Creature — Human Warrior",
+        "rarity": "Rare",
+        "set": "HOU",
+        "text": "Vigilance\nWhen Djeru, With Eyes Open enters the battlefield, you may search your library for a planeswalker card, reveal it, put it into your hand, then shuffle.\nIf a source would deal damage to a planeswalker you control, prevent 1 of that damage.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430699&type=card",
+        "multiverseId": "430699"
+    },
+    {
+        "name": "Djeru's Renunciation",
+        "manaCost": "{1}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "Tap up to two target creatures.\nCycling {W} ({W}, Discard this card: Draw a card.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430700&type=card",
+        "multiverseId": "430700"
+    },
+    {
+        "name": "Dutiful Servants",
+        "manaCost": "{3}{W}",
+        "cmc": 4.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Zombie",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": null,
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430701&type=card",
+        "multiverseId": "430701"
+    },
+    {
+        "name": "Gideon's Defeat",
+        "manaCost": "{W}",
+        "cmc": 1.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "Exile target white creature that's attacking or blocking. If it was a Gideon planeswalker, you gain 5 life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430702&type=card",
+        "multiverseId": "430702"
+    },
+    {
+        "name": "God-Pharaoh's Faithful",
+        "manaCost": "{W}",
+        "cmc": 1.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Human Wizard",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "Whenever you cast a blue, black, or red spell, you gain 1 life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430703&type=card",
+        "multiverseId": "430703"
+    },
+    {
+        "name": "Hour of Revelation",
+        "manaCost": "{3}{W}{W}{W}",
+        "cmc": 6.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Sorcery",
+        "rarity": "Rare",
+        "set": "HOU",
+        "text": "This spell costs {3} less to cast if there are ten or more nonland permanents on the battlefield.\nDestroy all nonland permanents.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430704&type=card",
+        "multiverseId": "430704"
+    },
+    {
+        "name": "Mummy Paramount",
+        "manaCost": "{1}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Zombie",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "Whenever another Zombie enters the battlefield under your control, Mummy Paramount gets +1/+1 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430705&type=card",
+        "multiverseId": "430705"
+    },
+    {
+        "name": "Oketra's Avenger",
+        "manaCost": "{1}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Human Warrior",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "You may exert Oketra's Avenger as it attacks. When you do, prevent all combat damage that would be dealt to it this turn. (An exerted creature won't untap during your next untap step.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430706&type=card",
+        "multiverseId": "430706"
+    },
+    {
+        "name": "Oketra's Last Mercy",
+        "manaCost": "{1}{W}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Sorcery",
+        "rarity": "Rare",
+        "set": "HOU",
+        "text": "Your life total becomes equal to your starting life total. Lands you control don't untap during your next untap step.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430707&type=card",
+        "multiverseId": "430707"
+    },
+    {
+        "name": "Overwhelming Splendor",
+        "manaCost": "{6}{W}{W}",
+        "cmc": 8.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Enchantment — Aura Curse",
+        "rarity": "Mythic",
+        "set": "HOU",
+        "text": "Enchant player\nCreatures enchanted player controls lose all abilities and have base power and toughness 1/1.\nEnchanted player can't activate abilities that aren't mana abilities or loyalty abilities.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430708&type=card",
+        "multiverseId": "430708"
+    },
+    {
+        "name": "Sandblast",
+        "manaCost": "{2}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "Sandblast deals 5 damage to target attacking or blocking creature.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430709&type=card",
+        "multiverseId": "430709"
+    },
+    {
+        "name": "Saving Grace",
+        "manaCost": "{1}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "Flash\nEnchant creature you control\nWhen Saving Grace enters the battlefield, all damage that would be dealt this turn to you and permanents you control is dealt to enchanted creature instead.\nEnchanted creature gets +0/+3.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430710&type=card",
+        "multiverseId": "430710"
+    },
+    {
+        "name": "Solemnity",
+        "manaCost": "{2}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Enchantment",
+        "rarity": "Rare",
+        "set": "HOU",
+        "text": "Players can't get counters.\nCounters can't be put on artifacts, creatures, enchantments, or lands.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430711&type=card",
+        "multiverseId": "430711"
+    },
+    {
+        "name": "Solitary Camel",
+        "manaCost": "{2}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Camel",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "Solitary Camel has lifelink as long as you control a Desert or there is a Desert card in your graveyard. (Damage dealt by this creature also causes you to gain that much life.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430712&type=card",
+        "multiverseId": "430712"
+    },
+    {
+        "name": "Steadfast Sentinel",
+        "manaCost": "{3}{W}",
+        "cmc": 4.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Human Cleric",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "Vigilance\nEternalize {4}{W}{W} ({4}{W}{W}, Exile this card from your graveyard: Create a token that's a copy of it, except it's a 4/4 black Zombie Human Cleric with no mana cost. Eternalize only as a sorcery.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430713&type=card",
+        "multiverseId": "430713"
+    },
+    {
+        "name": "Steward of Solidarity",
+        "manaCost": "{1}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Human Warrior",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "{T}, Exert Steward of Solidarity: Create a 1/1 white Warrior creature token with vigilance. (An exerted creature won't untap during your next untap step.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430714&type=card",
+        "multiverseId": "430714"
+    },
+    {
+        "name": "Sunscourge Champion",
+        "manaCost": "{2}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Human Wizard",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "When Sunscourge Champion enters the battlefield, you gain life equal to its power.\nEternalize—{2}{W}{W}, Discard a card. ({2}{W}{W}, Discard a card, Exile this card from your graveyard: Create a token that's a copy of it, except it's a 4/4 black Zombie Human Wizard with no mana cost. Eternalize only as a sorcery.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430715&type=card",
+        "multiverseId": "430715"
+    },
+    {
+        "name": "Unconventional Tactics",
+        "manaCost": "{2}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "Target creature gets +3/+3 and gains flying until end of turn.\nWhenever a Zombie enters the battlefield under your control, you may pay {W}. If you do, return Unconventional Tactics from your graveyard to your hand.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430716&type=card",
+        "multiverseId": "430716"
+    },
+    {
+        "name": "Vizier of the True",
+        "manaCost": "{3}{W}",
+        "cmc": 4.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Human Cleric",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "You may exert Vizier of the True as it attacks. (It won't untap during your next untap step.)\nWhenever you exert a creature, tap target creature an opponent controls.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430717&type=card",
+        "multiverseId": "430717"
+    },
+    {
+        "name": "Aerial Guide",
+        "manaCost": "{2}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Drake",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "Flying\nWhenever Aerial Guide attacks, another target attacking creature gains flying until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430718&type=card",
+        "multiverseId": "430718"
+    },
+    {
+        "name": "Aven Reedstalker",
+        "manaCost": "{3}{U}",
+        "cmc": 4.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Bird Warrior",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "Flash\nFlying",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430719&type=card",
+        "multiverseId": "430719"
+    },
+    {
+        "name": "Champion of Wits",
+        "manaCost": "{2}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Naga Wizard",
+        "rarity": "Rare",
+        "set": "HOU",
+        "text": "When Champion of Wits enters the battlefield, you may draw cards equal to its power. If you do, discard two cards.\nEternalize {5}{U}{U} ({5}{U}{U}, Exile this card from your graveyard: Create a token that's a copy of it, except it's a 4/4 black Zombie Naga Wizard with no mana cost. Eternalize only as a sorcery.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430720&type=card",
+        "multiverseId": "430720"
+    },
+    {
+        "name": "Countervailing Winds",
+        "manaCost": "{2}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "Counter target spell unless its controller pays {1} for each card in your graveyard.\nCycling {2} ({2}, Discard this card: Draw a card.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430721&type=card",
+        "multiverseId": "430721"
+    },
+    {
+        "name": "Cunning Survivor",
+        "manaCost": "{1}{U}",
+        "cmc": 2.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Human Warrior",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "Whenever you cycle or discard a card, Cunning Survivor gets +1/+0 until end of turn and can't be blocked this turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430722&type=card",
+        "multiverseId": "430722"
+    },
+    {
+        "name": "Eternal of Harsh Truths",
+        "manaCost": "{2}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Zombie Cleric",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "Afflict 2 (Whenever this creature becomes blocked, defending player loses 2 life.)\nWhenever Eternal of Harsh Truths attacks and isn't blocked, draw a card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430723&type=card",
+        "multiverseId": "430723"
+    },
+    {
+        "name": "Fraying Sanity",
+        "manaCost": "{2}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Enchantment — Aura Curse",
+        "rarity": "Rare",
+        "set": "HOU",
+        "text": "Enchant player\nAt the beginning of each end step, enchanted player mills X cards, where X is the number of cards put into their graveyard from anywhere this turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430724&type=card",
+        "multiverseId": "430724"
+    },
+    {
+        "name": "Hour of Eternity",
+        "manaCost": "{X}{X}{U}{U}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Sorcery",
+        "rarity": "Rare",
+        "set": "HOU",
+        "text": "Exile X target creature cards from your graveyard. For each card exiled this way, create a token that's a copy of that card, except it's a 4/4 black Zombie.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430725&type=card",
+        "multiverseId": "430725"
+    },
+    {
+        "name": "Imaginary Threats",
+        "manaCost": "{2}{U}{U}",
+        "cmc": 4.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "Creatures target opponent controls attack this turn if able. During that player's next untap step, creatures they control don't untap.\nCycling {2} ({2}, Discard this card: Draw a card.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430726&type=card",
+        "multiverseId": "430726"
+    },
+    {
+        "name": "Jace's Defeat",
+        "manaCost": "{1}{U}",
+        "cmc": 2.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "Counter target blue spell. If it was a Jace planeswalker spell, scry 2.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430727&type=card",
+        "multiverseId": "430727"
+    },
+    {
+        "name": "Kefnet's Last Word",
+        "manaCost": "{2}{U}{U}",
+        "cmc": 4.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Sorcery",
+        "rarity": "Rare",
+        "set": "HOU",
+        "text": "Gain control of target artifact, creature, or enchantment. Lands you control don't untap during your next untap step.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430728&type=card",
+        "multiverseId": "430728"
+    },
+    {
+        "name": "Nimble Obstructionist",
+        "manaCost": "{2}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Bird Wizard",
+        "rarity": "Rare",
+        "set": "HOU",
+        "text": "Flash\nFlying\nCycling {2}{U} ({2}{U}, Discard this card: Draw a card.)\nWhen you cycle Nimble Obstructionist, counter target activated or triggered ability you don't control.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430729&type=card",
+        "multiverseId": "430729"
+    },
+    {
+        "name": "Ominous Sphinx",
+        "manaCost": "{3}{U}{U}",
+        "cmc": 5.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Sphinx",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "Flying\nWhenever you cycle or discard a card, target creature an opponent controls gets -2/-0 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430730&type=card",
+        "multiverseId": "430730"
+    },
+    {
+        "name": "Proven Combatant",
+        "manaCost": "{U}",
+        "cmc": 1.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Human Warrior",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "Eternalize {4}{U}{U} ({4}{U}{U}, Exile this card from your graveyard: Create a token that's a copy of it, except it's a 4/4 black Zombie Human Warrior with no mana cost. Eternalize only as a sorcery.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430731&type=card",
+        "multiverseId": "430731"
+    },
+    {
+        "name": "Riddleform",
+        "manaCost": "{1}{U}",
+        "cmc": 2.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Enchantment",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "Whenever you cast a noncreature spell, you may have Riddleform become a 3/3 Sphinx creature with flying in addition to its other types until end of turn.\n{2}{U}: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430732&type=card",
+        "multiverseId": "430732"
+    },
+    {
+        "name": "Seer of the Last Tomorrow",
+        "manaCost": "{2}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Naga Cleric",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "{U}, {T}, Discard a card: Target player mills three cards.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430733&type=card",
+        "multiverseId": "430733"
+    },
+    {
+        "name": "Sinuous Striker",
+        "manaCost": "{2}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Naga Warrior",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "{U}: Sinuous Striker gets +1/-1 until end of turn.\nEternalize—{3}{U}{U}, Discard a card. ({3}{U}{U}, Discard a card, Exile this card from your graveyard: Create a token that's a copy of it, except it's a 4/4 black Zombie Naga Warrior with no mana cost. Eternalize only as a sorcery.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430734&type=card",
+        "multiverseId": "430734"
+    },
+    {
+        "name": "Spellweaver Eternal",
+        "manaCost": "{1}{U}",
+        "cmc": 2.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Zombie Naga Wizard",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nAfflict 2 (Whenever this creature becomes blocked, defending player loses 2 life.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430735&type=card",
+        "multiverseId": "430735"
+    },
+    {
+        "name": "Strategic Planning",
+        "manaCost": "{1}{U}",
+        "cmc": 2.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Sorcery",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430736&type=card",
+        "multiverseId": "430736"
+    },
+    {
+        "name": "Striped Riverwinder",
+        "manaCost": "{6}{U}",
+        "cmc": 7.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Serpent",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "Hexproof (This creature can't be the target of spells or abilities your opponents control.)\nCycling {U} ({U}, Discard this card: Draw a card.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430737&type=card",
+        "multiverseId": "430737"
+    },
+    {
+        "name": "Supreme Will",
+        "manaCost": "{2}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "Choose one —\n• Counter target spell unless its controller pays {3}.\n• Look at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430738&type=card",
+        "multiverseId": "430738"
+    },
+    {
+        "name": "Swarm Intelligence",
+        "manaCost": "{6}{U}",
+        "cmc": 7.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Enchantment",
+        "rarity": "Rare",
+        "set": "HOU",
+        "text": "Whenever you cast an instant or sorcery spell, you may copy that spell. You may choose new targets for the copy.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430739&type=card",
+        "multiverseId": "430739"
+    },
+    {
+        "name": "Tragic Lesson",
+        "manaCost": "{2}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "Draw two cards. Then discard a card unless you return a land you control to its owner's hand.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430740&type=card",
+        "multiverseId": "430740"
+    },
+    {
+        "name": "Unesh, Criosphinx Sovereign",
+        "manaCost": "{4}{U}{U}",
+        "cmc": 6.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Legendary Creature — Sphinx",
+        "rarity": "Mythic",
+        "set": "HOU",
+        "text": "Flying\nSphinx spells you cast cost {2} less to cast.\nWhenever Unesh, Criosphinx Sovereign or another Sphinx enters the battlefield under your control, reveal the top four cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430741&type=card",
+        "multiverseId": "430741"
+    },
+    {
+        "name": "Unquenchable Thirst",
+        "manaCost": "{1}{U}",
+        "cmc": 2.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "Enchant creature\nWhen Unquenchable Thirst enters the battlefield, if you control a Desert or there is a Desert card in your graveyard, tap enchanted creature.\nEnchanted creature doesn't untap during its controller's untap step.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430742&type=card",
+        "multiverseId": "430742"
+    },
+    {
+        "name": "Unsummon",
+        "manaCost": "{U}",
+        "cmc": 1.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "Return target creature to its owner's hand.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430743&type=card",
+        "multiverseId": "430743"
+    },
+    {
+        "name": "Vizier of the Anointed",
+        "manaCost": "{3}{U}",
+        "cmc": 4.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Human Cleric",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "When Vizier of the Anointed enters the battlefield, you may search your library for a creature card with eternalize or embalm, put that card into your graveyard, then shuffle.\nWhenever you activate an eternalize or embalm ability, draw a card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430744&type=card",
+        "multiverseId": "430744"
+    },
+    {
+        "name": "Accursed Horde",
+        "manaCost": "{3}{B}",
+        "cmc": 4.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Zombie",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "{1}{B}: Target attacking Zombie gains indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it. If its toughness is 0 or less, it's still put into its owner's graveyard.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430745&type=card",
+        "multiverseId": "430745"
+    },
+    {
+        "name": "Ammit Eternal",
+        "manaCost": "{2}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Zombie Crocodile Demon",
+        "rarity": "Rare",
+        "set": "HOU",
+        "text": "Afflict 3 (Whenever this creature becomes blocked, defending player loses 3 life.)\nWhenever an opponent casts a spell, put a -1/-1 counter on Ammit Eternal.\nWhenever Ammit Eternal deals combat damage to a player, remove all -1/-1 counters from it.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430746&type=card",
+        "multiverseId": "430746"
+    },
+    {
+        "name": "Apocalypse Demon",
+        "manaCost": "{4}{B}{B}",
+        "cmc": 6.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Demon",
+        "rarity": "Rare",
+        "set": "HOU",
+        "text": "Flying\nApocalypse Demon's power and toughness are each equal to the number of cards in your graveyard.\nAt the beginning of your upkeep, tap Apocalypse Demon unless you sacrifice another creature.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430747&type=card",
+        "multiverseId": "430747"
+    },
+    {
+        "name": "Banewhip Punisher",
+        "manaCost": "{2}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Human Warrior",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "When Banewhip Punisher enters the battlefield, you may put a -1/-1 counter on target creature.\n{B}, Sacrifice Banewhip Punisher: Destroy target creature that has a -1/-1 counter on it.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430748&type=card",
+        "multiverseId": "430748"
+    },
+    {
+        "name": "Bontu's Last Reckoning",
+        "manaCost": "{1}{B}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Sorcery",
+        "rarity": "Rare",
+        "set": "HOU",
+        "text": "Destroy all creatures. Lands you control don't untap during your next untap step.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430749&type=card",
+        "multiverseId": "430749"
+    },
+    {
+        "name": "Carrion Screecher",
+        "manaCost": "{3}{B}",
+        "cmc": 4.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Zombie Bird",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "Flying",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430750&type=card",
+        "multiverseId": "430750"
+    },
+    {
+        "name": "Doomfall",
+        "manaCost": "{2}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "Choose one —\n• Target opponent exiles a creature they control.\n• Target opponent reveals their hand. You choose a nonland card from it. Exile that card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430751&type=card",
+        "multiverseId": "430751"
+    },
+    {
+        "name": "Dreamstealer",
+        "manaCost": "{2}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Human Wizard",
+        "rarity": "Rare",
+        "set": "HOU",
+        "text": "Menace\nWhenever Dreamstealer deals combat damage to a player, that player discards that many cards.\nEternalize {4}{B}{B} ({4}{B}{B}, Exile this card from your graveyard: Create a token that's a copy of it, except it's a 4/4 black Zombie Human Wizard with no mana cost. Eternalize only as a sorcery.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430752&type=card",
+        "multiverseId": "430752"
+    },
+    {
+        "name": "Grisly Survivor",
+        "manaCost": "{2}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Minotaur Warrior",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "Whenever you cycle or discard a card, Grisly Survivor gets +2/+0 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430753&type=card",
+        "multiverseId": "430753"
+    },
+    {
+        "name": "Hour of Glory",
+        "manaCost": "{3}{B}",
+        "cmc": 4.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Instant",
+        "rarity": "Rare",
+        "set": "HOU",
+        "text": "Exile target creature. If that creature was a God, its controller reveals their hand and exiles all cards from it with the same name as that creature.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430754&type=card",
+        "multiverseId": "430754"
+    },
+    {
+        "name": "Khenra Eternal",
+        "manaCost": "{1}{B}",
+        "cmc": 2.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Zombie Jackal Warrior",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "Afflict 1 (Whenever this creature becomes blocked, defending player loses 1 life.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430755&type=card",
+        "multiverseId": "430755"
+    },
+    {
+        "name": "Lethal Sting",
+        "manaCost": "{2}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Sorcery",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "As an additional cost to cast this spell, put a -1/-1 counter on a creature you control.\nDestroy target creature.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430756&type=card",
+        "multiverseId": "430756"
+    },
+    {
+        "name": "Liliana's Defeat",
+        "manaCost": "{B}",
+        "cmc": 1.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "Destroy target black creature or black planeswalker. If that permanent was a Liliana planeswalker, her controller loses 3 life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430757&type=card",
+        "multiverseId": "430757"
+    },
+    {
+        "name": "Lurching Rotbeast",
+        "manaCost": "{3}{B}",
+        "cmc": 4.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Zombie Beast",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "Cycling {B} ({B}, Discard this card: Draw a card.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430758&type=card",
+        "multiverseId": "430758"
+    },
+    {
+        "name": "Marauding Boneslasher",
+        "manaCost": "{2}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Zombie Minotaur",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "Marauding Boneslasher can't block unless you control another Zombie.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430759&type=card",
+        "multiverseId": "430759"
+    },
+    {
+        "name": "Merciless Eternal",
+        "manaCost": "{2}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Zombie Cleric",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "Afflict 2 (Whenever this creature becomes blocked, defending player loses 2 life.)\n{2}{B}, Discard a card: Merciless Eternal gets +2/+2 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430760&type=card",
+        "multiverseId": "430760"
+    },
+    {
+        "name": "Moaning Wall",
+        "manaCost": "{2}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Zombie Wall",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "Defender\nCycling {2} ({2}, Discard this card: Draw a card.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430761&type=card",
+        "multiverseId": "430761"
+    },
+    {
+        "name": "Razaketh, the Foulblooded",
+        "manaCost": "{5}{B}{B}{B}",
+        "cmc": 8.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Legendary Creature — Demon",
+        "rarity": "Mythic",
+        "set": "HOU",
+        "text": "Flying, trample\nPay 2 life, Sacrifice another creature: Search your library for a card, put that card into your hand, then shuffle.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430762&type=card",
+        "multiverseId": "430762"
+    },
+    {
+        "name": "Razaketh's Rite",
+        "manaCost": "{3}{B}{B}",
+        "cmc": 5.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "Search your library for a card, put that card into your hand, then shuffle.\nCycling {B} ({B}, Discard this card: Draw a card.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430763&type=card",
+        "multiverseId": "430763"
+    },
+    {
+        "name": "Ruin Rat",
+        "manaCost": "{1}{B}",
+        "cmc": 2.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Rat",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "Deathtouch\nWhen Ruin Rat dies, exile target card from an opponent's graveyard.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430764&type=card",
+        "multiverseId": "430764"
+    },
+    {
+        "name": "Scrounger of Souls",
+        "manaCost": "{4}{B}",
+        "cmc": 5.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Horror",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "Lifelink (Damage dealt by this creature also causes you to gain that much life.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430765&type=card",
+        "multiverseId": "430765"
+    },
+    {
+        "name": "Torment of Hailfire",
+        "manaCost": "{X}{B}{B}",
+        "cmc": 2.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Sorcery",
+        "rarity": "Rare",
+        "set": "HOU",
+        "text": "Repeat the following process X times. Each opponent loses 3 life unless that player sacrifices a nonland permanent or discards a card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430766&type=card",
+        "multiverseId": "430766"
+    },
+    {
+        "name": "Torment of Scarabs",
+        "manaCost": "{3}{B}",
+        "cmc": 4.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Enchantment — Aura Curse",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "Enchant player\nAt the beginning of enchanted player's upkeep, that player loses 3 life unless they sacrifice a nonland permanent or discard a card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430767&type=card",
+        "multiverseId": "430767"
+    },
+    {
+        "name": "Torment of Venom",
+        "manaCost": "{2}{B}{B}",
+        "cmc": 4.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "Put three -1/-1 counters on target creature. Its controller loses 3 life unless they sacrifice another nonland permanent or discards a card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430768&type=card",
+        "multiverseId": "430768"
+    },
+    {
+        "name": "Vile Manifestation",
+        "manaCost": "{1}{B}",
+        "cmc": 2.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Horror",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "Vile Manifestation gets +1/+0 for each card with cycling in your graveyard.\nCycling {2} ({2}, Discard this card: Draw a card.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430769&type=card",
+        "multiverseId": "430769"
+    },
+    {
+        "name": "Without Weakness",
+        "manaCost": "{1}{B}",
+        "cmc": 2.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "Target creature you control gains indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it. If its toughness is 0 or less, it's still put into its owner's graveyard.)\nCycling {2} ({2}, Discard this card: Draw a card.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430770&type=card",
+        "multiverseId": "430770"
+    },
+    {
+        "name": "Wretched Camel",
+        "manaCost": "{1}{B}",
+        "cmc": 2.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Zombie Camel",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "When Wretched Camel dies, if you control a Desert or there is a Desert card in your graveyard, target player discards a card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430771&type=card",
+        "multiverseId": "430771"
+    },
+    {
+        "name": "Abrade",
+        "manaCost": "{1}{R}",
+        "cmc": 2.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "Choose one —\n• Abrade deals 3 damage to target creature.\n• Destroy target artifact.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430772&type=card",
+        "multiverseId": "430772"
+    },
+    {
+        "name": "Blur of Blades",
+        "manaCost": "{1}{R}",
+        "cmc": 2.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "Put a -1/-1 counter on target creature. Blur of Blades deals 2 damage to that creature's controller.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430773&type=card",
+        "multiverseId": "430773"
+    },
+    {
+        "name": "Burning-Fist Minotaur",
+        "manaCost": "{1}{R}",
+        "cmc": 2.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Minotaur Wizard",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "First strike\n{1}{R}, Discard a card: Burning-Fist Minotaur gets +2/+0 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430774&type=card",
+        "multiverseId": "430774"
+    },
+    {
+        "name": "Chandra's Defeat",
+        "manaCost": "{R}",
+        "cmc": 1.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "Chandra's Defeat deals 5 damage to target red creature or red planeswalker. If that permanent is a Chandra planeswalker, you may discard a card. If you do, draw a card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430775&type=card",
+        "multiverseId": "430775"
+    },
+    {
+        "name": "Chaos Maw",
+        "manaCost": "{5}{R}{R}",
+        "cmc": 7.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Hellion",
+        "rarity": "Rare",
+        "set": "HOU",
+        "text": "When Chaos Maw enters the battlefield, it deals 3 damage to each other creature.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430776&type=card",
+        "multiverseId": "430776"
+    },
+    {
+        "name": "Crash Through",
+        "manaCost": "{R}",
+        "cmc": 1.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Sorcery",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "Creatures you control gain trample until end of turn. (A creature with trample can deal excess combat damage to the player or planeswalker it's attacking.)\nDraw a card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430777&type=card",
+        "multiverseId": "430777"
+    },
+    {
+        "name": "Defiant Khenra",
+        "manaCost": "{1}{R}",
+        "cmc": 2.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Jackal Warrior",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": null,
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430778&type=card",
+        "multiverseId": "430778"
+    },
+    {
+        "name": "Earthshaker Khenra",
+        "manaCost": "{1}{R}",
+        "cmc": 2.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Jackal Warrior",
+        "rarity": "Rare",
+        "set": "HOU",
+        "text": "Haste\nWhen Earthshaker Khenra enters the battlefield, target creature with power less than or equal to Earthshaker Khenra's power can't block this turn.\nEternalize {4}{R}{R} ({4}{R}{R}, Exile this card from your graveyard: Create a token that's a copy of it, except it's a 4/4 black Zombie Jackal Warrior with no mana cost. Eternalize only as a sorcery.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430779&type=card",
+        "multiverseId": "430779"
+    },
+    {
+        "name": "Fervent Paincaster",
+        "manaCost": "{2}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Human Wizard",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "{T}: Fervent Paincaster deals 1 damage to target player or planeswalker.\n{T}, Exert Fervent Paincaster: It deals 1 damage to target creature. (An exerted creature won't untap during your next untap step.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430780&type=card",
+        "multiverseId": "430780"
+    },
+    {
+        "name": "Firebrand Archer",
+        "manaCost": "{1}{R}",
+        "cmc": 2.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Human Archer",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "Whenever you cast a noncreature spell, Firebrand Archer deals 1 damage to each opponent.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430781&type=card",
+        "multiverseId": "430781"
+    },
+    {
+        "name": "Frontline Devastator",
+        "manaCost": "{3}{R}",
+        "cmc": 4.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Zombie Minotaur Warrior",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "Afflict 2 (Whenever this creature becomes blocked, defending player loses 2 life.)\n{1}{R}: Frontline Devastator gets +1/+0 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430782&type=card",
+        "multiverseId": "430782"
+    },
+    {
+        "name": "Gilded Cerodon",
+        "manaCost": "{4}{R}",
+        "cmc": 5.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Beast",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "Whenever Gilded Cerodon attacks, if you control a Desert or there is a Desert card in your graveyard, target creature can't block this turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430783&type=card",
+        "multiverseId": "430783"
+    },
+    {
+        "name": "Granitic Titan",
+        "manaCost": "{4}{R}{R}",
+        "cmc": 6.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Elemental",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "Menace\nCycling {2} ({2}, Discard this card: Draw a card.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430784&type=card",
+        "multiverseId": "430784"
+    },
+    {
+        "name": "Hazoret's Undying Fury",
+        "manaCost": "{4}{R}{R}",
+        "cmc": 6.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Sorcery",
+        "rarity": "Rare",
+        "set": "HOU",
+        "text": "Shuffle your library, then exile the top four cards. You may cast any number of spells with mana value 5 or less from among them without paying their mana costs. Lands you control don't untap during your next untap step.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430785&type=card",
+        "multiverseId": "430785"
+    },
+    {
+        "name": "Hour of Devastation",
+        "manaCost": "{3}{R}{R}",
+        "cmc": 5.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Sorcery",
+        "rarity": "Rare",
+        "set": "HOU",
+        "text": "All creatures lose indestructible until end of turn. Hour of Devastation deals 5 damage to each creature and each non-Bolas planeswalker.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430786&type=card",
+        "multiverseId": "430786"
+    },
+    {
+        "name": "Imminent Doom",
+        "manaCost": "{2}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Enchantment",
+        "rarity": "Rare",
+        "set": "HOU",
+        "text": "Imminent Doom enters the battlefield with a doom counter on it.\nWhenever you cast a spell with mana value equal to the number of doom counters on Imminent Doom, Imminent Doom deals that much damage to any target. Then put a doom counter on Imminent Doom.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430787&type=card",
+        "multiverseId": "430787"
+    },
+    {
+        "name": "Inferno Jet",
+        "manaCost": "{5}{R}",
+        "cmc": 6.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "Inferno Jet deals 6 damage to target opponent or planeswalker.\nCycling {2} ({2}, Discard this card: Draw a card.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430788&type=card",
+        "multiverseId": "430788"
+    },
+    {
+        "name": "Khenra Scrapper",
+        "manaCost": "{2}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Jackal Warrior",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "Menace\nYou may exert Khenra Scrapper as it attacks. When you do, it gets +2/+0 until end of turn. (An exerted creature won't untap during your next untap step.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430789&type=card",
+        "multiverseId": "430789"
+    },
+    {
+        "name": "Kindled Fury",
+        "manaCost": "{R}",
+        "cmc": 1.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "Target creature gets +1/+0 and gains first strike until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430790&type=card",
+        "multiverseId": "430790"
+    },
+    {
+        "name": "Magmaroth",
+        "manaCost": "{3}{R}",
+        "cmc": 4.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Elemental",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "At the beginning of your upkeep, put a -1/-1 counter on Magmaroth.\nWhenever you cast a noncreature spell, remove a -1/-1 counter from Magmaroth.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430791&type=card",
+        "multiverseId": "430791"
+    },
+    {
+        "name": "Manticore Eternal",
+        "manaCost": "{3}{R}{R}",
+        "cmc": 5.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Zombie Manticore",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "Afflict 3 (Whenever this creature becomes blocked, defending player loses 3 life.)\nManticore Eternal attacks each combat if able.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430792&type=card",
+        "multiverseId": "430792"
+    },
+    {
+        "name": "Neheb, the Eternal",
+        "manaCost": "{3}{R}{R}",
+        "cmc": 5.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Legendary Creature — Zombie Minotaur Warrior",
+        "rarity": "Mythic",
+        "set": "HOU",
+        "text": "Afflict 3 (Whenever this creature becomes blocked, defending player loses 3 life.)\nAt the beginning of your postcombat main phase, add {R} for each 1 life your opponents have lost this turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430793&type=card",
+        "multiverseId": "430793"
+    },
+    {
+        "name": "Open Fire",
+        "manaCost": "{2}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "Open Fire deals 3 damage to any target.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430794&type=card",
+        "multiverseId": "430794"
+    },
+    {
+        "name": "Puncturing Blow",
+        "manaCost": "{2}{R}{R}",
+        "cmc": 4.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Sorcery",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "Puncturing Blow deals 5 damage to target creature. If that creature would die this turn, exile it instead.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430795&type=card",
+        "multiverseId": "430795"
+    },
+    {
+        "name": "Sand Strangler",
+        "manaCost": "{3}{R}",
+        "cmc": 4.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Beast",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "When Sand Strangler enters the battlefield, if you control a Desert or there is a Desert card in your graveyard, you may have Sand Strangler deal 3 damage to target creature.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430796&type=card",
+        "multiverseId": "430796"
+    },
+    {
+        "name": "Thorned Moloch",
+        "manaCost": "{2}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Lizard",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nThorned Moloch has first strike as long as it's attacking.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430797&type=card",
+        "multiverseId": "430797"
+    },
+    {
+        "name": "Wildfire Eternal",
+        "manaCost": "{3}{R}",
+        "cmc": 4.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Zombie Jackal Cleric",
+        "rarity": "Rare",
+        "set": "HOU",
+        "text": "Afflict 4 (Whenever this creature becomes blocked, defending player loses 4 life.)\nWhenever Wildfire Eternal attacks and isn't blocked, you may cast an instant or sorcery spell from your hand without paying its mana cost.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430798&type=card",
+        "multiverseId": "430798"
+    },
+    {
+        "name": "Ambuscade",
+        "manaCost": "{2}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "Target creature you control gets +1/+0 until end of turn. It deals damage equal to its power to target creature an opponent controls.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430799&type=card",
+        "multiverseId": "430799"
+    },
+    {
+        "name": "Beneath the Sands",
+        "manaCost": "{2}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Sorcery",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\nCycling {2} ({2}, Discard this card: Draw a card.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430800&type=card",
+        "multiverseId": "430800"
+    },
+    {
+        "name": "Bitterbow Sharpshooters",
+        "manaCost": "{4}{G}",
+        "cmc": 5.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Jackal Archer",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "Vigilance, reach",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430801&type=card",
+        "multiverseId": "430801"
+    },
+    {
+        "name": "Devotee of Strength",
+        "manaCost": "{2}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Naga Wizard",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "{4}{G}: Target creature gets +2/+2 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430802&type=card",
+        "multiverseId": "430802"
+    },
+    {
+        "name": "Dune Diviner",
+        "manaCost": "{2}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Naga Cleric",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "{1}, Tap an untapped Desert you control: You gain 1 life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430803&type=card",
+        "multiverseId": "430803"
+    },
+    {
+        "name": "Feral Prowler",
+        "manaCost": "{1}{G}",
+        "cmc": 2.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Cat",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "When Feral Prowler dies, draw a card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430804&type=card",
+        "multiverseId": "430804"
+    },
+    {
+        "name": "Frilled Sandwalla",
+        "manaCost": "{G}",
+        "cmc": 1.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Lizard",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "{1}{G}: Frilled Sandwalla gets +2/+2 until end of turn. Activate only once each turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430805&type=card",
+        "multiverseId": "430805"
+    },
+    {
+        "name": "Gift of Strength",
+        "manaCost": "{1}{G}",
+        "cmc": 2.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "Target creature gets +3/+3 and gains reach until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430806&type=card",
+        "multiverseId": "430806"
+    },
+    {
+        "name": "Harrier Naga",
+        "manaCost": "{2}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Naga Warrior",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": null,
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430807&type=card",
+        "multiverseId": "430807"
+    },
+    {
+        "name": "Hope Tender",
+        "manaCost": "{1}{G}",
+        "cmc": 2.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Human Druid",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "{1}, {T}: Untap target land.\n{1}, {T}, Exert Hope Tender: Untap two target lands. (An exerted creature won't untap during your next untap step.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430808&type=card",
+        "multiverseId": "430808"
+    },
+    {
+        "name": "Hour of Promise",
+        "manaCost": "{4}{G}",
+        "cmc": 5.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Sorcery",
+        "rarity": "Rare",
+        "set": "HOU",
+        "text": "Search your library for up to two land cards, put them onto the battlefield tapped, then shuffle. Then if you control three or more Deserts, create two 2/2 black Zombie creature tokens.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430809&type=card",
+        "multiverseId": "430809"
+    },
+    {
+        "name": "Life Goes On",
+        "manaCost": "{G}",
+        "cmc": 1.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "You gain 4 life. If a creature died this turn, you gain 8 life instead.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430810&type=card",
+        "multiverseId": "430810"
+    },
+    {
+        "name": "Majestic Myriarch",
+        "manaCost": "{4}{G}",
+        "cmc": 5.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Chimera",
+        "rarity": "Mythic",
+        "set": "HOU",
+        "text": "Majestic Myriarch's power and toughness are each equal to twice the number of creatures you control.\nAt the beginning of each combat, Majestic Myriarch gains flying until end of turn if you control a creature with flying. The same is true for first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, menace, reach, trample, and vigilance.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430811&type=card",
+        "multiverseId": "430811"
+    },
+    {
+        "name": "Nissa's Defeat",
+        "manaCost": "{2}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "Destroy target Forest, green enchantment, or green planeswalker. If that permanent was a Nissa planeswalker, draw a card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430812&type=card",
+        "multiverseId": "430812"
+    },
+    {
+        "name": "Oasis Ritualist",
+        "manaCost": "{3}{G}",
+        "cmc": 4.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Naga Druid",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "{T}: Add one mana of any color.\n{T}, Exert Oasis Ritualist: Add two mana of any one color. (An exerted creature won't untap during your next untap step.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430813&type=card",
+        "multiverseId": "430813"
+    },
+    {
+        "name": "Overcome",
+        "manaCost": "{3}{G}{G}",
+        "cmc": 5.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "Creatures you control get +2/+2 and gain trample until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430814&type=card",
+        "multiverseId": "430814"
+    },
+    {
+        "name": "Pride Sovereign",
+        "manaCost": "{2}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Cat",
+        "rarity": "Rare",
+        "set": "HOU",
+        "text": "Pride Sovereign gets +1/+1 for each other Cat you control.\n{W}, {T}, Exert Pride Sovereign: Create two 1/1 white Cat creature tokens with lifelink. (An exerted creature won't untap during your next untap step.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430815&type=card",
+        "multiverseId": "430815"
+    },
+    {
+        "name": "Quarry Beetle",
+        "manaCost": "{4}{G}",
+        "cmc": 5.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Insect",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "When Quarry Beetle enters the battlefield, you may return target land card from your graveyard to the battlefield.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430816&type=card",
+        "multiverseId": "430816"
+    },
+    {
+        "name": "Rampaging Hippo",
+        "manaCost": "{4}{G}{G}",
+        "cmc": 6.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Hippo",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "Trample\nCycling {2} ({2}, Discard this card: Draw a card.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430817&type=card",
+        "multiverseId": "430817"
+    },
+    {
+        "name": "Ramunap Excavator",
+        "manaCost": "{2}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Naga Cleric",
+        "rarity": "Rare",
+        "set": "HOU",
+        "text": "You may play lands from your graveyard.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430818&type=card",
+        "multiverseId": "430818"
+    },
+    {
+        "name": "Ramunap Hydra",
+        "manaCost": "{3}{G}",
+        "cmc": 4.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Snake Hydra",
+        "rarity": "Rare",
+        "set": "HOU",
+        "text": "Vigilance, reach, trample\nRamunap Hydra gets +1/+1 as long as you control a Desert.\nRamunap Hydra gets +1/+1 as long as there is a Desert card in your graveyard.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430819&type=card",
+        "multiverseId": "430819"
+    },
+    {
+        "name": "Resilient Khenra",
+        "manaCost": "{1}{G}",
+        "cmc": 2.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Jackal Wizard",
+        "rarity": "Rare",
+        "set": "HOU",
+        "text": "When Resilient Khenra enters the battlefield, you may have target creature get +X/+X until end of turn, where X is Resilient Khenra's power.\nEternalize {4}{G}{G} ({4}{G}{G}, Exile this card from your graveyard: Create a token that's a copy of it, except it's a 4/4 black Zombie Jackal Wizard with no mana cost. Eternalize only as a sorcery.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430820&type=card",
+        "multiverseId": "430820"
+    },
+    {
+        "name": "Rhonas's Last Stand",
+        "manaCost": "{G}{G}",
+        "cmc": 2.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Sorcery",
+        "rarity": "Rare",
+        "set": "HOU",
+        "text": "Create a 5/4 green Snake creature token. Lands you control don't untap during your next untap step.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430821&type=card",
+        "multiverseId": "430821"
+    },
+    {
+        "name": "Rhonas's Stalwart",
+        "manaCost": "{1}{G}",
+        "cmc": 2.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Human Warrior",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "You may exert Rhonas's Stalwart as it attacks. When you do, it gets +1/+1 until end of turn and can't be blocked by creatures with power 2 or less this turn. (An exerted creature won't untap during your next untap step.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430822&type=card",
+        "multiverseId": "430822"
+    },
+    {
+        "name": "Sidewinder Naga",
+        "manaCost": "{2}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Naga Warrior",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "As long as you control a Desert or there is a Desert card in your graveyard, Sidewinder Naga gets +1/+0 and has trample.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430823&type=card",
+        "multiverseId": "430823"
+    },
+    {
+        "name": "Sifter Wurm",
+        "manaCost": "{5}{G}{G}",
+        "cmc": 7.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Wurm",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "Trample\nWhen Sifter Wurm enters the battlefield, scry 3, then reveal the top card of your library. You gain life equal to that card's mana value.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430824&type=card",
+        "multiverseId": "430824"
+    },
+    {
+        "name": "Tenacious Hunter",
+        "manaCost": "{2}{G}{G}",
+        "cmc": 4.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Crocodile",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "As long as a creature has a -1/-1 counter on it, Tenacious Hunter has vigilance and deathtouch.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430825&type=card",
+        "multiverseId": "430825"
+    },
+    {
+        "name": "Uncage the Menagerie",
+        "manaCost": "{X}{G}{G}",
+        "cmc": 2.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Sorcery",
+        "rarity": "Mythic",
+        "set": "HOU",
+        "text": "Search your library for up to X creature cards with different names that each have mana value X, reveal them, put them into your hand, then shuffle.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430826&type=card",
+        "multiverseId": "430826"
+    },
+    {
+        "name": "Bloodwater Entity",
+        "manaCost": "{1}{U}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R",
+            "U"
+        ],
+        "type": "Creature — Elemental",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "Flying\nProwess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nWhen Bloodwater Entity enters the battlefield, you may put target instant or sorcery card from your graveyard on top of your library.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430827&type=card",
+        "multiverseId": "430827"
+    },
+    {
+        "name": "The Locust God",
+        "manaCost": "{4}{U}{R}",
+        "cmc": 6.0,
+        "colors": [
+            "R",
+            "U"
+        ],
+        "type": "Legendary Creature — God",
+        "rarity": "Mythic",
+        "set": "HOU",
+        "text": "Flying\nWhenever you draw a card, create a 1/1 blue and red Insect creature token with flying and haste.\n{2}{U}{R}: Draw a card, then discard a card.\nWhen The Locust God dies, return it to its owner's hand at the beginning of the next end step.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430828&type=card",
+        "multiverseId": "430828"
+    },
+    {
+        "name": "Nicol Bolas, God-Pharaoh",
+        "manaCost": "{4}{U}{B}{R}",
+        "cmc": 7.0,
+        "colors": [
+            "B",
+            "R",
+            "U"
+        ],
+        "type": "Legendary Planeswalker — Bolas",
+        "rarity": "Mythic",
+        "set": "HOU",
+        "text": "[+2]: Target opponent exiles cards from the top of their library until they exile a nonland card. Until end of turn, you may cast that card without paying its mana cost.\n[+1]: Each opponent exiles two cards from their hand.\n[−4]: Nicol Bolas, God-Pharaoh deals 7 damage to target opponent, creature an opponent controls, or planeswalker an opponent controls.\n[−12]: Exile each nonland permanent your opponents control.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430829&type=card",
+        "multiverseId": "430829"
+    },
+    {
+        "name": "Obelisk Spider",
+        "manaCost": "{1}{B}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "B",
+            "G"
+        ],
+        "type": "Creature — Spider",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "Reach\nWhenever Obelisk Spider deals combat damage to a creature, put a -1/-1 counter on that creature.\nWhenever you put one or more -1/-1 counters on a creature, each opponent loses 1 life and you gain 1 life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430830&type=card",
+        "multiverseId": "430830"
+    },
+    {
+        "name": "Resolute Survivors",
+        "manaCost": "{1}{R}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "R",
+            "W"
+        ],
+        "type": "Creature — Human Warrior",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "You may exert Resolute Survivors as it attacks. (It won't untap during your next untap step.)\nWhenever you exert a creature, Resolute Survivors deals 1 damage to each opponent and you gain 1 life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430831&type=card",
+        "multiverseId": "430831"
+    },
+    {
+        "name": "River Hoopoe",
+        "manaCost": "{G}{U}",
+        "cmc": 2.0,
+        "colors": [
+            "G",
+            "U"
+        ],
+        "type": "Creature — Bird",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "Flying\n{3}{G}{U}: You gain 2 life and draw a card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430832&type=card",
+        "multiverseId": "430832"
+    },
+    {
+        "name": "Samut, the Tested",
+        "manaCost": "{2}{R}{G}",
+        "cmc": 4.0,
+        "colors": [
+            "G",
+            "R"
+        ],
+        "type": "Legendary Planeswalker — Samut",
+        "rarity": "Mythic",
+        "set": "HOU",
+        "text": "[+1]: Up to one target creature gains double strike until end of turn.\n[−2]: Samut, the Tested deals 2 damage divided as you choose among one or two targets.\n[−7]: Search your library for up to two creature and/or planeswalker cards, put them onto the battlefield, then shuffle.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430833&type=card",
+        "multiverseId": "430833"
+    },
+    {
+        "name": "The Scarab God",
+        "manaCost": "{3}{U}{B}",
+        "cmc": 5.0,
+        "colors": [
+            "B",
+            "U"
+        ],
+        "type": "Legendary Creature — God",
+        "rarity": "Mythic",
+        "set": "HOU",
+        "text": "At the beginning of your upkeep, each opponent loses X life and you scry X, where X is the number of Zombies you control.\n{2}{U}{B}: Exile target creature card from a graveyard. Create a token that's a copy of it, except it's a 4/4 black Zombie.\nWhen The Scarab God dies, return it to its owner's hand at the beginning of the next end step.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430834&type=card",
+        "multiverseId": "430834"
+    },
+    {
+        "name": "The Scorpion God",
+        "manaCost": "{3}{B}{R}",
+        "cmc": 5.0,
+        "colors": [
+            "B",
+            "R"
+        ],
+        "type": "Legendary Creature — God",
+        "rarity": "Mythic",
+        "set": "HOU",
+        "text": "Whenever a creature with a -1/-1 counter on it dies, draw a card.\n{1}{B}{R}: Put a -1/-1 counter on another target creature.\nWhen The Scorpion God dies, return it to its owner's hand at the beginning of the next end step.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430835&type=card",
+        "multiverseId": "430835"
+    },
+    {
+        "name": "Unraveling Mummy",
+        "manaCost": "{1}{W}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B",
+            "W"
+        ],
+        "type": "Creature — Zombie",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "{1}{W}: Target attacking Zombie gains lifelink until end of turn.\n{1}{B}: Target attacking Zombie gains deathtouch until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430836&type=card",
+        "multiverseId": "430836"
+    },
+    {
+        "name": "Farm // Market",
+        "manaCost": "{2}{W}",
+        "cmc": 6.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "Destroy target attacking or blocking creature.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430837&type=card",
+        "multiverseId": "430837"
+    },
+    {
+        "name": "Farm // Market",
+        "manaCost": "{2}{U}",
+        "cmc": 6.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "Aftermath (Cast this spell only from your graveyard. Then exile it.)\nDraw two cards, then discard two cards.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430837&type=card",
+        "multiverseId": "430837"
+    },
+    {
+        "name": "Consign // Oblivion",
+        "manaCost": "{1}{U}",
+        "cmc": 7.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "Return target nonland permanent to its owner's hand.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430838&type=card",
+        "multiverseId": "430838"
+    },
+    {
+        "name": "Consign // Oblivion",
+        "manaCost": "{4}{B}",
+        "cmc": 7.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "Aftermath (Cast this spell only from your graveyard. Then exile it.)\nTarget opponent discards two cards.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430838&type=card",
+        "multiverseId": "430838"
+    },
+    {
+        "name": "Claim // Fame",
+        "manaCost": "{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "Return target creature card with mana value 2 or less from your graveyard to the battlefield.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430839&type=card",
+        "multiverseId": "430839"
+    },
+    {
+        "name": "Claim // Fame",
+        "manaCost": "{1}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "Aftermath (Cast this spell only from your graveyard. Then exile it.)\nTarget creature gets +2/+0 and gains haste until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430839&type=card",
+        "multiverseId": "430839"
+    },
+    {
+        "name": "Struggle // Survive",
+        "manaCost": "{2}{R}",
+        "cmc": 5.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "Struggle deals damage to target creature equal to the number of lands you control.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430840&type=card",
+        "multiverseId": "430840"
+    },
+    {
+        "name": "Struggle // Survive",
+        "manaCost": "{1}{G}",
+        "cmc": 5.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "Aftermath (Cast this spell only from your graveyard. Then exile it.)\nEach player shuffles their graveyard into their library.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430840&type=card",
+        "multiverseId": "430840"
+    },
+    {
+        "name": "Appeal // Authority",
+        "manaCost": "{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "Until end of turn, target creature gains trample and gets +X/+X, where X is the number of creatures you control.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430841&type=card",
+        "multiverseId": "430841"
+    },
+    {
+        "name": "Appeal // Authority",
+        "manaCost": "{1}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "Aftermath (Cast this spell only from your graveyard. Then exile it.)\nTap up to two target creatures your opponents control. Creatures you control gain vigilance until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430841&type=card",
+        "multiverseId": "430841"
+    },
+    {
+        "name": "Leave // Chance",
+        "manaCost": "{1}{W}",
+        "cmc": 6.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Instant",
+        "rarity": "Rare",
+        "set": "HOU",
+        "text": "Return any number of target permanents you own to your hand.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430842&type=card",
+        "multiverseId": "430842"
+    },
+    {
+        "name": "Leave // Chance",
+        "manaCost": "{3}{R}",
+        "cmc": 6.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Sorcery",
+        "rarity": "Rare",
+        "set": "HOU",
+        "text": "Aftermath (Cast this spell only from your graveyard. Then exile it.)\nDiscard any number of cards, then draw that many cards.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430842&type=card",
+        "multiverseId": "430842"
+    },
+    {
+        "name": "Reason // Believe",
+        "manaCost": "{U}",
+        "cmc": 6.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Sorcery",
+        "rarity": "Rare",
+        "set": "HOU",
+        "text": "Scry 3.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430843&type=card",
+        "multiverseId": "430843"
+    },
+    {
+        "name": "Reason // Believe",
+        "manaCost": "{4}{G}",
+        "cmc": 6.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Sorcery",
+        "rarity": "Rare",
+        "set": "HOU",
+        "text": "Aftermath (Cast this spell only from your graveyard. Then exile it.)\nLook at the top card of your library. You may put it onto the battlefield if it's a creature card. If you don't, put it into your hand.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430843&type=card",
+        "multiverseId": "430843"
+    },
+    {
+        "name": "Grind // Dust",
+        "manaCost": "{1}{B}",
+        "cmc": 6.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Sorcery",
+        "rarity": "Rare",
+        "set": "HOU",
+        "text": "Put a -1/-1 counter on each of up to two target creatures.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430844&type=card",
+        "multiverseId": "430844"
+    },
+    {
+        "name": "Grind // Dust",
+        "manaCost": "{3}{W}",
+        "cmc": 6.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Sorcery",
+        "rarity": "Rare",
+        "set": "HOU",
+        "text": "Aftermath (Cast this spell only from your graveyard. Then exile it.)\nExile any number of target creatures that have -1/-1 counters on them.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430844&type=card",
+        "multiverseId": "430844"
+    },
+    {
+        "name": "Refuse // Cooperate",
+        "manaCost": "{3}{R}",
+        "cmc": 7.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Instant",
+        "rarity": "Rare",
+        "set": "HOU",
+        "text": "Refuse deals damage to target spell's controller equal to that spell's mana value.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430845&type=card",
+        "multiverseId": "430845"
+    },
+    {
+        "name": "Refuse // Cooperate",
+        "manaCost": "{2}{U}",
+        "cmc": 7.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Instant",
+        "rarity": "Rare",
+        "set": "HOU",
+        "text": "Aftermath (Cast this spell only from your graveyard. Then exile it.)\nCopy target instant or sorcery spell. You may choose new targets for the copy.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430845&type=card",
+        "multiverseId": "430845"
+    },
+    {
+        "name": "Driven // Despair",
+        "manaCost": "{1}{G}",
+        "cmc": 4.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Sorcery",
+        "rarity": "Rare",
+        "set": "HOU",
+        "text": "Until end of turn, creatures you control gain trample and \"Whenever this creature deals combat damage to a player, draw a card.\"",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430846&type=card",
+        "multiverseId": "430846"
+    },
+    {
+        "name": "Driven // Despair",
+        "manaCost": "{1}{B}",
+        "cmc": 4.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Sorcery",
+        "rarity": "Rare",
+        "set": "HOU",
+        "text": "Aftermath (Cast this spell only from your graveyard. Then exile it.)\nUntil end of turn, creatures you control gain menace and \"Whenever this creature deals combat damage to a player, that player discards a card.\"",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430846&type=card",
+        "multiverseId": "430846"
+    },
+    {
+        "name": "Abandoned Sarcophagus",
+        "manaCost": "{3}",
+        "cmc": 3.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Rare",
+        "set": "HOU",
+        "text": "You may cast spells that have a cycling ability from your graveyard.\nIf a card that has a cycling ability would be put into your graveyard from anywhere and it wasn't cycled, exile it instead.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430847&type=card",
+        "multiverseId": "430847"
+    },
+    {
+        "name": "Crook of Condemnation",
+        "manaCost": "{2}",
+        "cmc": 2.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "{1}, {T}: Exile target card from a graveyard.\n{1}, Exile Crook of Condemnation: Exile all graveyards.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430848&type=card",
+        "multiverseId": "430848"
+    },
+    {
+        "name": "Dagger of the Worthy",
+        "manaCost": "{2}",
+        "cmc": 2.0,
+        "colors": null,
+        "type": "Artifact — Equipment",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "Equipped creature gets +2/+0 and has afflict 1. (Whenever it becomes blocked, defending player loses 1 life.)\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430849&type=card",
+        "multiverseId": "430849"
+    },
+    {
+        "name": "God-Pharaoh's Gift",
+        "manaCost": "{7}",
+        "cmc": 7.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Rare",
+        "set": "HOU",
+        "text": "At the beginning of combat on your turn, you may exile a creature card from your graveyard. If you do, create a token that's a copy of that card, except it's a 4/4 black Zombie. It gains haste until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430850&type=card",
+        "multiverseId": "430850"
+    },
+    {
+        "name": "Graven Abomination",
+        "manaCost": "{3}",
+        "cmc": 3.0,
+        "colors": null,
+        "type": "Artifact Creature — Horror",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "Whenever Graven Abomination attacks, exile target card from defending player's graveyard.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430851&type=card",
+        "multiverseId": "430851"
+    },
+    {
+        "name": "Hollow One",
+        "manaCost": "{5}",
+        "cmc": 5.0,
+        "colors": null,
+        "type": "Artifact Creature — Golem",
+        "rarity": "Rare",
+        "set": "HOU",
+        "text": "This spell costs {2} less to cast for each card you've cycled or discarded this turn.\nCycling {2} ({2}, Discard this card: Draw a card.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430852&type=card",
+        "multiverseId": "430852"
+    },
+    {
+        "name": "Manalith",
+        "manaCost": "{3}",
+        "cmc": 3.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "{T}: Add one mana of any color.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430853&type=card",
+        "multiverseId": "430853"
+    },
+    {
+        "name": "Mirage Mirror",
+        "manaCost": "{3}",
+        "cmc": 3.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Rare",
+        "set": "HOU",
+        "text": "{2}: Mirage Mirror becomes a copy of target artifact, creature, enchantment, or land until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430854&type=card",
+        "multiverseId": "430854"
+    },
+    {
+        "name": "Sunset Pyramid",
+        "manaCost": "{2}",
+        "cmc": 2.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "Sunset Pyramid enters the battlefield with three brick counters on it.\n{2}, {T}, Remove a brick counter from Sunset Pyramid: Draw a card.\n{2}, {T}: Scry 1.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430855&type=card",
+        "multiverseId": "430855"
+    },
+    {
+        "name": "Traveler's Amulet",
+        "manaCost": "{1}",
+        "cmc": 1.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "{1}, Sacrifice Traveler's Amulet: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430856&type=card",
+        "multiverseId": "430856"
+    },
+    {
+        "name": "Wall of Forgotten Pharaohs",
+        "manaCost": "{2}",
+        "cmc": 2.0,
+        "colors": null,
+        "type": "Artifact Creature — Wall",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "Defender\n{T}: Wall of Forgotten Pharaohs deals 1 damage to target player or planeswalker. Activate only if you control a Desert or there is a Desert card in your graveyard.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430857&type=card",
+        "multiverseId": "430857"
+    },
+    {
+        "name": "Crypt of the Eternals",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Land",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "When Crypt of the Eternals enters the battlefield, you gain 1 life.\n{T}: Add {C}.\n{1}, {T}: Add {U}, {B}, or {R}.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430858&type=card",
+        "multiverseId": "430858"
+    },
+    {
+        "name": "Desert of the Fervent",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Land — Desert",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "Desert of the Fervent enters the battlefield tapped.\n{T}: Add {R}.\nCycling {1}{R} ({1}{R}, Discard this card: Draw a card.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430859&type=card",
+        "multiverseId": "430859"
+    },
+    {
+        "name": "Desert of the Glorified",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Land — Desert",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "Desert of the Glorified enters the battlefield tapped.\n{T}: Add {B}.\nCycling {1}{B} ({1}{B}, Discard this card: Draw a card.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430860&type=card",
+        "multiverseId": "430860"
+    },
+    {
+        "name": "Desert of the Indomitable",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Land — Desert",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "Desert of the Indomitable enters the battlefield tapped.\n{T}: Add {G}.\nCycling {1}{G} ({1}{G}, Discard this card: Draw a card.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430861&type=card",
+        "multiverseId": "430861"
+    },
+    {
+        "name": "Desert of the Mindful",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Land — Desert",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "Desert of the Mindful enters the battlefield tapped.\n{T}: Add {U}.\nCycling {1}{U} ({1}{U}, Discard this card: Draw a card.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430862&type=card",
+        "multiverseId": "430862"
+    },
+    {
+        "name": "Desert of the True",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Land — Desert",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "Desert of the True enters the battlefield tapped.\n{T}: Add {W}.\nCycling {1}{W} ({1}{W}, Discard this card: Draw a card.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430863&type=card",
+        "multiverseId": "430863"
+    },
+    {
+        "name": "Dunes of the Dead",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Land — Desert",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "{T}: Add {C}.\nWhen Dunes of the Dead is put into a graveyard from the battlefield, create a 2/2 black Zombie creature token.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430864&type=card",
+        "multiverseId": "430864"
+    },
+    {
+        "name": "Endless Sands",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Land — Desert",
+        "rarity": "Rare",
+        "set": "HOU",
+        "text": "{T}: Add {C}.\n{2}, {T}: Exile target creature you control.\n{4}, {T}, Sacrifice Endless Sands: Return each creature card exiled with Endless Sands to the battlefield under its owner's control.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430865&type=card",
+        "multiverseId": "430865"
+    },
+    {
+        "name": "Hashep Oasis",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Land — Desert",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "{T}: Add {C}.\n{T}, Pay 1 life: Add {G}.\n{1}{G}{G}, {T}, Sacrifice a Desert: Target creature gets +3/+3 until end of turn. Activate only as a sorcery.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430866&type=card",
+        "multiverseId": "430866"
+    },
+    {
+        "name": "Hostile Desert",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Land — Desert",
+        "rarity": "Rare",
+        "set": "HOU",
+        "text": "{T}: Add {C}.\n{2}, Exile a land card from your graveyard: Hostile Desert becomes a 3/4 Elemental creature until end of turn. It's still a land.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430867&type=card",
+        "multiverseId": "430867"
+    },
+    {
+        "name": "Ifnir Deadlands",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Land — Desert",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "{T}: Add {C}.\n{T}, Pay 1 life: Add {B}.\n{2}{B}{B}, {T}, Sacrifice a Desert: Put two -1/-1 counters on target creature an opponent controls. Activate only as a sorcery.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430868&type=card",
+        "multiverseId": "430868"
+    },
+    {
+        "name": "Ipnu Rivulet",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Land — Desert",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "{T}: Add {C}.\n{T}, Pay 1 life: Add {U}.\n{1}{U}, {T}, Sacrifice a Desert: Target player mills four cards.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430869&type=card",
+        "multiverseId": "430869"
+    },
+    {
+        "name": "Ramunap Ruins",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Land — Desert",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "{T}: Add {C}.\n{T}, Pay 1 life: Add {R}.\n{2}{R}{R}, {T}, Sacrifice a Desert: Ramunap Ruins deals 2 damage to each opponent.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430870&type=card",
+        "multiverseId": "430870"
+    },
+    {
+        "name": "Scavenger Grounds",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Land — Desert",
+        "rarity": "Rare",
+        "set": "HOU",
+        "text": "{T}: Add {C}.\n{2}, {T}, Sacrifice a Desert: Exile all graveyards.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430871&type=card",
+        "multiverseId": "430871"
+    },
+    {
+        "name": "Shefet Dunes",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Land — Desert",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "{T}: Add {C}.\n{T}, Pay 1 life: Add {W}.\n{2}{W}{W}, {T}, Sacrifice a Desert: Creatures you control get +1/+1 until end of turn. Activate only as a sorcery.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430872&type=card",
+        "multiverseId": "430872"
+    },
+    {
+        "name": "Survivors' Encampment",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Land — Desert",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "{T}: Add {C}.\n{T}, Tap an untapped creature you control: Add one mana of any color.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430873&type=card",
+        "multiverseId": "430873"
+    },
+    {
+        "name": "Plains",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Basic Land — Plains",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "({T}: Add {W}.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430874&type=card",
+        "multiverseId": "430874"
+    },
+    {
+        "name": "Island",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Basic Land — Island",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "({T}: Add {U}.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430875&type=card",
+        "multiverseId": "430875"
+    },
+    {
+        "name": "Swamp",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Basic Land — Swamp",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "({T}: Add {B}.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430876&type=card",
+        "multiverseId": "430876"
+    },
+    {
+        "name": "Mountain",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Basic Land — Mountain",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "({T}: Add {R}.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430877&type=card",
+        "multiverseId": "430877"
+    },
+    {
+        "name": "Forest",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Basic Land — Forest",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "({T}: Add {G}.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430878&type=card",
+        "multiverseId": "430878"
+    },
+    {
+        "name": "Plains",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Basic Land — Plains",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "({T}: Add {W}.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430879&type=card",
+        "multiverseId": "430879"
+    },
+    {
+        "name": "Plains",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Basic Land — Plains",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "({T}: Add {W}.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430880&type=card",
+        "multiverseId": "430880"
+    },
+    {
+        "name": "Island",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Basic Land — Island",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "({T}: Add {U}.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430881&type=card",
+        "multiverseId": "430881"
+    },
+    {
+        "name": "Island",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Basic Land — Island",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "({T}: Add {U}.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430882&type=card",
+        "multiverseId": "430882"
+    },
+    {
+        "name": "Swamp",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Basic Land — Swamp",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "({T}: Add {B}.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430883&type=card",
+        "multiverseId": "430883"
+    },
+    {
+        "name": "Swamp",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Basic Land — Swamp",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "({T}: Add {B}.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430884&type=card",
+        "multiverseId": "430884"
+    },
+    {
+        "name": "Mountain",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Basic Land — Mountain",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "({T}: Add {R}.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430885&type=card",
+        "multiverseId": "430885"
+    },
+    {
+        "name": "Mountain",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Basic Land — Mountain",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "({T}: Add {R}.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430886&type=card",
+        "multiverseId": "430886"
+    },
+    {
+        "name": "Forest",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Basic Land — Forest",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "({T}: Add {G}.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430887&type=card",
+        "multiverseId": "430887"
+    },
+    {
+        "name": "Forest",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Basic Land — Forest",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "({T}: Add {G}.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430888&type=card",
+        "multiverseId": "430888"
+    },
+    {
+        "name": "Nissa, Genesis Mage",
+        "manaCost": "{5}{G}{G}",
+        "cmc": 7.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Legendary Planeswalker — Nissa",
+        "rarity": "Mythic",
+        "set": "HOU",
+        "text": "[+2]: Untap up to two target creatures and up to two target lands.\n[−3]: Target creature gets +5/+5 until end of turn.\n[−10]: Look at the top ten cards of your library. You may put any number of creature and/or land cards from among them onto the battlefield. Put the rest on the bottom of your library in a random order.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=432879&type=card",
+        "multiverseId": "432879"
+    },
+    {
+        "name": "Avid Reclaimer",
+        "manaCost": "{2}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Human Druid",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "{T}: Add {G} or {U}. If you control a Nissa planeswalker, you gain 2 life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=432880&type=card",
+        "multiverseId": "432880"
+    },
+    {
+        "name": "Brambleweft Behemoth",
+        "manaCost": "{4}{G}{G}",
+        "cmc": 6.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Elemental",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=432881&type=card",
+        "multiverseId": "432881"
+    },
+    {
+        "name": "Nissa's Encouragement",
+        "manaCost": "{4}{G}",
+        "cmc": 5.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Sorcery",
+        "rarity": "Rare",
+        "set": "HOU",
+        "text": "Search your library and graveyard for a card named Forest, a card named Brambleweft Behemoth, and a card named Nissa, Genesis Mage. Reveal those cards, put them into your hand, then shuffle.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=432882&type=card",
+        "multiverseId": "432882"
+    },
+    {
+        "name": "Woodland Stream",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Land",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "Woodland Stream enters the battlefield tapped.\n{T}: Add {G} or {U}.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=432883&type=card",
+        "multiverseId": "432883"
+    },
+    {
+        "name": "Nicol Bolas, the Deceiver",
+        "manaCost": "{5}{U}{B}{R}",
+        "cmc": 8.0,
+        "colors": [
+            "B",
+            "R",
+            "U"
+        ],
+        "type": "Legendary Planeswalker — Bolas",
+        "rarity": "Mythic",
+        "set": "HOU",
+        "text": "[+3]: Each opponent loses 3 life unless that player sacrifices a nonland permanent or discards a card.\n[−3]: Destroy target creature. Draw a card.\n[−11]: Nicol Bolas, the Deceiver deals 7 damage to each opponent. You draw seven cards.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=432884&type=card",
+        "multiverseId": "432884"
+    },
+    {
+        "name": "Wasp of the Bitter End",
+        "manaCost": "{1}{B}",
+        "cmc": 2.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Insect Horror",
+        "rarity": "Uncommon",
+        "set": "HOU",
+        "text": "Flying\nWhenever you cast a Bolas planeswalker spell, you may sacrifice Wasp of the Bitter End. If you do, destroy target creature.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=432885&type=card",
+        "multiverseId": "432885"
+    },
+    {
+        "name": "Zealot of the God-Pharaoh",
+        "manaCost": "{3}{R}",
+        "cmc": 4.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Minotaur Archer",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "{4}{R}: Zealot of the God-Pharaoh deals 2 damage to target opponent or planeswalker.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=432886&type=card",
+        "multiverseId": "432886"
+    },
+    {
+        "name": "Visage of Bolas",
+        "manaCost": "{4}",
+        "cmc": 4.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Rare",
+        "set": "HOU",
+        "text": "When Visage of Bolas enters the battlefield, you may search your library and/or graveyard for a card named Nicol Bolas, the Deceiver, reveal it, and put it into your hand. If you search your library this way, shuffle.\n{T}: Add {U}, {B}, or {R}.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=432887&type=card",
+        "multiverseId": "432887"
+    },
+    {
+        "name": "Cinder Barrens",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Land",
+        "rarity": "Common",
+        "set": "HOU",
+        "text": "Cinder Barrens enters the battlefield tapped.\n{T}: Add {B} or {R}.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=432888&type=card",
+        "multiverseId": "432888"
+    }
+]

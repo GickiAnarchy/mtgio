@@ -1,0 +1,3396 @@
+[
+    {
+        "name": "Ajani, Caller of the Pride",
+        "manaCost": "{1}{W}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Legendary Planeswalker — Ajani",
+        "rarity": "Mythic",
+        "set": "M14",
+        "text": "[+1]: Put a +1/+1 counter on up to one target creature.\n[−3]: Target creature gains flying and double strike until end of turn.\n[−8]: Create X 2/2 white Cat creature tokens, where X is your life total.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370680&type=card",
+        "multiverseId": "370680"
+    },
+    {
+        "name": "Ajani's Chosen",
+        "manaCost": "{2}{W}{W}",
+        "cmc": 4.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Cat Soldier",
+        "rarity": "Rare",
+        "set": "M14",
+        "text": "Whenever an enchantment enters the battlefield under your control, create a 2/2 white Cat creature token. If that enchantment is an Aura, you may attach it to the token.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370750&type=card",
+        "multiverseId": "370750"
+    },
+    {
+        "name": "Angelic Accord",
+        "manaCost": "{3}{W}",
+        "cmc": 4.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Enchantment",
+        "rarity": "Uncommon",
+        "set": "M14",
+        "text": "At the beginning of each end step, if you gained 4 or more life this turn, create a 4/4 white Angel creature token with flying.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370612&type=card",
+        "multiverseId": "370612"
+    },
+    {
+        "name": "Angelic Wall",
+        "manaCost": "{1}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Wall",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Defender (This creature can't attack.)\nFlying",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370789&type=card",
+        "multiverseId": "370789"
+    },
+    {
+        "name": "Archangel of Thune",
+        "manaCost": "{3}{W}{W}",
+        "cmc": 5.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Angel",
+        "rarity": "Mythic",
+        "set": "M14",
+        "text": "Flying\nLifelink (Damage dealt by this creature also causes you to gain that much life.)\nWhenever you gain life, put a +1/+1 counter on each creature you control.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370627&type=card",
+        "multiverseId": "370627"
+    },
+    {
+        "name": "Auramancer",
+        "manaCost": "{2}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Human Wizard",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "When Auramancer enters the battlefield, you may return target enchantment card from your graveyard to your hand.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370793&type=card",
+        "multiverseId": "370793"
+    },
+    {
+        "name": "Banisher Priest",
+        "manaCost": "{1}{W}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Human Cleric",
+        "rarity": "Uncommon",
+        "set": "M14",
+        "text": "When Banisher Priest enters the battlefield, exile target creature an opponent controls until Banisher Priest leaves the battlefield. (That creature returns under its owner's control.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370624&type=card",
+        "multiverseId": "370624"
+    },
+    {
+        "name": "Blessing",
+        "manaCost": "{W}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Uncommon",
+        "set": "M14",
+        "text": "Enchant creature\n{W}: Enchanted creature gets +1/+1 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370819&type=card",
+        "multiverseId": "370819"
+    },
+    {
+        "name": "Bonescythe Sliver",
+        "manaCost": "{3}{W}",
+        "cmc": 4.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Sliver",
+        "rarity": "Rare",
+        "set": "M14",
+        "text": "Sliver creatures you control have double strike. (They deal both first-strike and regular combat damage.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370801&type=card",
+        "multiverseId": "370801"
+    },
+    {
+        "name": "Brave the Elements",
+        "manaCost": "{W}",
+        "cmc": 1.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon",
+        "set": "M14",
+        "text": "Choose a color. White creatures you control gain protection from the chosen color until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370816&type=card",
+        "multiverseId": "370816"
+    },
+    {
+        "name": "Capashen Knight",
+        "manaCost": "{1}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Human Knight",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "First strike (This creature deals combat damage before creatures without first strike.)\n{1}{W}: Capashen Knight gets +1/+0 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370821&type=card",
+        "multiverseId": "370821"
+    },
+    {
+        "name": "Celestial Flare",
+        "manaCost": "{W}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Target player sacrifices an attacking or blocking creature.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370666&type=card",
+        "multiverseId": "370666"
+    },
+    {
+        "name": "Charging Griffin",
+        "manaCost": "{3}{W}",
+        "cmc": 4.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Griffin",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\nWhenever Charging Griffin attacks, it gets +1/+1 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370768&type=card",
+        "multiverseId": "370768"
+    },
+    {
+        "name": "Congregate",
+        "manaCost": "{3}{W}",
+        "cmc": 4.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon",
+        "set": "M14",
+        "text": "Target player gains 2 life for each creature on the battlefield.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370804&type=card",
+        "multiverseId": "370804"
+    },
+    {
+        "name": "Dawnstrike Paladin",
+        "manaCost": "{3}{W}{W}",
+        "cmc": 5.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Human Knight",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Vigilance (Attacking doesn't cause this creature to tap.)\nLifelink (Damage dealt by this creature also causes you to gain that much life.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370721&type=card",
+        "multiverseId": "370721"
+    },
+    {
+        "name": "Devout Invocation",
+        "manaCost": "{6}{W}",
+        "cmc": 7.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Sorcery",
+        "rarity": "Mythic",
+        "set": "M14",
+        "text": "Tap any number of untapped creatures you control. Create a 4/4 white Angel creature token with flying for each creature tapped this way.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370726&type=card",
+        "multiverseId": "370726"
+    },
+    {
+        "name": "Divine Favor",
+        "manaCost": "{1}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Enchant creature\nWhen Divine Favor enters the battlefield, you gain 3 life.\nEnchanted creature gets +1/+3.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370748&type=card",
+        "multiverseId": "370748"
+    },
+    {
+        "name": "Fiendslayer Paladin",
+        "manaCost": "{1}{W}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Human Knight",
+        "rarity": "Rare",
+        "set": "M14",
+        "text": "First strike (This creature deals combat damage before creatures without first strike.)\nLifelink (Damage dealt by this creature also causes you to gain that much life.)\nFiendslayer Paladin can't be the target of black or red spells your opponents control.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370786&type=card",
+        "multiverseId": "370786"
+    },
+    {
+        "name": "Fortify",
+        "manaCost": "{2}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Choose one —\n• Creatures you control get +2/+0 until end of turn.\n• Creatures you control get +0/+2 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370712&type=card",
+        "multiverseId": "370712"
+    },
+    {
+        "name": "Griffin Sentinel",
+        "manaCost": "{2}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Griffin",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Flying\nVigilance (Attacking doesn't cause this creature to tap.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370792&type=card",
+        "multiverseId": "370792"
+    },
+    {
+        "name": "Hive Stirrings",
+        "manaCost": "{2}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Sorcery",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Create two 1/1 colorless Sliver creature tokens.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370817&type=card",
+        "multiverseId": "370817"
+    },
+    {
+        "name": "Imposing Sovereign",
+        "manaCost": "{1}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Human Noble",
+        "rarity": "Rare",
+        "set": "M14",
+        "text": "Creatures your opponents control enter the battlefield tapped.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370770&type=card",
+        "multiverseId": "370770"
+    },
+    {
+        "name": "Indestructibility",
+        "manaCost": "{3}{W}",
+        "cmc": 4.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Rare",
+        "set": "M14",
+        "text": "Enchant permanent\nEnchanted permanent has indestructible. (Effects that say \"destroy\" don't destroy that permanent. A creature with indestructible can't be destroyed by damage.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370673&type=card",
+        "multiverseId": "370673"
+    },
+    {
+        "name": "Master of Diversion",
+        "manaCost": "{2}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Human Scout",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Whenever Master of Diversion attacks, tap target creature defending player controls.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370708&type=card",
+        "multiverseId": "370708"
+    },
+    {
+        "name": "Pacifism",
+        "manaCost": "{1}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Enchant creature\nEnchanted creature can't attack or block.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370812&type=card",
+        "multiverseId": "370812"
+    },
+    {
+        "name": "Path of Bravery",
+        "manaCost": "{2}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Enchantment",
+        "rarity": "Rare",
+        "set": "M14",
+        "text": "As long as your life total is greater than or equal to your starting life total, creatures you control get +1/+1.\nWhenever one or more creatures you control attack, you gain life equal to the number of attacking creatures.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370798&type=card",
+        "multiverseId": "370798"
+    },
+    {
+        "name": "Pay No Heed",
+        "manaCost": "{W}",
+        "cmc": 1.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Prevent all damage a source of your choice would deal this turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370742&type=card",
+        "multiverseId": "370742"
+    },
+    {
+        "name": "Pillarfield Ox",
+        "manaCost": "{3}{W}",
+        "cmc": 4.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Ox",
+        "rarity": "Common",
+        "set": "M14",
+        "text": null,
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370765&type=card",
+        "multiverseId": "370765"
+    },
+    {
+        "name": "Planar Cleansing",
+        "manaCost": "{3}{W}{W}{W}",
+        "cmc": 6.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Sorcery",
+        "rarity": "Rare",
+        "set": "M14",
+        "text": "Destroy all nonland permanents.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370808&type=card",
+        "multiverseId": "370808"
+    },
+    {
+        "name": "Sentinel Sliver",
+        "manaCost": "{1}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Sliver",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Sliver creatures you control have vigilance. (Attacking doesn't cause them to tap.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370813&type=card",
+        "multiverseId": "370813"
+    },
+    {
+        "name": "Seraph of the Sword",
+        "manaCost": "{3}{W}",
+        "cmc": 4.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Angel",
+        "rarity": "Rare",
+        "set": "M14",
+        "text": "Flying\nPrevent all combat damage that would be dealt to Seraph of the Sword.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370620&type=card",
+        "multiverseId": "370620"
+    },
+    {
+        "name": "Serra Angel",
+        "manaCost": "{3}{W}{W}",
+        "cmc": 5.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Angel",
+        "rarity": "Uncommon",
+        "set": "M14",
+        "text": "Flying, vigilance",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370602&type=card",
+        "multiverseId": "370602"
+    },
+    {
+        "name": "Show of Valor",
+        "manaCost": "{1}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Target creature gets +2/+4 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370779&type=card",
+        "multiverseId": "370779"
+    },
+    {
+        "name": "Siege Mastodon",
+        "manaCost": "{4}{W}",
+        "cmc": 5.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Elephant",
+        "rarity": "Common",
+        "set": "M14",
+        "text": null,
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370704&type=card",
+        "multiverseId": "370704"
+    },
+    {
+        "name": "Silence",
+        "manaCost": "{W}",
+        "cmc": 1.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Instant",
+        "rarity": "Rare",
+        "set": "M14",
+        "text": "Your opponents can't cast spells this turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370578&type=card",
+        "multiverseId": "370578"
+    },
+    {
+        "name": "Solemn Offering",
+        "manaCost": "{2}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Sorcery",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Destroy target artifact or enchantment. You gain 4 life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370730&type=card",
+        "multiverseId": "370730"
+    },
+    {
+        "name": "Soulmender",
+        "manaCost": "{W}",
+        "cmc": 1.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Human Cleric",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "{T}: You gain 1 life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370587&type=card",
+        "multiverseId": "370587"
+    },
+    {
+        "name": "Steelform Sliver",
+        "manaCost": "{2}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Sliver",
+        "rarity": "Uncommon",
+        "set": "M14",
+        "text": "Sliver creatures you control get +0/+1.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370597&type=card",
+        "multiverseId": "370597"
+    },
+    {
+        "name": "Stonehorn Chanter",
+        "manaCost": "{5}{W}",
+        "cmc": 6.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Rhino Cleric",
+        "rarity": "Uncommon",
+        "set": "M14",
+        "text": "{5}{W}: Stonehorn Chanter gains vigilance and lifelink until end of turn. (Attacking doesn't cause it to tap. Damage dealt by it also causes you to gain that much life.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370777&type=card",
+        "multiverseId": "370777"
+    },
+    {
+        "name": "Suntail Hawk",
+        "manaCost": "{W}",
+        "cmc": 1.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Bird",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Flying",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370720&type=card",
+        "multiverseId": "370720"
+    },
+    {
+        "name": "Wall of Swords",
+        "manaCost": "{3}{W}",
+        "cmc": 4.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Wall",
+        "rarity": "Uncommon",
+        "set": "M14",
+        "text": "Defender (This creature can't attack.)\nFlying",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370697&type=card",
+        "multiverseId": "370697"
+    },
+    {
+        "name": "Air Servant",
+        "manaCost": "{4}{U}",
+        "cmc": 5.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Elemental",
+        "rarity": "Uncommon",
+        "set": "M14",
+        "text": "Flying\n{2}{U}: Tap target creature with flying.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370688&type=card",
+        "multiverseId": "370688"
+    },
+    {
+        "name": "Archaeomancer",
+        "manaCost": "{2}{U}{U}",
+        "cmc": 4.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Human Wizard",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "When Archaeomancer enters the battlefield, return target instant or sorcery card from your graveyard to your hand.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370753&type=card",
+        "multiverseId": "370753"
+    },
+    {
+        "name": "Armored Cancrix",
+        "manaCost": "{4}{U}",
+        "cmc": 5.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Crab",
+        "rarity": "Common",
+        "set": "M14",
+        "text": null,
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370632&type=card",
+        "multiverseId": "370632"
+    },
+    {
+        "name": "Cancel",
+        "manaCost": "{1}{U}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Counter target spell.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370755&type=card",
+        "multiverseId": "370755"
+    },
+    {
+        "name": "Claustrophobia",
+        "manaCost": "{1}{U}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Enchant creature\nWhen Claustrophobia enters the battlefield, tap enchanted creature.\nEnchanted creature doesn't untap during its controller's untap step.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370653&type=card",
+        "multiverseId": "370653"
+    },
+    {
+        "name": "Clone",
+        "manaCost": "{3}{U}",
+        "cmc": 4.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Shapeshifter",
+        "rarity": "Rare",
+        "set": "M14",
+        "text": "You may have Clone enter the battlefield as a copy of any creature on the battlefield.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370622&type=card",
+        "multiverseId": "370622"
+    },
+    {
+        "name": "Colossal Whale",
+        "manaCost": "{5}{U}{U}",
+        "cmc": 7.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Whale",
+        "rarity": "Rare",
+        "set": "M14",
+        "text": "Islandwalk (This creature can't be blocked as long as defending player controls an Island.)\nWhenever Colossal Whale attacks, you may exile target creature defending player controls until Colossal Whale leaves the battlefield. (That creature returns under its owner's control.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370685&type=card",
+        "multiverseId": "370685"
+    },
+    {
+        "name": "Coral Merfolk",
+        "manaCost": "{1}{U}",
+        "cmc": 2.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Merfolk",
+        "rarity": "Common",
+        "set": "M14",
+        "text": null,
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370667&type=card",
+        "multiverseId": "370667"
+    },
+    {
+        "name": "Dismiss into Dream",
+        "manaCost": "{6}{U}",
+        "cmc": 7.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Enchantment",
+        "rarity": "Rare",
+        "set": "M14",
+        "text": "Each creature your opponents control is an Illusion in addition to its other types and has \"When this creature becomes the target of a spell or ability, sacrifice it.\"",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370796&type=card",
+        "multiverseId": "370796"
+    },
+    {
+        "name": "Disperse",
+        "manaCost": "{1}{U}",
+        "cmc": 2.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Return target nonland permanent to its owner's hand.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370818&type=card",
+        "multiverseId": "370818"
+    },
+    {
+        "name": "Divination",
+        "manaCost": "{2}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Sorcery",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Draw two cards.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370616&type=card",
+        "multiverseId": "370616"
+    },
+    {
+        "name": "Domestication",
+        "manaCost": "{2}{U}{U}",
+        "cmc": 4.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Rare",
+        "set": "M14",
+        "text": "Enchant creature\nYou control enchanted creature.\nAt the beginning of your end step, if enchanted creature's power is 4 or greater, sacrifice Domestication.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370783&type=card",
+        "multiverseId": "370783"
+    },
+    {
+        "name": "Elite Arcanist",
+        "manaCost": "{3}{U}",
+        "cmc": 4.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Human Wizard",
+        "rarity": "Rare",
+        "set": "M14",
+        "text": "When Elite Arcanist enters the battlefield, you may exile an instant card from your hand.\n{X}, {T}: Copy the exiled card. You may cast the copy without paying its mana cost. X is the mana value of the exiled card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370747&type=card",
+        "multiverseId": "370747"
+    },
+    {
+        "name": "Essence Scatter",
+        "manaCost": "{1}{U}",
+        "cmc": 2.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Counter target creature spell.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370694&type=card",
+        "multiverseId": "370694"
+    },
+    {
+        "name": "Frost Breath",
+        "manaCost": "{2}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Tap up to two target creatures. Those creatures don't untap during their controller's next untap step.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370678&type=card",
+        "multiverseId": "370678"
+    },
+    {
+        "name": "Galerider Sliver",
+        "manaCost": "{U}",
+        "cmc": 1.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Sliver",
+        "rarity": "Rare",
+        "set": "M14",
+        "text": "Sliver creatures you control have flying.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370590&type=card",
+        "multiverseId": "370590"
+    },
+    {
+        "name": "Glimpse the Future",
+        "manaCost": "{2}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "M14",
+        "text": "Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370774&type=card",
+        "multiverseId": "370774"
+    },
+    {
+        "name": "Illusionary Armor",
+        "manaCost": "{4}{U}",
+        "cmc": 5.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Uncommon",
+        "set": "M14",
+        "text": "Enchant creature\nEnchanted creature gets +4/+4.\nWhen enchanted creature becomes the target of a spell or ability, sacrifice Illusionary Armor.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370701&type=card",
+        "multiverseId": "370701"
+    },
+    {
+        "name": "Jace, Memory Adept",
+        "manaCost": "{3}{U}{U}",
+        "cmc": 5.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Legendary Planeswalker — Jace",
+        "rarity": "Mythic",
+        "set": "M14",
+        "text": "[+1]: Draw a card. Target player mills a card.\n[0]: Target player mills ten cards.\n[−7]: Any number of target players each draw twenty cards.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370728&type=card",
+        "multiverseId": "370728"
+    },
+    {
+        "name": "Jace's Mindseeker",
+        "manaCost": "{4}{U}{U}",
+        "cmc": 6.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Fish Illusion",
+        "rarity": "Rare",
+        "set": "M14",
+        "text": "Flying\nWhen Jace's Mindseeker enters the battlefield, target opponent mills five cards. You may cast an instant or sorcery spell from among them without paying its mana cost.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370638&type=card",
+        "multiverseId": "370638"
+    },
+    {
+        "name": "Merfolk Spy",
+        "manaCost": "{U}",
+        "cmc": 1.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Merfolk Rogue",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Islandwalk (This creature can't be blocked as long as defending player controls an Island.)\nWhenever Merfolk Spy deals combat damage to a player, that player reveals a card at random from their hand.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370762&type=card",
+        "multiverseId": "370762"
+    },
+    {
+        "name": "Messenger Drake",
+        "manaCost": "{3}{U}{U}",
+        "cmc": 5.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Drake",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Flying\nWhen Messenger Drake dies, draw a card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370807&type=card",
+        "multiverseId": "370807"
+    },
+    {
+        "name": "Negate",
+        "manaCost": "{1}{U}",
+        "cmc": 2.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Counter target noncreature spell.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370719&type=card",
+        "multiverseId": "370719"
+    },
+    {
+        "name": "Nephalia Seakite",
+        "manaCost": "{3}{U}",
+        "cmc": 4.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Bird",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Flash (You may cast this spell any time you could cast an instant.)\nFlying",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370760&type=card",
+        "multiverseId": "370760"
+    },
+    {
+        "name": "Opportunity",
+        "manaCost": "{4}{U}{U}",
+        "cmc": 6.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon",
+        "set": "M14",
+        "text": "Target player draws four cards.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370751&type=card",
+        "multiverseId": "370751"
+    },
+    {
+        "name": "Phantom Warrior",
+        "manaCost": "{1}{U}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Illusion Warrior",
+        "rarity": "Uncommon",
+        "set": "M14",
+        "text": "Phantom Warrior can't be blocked.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370650&type=card",
+        "multiverseId": "370650"
+    },
+    {
+        "name": "Quicken",
+        "manaCost": "{U}",
+        "cmc": 1.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Instant",
+        "rarity": "Rare",
+        "set": "M14",
+        "text": "The next sorcery spell you cast this turn can be cast as though it had flash. (It can be cast any time you could cast an instant.)\nDraw a card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370644&type=card",
+        "multiverseId": "370644"
+    },
+    {
+        "name": "Scroll Thief",
+        "manaCost": "{2}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Merfolk Rogue",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Whenever Scroll Thief deals combat damage to a player, draw a card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370651&type=card",
+        "multiverseId": "370651"
+    },
+    {
+        "name": "Seacoast Drake",
+        "manaCost": "{1}{U}",
+        "cmc": 2.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Drake",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Flying",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370617&type=card",
+        "multiverseId": "370617"
+    },
+    {
+        "name": "Sensory Deprivation",
+        "manaCost": "{U}",
+        "cmc": 1.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Enchant creature\nEnchanted creature gets -3/-0.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370780&type=card",
+        "multiverseId": "370780"
+    },
+    {
+        "name": "Spell Blast",
+        "manaCost": "{X}{U}",
+        "cmc": 1.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon",
+        "set": "M14",
+        "text": "Counter target spell with mana value X. (For example, if that spell's mana cost is {3}{U}{U}, X is 5.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370645&type=card",
+        "multiverseId": "370645"
+    },
+    {
+        "name": "Tidebinder Mage",
+        "manaCost": "{U}{U}",
+        "cmc": 2.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Merfolk Wizard",
+        "rarity": "Rare",
+        "set": "M14",
+        "text": "When Tidebinder Mage enters the battlefield, tap target red or green creature an opponent controls. That creature doesn't untap during its controller's untap step for as long as you control Tidebinder Mage.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370736&type=card",
+        "multiverseId": "370736"
+    },
+    {
+        "name": "Time Ebb",
+        "manaCost": "{2}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Sorcery",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Put target creature on top of its owner's library.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370641&type=card",
+        "multiverseId": "370641"
+    },
+    {
+        "name": "Tome Scour",
+        "manaCost": "{U}",
+        "cmc": 1.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Sorcery",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Target player mills five cards.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370706&type=card",
+        "multiverseId": "370706"
+    },
+    {
+        "name": "Trained Condor",
+        "manaCost": "{2}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Bird",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Flying\nWhenever Trained Condor attacks, another target creature you control gains flying until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370692&type=card",
+        "multiverseId": "370692"
+    },
+    {
+        "name": "Traumatize",
+        "manaCost": "{3}{U}{U}",
+        "cmc": 5.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Sorcery",
+        "rarity": "Rare",
+        "set": "M14",
+        "text": "Target player mills half their library, rounded down.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370663&type=card",
+        "multiverseId": "370663"
+    },
+    {
+        "name": "Wall of Frost",
+        "manaCost": "{1}{U}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Wall",
+        "rarity": "Uncommon",
+        "set": "M14",
+        "text": "Defender\nWhenever Wall of Frost blocks a creature, that creature doesn't untap during its controller's next untap step.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370690&type=card",
+        "multiverseId": "370690"
+    },
+    {
+        "name": "Warden of Evos Isle",
+        "manaCost": "{2}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Bird Wizard",
+        "rarity": "Uncommon",
+        "set": "M14",
+        "text": "Flying\nCreature spells with flying you cast cost {1} less to cast.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370815&type=card",
+        "multiverseId": "370815"
+    },
+    {
+        "name": "Water Servant",
+        "manaCost": "{2}{U}{U}",
+        "cmc": 4.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Elemental",
+        "rarity": "Uncommon",
+        "set": "M14",
+        "text": "{U}: Water Servant gets +1/-1 until end of turn.\n{U}: Water Servant gets -1/+1 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370809&type=card",
+        "multiverseId": "370809"
+    },
+    {
+        "name": "Windreader Sphinx",
+        "manaCost": "{5}{U}{U}",
+        "cmc": 7.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Sphinx",
+        "rarity": "Mythic",
+        "set": "M14",
+        "text": "Flying\nWhenever a creature with flying attacks, you may draw a card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370810&type=card",
+        "multiverseId": "370810"
+    },
+    {
+        "name": "Zephyr Charge",
+        "manaCost": "{1}{U}",
+        "cmc": 2.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Enchantment",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "{1}{U}: Target creature gains flying until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370672&type=card",
+        "multiverseId": "370672"
+    },
+    {
+        "name": "Accursed Spirit",
+        "manaCost": "{3}{B}",
+        "cmc": 4.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Spirit",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370811&type=card",
+        "multiverseId": "370811"
+    },
+    {
+        "name": "Altar's Reap",
+        "manaCost": "{1}{B}",
+        "cmc": 2.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "As an additional cost to cast this spell, sacrifice a creature.\nDraw two cards.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370677&type=card",
+        "multiverseId": "370677"
+    },
+    {
+        "name": "Artificer's Hex",
+        "manaCost": "{B}",
+        "cmc": 1.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Uncommon",
+        "set": "M14",
+        "text": "Enchant Equipment\nAt the beginning of your upkeep, if enchanted Equipment is attached to a creature, destroy that creature.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370634&type=card",
+        "multiverseId": "370634"
+    },
+    {
+        "name": "Blightcaster",
+        "manaCost": "{3}{B}",
+        "cmc": 4.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Human Wizard",
+        "rarity": "Uncommon",
+        "set": "M14",
+        "text": "Whenever you cast an enchantment spell, you may have target creature get -2/-2 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370761&type=card",
+        "multiverseId": "370761"
+    },
+    {
+        "name": "Blood Bairn",
+        "manaCost": "{2}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Vampire",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Sacrifice another creature: Blood Bairn gets +2/+2 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370698&type=card",
+        "multiverseId": "370698"
+    },
+    {
+        "name": "Bogbrew Witch",
+        "manaCost": "{3}{B}",
+        "cmc": 4.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Human Wizard",
+        "rarity": "Rare",
+        "set": "M14",
+        "text": "{2}, {T}: Search your library for a card named Festering Newt or Bubbling Cauldron, put it onto the battlefield tapped, then shuffle.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370758&type=card",
+        "multiverseId": "370758"
+    },
+    {
+        "name": "Child of Night",
+        "manaCost": "{1}{B}",
+        "cmc": 2.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Vampire",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Lifelink",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370823&type=card",
+        "multiverseId": "370823"
+    },
+    {
+        "name": "Corpse Hauler",
+        "manaCost": "{1}{B}",
+        "cmc": 2.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Human Rogue",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "{2}{B}, Sacrifice Corpse Hauler: Return another target creature card from your graveyard to your hand.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370800&type=card",
+        "multiverseId": "370800"
+    },
+    {
+        "name": "Corrupt",
+        "manaCost": "{5}{B}",
+        "cmc": 6.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "M14",
+        "text": "Corrupt deals damage to any target equal to the number of Swamps you control. You gain life equal to the damage dealt this way.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370630&type=card",
+        "multiverseId": "370630"
+    },
+    {
+        "name": "Dark Favor",
+        "manaCost": "{1}{B}",
+        "cmc": 2.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Enchant creature\nWhen Dark Favor enters the battlefield, you lose 1 life.\nEnchanted creature gets +3/+1.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370782&type=card",
+        "multiverseId": "370782"
+    },
+    {
+        "name": "Dark Prophecy",
+        "manaCost": "{B}{B}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Enchantment",
+        "rarity": "Rare",
+        "set": "M14",
+        "text": "Whenever a creature you control dies, you draw a card and you lose 1 life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370596&type=card",
+        "multiverseId": "370596"
+    },
+    {
+        "name": "Deathgaze Cockatrice",
+        "manaCost": "{2}{B}{B}",
+        "cmc": 4.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Cockatrice",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Flying\nDeathtouch (Any amount of damage this deals to a creature is enough to destroy it.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370775&type=card",
+        "multiverseId": "370775"
+    },
+    {
+        "name": "Diabolic Tutor",
+        "manaCost": "{2}{B}{B}",
+        "cmc": 4.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "M14",
+        "text": "Search your library for a card, put that card into your hand, then shuffle.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370732&type=card",
+        "multiverseId": "370732"
+    },
+    {
+        "name": "Doom Blade",
+        "manaCost": "{1}{B}",
+        "cmc": 2.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon",
+        "set": "M14",
+        "text": "Destroy target nonblack creature.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370609&type=card",
+        "multiverseId": "370609"
+    },
+    {
+        "name": "Duress",
+        "manaCost": "{B}",
+        "cmc": 1.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Sorcery",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370577&type=card",
+        "multiverseId": "370577"
+    },
+    {
+        "name": "Festering Newt",
+        "manaCost": "{B}",
+        "cmc": 1.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Salamander",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "When Festering Newt dies, target creature an opponent controls gets -1/-1 until end of turn. That creature gets -4/-4 instead if you control a creature named Bogbrew Witch.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370772&type=card",
+        "multiverseId": "370772"
+    },
+    {
+        "name": "Gnawing Zombie",
+        "manaCost": "{1}{B}",
+        "cmc": 2.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Zombie",
+        "rarity": "Uncommon",
+        "set": "M14",
+        "text": "{1}{B}, Sacrifice a creature: Target player loses 1 life and you gain 1 life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370682&type=card",
+        "multiverseId": "370682"
+    },
+    {
+        "name": "Grim Return",
+        "manaCost": "{2}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Instant",
+        "rarity": "Rare",
+        "set": "M14",
+        "text": "Choose target creature card in a graveyard that was put there from the battlefield this turn. Put that card onto the battlefield under your control.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370776&type=card",
+        "multiverseId": "370776"
+    },
+    {
+        "name": "Lifebane Zombie",
+        "manaCost": "{1}{B}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Zombie Warrior",
+        "rarity": "Rare",
+        "set": "M14",
+        "text": "Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)\nWhen Lifebane Zombie enters the battlefield, target opponent reveals their hand. You choose a green or white creature card from it and exile that card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370723&type=card",
+        "multiverseId": "370723"
+    },
+    {
+        "name": "Liliana of the Dark Realms",
+        "manaCost": "{2}{B}{B}",
+        "cmc": 4.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Legendary Planeswalker — Liliana",
+        "rarity": "Mythic",
+        "set": "M14",
+        "text": "[+1]: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.\n[−3]: Target creature gets +X/+X or -X/-X until end of turn, where X is the number of Swamps you control.\n[−6]: You get an emblem with \"Swamps you control have '{T}: Add {B}{B}{B}{B}.'\"",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370658&type=card",
+        "multiverseId": "370658"
+    },
+    {
+        "name": "Liliana's Reaver",
+        "manaCost": "{2}{B}{B}",
+        "cmc": 4.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Zombie",
+        "rarity": "Rare",
+        "set": "M14",
+        "text": "Deathtouch\nWhenever Liliana's Reaver deals combat damage to a player, that player discards a card and you create a tapped 2/2 black Zombie creature token.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370740&type=card",
+        "multiverseId": "370740"
+    },
+    {
+        "name": "Liturgy of Blood",
+        "manaCost": "{3}{B}{B}",
+        "cmc": 5.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Sorcery",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Destroy target creature. Add {B}{B}{B}.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370652&type=card",
+        "multiverseId": "370652"
+    },
+    {
+        "name": "Mark of the Vampire",
+        "manaCost": "{3}{B}",
+        "cmc": 4.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Enchant creature\nEnchanted creature gets +2/+2 and has lifelink.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370787&type=card",
+        "multiverseId": "370787"
+    },
+    {
+        "name": "Mind Rot",
+        "manaCost": "{2}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Sorcery",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Target player discards two cards.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370711&type=card",
+        "multiverseId": "370711"
+    },
+    {
+        "name": "Minotaur Abomination",
+        "manaCost": "{4}{B}{B}",
+        "cmc": 6.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Zombie Minotaur",
+        "rarity": "Common",
+        "set": "M14",
+        "text": null,
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370683&type=card",
+        "multiverseId": "370683"
+    },
+    {
+        "name": "Nightmare",
+        "manaCost": "{5}{B}",
+        "cmc": 6.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Nightmare Horse",
+        "rarity": "Rare",
+        "set": "M14",
+        "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\nNightmare's power and toughness are each equal to the number of Swamps you control.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370689&type=card",
+        "multiverseId": "370689"
+    },
+    {
+        "name": "Nightwing Shade",
+        "manaCost": "{4}{B}",
+        "cmc": 5.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Shade",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Flying\n{1}{B}: Nightwing Shade gets +1/+1 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370705&type=card",
+        "multiverseId": "370705"
+    },
+    {
+        "name": "Quag Sickness",
+        "manaCost": "{2}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Enchant creature\nEnchanted creature gets -1/-1 for each Swamp you control.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370714&type=card",
+        "multiverseId": "370714"
+    },
+    {
+        "name": "Rise of the Dark Realms",
+        "manaCost": "{7}{B}{B}",
+        "cmc": 9.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Sorcery",
+        "rarity": "Mythic",
+        "set": "M14",
+        "text": "Put all creature cards from all graveyards onto the battlefield under your control.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370636&type=card",
+        "multiverseId": "370636"
+    },
+    {
+        "name": "Sanguine Bond",
+        "manaCost": "{3}{B}{B}",
+        "cmc": 5.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Enchantment",
+        "rarity": "Rare",
+        "set": "M14",
+        "text": "Whenever you gain life, target opponent loses that much life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370671&type=card",
+        "multiverseId": "370671"
+    },
+    {
+        "name": "Sengir Vampire",
+        "manaCost": "{3}{B}{B}",
+        "cmc": 5.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Vampire",
+        "rarity": "Uncommon",
+        "set": "M14",
+        "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\nWhenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/+1 counter on Sengir Vampire.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370724&type=card",
+        "multiverseId": "370724"
+    },
+    {
+        "name": "Shadowborn Apostle",
+        "manaCost": "{B}",
+        "cmc": 1.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Human Cleric",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "A deck can have any number of cards named Shadowborn Apostle.\n{B}, Sacrifice six creatures named Shadowborn Apostle: Search your library for a Demon creature card, put it onto the battlefield, then shuffle.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370746&type=card",
+        "multiverseId": "370746"
+    },
+    {
+        "name": "Shadowborn Demon",
+        "manaCost": "{3}{B}{B}",
+        "cmc": 5.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Demon",
+        "rarity": "Mythic",
+        "set": "M14",
+        "text": "Flying\nWhen Shadowborn Demon enters the battlefield, destroy target non-Demon creature.\nAt the beginning of your upkeep, if there are fewer than six creature cards in your graveyard, sacrifice a creature.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370655&type=card",
+        "multiverseId": "370655"
+    },
+    {
+        "name": "Shrivel",
+        "manaCost": "{1}{B}",
+        "cmc": 2.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Sorcery",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "All creatures get -1/-1 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370722&type=card",
+        "multiverseId": "370722"
+    },
+    {
+        "name": "Syphon Sliver",
+        "manaCost": "{2}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Sliver",
+        "rarity": "Rare",
+        "set": "M14",
+        "text": "Sliver creatures you control have lifelink. (Damage dealt by a Sliver creature you control also causes you to gain that much life.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370752&type=card",
+        "multiverseId": "370752"
+    },
+    {
+        "name": "Tenacious Dead",
+        "manaCost": "{B}",
+        "cmc": 1.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Skeleton Warrior",
+        "rarity": "Uncommon",
+        "set": "M14",
+        "text": "When Tenacious Dead dies, you may pay {1}{B}. If you do, return it to the battlefield tapped under its owner's control.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370606&type=card",
+        "multiverseId": "370606"
+    },
+    {
+        "name": "Undead Minotaur",
+        "manaCost": "{2}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Zombie Minotaur",
+        "rarity": "Common",
+        "set": "M14",
+        "text": null,
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370702&type=card",
+        "multiverseId": "370702"
+    },
+    {
+        "name": "Vampire Warlord",
+        "manaCost": "{4}{B}",
+        "cmc": 5.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Vampire Warrior",
+        "rarity": "Uncommon",
+        "set": "M14",
+        "text": "Sacrifice another creature: Regenerate Vampire Warlord. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370709&type=card",
+        "multiverseId": "370709"
+    },
+    {
+        "name": "Vile Rebirth",
+        "manaCost": "{B}",
+        "cmc": 1.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Exile target creature card from a graveyard. Create a 2/2 black Zombie creature token.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370799&type=card",
+        "multiverseId": "370799"
+    },
+    {
+        "name": "Wring Flesh",
+        "manaCost": "{B}",
+        "cmc": 1.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Target creature gets -3/-1 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370759&type=card",
+        "multiverseId": "370759"
+    },
+    {
+        "name": "Xathrid Necromancer",
+        "manaCost": "{2}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Human Wizard",
+        "rarity": "Rare",
+        "set": "M14",
+        "text": "Whenever Xathrid Necromancer or another Human creature you control dies, create a tapped 2/2 black Zombie creature token.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370619&type=card",
+        "multiverseId": "370619"
+    },
+    {
+        "name": "Academy Raider",
+        "manaCost": "{2}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Human Warrior",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)\nWhenever Academy Raider deals combat damage to a player, you may discard a card. If you do, draw a card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370735&type=card",
+        "multiverseId": "370735"
+    },
+    {
+        "name": "Act of Treason",
+        "manaCost": "{2}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Sorcery",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. (It can attack and {T} this turn.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370618&type=card",
+        "multiverseId": "370618"
+    },
+    {
+        "name": "Awaken the Ancient",
+        "manaCost": "{1}{R}{R}{R}",
+        "cmc": 4.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Rare",
+        "set": "M14",
+        "text": "Enchant Mountain\nEnchanted Mountain is a 7/7 red Giant creature with haste. It's still a land.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370613&type=card",
+        "multiverseId": "370613"
+    },
+    {
+        "name": "Barrage of Expendables",
+        "manaCost": "{R}",
+        "cmc": 1.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Enchantment",
+        "rarity": "Uncommon",
+        "set": "M14",
+        "text": "{R}, Sacrifice a creature: Barrage of Expendables deals 1 damage to any target.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370822&type=card",
+        "multiverseId": "370822"
+    },
+    {
+        "name": "Battle Sliver",
+        "manaCost": "{4}{R}",
+        "cmc": 5.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Sliver",
+        "rarity": "Uncommon",
+        "set": "M14",
+        "text": "Sliver creatures you control get +2/+0.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370639&type=card",
+        "multiverseId": "370639"
+    },
+    {
+        "name": "Blur Sliver",
+        "manaCost": "{2}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Sliver",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Sliver creatures you control have haste. (They can attack and {T} as soon as they come under your control.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370593&type=card",
+        "multiverseId": "370593"
+    },
+    {
+        "name": "Burning Earth",
+        "manaCost": "{3}{R}",
+        "cmc": 4.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Enchantment",
+        "rarity": "Rare",
+        "set": "M14",
+        "text": "Whenever a player taps a nonbasic land for mana, Burning Earth deals 1 damage to that player.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370696&type=card",
+        "multiverseId": "370696"
+    },
+    {
+        "name": "Canyon Minotaur",
+        "manaCost": "{3}{R}",
+        "cmc": 4.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Minotaur Warrior",
+        "rarity": "Common",
+        "set": "M14",
+        "text": null,
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370757&type=card",
+        "multiverseId": "370757"
+    },
+    {
+        "name": "Chandra, Pyromaster",
+        "manaCost": "{2}{R}{R}",
+        "cmc": 4.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Legendary Planeswalker — Chandra",
+        "rarity": "Mythic",
+        "set": "M14",
+        "text": "[+1]: Chandra, Pyromaster deals 1 damage to target player or planeswalker and 1 damage to up to one target creature that player or that planeswalker's controller controls. That creature can't block this turn.\n[0]: Exile the top card of your library. You may play it this turn.\n[−7]: Exile the top ten cards of your library. Choose an instant or sorcery card exiled this way and copy it three times. You may cast the copies without paying their mana costs.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370637&type=card",
+        "multiverseId": "370637"
+    },
+    {
+        "name": "Chandra's Outrage",
+        "manaCost": "{2}{R}{R}",
+        "cmc": 4.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Chandra's Outrage deals 4 damage to target creature and 2 damage to that creature's controller.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370659&type=card",
+        "multiverseId": "370659"
+    },
+    {
+        "name": "Chandra's Phoenix",
+        "manaCost": "{1}{R}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Phoenix",
+        "rarity": "Rare",
+        "set": "M14",
+        "text": "Flying\nHaste (This creature can attack and {T} as soon as it comes under your control.)\nWhenever an opponent is dealt damage by a red instant or sorcery spell you control or by a red planeswalker you control, return Chandra's Phoenix from your graveyard to your hand.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370691&type=card",
+        "multiverseId": "370691"
+    },
+    {
+        "name": "Cyclops Tyrant",
+        "manaCost": "{5}{R}",
+        "cmc": 6.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Cyclops",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)\nCyclops Tyrant can't block creatures with power 2 or less.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370585&type=card",
+        "multiverseId": "370585"
+    },
+    {
+        "name": "Demolish",
+        "manaCost": "{3}{R}",
+        "cmc": 4.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Sorcery",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Destroy target artifact or land.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370621&type=card",
+        "multiverseId": "370621"
+    },
+    {
+        "name": "Dragon Egg",
+        "manaCost": "{2}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Dragon Egg",
+        "rarity": "Uncommon",
+        "set": "M14",
+        "text": "Defender\nWhen Dragon Egg dies, create a 2/2 red Dragon creature token with flying and \"{R}: This creature gets +1/+0 until end of turn.\"",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370660&type=card",
+        "multiverseId": "370660"
+    },
+    {
+        "name": "Dragon Hatchling",
+        "manaCost": "{1}{R}",
+        "cmc": 2.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Dragon",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Flying\n{R}: Dragon Hatchling gets +1/+0 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370717&type=card",
+        "multiverseId": "370717"
+    },
+    {
+        "name": "Flames of the Firebrand",
+        "manaCost": "{2}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "M14",
+        "text": "Flames of the Firebrand deals 3 damage divided as you choose among one, two, or three targets.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370824&type=card",
+        "multiverseId": "370824"
+    },
+    {
+        "name": "Fleshpulper Giant",
+        "manaCost": "{5}{R}{R}",
+        "cmc": 7.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Giant",
+        "rarity": "Uncommon",
+        "set": "M14",
+        "text": "When Fleshpulper Giant enters the battlefield, you may destroy target creature with toughness 2 or less.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370741&type=card",
+        "multiverseId": "370741"
+    },
+    {
+        "name": "Goblin Diplomats",
+        "manaCost": "{1}{R}",
+        "cmc": 2.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Goblin",
+        "rarity": "Rare",
+        "set": "M14",
+        "text": "{T}: Each creature attacks this turn if able.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370674&type=card",
+        "multiverseId": "370674"
+    },
+    {
+        "name": "Goblin Shortcutter",
+        "manaCost": "{1}{R}",
+        "cmc": 2.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Goblin Scout",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "When Goblin Shortcutter enters the battlefield, target creature can't block this turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370610&type=card",
+        "multiverseId": "370610"
+    },
+    {
+        "name": "Lava Axe",
+        "manaCost": "{4}{R}",
+        "cmc": 5.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Sorcery",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Lava Axe deals 5 damage to target player or planeswalker.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370595&type=card",
+        "multiverseId": "370595"
+    },
+    {
+        "name": "Lightning Talons",
+        "manaCost": "{2}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Enchant creature\nEnchanted creature gets +3/+0 and has first strike. (It deals combat damage before creatures without first strike.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370795&type=card",
+        "multiverseId": "370795"
+    },
+    {
+        "name": "Marauding Maulhorn",
+        "manaCost": "{2}{R}{R}",
+        "cmc": 4.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Beast",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Marauding Maulhorn attacks each combat if able unless you control a creature named Advocate of the Beast.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370648&type=card",
+        "multiverseId": "370648"
+    },
+    {
+        "name": "Mindsparker",
+        "manaCost": "{1}{R}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Elemental",
+        "rarity": "Rare",
+        "set": "M14",
+        "text": "First strike (This creature deals combat damage before creatures without first strike.)\nWhenever an opponent casts a white or blue instant or sorcery spell, Mindsparker deals 2 damage to that player.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370695&type=card",
+        "multiverseId": "370695"
+    },
+    {
+        "name": "Molten Birth",
+        "manaCost": "{1}{R}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "M14",
+        "text": "Create two 1/1 red Elemental creature tokens, then flip a coin. If you win the flip, return Molten Birth to its owner's hand.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370604&type=card",
+        "multiverseId": "370604"
+    },
+    {
+        "name": "Ogre Battledriver",
+        "manaCost": "{2}{R}{R}",
+        "cmc": 4.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Ogre Warrior",
+        "rarity": "Rare",
+        "set": "M14",
+        "text": "Whenever another creature enters the battlefield under your control, that creature gets +2/+0 and gains haste until end of turn. (It can attack and {T} this turn.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370662&type=card",
+        "multiverseId": "370662"
+    },
+    {
+        "name": "Pitchburn Devils",
+        "manaCost": "{4}{R}",
+        "cmc": 5.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Devil",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "When Pitchburn Devils dies, it deals 3 damage to any target.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370649&type=card",
+        "multiverseId": "370649"
+    },
+    {
+        "name": "Regathan Firecat",
+        "manaCost": "{2}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Elemental Cat",
+        "rarity": "Common",
+        "set": "M14",
+        "text": null,
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370805&type=card",
+        "multiverseId": "370805"
+    },
+    {
+        "name": "Scourge of Valkas",
+        "manaCost": "{2}{R}{R}{R}",
+        "cmc": 5.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Dragon",
+        "rarity": "Mythic",
+        "set": "M14",
+        "text": "Flying\nWhenever Scourge of Valkas or another Dragon enters the battlefield under your control, it deals X damage to any target, where X is the number of Dragons you control.\n{R}: Scourge of Valkas gets +1/+0 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370584&type=card",
+        "multiverseId": "370584"
+    },
+    {
+        "name": "Seismic Stomp",
+        "manaCost": "{1}{R}",
+        "cmc": 2.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Sorcery",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Creatures without flying can't block this turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370713&type=card",
+        "multiverseId": "370713"
+    },
+    {
+        "name": "Shiv's Embrace",
+        "manaCost": "{2}{R}{R}",
+        "cmc": 4.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Uncommon",
+        "set": "M14",
+        "text": "Enchant creature\nEnchanted creature gets +2/+2 and has flying.\n{R}: Enchanted creature gets +1/+0 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370707&type=card",
+        "multiverseId": "370707"
+    },
+    {
+        "name": "Shivan Dragon",
+        "manaCost": "{4}{R}{R}",
+        "cmc": 6.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Dragon",
+        "rarity": "Rare",
+        "set": "M14",
+        "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\n{R}: Shivan Dragon gets +1/+0 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370825&type=card",
+        "multiverseId": "370825"
+    },
+    {
+        "name": "Shock",
+        "manaCost": "{R}",
+        "cmc": 1.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Shock deals 2 damage to any target.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370654&type=card",
+        "multiverseId": "370654"
+    },
+    {
+        "name": "Smelt",
+        "manaCost": "{R}",
+        "cmc": 1.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Destroy target artifact.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370784&type=card",
+        "multiverseId": "370784"
+    },
+    {
+        "name": "Striking Sliver",
+        "manaCost": "{R}",
+        "cmc": 1.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Sliver",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Sliver creatures you control have first strike. (They deal combat damage before creatures without first strike.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370589&type=card",
+        "multiverseId": "370589"
+    },
+    {
+        "name": "Thorncaster Sliver",
+        "manaCost": "{4}{R}",
+        "cmc": 5.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Sliver",
+        "rarity": "Rare",
+        "set": "M14",
+        "text": "Sliver creatures you control have \"Whenever this creature attacks, it deals 1 damage to any target.\"",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370820&type=card",
+        "multiverseId": "370820"
+    },
+    {
+        "name": "Thunder Strike",
+        "manaCost": "{1}{R}",
+        "cmc": 2.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Target creature gets +2/+0 and gains first strike until end of turn. (It deals combat damage before creatures without first strike.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370607&type=card",
+        "multiverseId": "370607"
+    },
+    {
+        "name": "Volcanic Geyser",
+        "manaCost": "{X}{R}{R}",
+        "cmc": 2.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon",
+        "set": "M14",
+        "text": "Volcanic Geyser deals X damage to any target.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370614&type=card",
+        "multiverseId": "370614"
+    },
+    {
+        "name": "Wild Guess",
+        "manaCost": "{R}{R}",
+        "cmc": 2.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Sorcery",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "As an additional cost to cast this spell, discard a card.\nDraw two cards.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370791&type=card",
+        "multiverseId": "370791"
+    },
+    {
+        "name": "Wild Ricochet",
+        "manaCost": "{2}{R}{R}",
+        "cmc": 4.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Instant",
+        "rarity": "Rare",
+        "set": "M14",
+        "text": "You may choose new targets for target instant or sorcery spell. Then copy that spell. You may choose new targets for the copy.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370790&type=card",
+        "multiverseId": "370790"
+    },
+    {
+        "name": "Young Pyromancer",
+        "manaCost": "{1}{R}",
+        "cmc": 2.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Human Shaman",
+        "rarity": "Uncommon",
+        "set": "M14",
+        "text": "Whenever you cast an instant or sorcery spell, create a 1/1 red Elemental creature token.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370600&type=card",
+        "multiverseId": "370600"
+    },
+    {
+        "name": "Advocate of the Beast",
+        "manaCost": "{2}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Elf Shaman",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "At the beginning of your end step, put a +1/+1 counter on target Beast creature you control.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370738&type=card",
+        "multiverseId": "370738"
+    },
+    {
+        "name": "Bramblecrush",
+        "manaCost": "{2}{G}{G}",
+        "cmc": 4.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "M14",
+        "text": "Destroy target noncreature permanent.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370642&type=card",
+        "multiverseId": "370642"
+    },
+    {
+        "name": "Briarpack Alpha",
+        "manaCost": "{3}{G}",
+        "cmc": 4.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Wolf",
+        "rarity": "Uncommon",
+        "set": "M14",
+        "text": "Flash (You may cast this spell any time you could cast an instant.)\nWhen Briarpack Alpha enters the battlefield, target creature gets +2/+2 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370739&type=card",
+        "multiverseId": "370739"
+    },
+    {
+        "name": "Brindle Boar",
+        "manaCost": "{2}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Boar",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Sacrifice Brindle Boar: You gain 4 life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370778&type=card",
+        "multiverseId": "370778"
+    },
+    {
+        "name": "Deadly Recluse",
+        "manaCost": "{1}{G}",
+        "cmc": 2.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Spider",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Reach (This creature can block creatures with flying.)\nDeathtouch (Any amount of damage this deals to a creature is enough to destroy it.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370582&type=card",
+        "multiverseId": "370582"
+    },
+    {
+        "name": "Elvish Mystic",
+        "manaCost": "{G}",
+        "cmc": 1.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Elf Druid",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "{T}: Add {G}.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370744&type=card",
+        "multiverseId": "370744"
+    },
+    {
+        "name": "Enlarge",
+        "manaCost": "{3}{G}{G}",
+        "cmc": 5.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "M14",
+        "text": "Target creature gets +7/+7 and gains trample until end of turn. It must be blocked this turn if able. (A creature with trample can deal excess combat damage to the player or planeswalker it's attacking.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370797&type=card",
+        "multiverseId": "370797"
+    },
+    {
+        "name": "Fog",
+        "manaCost": "{G}",
+        "cmc": 1.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Prevent all combat damage that would be dealt this turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370633&type=card",
+        "multiverseId": "370633"
+    },
+    {
+        "name": "Garruk, Caller of Beasts",
+        "manaCost": "{4}{G}{G}",
+        "cmc": 6.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Legendary Planeswalker — Garruk",
+        "rarity": "Mythic",
+        "set": "M14",
+        "text": "[+1]: Reveal the top five cards of your library. Put all creature cards revealed this way into your hand and the rest on the bottom of your library in any order.\n[−3]: You may put a green creature card from your hand onto the battlefield.\n[−7]: You get an emblem with \"Whenever you cast a creature spell, you may search your library for a creature card, put it onto the battlefield, then shuffle.\"",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370687&type=card",
+        "multiverseId": "370687"
+    },
+    {
+        "name": "Garruk's Horde",
+        "manaCost": "{5}{G}{G}",
+        "cmc": 7.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Beast",
+        "rarity": "Rare",
+        "set": "M14",
+        "text": "Trample\nPlay with the top card of your library revealed.\nYou may cast creature spells from the top of your library. (Do this only any time you could cast that creature spell. You still pay the spell's costs.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370684&type=card",
+        "multiverseId": "370684"
+    },
+    {
+        "name": "Giant Growth",
+        "manaCost": "{G}",
+        "cmc": 1.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Target creature gets +3/+3 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370788&type=card",
+        "multiverseId": "370788"
+    },
+    {
+        "name": "Giant Spider",
+        "manaCost": "{3}{G}",
+        "cmc": 4.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Spider",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Reach (This creature can block creatures with flying.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370781&type=card",
+        "multiverseId": "370781"
+    },
+    {
+        "name": "Gladecover Scout",
+        "manaCost": "{G}",
+        "cmc": 1.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Elf Scout",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Hexproof (This creature can't be the target of spells or abilities your opponents control.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370716&type=card",
+        "multiverseId": "370716"
+    },
+    {
+        "name": "Groundshaker Sliver",
+        "manaCost": "{6}{G}",
+        "cmc": 7.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Sliver",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Sliver creatures you control have trample. (A creature with trample can deal excess combat damage to the player or planeswalker it's attacking.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370626&type=card",
+        "multiverseId": "370626"
+    },
+    {
+        "name": "Howl of the Night Pack",
+        "manaCost": "{6}{G}",
+        "cmc": 7.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "M14",
+        "text": "Create a 2/2 green Wolf creature token for each Forest you control.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370718&type=card",
+        "multiverseId": "370718"
+    },
+    {
+        "name": "Hunt the Weak",
+        "manaCost": "{3}{G}",
+        "cmc": 4.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Sorcery",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Put a +1/+1 counter on target creature you control. Then that creature fights target creature you don't control. (Each deals damage equal to its power to the other.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370743&type=card",
+        "multiverseId": "370743"
+    },
+    {
+        "name": "Into the Wilds",
+        "manaCost": "{3}{G}",
+        "cmc": 4.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Enchantment",
+        "rarity": "Rare",
+        "set": "M14",
+        "text": "At the beginning of your upkeep, look at the top card of your library. If it's a land card, you may put it onto the battlefield.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370579&type=card",
+        "multiverseId": "370579"
+    },
+    {
+        "name": "Kalonian Hydra",
+        "manaCost": "{3}{G}{G}",
+        "cmc": 5.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Hydra",
+        "rarity": "Mythic",
+        "set": "M14",
+        "text": "Trample\nKalonian Hydra enters the battlefield with four +1/+1 counters on it.\nWhenever Kalonian Hydra attacks, double the number of +1/+1 counters on each creature you control.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370766&type=card",
+        "multiverseId": "370766"
+    },
+    {
+        "name": "Kalonian Tusker",
+        "manaCost": "{G}{G}",
+        "cmc": 2.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Beast",
+        "rarity": "Uncommon",
+        "set": "M14",
+        "text": null,
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370700&type=card",
+        "multiverseId": "370700"
+    },
+    {
+        "name": "Lay of the Land",
+        "manaCost": "{G}",
+        "cmc": 1.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Sorcery",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Search your library for a basic land card, reveal it, put it into your hand, then shuffle.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370767&type=card",
+        "multiverseId": "370767"
+    },
+    {
+        "name": "Manaweft Sliver",
+        "manaCost": "{1}{G}",
+        "cmc": 2.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Sliver",
+        "rarity": "Uncommon",
+        "set": "M14",
+        "text": "Sliver creatures you control have \"{T}: Add one mana of any color.\"",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370599&type=card",
+        "multiverseId": "370599"
+    },
+    {
+        "name": "Megantic Sliver",
+        "manaCost": "{5}{G}",
+        "cmc": 6.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Sliver",
+        "rarity": "Rare",
+        "set": "M14",
+        "text": "Sliver creatures you control get +3/+3.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370794&type=card",
+        "multiverseId": "370794"
+    },
+    {
+        "name": "Naturalize",
+        "manaCost": "{1}{G}",
+        "cmc": 2.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Destroy target artifact or enchantment.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370802&type=card",
+        "multiverseId": "370802"
+    },
+    {
+        "name": "Oath of the Ancient Wood",
+        "manaCost": "{2}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Enchantment",
+        "rarity": "Rare",
+        "set": "M14",
+        "text": "Whenever Oath of the Ancient Wood or another enchantment enters the battlefield under your control, you may put a +1/+1 counter on target creature.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370763&type=card",
+        "multiverseId": "370763"
+    },
+    {
+        "name": "Plummet",
+        "manaCost": "{1}{G}",
+        "cmc": 2.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Destroy target creature with flying.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370601&type=card",
+        "multiverseId": "370601"
+    },
+    {
+        "name": "Predatory Sliver",
+        "manaCost": "{1}{G}",
+        "cmc": 2.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Sliver",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Sliver creatures you control get +1/+1.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370745&type=card",
+        "multiverseId": "370745"
+    },
+    {
+        "name": "Primeval Bounty",
+        "manaCost": "{5}{G}",
+        "cmc": 6.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Enchantment",
+        "rarity": "Mythic",
+        "set": "M14",
+        "text": "Whenever you cast a creature spell, create a 3/3 green Beast creature token.\nWhenever you cast a noncreature spell, put three +1/+1 counters on target creature you control.\nLandfall — Whenever a land enters the battlefield under your control, you gain 3 life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370656&type=card",
+        "multiverseId": "370656"
+    },
+    {
+        "name": "Ranger's Guile",
+        "manaCost": "{G}",
+        "cmc": 1.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Target creature you control gets +1/+1 and gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370803&type=card",
+        "multiverseId": "370803"
+    },
+    {
+        "name": "Rootwalla",
+        "manaCost": "{2}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Lizard",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "{1}{G}: Rootwalla gets +2/+2 until end of turn. Activate only once each turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370693&type=card",
+        "multiverseId": "370693"
+    },
+    {
+        "name": "Rumbling Baloth",
+        "manaCost": "{2}{G}{G}",
+        "cmc": 4.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Beast",
+        "rarity": "Common",
+        "set": "M14",
+        "text": null,
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370764&type=card",
+        "multiverseId": "370764"
+    },
+    {
+        "name": "Savage Summoning",
+        "manaCost": "{G}",
+        "cmc": 1.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Instant",
+        "rarity": "Rare",
+        "set": "M14",
+        "text": "This spell can't be countered.\nThe next creature spell you cast this turn can be cast as though it had flash. That spell can't be countered. That creature enters the battlefield with an additional +1/+1 counter on it.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370710&type=card",
+        "multiverseId": "370710"
+    },
+    {
+        "name": "Scavenging Ooze",
+        "manaCost": "{1}{G}",
+        "cmc": 2.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Ooze",
+        "rarity": "Rare",
+        "set": "M14",
+        "text": "{G}: Exile target card from a graveyard. If it was a creature card, put a +1/+1 counter on Scavenging Ooze and you gain 1 life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370629&type=card",
+        "multiverseId": "370629"
+    },
+    {
+        "name": "Sporemound",
+        "manaCost": "{3}{G}{G}",
+        "cmc": 5.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Fungus",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Landfall — Whenever a land enters the battlefield under your control, create a 1/1 green Saproling creature token.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370605&type=card",
+        "multiverseId": "370605"
+    },
+    {
+        "name": "Trollhide",
+        "manaCost": "{2}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Enchant creature\nEnchanted creature gets +2/+2 and has \"{1}{G}: Regenerate this creature.\" (The next time the creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370664&type=card",
+        "multiverseId": "370664"
+    },
+    {
+        "name": "Vastwood Hydra",
+        "manaCost": "{X}{G}{G}",
+        "cmc": 2.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Hydra",
+        "rarity": "Rare",
+        "set": "M14",
+        "text": "Vastwood Hydra enters the battlefield with X +1/+1 counters on it.\nWhen Vastwood Hydra dies, you may distribute a number of +1/+1 counters equal to the number of +1/+1 counters on Vastwood Hydra among any number of creatures you control.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370749&type=card",
+        "multiverseId": "370749"
+    },
+    {
+        "name": "Verdant Haven",
+        "manaCost": "{2}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "Enchant land\nWhen Verdant Haven enters the battlefield, you gain 2 life.\nWhenever enchanted land is tapped for mana, its controller adds an additional one mana of any color.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370657&type=card",
+        "multiverseId": "370657"
+    },
+    {
+        "name": "Voracious Wurm",
+        "manaCost": "{1}{G}",
+        "cmc": 2.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Wurm",
+        "rarity": "Uncommon",
+        "set": "M14",
+        "text": "Voracious Wurm enters the battlefield with X +1/+1 counters on it, where X is the amount of life you've gained this turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370814&type=card",
+        "multiverseId": "370814"
+    },
+    {
+        "name": "Windstorm",
+        "manaCost": "{X}{G}",
+        "cmc": 1.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon",
+        "set": "M14",
+        "text": "Windstorm deals X damage to each creature with flying.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370628&type=card",
+        "multiverseId": "370628"
+    },
+    {
+        "name": "Witchstalker",
+        "manaCost": "{1}{G}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Wolf",
+        "rarity": "Rare",
+        "set": "M14",
+        "text": "Hexproof (This creature can't be the target of spells or abilities your opponents control.)\nWhenever an opponent casts a blue or black spell during your turn, put a +1/+1 counter on Witchstalker.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370806&type=card",
+        "multiverseId": "370806"
+    },
+    {
+        "name": "Woodborn Behemoth",
+        "manaCost": "{3}{G}{G}",
+        "cmc": 5.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Elemental",
+        "rarity": "Uncommon",
+        "set": "M14",
+        "text": "As long as you control eight or more lands, Woodborn Behemoth gets +4/+4 and has trample. (It can deal excess combat damage to the player or planeswalker it's attacking.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370665&type=card",
+        "multiverseId": "370665"
+    },
+    {
+        "name": "Accorder's Shield",
+        "manaCost": "{0}",
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Artifact — Equipment",
+        "rarity": "Uncommon",
+        "set": "M14",
+        "text": "Equipped creature gets +0/+3 and has vigilance. (Attacking doesn't cause it to tap.)\nEquip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370581&type=card",
+        "multiverseId": "370581"
+    },
+    {
+        "name": "Bubbling Cauldron",
+        "manaCost": "{2}",
+        "cmc": 2.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Uncommon",
+        "set": "M14",
+        "text": "{1}, {T}, Sacrifice a creature: You gain 4 life.\n{1}, {T}, Sacrifice a creature named Festering Newt: Each opponent loses 4 life. You gain life equal to the life lost this way.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370661&type=card",
+        "multiverseId": "370661"
+    },
+    {
+        "name": "Darksteel Forge",
+        "manaCost": "{9}",
+        "cmc": 9.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Mythic",
+        "set": "M14",
+        "text": "Artifacts you control have indestructible. (Effects that say \"destroy\" don't destroy them. Artifact creatures with indestructible can't be destroyed by damage.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370734&type=card",
+        "multiverseId": "370734"
+    },
+    {
+        "name": "Darksteel Ingot",
+        "manaCost": "{3}",
+        "cmc": 3.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Uncommon",
+        "set": "M14",
+        "text": "Indestructible (Effects that say \"destroy\" don't destroy this artifact.)\n{T}: Add one mana of any color.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370675&type=card",
+        "multiverseId": "370675"
+    },
+    {
+        "name": "Door of Destinies",
+        "manaCost": "{4}",
+        "cmc": 4.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Rare",
+        "set": "M14",
+        "text": "As Door of Destinies enters the battlefield, choose a creature type.\nWhenever you cast a spell of the chosen type, put a charge counter on Door of Destinies.\nCreatures you control of the chosen type get +1/+1 for each charge counter on Door of Destinies.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370699&type=card",
+        "multiverseId": "370699"
+    },
+    {
+        "name": "Elixir of Immortality",
+        "manaCost": "{1}",
+        "cmc": 1.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Uncommon",
+        "set": "M14",
+        "text": "{2}, {T}: You gain 5 life. Shuffle Elixir of Immortality and your graveyard into their owner's library.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370681&type=card",
+        "multiverseId": "370681"
+    },
+    {
+        "name": "Fireshrieker",
+        "manaCost": "{3}",
+        "cmc": 3.0,
+        "colors": null,
+        "type": "Artifact — Equipment",
+        "rarity": "Uncommon",
+        "set": "M14",
+        "text": "Equipped creature has double strike. (It deals both first-strike and regular combat damage.)\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370715&type=card",
+        "multiverseId": "370715"
+    },
+    {
+        "name": "Guardian of the Ages",
+        "manaCost": "{7}",
+        "cmc": 7.0,
+        "colors": null,
+        "type": "Artifact Creature — Golem",
+        "rarity": "Rare",
+        "set": "M14",
+        "text": "Defender (This creature can't attack.)\nWhen a creature attacks you or a planeswalker you control, if Guardian of the Ages has defender, it loses defender and gains trample.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370603&type=card",
+        "multiverseId": "370603"
+    },
+    {
+        "name": "Haunted Plate Mail",
+        "manaCost": "{4}",
+        "cmc": 4.0,
+        "colors": null,
+        "type": "Artifact — Equipment",
+        "rarity": "Rare",
+        "set": "M14",
+        "text": "Equipped creature gets +4/+4.\n{0}: Until end of turn, Haunted Plate Mail becomes a 4/4 Spirit artifact creature that's no longer an Equipment. Activate only if you control no creatures.\nEquip {4} ({4}: Attach to target creature you control. Equip only as a sorcery.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370594&type=card",
+        "multiverseId": "370594"
+    },
+    {
+        "name": "Millstone",
+        "manaCost": "{2}",
+        "cmc": 2.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Uncommon",
+        "set": "M14",
+        "text": "{2}, {T}: Target player mills two cards.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370737&type=card",
+        "multiverseId": "370737"
+    },
+    {
+        "name": "Pyromancer's Gauntlet",
+        "manaCost": "{5}",
+        "cmc": 5.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Rare",
+        "set": "M14",
+        "text": "If a red instant or sorcery spell you control or a red planeswalker you control would deal damage to a permanent or player, it deals that much damage plus 2 to that permanent or player instead.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370686&type=card",
+        "multiverseId": "370686"
+    },
+    {
+        "name": "Ratchet Bomb",
+        "manaCost": "{2}",
+        "cmc": 2.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Rare",
+        "set": "M14",
+        "text": "{T}: Put a charge counter on Ratchet Bomb.\n{T}, Sacrifice Ratchet Bomb: Destroy each nonland permanent with mana value equal to the number of charge counters on Ratchet Bomb.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370623&type=card",
+        "multiverseId": "370623"
+    },
+    {
+        "name": "Ring of Three Wishes",
+        "manaCost": "{5}",
+        "cmc": 5.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Mythic",
+        "set": "M14",
+        "text": "Ring of Three Wishes enters the battlefield with three wish counters on it.\n{5}, {T}, Remove a wish counter from Ring of Three Wishes: Search your library for a card, put that card into your hand, then shuffle.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370580&type=card",
+        "multiverseId": "370580"
+    },
+    {
+        "name": "Rod of Ruin",
+        "manaCost": "{4}",
+        "cmc": 4.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Uncommon",
+        "set": "M14",
+        "text": "{3}, {T}: Rod of Ruin deals 1 damage to any target.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370668&type=card",
+        "multiverseId": "370668"
+    },
+    {
+        "name": "Sliver Construct",
+        "manaCost": "{3}",
+        "cmc": 3.0,
+        "colors": null,
+        "type": "Artifact Creature — Sliver Construct",
+        "rarity": "Common",
+        "set": "M14",
+        "text": null,
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370643&type=card",
+        "multiverseId": "370643"
+    },
+    {
+        "name": "Staff of the Death Magus",
+        "manaCost": "{3}",
+        "cmc": 3.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Uncommon",
+        "set": "M14",
+        "text": "Whenever you cast a black spell or a Swamp enters the battlefield under your control, you gain 1 life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370586&type=card",
+        "multiverseId": "370586"
+    },
+    {
+        "name": "Staff of the Flame Magus",
+        "manaCost": "{3}",
+        "cmc": 3.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Uncommon",
+        "set": "M14",
+        "text": "Whenever you cast a red spell or a Mountain enters the battlefield under your control, you gain 1 life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370625&type=card",
+        "multiverseId": "370625"
+    },
+    {
+        "name": "Staff of the Mind Magus",
+        "manaCost": "{3}",
+        "cmc": 3.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Uncommon",
+        "set": "M14",
+        "text": "Whenever you cast a blue spell or an Island enters the battlefield under your control, you gain 1 life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370676&type=card",
+        "multiverseId": "370676"
+    },
+    {
+        "name": "Staff of the Sun Magus",
+        "manaCost": "{3}",
+        "cmc": 3.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Uncommon",
+        "set": "M14",
+        "text": "Whenever you cast a white spell or a Plains enters the battlefield under your control, you gain 1 life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370635&type=card",
+        "multiverseId": "370635"
+    },
+    {
+        "name": "Staff of the Wild Magus",
+        "manaCost": "{3}",
+        "cmc": 3.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Uncommon",
+        "set": "M14",
+        "text": "Whenever you cast a green spell or a Forest enters the battlefield under your control, you gain 1 life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370592&type=card",
+        "multiverseId": "370592"
+    },
+    {
+        "name": "Strionic Resonator",
+        "manaCost": "{2}",
+        "cmc": 2.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Rare",
+        "set": "M14",
+        "text": "{2}, {T}: Copy target triggered ability you control. You may choose new targets for the copy. (A triggered ability uses the words \"when,\" \"whenever,\" or \"at.\")",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370670&type=card",
+        "multiverseId": "370670"
+    },
+    {
+        "name": "Trading Post",
+        "manaCost": "{4}",
+        "cmc": 4.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Rare",
+        "set": "M14",
+        "text": "{1}, {T}, Discard a card: You gain 4 life.\n{1}, {T}, Pay 1 life: Create a 0/1 white Goat creature token.\n{1}, {T}, Sacrifice a creature: Return target artifact card from your graveyard to your hand.\n{1}, {T}, Sacrifice an artifact: Draw a card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370646&type=card",
+        "multiverseId": "370646"
+    },
+    {
+        "name": "Vial of Poison",
+        "manaCost": "{1}",
+        "cmc": 1.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Uncommon",
+        "set": "M14",
+        "text": "{1}, Sacrifice Vial of Poison: Target creature gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370640&type=card",
+        "multiverseId": "370640"
+    },
+    {
+        "name": "Encroaching Wastes",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Land",
+        "rarity": "Uncommon",
+        "set": "M14",
+        "text": "{T}: Add {C}.\n{4}, {T}, Sacrifice Encroaching Wastes: Destroy target nonbasic land.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370769&type=card",
+        "multiverseId": "370769"
+    },
+    {
+        "name": "Mutavault",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Land",
+        "rarity": "Rare",
+        "set": "M14",
+        "text": "{T}: Add {C}.\n{1}: Mutavault becomes a 2/2 creature with all creature types until end of turn. It's still a land.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370733&type=card",
+        "multiverseId": "370733"
+    },
+    {
+        "name": "Shimmering Grotto",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Land",
+        "rarity": "Uncommon",
+        "set": "M14",
+        "text": "{T}: Add {C}.\n{1}, {T}: Add one mana of any color.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370631&type=card",
+        "multiverseId": "370631"
+    },
+    {
+        "name": "Plains",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Basic Land — Plains",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "({T}: Add {W}.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370615&type=card",
+        "multiverseId": "370615"
+    },
+    {
+        "name": "Plains",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Basic Land — Plains",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "({T}: Add {W}.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370754&type=card",
+        "multiverseId": "370754"
+    },
+    {
+        "name": "Plains",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Basic Land — Plains",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "({T}: Add {W}.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370679&type=card",
+        "multiverseId": "370679"
+    },
+    {
+        "name": "Plains",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Basic Land — Plains",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "({T}: Add {W}.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370669&type=card",
+        "multiverseId": "370669"
+    },
+    {
+        "name": "Island",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Basic Land — Island",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "({T}: Add {U}.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370773&type=card",
+        "multiverseId": "370773"
+    },
+    {
+        "name": "Island",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Basic Land — Island",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "({T}: Add {U}.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370608&type=card",
+        "multiverseId": "370608"
+    },
+    {
+        "name": "Island",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Basic Land — Island",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "({T}: Add {U}.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370611&type=card",
+        "multiverseId": "370611"
+    },
+    {
+        "name": "Island",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Basic Land — Island",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "({T}: Add {U}.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370647&type=card",
+        "multiverseId": "370647"
+    },
+    {
+        "name": "Swamp",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Basic Land — Swamp",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "({T}: Add {B}.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370727&type=card",
+        "multiverseId": "370727"
+    },
+    {
+        "name": "Swamp",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Basic Land — Swamp",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "({T}: Add {B}.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370785&type=card",
+        "multiverseId": "370785"
+    },
+    {
+        "name": "Swamp",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Basic Land — Swamp",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "({T}: Add {B}.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370731&type=card",
+        "multiverseId": "370731"
+    },
+    {
+        "name": "Swamp",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Basic Land — Swamp",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "({T}: Add {B}.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370703&type=card",
+        "multiverseId": "370703"
+    },
+    {
+        "name": "Mountain",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Basic Land — Mountain",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "({T}: Add {R}.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370588&type=card",
+        "multiverseId": "370588"
+    },
+    {
+        "name": "Mountain",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Basic Land — Mountain",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "({T}: Add {R}.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370591&type=card",
+        "multiverseId": "370591"
+    },
+    {
+        "name": "Mountain",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Basic Land — Mountain",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "({T}: Add {R}.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370583&type=card",
+        "multiverseId": "370583"
+    },
+    {
+        "name": "Mountain",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Basic Land — Mountain",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "({T}: Add {R}.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370725&type=card",
+        "multiverseId": "370725"
+    },
+    {
+        "name": "Forest",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Basic Land — Forest",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "({T}: Add {G}.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370771&type=card",
+        "multiverseId": "370771"
+    },
+    {
+        "name": "Forest",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Basic Land — Forest",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "({T}: Add {G}.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370729&type=card",
+        "multiverseId": "370729"
+    },
+    {
+        "name": "Forest",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Basic Land — Forest",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "({T}: Add {G}.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370598&type=card",
+        "multiverseId": "370598"
+    },
+    {
+        "name": "Forest",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Basic Land — Forest",
+        "rarity": "Common",
+        "set": "M14",
+        "text": "({T}: Add {G}.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370756&type=card",
+        "multiverseId": "370756"
+    }
+]

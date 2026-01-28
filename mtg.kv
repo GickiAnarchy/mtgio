@@ -1,0 +1,127 @@
+<MTGCardWidget>:
+    orientation: "vertical"
+    size_hint: None, None
+    size: "280dp", "400dp"
+    radius: [12]
+    elevation: 3
+    padding: "8dp"
+    md_bg_color: 0.15, 0.15, 0.15, 1
+
+    BoxLayout:
+        size_hint_y: None
+        height: "30dp"
+        MDLabel:
+            text: root.card_name
+            theme_text_color: "Custom"
+            text_color: 1, 1, 1, 1
+            bold: True
+            shorten: True
+            shorten_from: 'right'
+
+    AsyncImage:
+        source: root.image_url
+        size_hint_y: None
+        height: "180dp"
+        allow_stretch: True
+        keep_ratio: True
+        nocache: True
+
+    MDLabel:
+        text: root.type_line
+        size_hint_y: None
+        height: "25dp"
+        theme_text_color: "Custom"
+        text_color: 0.8, 0.8, 0.8, 1
+        font_style: "Caption"
+
+    ScrollView:
+        MDLabel:
+            text: root.oracle_text
+            font_style: "Caption"
+            theme_text_color: "Custom"
+            text_color: 0.9, 0.9, 0.9, 1
+            size_hint_y: None
+            height: self.texture_size[1]
+
+# --- Screen 1: Set Selection ---
+<SetSelectionScreen>:
+    BoxLayout:
+        orientation: "vertical"
+        
+        MDTopAppBar:
+            title: "Select a Set"
+            elevation: 4
+
+        ScrollView:
+            MDList:
+                id: set_list
+
+# --- Screen 2: Card Viewer ---
+<CardViewerScreen>:
+    BoxLayout:
+        orientation: "vertical"
+        
+        MDTopAppBar:
+            id: top_bar
+            title: "Card Viewer"
+            elevation: 4
+            left_action_items: [["arrow-left", lambda x: root.go_back()]]
+            right_action_items: [["refresh", lambda x: root.load_cards()]]
+
+        # Status Label
+        MDLabel:
+            id: status_label
+            text: "Loading..."
+            halign: "center"
+            size_hint_y: None
+            height: "30dp"
+            theme_text_color: "Hint"
+
+        # Card Grid
+        ScrollView:
+            id: scroll_view
+            GridLayout:
+                id: card_grid
+                cols: 1
+                spacing: "20dp"
+                padding: "20dp"
+                size_hint_y: None
+                height: self.minimum_height
+                row_default_height: "420dp"
+                row_force_default: True
+
+        # Pagination Footer
+        MDBoxLayout:
+            size_hint_y: None
+            height: "60dp"
+            md_bg_color: 0.1, 0.1, 0.1, 1
+            padding: "10dp"
+            spacing: "20dp"
+
+            MDIconButton:
+                icon: "chevron-left"
+                theme_text_color: "Custom"
+                text_color: 1, 1, 1, 1
+                pos_hint: {"center_y": 0.5}
+                on_release: root.change_page(-1)
+                disabled: root.current_page <= 1
+
+            MDLabel:
+                text: f"Page {root.current_page}"
+                halign: "center"
+                theme_text_color: "Custom"
+                text_color: 1, 1, 1, 1
+                pos_hint: {"center_y": 0.5}
+
+            MDIconButton:
+                icon: "chevron-right"
+                theme_text_color: "Custom"
+                text_color: 1, 1, 1, 1
+                pos_hint: {"center_y": 0.5}
+                on_release: root.change_page(1)
+
+MDScreenManager:
+    SetSelectionScreen:
+        name: "set_selection"
+    CardViewerScreen:
+        name: "card_viewer"

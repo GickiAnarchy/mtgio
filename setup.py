@@ -11,6 +11,6 @@ setup(
     packages=["mtgio"],
     include_package_data=True,
     install_requires=[
-        "mtgsdk", "PySimpleGUI", "pillow"
+        "mtgsdk", "kivy", "kivymd"
     ],
 )

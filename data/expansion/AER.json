@@ -1,0 +1,2683 @@
+[
+    {
+        "name": "Aerial Modification",
+        "manaCost": "{4}{W}",
+        "cmc": 5.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Uncommon",
+        "set": "AER",
+        "text": "Enchant creature or Vehicle\nAs long as enchanted permanent is a Vehicle, it's a creature in addition to its other types.\nEnchanted creature gets +2/+2 and has flying.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423668&type=card",
+        "multiverseId": "423668"
+    },
+    {
+        "name": "Aeronaut Admiral",
+        "manaCost": "{3}{W}",
+        "cmc": 4.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Human Pilot",
+        "rarity": "Uncommon",
+        "set": "AER",
+        "text": "Flying\nVehicles you control have flying.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423669&type=card",
+        "multiverseId": "423669"
+    },
+    {
+        "name": "Aether Inspector",
+        "manaCost": "{3}{W}",
+        "cmc": 4.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Dwarf Artificer",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "Vigilance\nWhen Aether Inspector enters the battlefield, you get {E}{E} (two energy counters).\nWhenever Aether Inspector attacks, you may pay {E}{E}. If you do, create a 1/1 colorless Servo artifact creature token.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423670&type=card",
+        "multiverseId": "423670"
+    },
+    {
+        "name": "Aethergeode Miner",
+        "manaCost": "{1}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Dwarf Scout",
+        "rarity": "Rare",
+        "set": "AER",
+        "text": "Whenever Aethergeode Miner attacks, you get {E}{E} (two energy counters).\nPay {E}{E}: Exile Aethergeode Miner, then return it to the battlefield under its owner's control.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423671&type=card",
+        "multiverseId": "423671"
+    },
+    {
+        "name": "Airdrop Aeronauts",
+        "manaCost": "{3}{W}{W}",
+        "cmc": 5.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Dwarf Scout",
+        "rarity": "Uncommon",
+        "set": "AER",
+        "text": "Flying\nRevolt — When Airdrop Aeronauts enters the battlefield, if a permanent you controlled left the battlefield this turn, you gain 5 life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423672&type=card",
+        "multiverseId": "423672"
+    },
+    {
+        "name": "Alley Evasion",
+        "manaCost": "{W}",
+        "cmc": 1.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "Choose one —\n• Target creature you control gets +1/+2 until end of turn.\n• Return target creature you control to its owner's hand.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423673&type=card",
+        "multiverseId": "423673"
+    },
+    {
+        "name": "Audacious Infiltrator",
+        "manaCost": "{1}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Dwarf Rogue",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "Audacious Infiltrator can't be blocked by artifact creatures.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423674&type=card",
+        "multiverseId": "423674"
+    },
+    {
+        "name": "Bastion Enforcer",
+        "manaCost": "{2}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Dwarf Soldier",
+        "rarity": "Common",
+        "set": "AER",
+        "text": null,
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423675&type=card",
+        "multiverseId": "423675"
+    },
+    {
+        "name": "Call for Unity",
+        "manaCost": "{3}{W}{W}",
+        "cmc": 5.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Enchantment",
+        "rarity": "Rare",
+        "set": "AER",
+        "text": "Revolt — At the beginning of your end step, if a permanent you controlled left the battlefield this turn, put a unity counter on Call for Unity.\nCreatures you control get +1/+1 for each unity counter on Call for Unity.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423676&type=card",
+        "multiverseId": "423676"
+    },
+    {
+        "name": "Caught in the Brights",
+        "manaCost": "{2}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "Enchant creature\nEnchanted creature can't attack or block.\nWhen a Vehicle you control attacks, exile enchanted creature.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423677&type=card",
+        "multiverseId": "423677"
+    },
+    {
+        "name": "Consulate Crackdown",
+        "manaCost": "{3}{W}{W}",
+        "cmc": 5.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Enchantment",
+        "rarity": "Rare",
+        "set": "AER",
+        "text": "When Consulate Crackdown enters the battlefield, exile all artifacts your opponents control until Consulate Crackdown leaves the battlefield.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423678&type=card",
+        "multiverseId": "423678"
+    },
+    {
+        "name": "Conviction",
+        "manaCost": "{1}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "Enchant creature\nEnchanted creature gets +1/+3.\n{W}: Return Conviction to its owner's hand.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423679&type=card",
+        "multiverseId": "423679"
+    },
+    {
+        "name": "Countless Gears Renegade",
+        "manaCost": "{1}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Dwarf Artificer",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "Revolt — When Countless Gears Renegade enters the battlefield, if a permanent you controlled left the battlefield this turn, create a 1/1 colorless Servo artifact creature token.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423680&type=card",
+        "multiverseId": "423680"
+    },
+    {
+        "name": "Dawnfeather Eagle",
+        "manaCost": "{4}{W}",
+        "cmc": 5.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Bird",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "Flying\nWhen Dawnfeather Eagle enters the battlefield, creatures you control get +1/+1 and gain vigilance until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423681&type=card",
+        "multiverseId": "423681"
+    },
+    {
+        "name": "Dawnfeather Eagle",
+        "manaCost": "{4}{W}",
+        "cmc": 5.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Bird",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "Flying\nWhen Dawnfeather Eagle enters the battlefield, creatures you control get +1/+1 and gain vigilance until end of turn.",
+        "imageUrl": null,
+        "multiverseId": null
+    },
+    {
+        "name": "Deadeye Harpooner",
+        "manaCost": "{2}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Dwarf Warrior",
+        "rarity": "Uncommon",
+        "set": "AER",
+        "text": "Revolt — When Deadeye Harpooner enters the battlefield, if a permanent you controlled left the battlefield this turn, destroy target tapped creature an opponent controls.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423682&type=card",
+        "multiverseId": "423682"
+    },
+    {
+        "name": "Decommission",
+        "manaCost": "{2}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "Destroy target artifact or enchantment.\nRevolt — If a permanent you controlled left the battlefield this turn, you gain 3 life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423683&type=card",
+        "multiverseId": "423683"
+    },
+    {
+        "name": "Deft Dismissal",
+        "manaCost": "{3}{W}",
+        "cmc": 4.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon",
+        "set": "AER",
+        "text": "Deft Dismissal deals 3 damage divided as you choose among one, two, or three target attacking or blocking creatures.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423684&type=card",
+        "multiverseId": "423684"
+    },
+    {
+        "name": "Exquisite Archangel",
+        "manaCost": "{5}{W}{W}",
+        "cmc": 7.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Angel",
+        "rarity": "Mythic",
+        "set": "AER",
+        "text": "Flying\nIf you would lose the game, instead exile Exquisite Archangel and your life total becomes equal to your starting life total.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423685&type=card",
+        "multiverseId": "423685"
+    },
+    {
+        "name": "Felidar Guardian",
+        "manaCost": "{3}{W}",
+        "cmc": 4.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Cat Beast",
+        "rarity": "Uncommon",
+        "set": "AER",
+        "text": "When Felidar Guardian enters the battlefield, you may exile another target permanent you control, then return that card to the battlefield under its owner's control.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423686&type=card",
+        "multiverseId": "423686"
+    },
+    {
+        "name": "Ghirapur Osprey",
+        "manaCost": "{2}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Bird",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "Flying",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423687&type=card",
+        "multiverseId": "423687"
+    },
+    {
+        "name": "Restoration Specialist",
+        "manaCost": "{1}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Dwarf Artificer",
+        "rarity": "Uncommon",
+        "set": "AER",
+        "text": "{W}, Sacrifice Restoration Specialist: Return up to one target artifact card and up to one target enchantment card from your graveyard to your hand.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423688&type=card",
+        "multiverseId": "423688"
+    },
+    {
+        "name": "Solemn Recruit",
+        "manaCost": "{1}{W}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Dwarf Warrior",
+        "rarity": "Rare",
+        "set": "AER",
+        "text": "Double strike\nRevolt — At the beginning of your end step, if a permanent you controlled left the battlefield this turn, put a +1/+1 counter on Solemn Recruit.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423689&type=card",
+        "multiverseId": "423689"
+    },
+    {
+        "name": "Sram, Senior Edificer",
+        "manaCost": "{1}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Legendary Creature — Dwarf Advisor",
+        "rarity": "Rare",
+        "set": "AER",
+        "text": "Whenever you cast an Aura, Equipment, or Vehicle spell, draw a card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423690&type=card",
+        "multiverseId": "423690"
+    },
+    {
+        "name": "Sram's Expertise",
+        "manaCost": "{2}{W}{W}",
+        "cmc": 4.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Sorcery",
+        "rarity": "Rare",
+        "set": "AER",
+        "text": "Create three 1/1 colorless Servo artifact creature tokens.\nYou may cast a spell with mana value 3 or less from your hand without paying its mana cost.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423691&type=card",
+        "multiverseId": "423691"
+    },
+    {
+        "name": "Thopter Arrest",
+        "manaCost": "{2}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Enchantment",
+        "rarity": "Uncommon",
+        "set": "AER",
+        "text": "When Thopter Arrest enters the battlefield, exile target artifact or creature an opponent controls until Thopter Arrest leaves the battlefield.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423692&type=card",
+        "multiverseId": "423692"
+    },
+    {
+        "name": "Aether Swooper",
+        "manaCost": "{1}{U}",
+        "cmc": 2.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Vedalken Artificer",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "Flying\nWhen Aether Swooper enters the battlefield, you get {E}{E} (two energy counters).\nWhenever Aether Swooper attacks, you may pay {E}{E}. If you do, create a 1/1 colorless Servo artifact creature token.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423693&type=card",
+        "multiverseId": "423693"
+    },
+    {
+        "name": "Aethertide Whale",
+        "manaCost": "{4}{U}{U}",
+        "cmc": 6.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Whale",
+        "rarity": "Rare",
+        "set": "AER",
+        "text": "Flying\nWhen Aethertide Whale enters the battlefield, you get {E}{E}{E}{E}{E}{E} (six energy counters).\nPay {E}{E}{E}{E}: Return Aethertide Whale to its owner's hand.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423694&type=card",
+        "multiverseId": "423694"
+    },
+    {
+        "name": "Baral, Chief of Compliance",
+        "manaCost": "{1}{U}",
+        "cmc": 2.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Legendary Creature — Human Wizard",
+        "rarity": "Rare",
+        "set": "AER",
+        "text": "Instant and sorcery spells you cast cost {1} less to cast.\nWhenever a spell or ability you control counters a spell, you may draw a card. If you do, discard a card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423695&type=card",
+        "multiverseId": "423695"
+    },
+    {
+        "name": "Baral's Expertise",
+        "manaCost": "{3}{U}{U}",
+        "cmc": 5.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Sorcery",
+        "rarity": "Rare",
+        "set": "AER",
+        "text": "Return up to three target artifacts and/or creatures to their owners' hands.\nYou may cast a spell with mana value 4 or less from your hand without paying its mana cost.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423696&type=card",
+        "multiverseId": "423696"
+    },
+    {
+        "name": "Bastion Inventor",
+        "manaCost": "{5}{U}",
+        "cmc": 6.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Vedalken Artificer",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for {1}.)\nHexproof (This creature can't be the target of spells or abilities your opponents control.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423697&type=card",
+        "multiverseId": "423697"
+    },
+    {
+        "name": "Disallow",
+        "manaCost": "{1}{U}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Instant",
+        "rarity": "Rare",
+        "set": "AER",
+        "text": "Counter target spell, activated ability, or triggered ability. (Mana abilities can't be targeted.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423698&type=card",
+        "multiverseId": "423698"
+    },
+    {
+        "name": "Dispersal Technician",
+        "manaCost": "{4}{U}",
+        "cmc": 5.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Vedalken Artificer",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "When Dispersal Technician enters the battlefield, you may return target artifact to its owner's hand.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423699&type=card",
+        "multiverseId": "423699"
+    },
+    {
+        "name": "Efficient Construction",
+        "manaCost": "{3}{U}",
+        "cmc": 4.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Enchantment",
+        "rarity": "Uncommon",
+        "set": "AER",
+        "text": "Whenever you cast an artifact spell, create a 1/1 colorless Thopter artifact creature token with flying.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423700&type=card",
+        "multiverseId": "423700"
+    },
+    {
+        "name": "Hinterland Drake",
+        "manaCost": "{2}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Drake",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "Flying\nHinterland Drake can't block artifact creatures.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423701&type=card",
+        "multiverseId": "423701"
+    },
+    {
+        "name": "Ice Over",
+        "manaCost": "{1}{U}",
+        "cmc": 2.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "Enchant artifact or creature\nEnchanted permanent doesn't untap during its controller's untap step.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423702&type=card",
+        "multiverseId": "423702"
+    },
+    {
+        "name": "Illusionist's Stratagem",
+        "manaCost": "{3}{U}",
+        "cmc": 4.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon",
+        "set": "AER",
+        "text": "Exile up to two target creatures you control, then return those cards to the battlefield under their owner's control.\nDraw a card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423703&type=card",
+        "multiverseId": "423703"
+    },
+    {
+        "name": "Leave in the Dust",
+        "manaCost": "{3}{U}",
+        "cmc": 4.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "Return target nonland permanent to its owner's hand.\nDraw a card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423704&type=card",
+        "multiverseId": "423704"
+    },
+    {
+        "name": "Mechanized Production",
+        "manaCost": "{2}{U}{U}",
+        "cmc": 4.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Mythic",
+        "set": "AER",
+        "text": "Enchant artifact you control\nAt the beginning of your upkeep, create a token that's a copy of enchanted artifact. Then if you control eight or more artifacts with the same name as one another, you win the game.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423705&type=card",
+        "multiverseId": "423705"
+    },
+    {
+        "name": "Metallic Rebuke",
+        "manaCost": "{2}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for {1}.)\nCounter target spell unless its controller pays {3}.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423706&type=card",
+        "multiverseId": "423706"
+    },
+    {
+        "name": "Negate",
+        "manaCost": "{1}{U}",
+        "cmc": 2.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "Counter target noncreature spell.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423707&type=card",
+        "multiverseId": "423707"
+    },
+    {
+        "name": "Quicksmith Spy",
+        "manaCost": "{3}{U}",
+        "cmc": 4.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Human Artificer",
+        "rarity": "Rare",
+        "set": "AER",
+        "text": "When Quicksmith Spy enters the battlefield, target artifact you control gains \"{T}: Draw a card\" for as long as you control Quicksmith Spy.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423708&type=card",
+        "multiverseId": "423708"
+    },
+    {
+        "name": "Reverse Engineer",
+        "manaCost": "{3}{U}{U}",
+        "cmc": 5.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "AER",
+        "text": "Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for {1}.)\nDraw three cards.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423709&type=card",
+        "multiverseId": "423709"
+    },
+    {
+        "name": "Salvage Scuttler",
+        "manaCost": "{4}{U}",
+        "cmc": 5.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Crab",
+        "rarity": "Uncommon",
+        "set": "AER",
+        "text": "Whenever Salvage Scuttler attacks, return an artifact you control to its owner's hand.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423710&type=card",
+        "multiverseId": "423710"
+    },
+    {
+        "name": "Shielded Aether Thief",
+        "manaCost": "{1}{U}",
+        "cmc": 2.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Vedalken Rogue",
+        "rarity": "Uncommon",
+        "set": "AER",
+        "text": "Flash (You may cast this spell any time you could cast an instant.)\nWhenever Shielded Aether Thief blocks, you get {E} (an energy counter).\n{T}, Pay {E}{E}{E}: Draw a card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423711&type=card",
+        "multiverseId": "423711"
+    },
+    {
+        "name": "Shipwreck Moray",
+        "manaCost": "{3}{U}",
+        "cmc": 4.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Fish",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "When Shipwreck Moray enters the battlefield, you get {E}{E}{E}{E} (four energy counters).\nPay {E}: Shipwreck Moray gets +2/-2 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423712&type=card",
+        "multiverseId": "423712"
+    },
+    {
+        "name": "Skyship Plunderer",
+        "manaCost": "{1}{U}",
+        "cmc": 2.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Human Pirate",
+        "rarity": "Uncommon",
+        "set": "AER",
+        "text": "Flying\nWhenever Skyship Plunderer deals combat damage to a player, for each kind of counter on target permanent or player, give that permanent or player another counter of that kind.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423713&type=card",
+        "multiverseId": "423713"
+    },
+    {
+        "name": "Take into Custody",
+        "manaCost": "{U}",
+        "cmc": 1.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "Tap target creature. It doesn't untap during its controller's next untap step.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423714&type=card",
+        "multiverseId": "423714"
+    },
+    {
+        "name": "Trophy Mage",
+        "manaCost": "{2}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Human Wizard",
+        "rarity": "Uncommon",
+        "set": "AER",
+        "text": "When Trophy Mage enters the battlefield, you may search your library for an artifact card with mana value 3, reveal it, put it into your hand, then shuffle.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423715&type=card",
+        "multiverseId": "423715"
+    },
+    {
+        "name": "Whir of Invention",
+        "manaCost": "{X}{U}{U}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Instant",
+        "rarity": "Rare",
+        "set": "AER",
+        "text": "Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for {1}.)\nSearch your library for an artifact card with mana value X or less, put it onto the battlefield, then shuffle.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423716&type=card",
+        "multiverseId": "423716"
+    },
+    {
+        "name": "Wind-Kin Raiders",
+        "manaCost": "{4}{U}{U}",
+        "cmc": 6.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Human Artificer",
+        "rarity": "Uncommon",
+        "set": "AER",
+        "text": "Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for {1}.)\nFlying",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423717&type=card",
+        "multiverseId": "423717"
+    },
+    {
+        "name": "Aether Poisoner",
+        "manaCost": "{1}{B}",
+        "cmc": 2.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Human Artificer",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)\nWhen Aether Poisoner enters the battlefield, you get {E}{E} (two energy counters).\nWhenever Aether Poisoner attacks, you may pay {E}{E}. If you do, create a 1/1 colorless Servo artifact creature token.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423718&type=card",
+        "multiverseId": "423718"
+    },
+    {
+        "name": "Alley Strangler",
+        "manaCost": "{2}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Aetherborn Rogue",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "Menace",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423719&type=card",
+        "multiverseId": "423719"
+    },
+    {
+        "name": "Alley Strangler",
+        "manaCost": "{2}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Aetherborn Rogue",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "Menace",
+        "imageUrl": null,
+        "multiverseId": null
+    },
+    {
+        "name": "Battle at the Bridge",
+        "manaCost": "{X}{B}",
+        "cmc": 1.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Sorcery",
+        "rarity": "Rare",
+        "set": "AER",
+        "text": "Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for {1}.)\nTarget creature gets -X/-X until end of turn. You gain X life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423720&type=card",
+        "multiverseId": "423720"
+    },
+    {
+        "name": "Cruel Finality",
+        "manaCost": "{2}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "Target creature gets -2/-2 until end of turn. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423721&type=card",
+        "multiverseId": "423721"
+    },
+    {
+        "name": "Daring Demolition",
+        "manaCost": "{2}{B}{B}",
+        "cmc": 4.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Sorcery",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "Destroy target creature or Vehicle.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423722&type=card",
+        "multiverseId": "423722"
+    },
+    {
+        "name": "Defiant Salvager",
+        "manaCost": "{2}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Aetherborn Artificer",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "Sacrifice an artifact or creature: Put a +1/+1 counter on Defiant Salvager. Activate only as a sorcery.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423723&type=card",
+        "multiverseId": "423723"
+    },
+    {
+        "name": "Fatal Push",
+        "manaCost": "{B}",
+        "cmc": 1.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon",
+        "set": "AER",
+        "text": "Destroy target creature if it has mana value 2 or less.\nRevolt — Destroy that creature if it has mana value 4 or less instead if a permanent you controlled left the battlefield this turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423724&type=card",
+        "multiverseId": "423724"
+    },
+    {
+        "name": "Fen Hauler",
+        "manaCost": "{6}{B}",
+        "cmc": 7.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Insect",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for {1}.)\nFen Hauler can't be blocked by artifact creatures.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423725&type=card",
+        "multiverseId": "423725"
+    },
+    {
+        "name": "Foundry Hornet",
+        "manaCost": "{3}{B}",
+        "cmc": 4.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Insect",
+        "rarity": "Uncommon",
+        "set": "AER",
+        "text": "Flying\nWhen Foundry Hornet enters the battlefield, if you control a creature with a +1/+1 counter on it, creatures your opponents control get -1/-1 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423726&type=card",
+        "multiverseId": "423726"
+    },
+    {
+        "name": "Fourth Bridge Prowler",
+        "manaCost": "{B}",
+        "cmc": 1.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Human Rogue",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "When Fourth Bridge Prowler enters the battlefield, you may have target creature get -1/-1 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423727&type=card",
+        "multiverseId": "423727"
+    },
+    {
+        "name": "Gifted Aetherborn",
+        "manaCost": "{B}{B}",
+        "cmc": 2.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Aetherborn Vampire",
+        "rarity": "Uncommon",
+        "set": "AER",
+        "text": "Deathtouch, lifelink",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423728&type=card",
+        "multiverseId": "423728"
+    },
+    {
+        "name": "Glint-Sleeve Siphoner",
+        "manaCost": "{1}{B}",
+        "cmc": 2.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Human Rogue",
+        "rarity": "Rare",
+        "set": "AER",
+        "text": "Menace\nWhenever Glint-Sleeve Siphoner enters the battlefield or attacks, you get {E} (an energy counter).\nAt the beginning of your upkeep, you may pay {E}{E}. If you do, you draw a card and you lose 1 life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423729&type=card",
+        "multiverseId": "423729"
+    },
+    {
+        "name": "Gonti's Machinations",
+        "manaCost": "{B}",
+        "cmc": 1.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Enchantment",
+        "rarity": "Uncommon",
+        "set": "AER",
+        "text": "Whenever you lose life for the first time each turn, you get {E}. (You get an energy counter. Damage causes loss of life.)\nPay {E}{E}, Sacrifice Gonti's Machinations: Each opponent loses 3 life. You gain life equal to the life lost this way.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423730&type=card",
+        "multiverseId": "423730"
+    },
+    {
+        "name": "Herald of Anguish",
+        "manaCost": "{5}{B}{B}",
+        "cmc": 7.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Demon",
+        "rarity": "Mythic",
+        "set": "AER",
+        "text": "Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for {1}.)\nFlying\nAt the beginning of your end step, each opponent discards a card.\n{1}{B}, Sacrifice an artifact: Target creature gets -2/-2 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423731&type=card",
+        "multiverseId": "423731"
+    },
+    {
+        "name": "Ironclad Revolutionary",
+        "manaCost": "{4}{B}{B}",
+        "cmc": 6.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Aetherborn Artificer",
+        "rarity": "Uncommon",
+        "set": "AER",
+        "text": "When Ironclad Revolutionary enters the battlefield, you may sacrifice an artifact. If you do, put two +1/+1 counters on Ironclad Revolutionary and each opponent loses 2 life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423732&type=card",
+        "multiverseId": "423732"
+    },
+    {
+        "name": "Midnight Entourage",
+        "manaCost": "{2}{B}{B}",
+        "cmc": 4.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Aetherborn Rogue",
+        "rarity": "Rare",
+        "set": "AER",
+        "text": "Other Aetherborn you control get +1/+1.\nWhenever Midnight Entourage or another Aetherborn you control dies, you draw a card and you lose 1 life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423733&type=card",
+        "multiverseId": "423733"
+    },
+    {
+        "name": "Night Market Aeronaut",
+        "manaCost": "{3}{B}",
+        "cmc": 4.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Aetherborn Warrior",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "Flying\nRevolt — Night Market Aeronaut enters the battlefield with a +1/+1 counter on it if a permanent you controlled left the battlefield this turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423734&type=card",
+        "multiverseId": "423734"
+    },
+    {
+        "name": "Perilous Predicament",
+        "manaCost": "{4}{B}",
+        "cmc": 5.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon",
+        "set": "AER",
+        "text": "Each opponent sacrifices an artifact creature and a nonartifact creature.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423735&type=card",
+        "multiverseId": "423735"
+    },
+    {
+        "name": "Renegade's Getaway",
+        "manaCost": "{2}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "Target permanent gains indestructible until end of turn. Create a 1/1 colorless Servo artifact creature token. (Effects that say \"destroy\" don't destroy a permanent with indestructible, and if it's a creature, it can't be destroyed by damage.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423736&type=card",
+        "multiverseId": "423736"
+    },
+    {
+        "name": "Resourceful Return",
+        "manaCost": "{1}{B}",
+        "cmc": 2.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Sorcery",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "Return target creature card from your graveyard to your hand. If you control an artifact, draw a card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423737&type=card",
+        "multiverseId": "423737"
+    },
+    {
+        "name": "Secret Salvage",
+        "manaCost": "{3}{B}{B}",
+        "cmc": 5.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Sorcery",
+        "rarity": "Rare",
+        "set": "AER",
+        "text": "Exile target nonland card from your graveyard. Search your library for any number of cards with the same name as that card, reveal them, put them into your hand, then shuffle.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423738&type=card",
+        "multiverseId": "423738"
+    },
+    {
+        "name": "Sly Requisitioner",
+        "manaCost": "{4}{B}",
+        "cmc": 5.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Human Artificer",
+        "rarity": "Uncommon",
+        "set": "AER",
+        "text": "Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for {1}.)\nWhenever a nontoken artifact you control is put into a graveyard from the battlefield, create a 1/1 colorless Servo artifact creature token.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423739&type=card",
+        "multiverseId": "423739"
+    },
+    {
+        "name": "Vengeful Rebel",
+        "manaCost": "{2}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Aetherborn Warrior",
+        "rarity": "Uncommon",
+        "set": "AER",
+        "text": "Revolt — When Vengeful Rebel enters the battlefield, if a permanent you controlled left the battlefield this turn, target creature an opponent controls gets -3/-3 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423740&type=card",
+        "multiverseId": "423740"
+    },
+    {
+        "name": "Yahenni, Undying Partisan",
+        "manaCost": "{2}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Legendary Creature — Aetherborn Vampire",
+        "rarity": "Rare",
+        "set": "AER",
+        "text": "Haste\nWhenever a creature an opponent controls dies, put a +1/+1 counter on Yahenni, Undying Partisan.\nSacrifice another creature: Yahenni gains indestructible until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423741&type=card",
+        "multiverseId": "423741"
+    },
+    {
+        "name": "Yahenni's Expertise",
+        "manaCost": "{2}{B}{B}",
+        "cmc": 4.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Sorcery",
+        "rarity": "Rare",
+        "set": "AER",
+        "text": "All creatures get -3/-3 until end of turn.\nYou may cast a spell with mana value 3 or less from your hand without paying its mana cost.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423742&type=card",
+        "multiverseId": "423742"
+    },
+    {
+        "name": "Aether Chaser",
+        "manaCost": "{1}{R}",
+        "cmc": 2.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Human Artificer",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "First strike\nWhen Aether Chaser enters the battlefield, you get {E}{E} (two energy counters).\nWhenever Aether Chaser attacks, you may pay {E}{E}. If you do, create a 1/1 colorless Servo artifact creature token.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423743&type=card",
+        "multiverseId": "423743"
+    },
+    {
+        "name": "Chandra's Revolution",
+        "manaCost": "{3}{R}",
+        "cmc": 4.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Sorcery",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "Chandra's Revolution deals 4 damage to target creature. Tap target land. That land doesn't untap during its controller's next untap step.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423744&type=card",
+        "multiverseId": "423744"
+    },
+    {
+        "name": "Destructive Tampering",
+        "manaCost": "{2}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Sorcery",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "Choose one —\n• Destroy target artifact.\n• Creatures without flying can't block this turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423745&type=card",
+        "multiverseId": "423745"
+    },
+    {
+        "name": "Embraal Gear-Smasher",
+        "manaCost": "{2}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Human Warrior",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "{T}, Sacrifice an artifact: Embraal Gear-Smasher deals 2 damage to each opponent.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423746&type=card",
+        "multiverseId": "423746"
+    },
+    {
+        "name": "Enraged Giant",
+        "manaCost": "{5}{R}",
+        "cmc": 6.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Giant",
+        "rarity": "Uncommon",
+        "set": "AER",
+        "text": "Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for {1}.)\nTrample, haste",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423747&type=card",
+        "multiverseId": "423747"
+    },
+    {
+        "name": "Freejam Regent",
+        "manaCost": "{4}{R}{R}",
+        "cmc": 6.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Dragon",
+        "rarity": "Rare",
+        "set": "AER",
+        "text": "Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for {1}.)\nFlying\n{1}{R}: Freejam Regent gets +2/+0 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423748&type=card",
+        "multiverseId": "423748"
+    },
+    {
+        "name": "Frontline Rebel",
+        "manaCost": "{2}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Human Warrior",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "Frontline Rebel attacks each combat if able.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423749&type=card",
+        "multiverseId": "423749"
+    },
+    {
+        "name": "Gremlin Infestation",
+        "manaCost": "{3}{R}",
+        "cmc": 4.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Uncommon",
+        "set": "AER",
+        "text": "Enchant artifact\nAt the beginning of your end step, Gremlin Infestation deals 2 damage to enchanted artifact's controller.\nWhen enchanted artifact is put into a graveyard, create a 2/2 red Gremlin creature token.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423750&type=card",
+        "multiverseId": "423750"
+    },
+    {
+        "name": "Hungry Flames",
+        "manaCost": "{2}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon",
+        "set": "AER",
+        "text": "Hungry Flames deals 3 damage to target creature and 2 damage to target player or planeswalker.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423751&type=card",
+        "multiverseId": "423751"
+    },
+    {
+        "name": "Indomitable Creativity",
+        "manaCost": "{X}{R}{R}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Sorcery",
+        "rarity": "Mythic",
+        "set": "AER",
+        "text": "Destroy X target artifacts and/or creatures. For each permanent destroyed this way, its controller reveals cards from the top of their library until an artifact or creature card is revealed and exiles that card. Those players put the exiled cards onto the battlefield, then shuffle.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423752&type=card",
+        "multiverseId": "423752"
+    },
+    {
+        "name": "Invigorated Rampage",
+        "manaCost": "{1}{R}",
+        "cmc": 2.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon",
+        "set": "AER",
+        "text": "Choose one —\n• Target creature gets +4/+0 and gains trample until end of turn.\n• Two target creatures each get +2/+0 and gain trample until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423753&type=card",
+        "multiverseId": "423753"
+    },
+    {
+        "name": "Kari Zev, Skyship Raider",
+        "manaCost": "{1}{R}",
+        "cmc": 2.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Legendary Creature — Human Pirate",
+        "rarity": "Rare",
+        "set": "AER",
+        "text": "First strike, menace\nWhenever Kari Zev, Skyship Raider attacks, create Ragavan, a legendary 2/1 red Monkey creature token. Ragavan enters the battlefield tapped and attacking. Exile that token at end of combat.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423754&type=card",
+        "multiverseId": "423754"
+    },
+    {
+        "name": "Kari Zev's Expertise",
+        "manaCost": "{1}{R}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Sorcery",
+        "rarity": "Rare",
+        "set": "AER",
+        "text": "Gain control of target creature or Vehicle until end of turn. Untap it. It gains haste until end of turn.\nYou may cast a spell with mana value 2 or less from your hand without paying its mana cost.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423755&type=card",
+        "multiverseId": "423755"
+    },
+    {
+        "name": "Lathnu Sailback",
+        "manaCost": "{4}{R}",
+        "cmc": 5.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Lizard",
+        "rarity": "Common",
+        "set": "AER",
+        "text": null,
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423756&type=card",
+        "multiverseId": "423756"
+    },
+    {
+        "name": "Lightning Runner",
+        "manaCost": "{3}{R}{R}",
+        "cmc": 5.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Human Warrior",
+        "rarity": "Mythic",
+        "set": "AER",
+        "text": "Double strike, haste\nWhenever Lightning Runner attacks, you get {E}{E} (two energy counters), then you may pay {E}{E}{E}{E}{E}{E}{E}{E}. If you pay, untap all creatures you control, and after this phase, there is an additional combat phase.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423757&type=card",
+        "multiverseId": "423757"
+    },
+    {
+        "name": "Pia's Revolution",
+        "manaCost": "{2}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Enchantment",
+        "rarity": "Rare",
+        "set": "AER",
+        "text": "Whenever a nontoken artifact is put into your graveyard from the battlefield, return that card to your hand unless target opponent has Pia's Revolution deal 3 damage to them.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423758&type=card",
+        "multiverseId": "423758"
+    },
+    {
+        "name": "Precise Strike",
+        "manaCost": "{R}",
+        "cmc": 1.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "Target creature gets +1/+0 and gains first strike until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423759&type=card",
+        "multiverseId": "423759"
+    },
+    {
+        "name": "Quicksmith Rebel",
+        "manaCost": "{3}{R}",
+        "cmc": 4.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Human Artificer",
+        "rarity": "Rare",
+        "set": "AER",
+        "text": "When Quicksmith Rebel enters the battlefield, target artifact you control gains \"{T}: This artifact deals 2 damage to any target\" for as long as you control Quicksmith Rebel.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423760&type=card",
+        "multiverseId": "423760"
+    },
+    {
+        "name": "Ravenous Intruder",
+        "manaCost": "{1}{R}",
+        "cmc": 2.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Gremlin",
+        "rarity": "Uncommon",
+        "set": "AER",
+        "text": "Sacrifice an artifact: Ravenous Intruder gets +2/+2 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423761&type=card",
+        "multiverseId": "423761"
+    },
+    {
+        "name": "Reckless Racer",
+        "manaCost": "{2}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Human Pilot",
+        "rarity": "Uncommon",
+        "set": "AER",
+        "text": "First strike\nWhenever Reckless Racer becomes tapped, you may discard a card. If you do, draw a card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423762&type=card",
+        "multiverseId": "423762"
+    },
+    {
+        "name": "Release the Gremlins",
+        "manaCost": "{X}{X}{R}",
+        "cmc": 1.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Sorcery",
+        "rarity": "Rare",
+        "set": "AER",
+        "text": "Destroy X target artifacts. Create X 2/2 red Gremlin creature tokens.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423763&type=card",
+        "multiverseId": "423763"
+    },
+    {
+        "name": "Scrapper Champion",
+        "manaCost": "{3}{R}",
+        "cmc": 4.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Human Artificer",
+        "rarity": "Uncommon",
+        "set": "AER",
+        "text": "Double strike (This creature deals both first-strike and regular combat damage.)\nWhen Scrapper Champion enters the battlefield, you get {E}{E} (two energy counters).\nWhenever Scrapper Champion attacks, you may pay {E}{E}. If you do, put a +1/+1 counter on it.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423764&type=card",
+        "multiverseId": "423764"
+    },
+    {
+        "name": "Shock",
+        "manaCost": "{R}",
+        "cmc": 1.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "Shock deals 2 damage to any target.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423765&type=card",
+        "multiverseId": "423765"
+    },
+    {
+        "name": "Siege Modification",
+        "manaCost": "{1}{R}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Uncommon",
+        "set": "AER",
+        "text": "Enchant creature or Vehicle\nAs long as enchanted permanent is a Vehicle, it's a creature in addition to its other types.\nEnchanted creature gets +3/+0 and has first strike.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423766&type=card",
+        "multiverseId": "423766"
+    },
+    {
+        "name": "Sweatworks Brawler",
+        "manaCost": "{3}{R}",
+        "cmc": 4.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Human Artificer",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for {1}.)\nMenace",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423767&type=card",
+        "multiverseId": "423767"
+    },
+    {
+        "name": "Wrangle",
+        "manaCost": "{1}{R}",
+        "cmc": 2.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Sorcery",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "Gain control of target creature with power 4 or less until end of turn. Untap that creature. It gains haste until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423768&type=card",
+        "multiverseId": "423768"
+    },
+    {
+        "name": "Wrangle",
+        "manaCost": "{1}{R}",
+        "cmc": 2.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Sorcery",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "Gain control of target creature with power 4 or less until end of turn. Untap that creature. It gains haste until end of turn.",
+        "imageUrl": null,
+        "multiverseId": null
+    },
+    {
+        "name": "Aether Herder",
+        "manaCost": "{3}{G}",
+        "cmc": 4.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Elf Artificer Druid",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "When Aether Herder enters the battlefield, you get {E}{E} (two energy counters).\nWhenever Aether Herder attacks, you may pay {E}{E}. If you do, create a 1/1 colorless Servo artifact creature token.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423769&type=card",
+        "multiverseId": "423769"
+    },
+    {
+        "name": "Aetherstream Leopard",
+        "manaCost": "{2}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Cat",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "Trample\nWhen Aetherstream Leopard enters the battlefield, you get {E} (an energy counter).\nWhenever Aetherstream Leopard attacks, you may pay {E}. If you do, it gets +2/+0 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423770&type=card",
+        "multiverseId": "423770"
+    },
+    {
+        "name": "Aetherwind Basker",
+        "manaCost": "{4}{G}{G}{G}",
+        "cmc": 7.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Lizard",
+        "rarity": "Mythic",
+        "set": "AER",
+        "text": "Trample\nWhenever Aetherwind Basker enters the battlefield or attacks, you get {E} (an energy counter) for each creature you control.\nPay {E}: Aetherwind Basker gets +1/+1 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423771&type=card",
+        "multiverseId": "423771"
+    },
+    {
+        "name": "Aid from the Cowl",
+        "manaCost": "{3}{G}{G}",
+        "cmc": 5.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Enchantment",
+        "rarity": "Rare",
+        "set": "AER",
+        "text": "Revolt — At the beginning of your end step, if a permanent you controlled left the battlefield this turn, reveal the top card of your library. If it's a permanent card, you may put it onto the battlefield. Otherwise, you may put it on the bottom of your library.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423772&type=card",
+        "multiverseId": "423772"
+    },
+    {
+        "name": "Druid of the Cowl",
+        "manaCost": "{1}{G}",
+        "cmc": 2.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Elf Druid",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "{T}: Add {G}.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423773&type=card",
+        "multiverseId": "423773"
+    },
+    {
+        "name": "Greenbelt Rampager",
+        "manaCost": "{G}",
+        "cmc": 1.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Elephant",
+        "rarity": "Rare",
+        "set": "AER",
+        "text": "When Greenbelt Rampager enters the battlefield, pay {E}{E} (two energy counters). If you can't, return Greenbelt Rampager to its owner's hand and you get {E}.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423774&type=card",
+        "multiverseId": "423774"
+    },
+    {
+        "name": "Greenwheel Liberator",
+        "manaCost": "{1}{G}",
+        "cmc": 2.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Elf Warrior",
+        "rarity": "Rare",
+        "set": "AER",
+        "text": "Revolt — Greenwheel Liberator enters the battlefield with two +1/+1 counters on it if a permanent you controlled left the battlefield this turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423775&type=card",
+        "multiverseId": "423775"
+    },
+    {
+        "name": "Heroic Intervention",
+        "manaCost": "{1}{G}",
+        "cmc": 2.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Instant",
+        "rarity": "Rare",
+        "set": "AER",
+        "text": "Permanents you control gain hexproof and indestructible until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423776&type=card",
+        "multiverseId": "423776"
+    },
+    {
+        "name": "Hidden Herbalists",
+        "manaCost": "{1}{G}",
+        "cmc": 2.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Human Druid",
+        "rarity": "Uncommon",
+        "set": "AER",
+        "text": "Revolt — When Hidden Herbalists enters the battlefield, if a permanent you controlled left the battlefield this turn, add {G}{G}.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423777&type=card",
+        "multiverseId": "423777"
+    },
+    {
+        "name": "Highspire Infusion",
+        "manaCost": "{1}{G}",
+        "cmc": 2.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "Target creature gets +3/+3 until end of turn. You get {E}{E} (two energy counters).",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423778&type=card",
+        "multiverseId": "423778"
+    },
+    {
+        "name": "Lifecraft Awakening",
+        "manaCost": "{X}{G}",
+        "cmc": 1.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon",
+        "set": "AER",
+        "text": "Put X +1/+1 counters on target artifact you control. If it isn't a creature or Vehicle, it becomes a 0/0 Construct artifact creature.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423779&type=card",
+        "multiverseId": "423779"
+    },
+    {
+        "name": "Lifecraft Cavalry",
+        "manaCost": "{4}{G}",
+        "cmc": 5.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Elf Warrior",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "Trample\nRevolt — Lifecraft Cavalry enters the battlefield with two +1/+1 counters on it if a permanent you controlled left the battlefield this turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423780&type=card",
+        "multiverseId": "423780"
+    },
+    {
+        "name": "Lifecrafter's Gift",
+        "manaCost": "{3}{G}",
+        "cmc": 4.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon",
+        "set": "AER",
+        "text": "Put a +1/+1 counter on target creature, then put a +1/+1 counter on each creature you control with a +1/+1 counter on it.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423781&type=card",
+        "multiverseId": "423781"
+    },
+    {
+        "name": "Maulfist Revolutionary",
+        "manaCost": "{1}{G}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Human Warrior",
+        "rarity": "Uncommon",
+        "set": "AER",
+        "text": "Trample\nWhen Maulfist Revolutionary enters the battlefield or dies, for each kind of counter on target permanent or player, give that permanent or player another counter of that kind.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423782&type=card",
+        "multiverseId": "423782"
+    },
+    {
+        "name": "Monstrous Onslaught",
+        "manaCost": "{3}{G}{G}",
+        "cmc": 5.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "AER",
+        "text": "Monstrous Onslaught deals X damage divided as you choose among any number of target creatures, where X is the greatest power among creatures you control as you cast this spell.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423783&type=card",
+        "multiverseId": "423783"
+    },
+    {
+        "name": "Narnam Renegade",
+        "manaCost": "{G}",
+        "cmc": 1.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Elf Warrior",
+        "rarity": "Uncommon",
+        "set": "AER",
+        "text": "Deathtouch\nRevolt — Narnam Renegade enters the battlefield with a +1/+1 counter on it if a permanent you controlled left the battlefield this turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423784&type=card",
+        "multiverseId": "423784"
+    },
+    {
+        "name": "Natural Obsolescence",
+        "manaCost": "{1}{G}",
+        "cmc": 2.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "Put target artifact on the bottom of its owner's library.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423785&type=card",
+        "multiverseId": "423785"
+    },
+    {
+        "name": "Peema Aether-Seer",
+        "manaCost": "{3}{G}",
+        "cmc": 4.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Elf Druid",
+        "rarity": "Uncommon",
+        "set": "AER",
+        "text": "When Peema Aether-Seer enters the battlefield, you get an amount of {E} (energy counters) equal to the greatest power among creatures you control.\nPay {E}{E}{E}: Target creature blocks this turn if able.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423786&type=card",
+        "multiverseId": "423786"
+    },
+    {
+        "name": "Prey Upon",
+        "manaCost": "{G}",
+        "cmc": 1.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Sorcery",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "Target creature you control fights target creature you don't control. (Each deals damage equal to its power to the other.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423787&type=card",
+        "multiverseId": "423787"
+    },
+    {
+        "name": "Ridgescale Tusker",
+        "manaCost": "{3}{G}{G}",
+        "cmc": 5.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Pangolin Beast",
+        "rarity": "Uncommon",
+        "set": "AER",
+        "text": "When Ridgescale Tusker enters the battlefield, put a +1/+1 counter on each other creature you control.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423788&type=card",
+        "multiverseId": "423788"
+    },
+    {
+        "name": "Rishkar, Peema Renegade",
+        "manaCost": "{2}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Legendary Creature — Elf Druid",
+        "rarity": "Rare",
+        "set": "AER",
+        "text": "When Rishkar, Peema Renegade enters the battlefield, put a +1/+1 counter on each of up to two target creatures.\nEach creature you control with a counter on it has \"{T}: Add {G}.\"",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423789&type=card",
+        "multiverseId": "423789"
+    },
+    {
+        "name": "Rishkar's Expertise",
+        "manaCost": "{4}{G}{G}",
+        "cmc": 6.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Sorcery",
+        "rarity": "Rare",
+        "set": "AER",
+        "text": "Draw cards equal to the greatest power among creatures you control.\nYou may cast a spell with mana value 5 or less from your hand without paying its mana cost.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423790&type=card",
+        "multiverseId": "423790"
+    },
+    {
+        "name": "Scrounging Bandar",
+        "manaCost": "{1}{G}",
+        "cmc": 2.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Cat Monkey",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "Scrounging Bandar enters the battlefield with two +1/+1 counters on it.\nAt the beginning of your upkeep, you may move any number of +1/+1 counters from Scrounging Bandar onto another target creature.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423791&type=card",
+        "multiverseId": "423791"
+    },
+    {
+        "name": "Silkweaver Elite",
+        "manaCost": "{2}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Elf Archer",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "Reach (This creature can block creatures with flying.)\nRevolt — When Silkweaver Elite enters the battlefield, if a permanent you controlled left the battlefield this turn, draw a card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423792&type=card",
+        "multiverseId": "423792"
+    },
+    {
+        "name": "Unbridled Growth",
+        "manaCost": "{G}",
+        "cmc": 1.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "Enchant land\nEnchanted land has \"{T}: Add one mana of any color.\"\nSacrifice Unbridled Growth: Draw a card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423793&type=card",
+        "multiverseId": "423793"
+    },
+    {
+        "name": "Ajani Unyielding",
+        "manaCost": "{4}{G}{W}",
+        "cmc": 6.0,
+        "colors": [
+            "G",
+            "W"
+        ],
+        "type": "Legendary Planeswalker — Ajani",
+        "rarity": "Mythic",
+        "set": "AER",
+        "text": "[+2]: Reveal the top three cards of your library. Put all nonland permanent cards revealed this way into your hand and the rest on the bottom of your library in any order.\n[−2]: Exile target creature. Its controller gains life equal to its power.\n[−9]: Put five +1/+1 counters on each creature you control and five loyalty counters on each other planeswalker you control.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423794&type=card",
+        "multiverseId": "423794"
+    },
+    {
+        "name": "Dark Intimations",
+        "manaCost": "{2}{U}{B}{R}",
+        "cmc": 5.0,
+        "colors": [
+            "B",
+            "R",
+            "U"
+        ],
+        "type": "Sorcery",
+        "rarity": "Rare",
+        "set": "AER",
+        "text": "Each opponent sacrifices a creature or planeswalker, then discards a card. You return a creature or planeswalker card from your graveyard to your hand, then draw a card.\nWhen you cast a Bolas planeswalker spell, exile Dark Intimations from your graveyard. That planeswalker enters the battlefield with an additional loyalty counter on it.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423795&type=card",
+        "multiverseId": "423795"
+    },
+    {
+        "name": "Hidden Stockpile",
+        "manaCost": "{W}{B}",
+        "cmc": 2.0,
+        "colors": [
+            "B",
+            "W"
+        ],
+        "type": "Enchantment",
+        "rarity": "Uncommon",
+        "set": "AER",
+        "text": "Revolt — At the beginning of your end step, if a permanent you controlled left the battlefield this turn, create a 1/1 colorless Servo artifact creature token.\n{1}, Sacrifice a creature: Scry 1.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423796&type=card",
+        "multiverseId": "423796"
+    },
+    {
+        "name": "Maverick Thopterist",
+        "manaCost": "{3}{U}{R}",
+        "cmc": 5.0,
+        "colors": [
+            "R",
+            "U"
+        ],
+        "type": "Creature — Human Artificer",
+        "rarity": "Uncommon",
+        "set": "AER",
+        "text": "Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for {1}.)\nWhen Maverick Thopterist enters the battlefield, create two 1/1 colorless Thopter artifact creature tokens with flying.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423797&type=card",
+        "multiverseId": "423797"
+    },
+    {
+        "name": "Oath of Ajani",
+        "manaCost": "{G}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "G",
+            "W"
+        ],
+        "type": "Legendary Enchantment",
+        "rarity": "Rare",
+        "set": "AER",
+        "text": "When Oath of Ajani enters the battlefield, put a +1/+1 counter on each creature you control.\nPlaneswalker spells you cast cost {1} less to cast.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423798&type=card",
+        "multiverseId": "423798"
+    },
+    {
+        "name": "Outland Boar",
+        "manaCost": "{2}{R}{G}",
+        "cmc": 4.0,
+        "colors": [
+            "G",
+            "R"
+        ],
+        "type": "Creature — Boar",
+        "rarity": "Uncommon",
+        "set": "AER",
+        "text": "Outland Boar can't be blocked by creatures with power 2 or less.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423799&type=card",
+        "multiverseId": "423799"
+    },
+    {
+        "name": "Renegade Rallier",
+        "manaCost": "{1}{G}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "G",
+            "W"
+        ],
+        "type": "Creature — Human Warrior",
+        "rarity": "Uncommon",
+        "set": "AER",
+        "text": "Revolt — When Renegade Rallier enters the battlefield, if a permanent you controlled left the battlefield this turn, return target permanent card with mana value 2 or less from your graveyard to the battlefield.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423800&type=card",
+        "multiverseId": "423800"
+    },
+    {
+        "name": "Renegade Wheelsmith",
+        "manaCost": "{1}{R}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "R",
+            "W"
+        ],
+        "type": "Creature — Dwarf Pilot",
+        "rarity": "Uncommon",
+        "set": "AER",
+        "text": "Whenever Renegade Wheelsmith becomes tapped, target creature can't block this turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423801&type=card",
+        "multiverseId": "423801"
+    },
+    {
+        "name": "Rogue Refiner",
+        "manaCost": "{1}{G}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "G",
+            "U"
+        ],
+        "type": "Creature — Human Rogue",
+        "rarity": "Uncommon",
+        "set": "AER",
+        "text": "When Rogue Refiner enters the battlefield, draw a card and you get {E}{E} (two energy counters).",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423802&type=card",
+        "multiverseId": "423802"
+    },
+    {
+        "name": "Spire Patrol",
+        "manaCost": "{2}{W}{U}",
+        "cmc": 4.0,
+        "colors": [
+            "U",
+            "W"
+        ],
+        "type": "Creature — Human Soldier",
+        "rarity": "Uncommon",
+        "set": "AER",
+        "text": "Flying\nWhen Spire Patrol enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423803&type=card",
+        "multiverseId": "423803"
+    },
+    {
+        "name": "Tezzeret the Schemer",
+        "manaCost": "{2}{U}{B}",
+        "cmc": 4.0,
+        "colors": [
+            "B",
+            "U"
+        ],
+        "type": "Legendary Planeswalker — Tezzeret",
+        "rarity": "Mythic",
+        "set": "AER",
+        "text": "[+1]: Create a colorless artifact token named Etherium Cell with \"{T}, Sacrifice this artifact: Add one mana of any color.\"\n[−2]: Target creature gets +X/-X until end of turn, where X is the number of artifacts you control.\n[−7]: You get an emblem with \"At the beginning of combat on your turn, target artifact you control becomes an artifact creature with base power and toughness 5/5.\"",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423804&type=card",
+        "multiverseId": "423804"
+    },
+    {
+        "name": "Tezzeret's Touch",
+        "manaCost": "{1}{U}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B",
+            "U"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Uncommon",
+        "set": "AER",
+        "text": "Enchant artifact\nEnchanted artifact is a creature with base power and toughness 5/5 in addition to its other types.\nWhen enchanted artifact is put into a graveyard, return that card to its owner's hand.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423805&type=card",
+        "multiverseId": "423805"
+    },
+    {
+        "name": "Weldfast Engineer",
+        "manaCost": "{1}{B}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "B",
+            "R"
+        ],
+        "type": "Creature — Human Artificer",
+        "rarity": "Uncommon",
+        "set": "AER",
+        "text": "At the beginning of combat on your turn, target artifact creature you control gets +2/+0 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423806&type=card",
+        "multiverseId": "423806"
+    },
+    {
+        "name": "Winding Constrictor",
+        "manaCost": "{B}{G}",
+        "cmc": 2.0,
+        "colors": [
+            "B",
+            "G"
+        ],
+        "type": "Creature — Snake",
+        "rarity": "Uncommon",
+        "set": "AER",
+        "text": "If one or more counters would be put on an artifact or creature you control, that many plus one of each of those kinds of counters are put on that permanent instead.\nIf you would get one or more counters, you get that many plus one of each of those kinds of counters instead.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423807&type=card",
+        "multiverseId": "423807"
+    },
+    {
+        "name": "Aegis Automaton",
+        "manaCost": "{2}",
+        "cmc": 2.0,
+        "colors": null,
+        "type": "Artifact Creature — Construct",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "{4}{W}: Return another target creature you control to its owner's hand.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423808&type=card",
+        "multiverseId": "423808"
+    },
+    {
+        "name": "Aethersphere Harvester",
+        "manaCost": "{3}",
+        "cmc": 3.0,
+        "colors": null,
+        "type": "Artifact — Vehicle",
+        "rarity": "Rare",
+        "set": "AER",
+        "text": "Flying\nWhen Aethersphere Harvester enters the battlefield, you get {E}{E} (two energy counters).\nPay {E}: Aethersphere Harvester gains lifelink until end of turn.\nCrew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423809&type=card",
+        "multiverseId": "423809"
+    },
+    {
+        "name": "Augmenting Automaton",
+        "manaCost": "{1}",
+        "cmc": 1.0,
+        "colors": null,
+        "type": "Artifact Creature — Construct",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "{1}{B}: Augmenting Automaton gets +1/+1 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423810&type=card",
+        "multiverseId": "423810"
+    },
+    {
+        "name": "Barricade Breaker",
+        "manaCost": "{7}",
+        "cmc": 7.0,
+        "colors": null,
+        "type": "Artifact Creature — Juggernaut",
+        "rarity": "Uncommon",
+        "set": "AER",
+        "text": "Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for {1}.)\nBarricade Breaker attacks each combat if able.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423811&type=card",
+        "multiverseId": "423811"
+    },
+    {
+        "name": "Cogwork Assembler",
+        "manaCost": "{3}",
+        "cmc": 3.0,
+        "colors": null,
+        "type": "Artifact Creature — Assembly-Worker",
+        "rarity": "Uncommon",
+        "set": "AER",
+        "text": "{7}: Create a token that's a copy of target artifact. That token gains haste. Exile it at the beginning of the next end step.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423812&type=card",
+        "multiverseId": "423812"
+    },
+    {
+        "name": "Consulate Dreadnought",
+        "manaCost": "{1}",
+        "cmc": 1.0,
+        "colors": null,
+        "type": "Artifact — Vehicle",
+        "rarity": "Uncommon",
+        "set": "AER",
+        "text": "Crew 6 (Tap any number of creatures you control with total power 6 or more: This Vehicle becomes an artifact creature until end of turn.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423813&type=card",
+        "multiverseId": "423813"
+    },
+    {
+        "name": "Consulate Turret",
+        "manaCost": "{3}",
+        "cmc": 3.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "{T}: You get {E} (an energy counter).\n{T}, Pay {E}{E}{E}: Consulate Turret deals 2 damage to target player or planeswalker.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423814&type=card",
+        "multiverseId": "423814"
+    },
+    {
+        "name": "Crackdown Construct",
+        "manaCost": "{4}",
+        "cmc": 4.0,
+        "colors": null,
+        "type": "Artifact Creature — Construct",
+        "rarity": "Uncommon",
+        "set": "AER",
+        "text": "Whenever you activate an ability of an artifact or creature that isn't a mana ability, Crackdown Construct gets +1/+1 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423815&type=card",
+        "multiverseId": "423815"
+    },
+    {
+        "name": "Daredevil Dragster",
+        "manaCost": "{3}",
+        "cmc": 3.0,
+        "colors": null,
+        "type": "Artifact — Vehicle",
+        "rarity": "Uncommon",
+        "set": "AER",
+        "text": "At end of combat, if Daredevil Dragster attacked or blocked this combat, put a velocity counter on it. Then if it has two or more velocity counters on it, sacrifice it and draw two cards.\nCrew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423816&type=card",
+        "multiverseId": "423816"
+    },
+    {
+        "name": "Filigree Crawler",
+        "manaCost": "{4}",
+        "cmc": 4.0,
+        "colors": null,
+        "type": "Artifact Creature — Insect",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "When Filigree Crawler dies, create a 1/1 colorless Thopter artifact creature token with flying.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423817&type=card",
+        "multiverseId": "423817"
+    },
+    {
+        "name": "Foundry Assembler",
+        "manaCost": "{5}",
+        "cmc": 5.0,
+        "colors": null,
+        "type": "Artifact Creature — Assembly-Worker",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for {1}.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423818&type=card",
+        "multiverseId": "423818"
+    },
+    {
+        "name": "Gonti's Aether Heart",
+        "manaCost": "{6}",
+        "cmc": 6.0,
+        "colors": null,
+        "type": "Legendary Artifact",
+        "rarity": "Mythic",
+        "set": "AER",
+        "text": "Whenever Gonti's Aether Heart or another artifact enters the battlefield under your control, you get {E}{E} (two energy counters).\nPay {E}{E}{E}{E}{E}{E}{E}{E}, Exile Gonti's Aether Heart: Take an extra turn after this one.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423819&type=card",
+        "multiverseId": "423819"
+    },
+    {
+        "name": "Heart of Kiran",
+        "manaCost": "{2}",
+        "cmc": 2.0,
+        "colors": null,
+        "type": "Legendary Artifact — Vehicle",
+        "rarity": "Mythic",
+        "set": "AER",
+        "text": "Flying, vigilance\nCrew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)\nYou may remove a loyalty counter from a planeswalker you control rather than pay Heart of Kiran's crew cost.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423820&type=card",
+        "multiverseId": "423820"
+    },
+    {
+        "name": "Hope of Ghirapur",
+        "manaCost": "{1}",
+        "cmc": 1.0,
+        "colors": null,
+        "type": "Legendary Artifact Creature — Thopter",
+        "rarity": "Rare",
+        "set": "AER",
+        "text": "Flying\nSacrifice Hope of Ghirapur: Until your next turn, target player who was dealt combat damage by Hope of Ghirapur this turn can't cast noncreature spells.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423821&type=card",
+        "multiverseId": "423821"
+    },
+    {
+        "name": "Implement of Combustion",
+        "manaCost": "{1}",
+        "cmc": 1.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "{R}, Sacrifice Implement of Combustion: It deals 1 damage to target player or planeswalker.\nWhen Implement of Combustion is put into a graveyard from the battlefield, draw a card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423822&type=card",
+        "multiverseId": "423822"
+    },
+    {
+        "name": "Implement of Examination",
+        "manaCost": "{3}",
+        "cmc": 3.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "{U}, Sacrifice Implement of Examination: Draw a card.\nWhen Implement of Examination is put into a graveyard from the battlefield, draw a card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423823&type=card",
+        "multiverseId": "423823"
+    },
+    {
+        "name": "Implement of Ferocity",
+        "manaCost": "{1}",
+        "cmc": 1.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "{G}, Sacrifice Implement of Ferocity: Put a +1/+1 counter on target creature. Activate only as a sorcery.\nWhen Implement of Ferocity is put into a graveyard from the battlefield, draw a card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423824&type=card",
+        "multiverseId": "423824"
+    },
+    {
+        "name": "Implement of Improvement",
+        "manaCost": "{1}",
+        "cmc": 1.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "{W}, Sacrifice Implement of Improvement: You gain 2 life.\nWhen Implement of Improvement is put into a graveyard from the battlefield, draw a card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423825&type=card",
+        "multiverseId": "423825"
+    },
+    {
+        "name": "Implement of Malice",
+        "manaCost": "{2}",
+        "cmc": 2.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "{B}, Sacrifice Implement of Malice: Target player discards a card. Activate only as a sorcery.\nWhen Implement of Malice is put into a graveyard from the battlefield, draw a card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423826&type=card",
+        "multiverseId": "423826"
+    },
+    {
+        "name": "Inspiring Statuary",
+        "manaCost": "{3}",
+        "cmc": 3.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Rare",
+        "set": "AER",
+        "text": "Nonartifact spells you cast have improvise. (Your artifacts can help cast those spells. Each artifact you tap after you're done activating mana abilities pays for {1}.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423827&type=card",
+        "multiverseId": "423827"
+    },
+    {
+        "name": "Irontread Crusher",
+        "manaCost": "{4}",
+        "cmc": 4.0,
+        "colors": null,
+        "type": "Artifact — Vehicle",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423828&type=card",
+        "multiverseId": "423828"
+    },
+    {
+        "name": "Lifecrafter's Bestiary",
+        "manaCost": "{3}",
+        "cmc": 3.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Rare",
+        "set": "AER",
+        "text": "At the beginning of your upkeep, scry 1.\nWhenever you cast a creature spell, you may pay {G}. If you do, draw a card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423829&type=card",
+        "multiverseId": "423829"
+    },
+    {
+        "name": "Merchant's Dockhand",
+        "manaCost": "{1}",
+        "cmc": 1.0,
+        "colors": null,
+        "type": "Artifact Creature — Construct",
+        "rarity": "Rare",
+        "set": "AER",
+        "text": "{3}{U}, {T}, Tap X untapped artifacts you control: Look at the top X cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423830&type=card",
+        "multiverseId": "423830"
+    },
+    {
+        "name": "Metallic Mimic",
+        "manaCost": "{2}",
+        "cmc": 2.0,
+        "colors": null,
+        "type": "Artifact Creature — Shapeshifter",
+        "rarity": "Rare",
+        "set": "AER",
+        "text": "As Metallic Mimic enters the battlefield, choose a creature type.\nMetallic Mimic is the chosen type in addition to its other types.\nEach other creature you control of the chosen type enters the battlefield with an additional +1/+1 counter on it.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423831&type=card",
+        "multiverseId": "423831"
+    },
+    {
+        "name": "Mobile Garrison",
+        "manaCost": "{3}",
+        "cmc": 3.0,
+        "colors": null,
+        "type": "Artifact — Vehicle",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "Whenever Mobile Garrison attacks, untap another target artifact or creature you control.\nCrew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423832&type=card",
+        "multiverseId": "423832"
+    },
+    {
+        "name": "Night Market Guard",
+        "manaCost": "{3}",
+        "cmc": 3.0,
+        "colors": null,
+        "type": "Artifact Creature — Construct",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "Night Market Guard can block an additional creature each combat.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423833&type=card",
+        "multiverseId": "423833"
+    },
+    {
+        "name": "Ornithopter",
+        "manaCost": "{0}",
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Artifact Creature — Thopter",
+        "rarity": "Uncommon",
+        "set": "AER",
+        "text": "Flying",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423834&type=card",
+        "multiverseId": "423834"
+    },
+    {
+        "name": "Pacification Array",
+        "manaCost": "{1}",
+        "cmc": 1.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Uncommon",
+        "set": "AER",
+        "text": "{2}, {T}: Tap target artifact or creature.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423835&type=card",
+        "multiverseId": "423835"
+    },
+    {
+        "name": "Paradox Engine",
+        "manaCost": "{5}",
+        "cmc": 5.0,
+        "colors": null,
+        "type": "Legendary Artifact",
+        "rarity": "Mythic",
+        "set": "AER",
+        "text": "Whenever you cast a spell, untap all nonland permanents you control.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423836&type=card",
+        "multiverseId": "423836"
+    },
+    {
+        "name": "Peacewalker Colossus",
+        "manaCost": "{3}",
+        "cmc": 3.0,
+        "colors": null,
+        "type": "Artifact — Vehicle",
+        "rarity": "Rare",
+        "set": "AER",
+        "text": "{1}{W}: Another target Vehicle you control becomes an artifact creature until end of turn.\nCrew 4 (Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423837&type=card",
+        "multiverseId": "423837"
+    },
+    {
+        "name": "Planar Bridge",
+        "manaCost": "{6}",
+        "cmc": 6.0,
+        "colors": null,
+        "type": "Legendary Artifact",
+        "rarity": "Mythic",
+        "set": "AER",
+        "text": "{8}, {T}: Search your library for a permanent card, put it onto the battlefield, then shuffle.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423838&type=card",
+        "multiverseId": "423838"
+    },
+    {
+        "name": "Prizefighter Construct",
+        "manaCost": "{5}",
+        "cmc": 5.0,
+        "colors": null,
+        "type": "Artifact Creature — Construct",
+        "rarity": "Common",
+        "set": "AER",
+        "text": null,
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423839&type=card",
+        "multiverseId": "423839"
+    },
+    {
+        "name": "Renegade Map",
+        "manaCost": "{1}",
+        "cmc": 1.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "Renegade Map enters the battlefield tapped.\n{T}, Sacrifice Renegade Map: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423840&type=card",
+        "multiverseId": "423840"
+    },
+    {
+        "name": "Reservoir Walker",
+        "manaCost": "{5}",
+        "cmc": 5.0,
+        "colors": null,
+        "type": "Artifact Creature — Construct",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "When Reservoir Walker enters the battlefield, you gain 3 life and get {E}{E}{E} (three energy counters).",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423841&type=card",
+        "multiverseId": "423841"
+    },
+    {
+        "name": "Scrap Trawler",
+        "manaCost": "{3}",
+        "cmc": 3.0,
+        "colors": null,
+        "type": "Artifact Creature — Construct",
+        "rarity": "Rare",
+        "set": "AER",
+        "text": "Whenever Scrap Trawler or another artifact you control is put into a graveyard from the battlefield, return to your hand target artifact card in your graveyard with lesser mana value.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423842&type=card",
+        "multiverseId": "423842"
+    },
+    {
+        "name": "Servo Schematic",
+        "manaCost": "{2}",
+        "cmc": 2.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Uncommon",
+        "set": "AER",
+        "text": "When Servo Schematic enters the battlefield or is put into a graveyard from the battlefield, create a 1/1 colorless Servo artifact creature token.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423843&type=card",
+        "multiverseId": "423843"
+    },
+    {
+        "name": "Treasure Keeper",
+        "manaCost": "{4}",
+        "cmc": 4.0,
+        "colors": null,
+        "type": "Artifact Creature — Construct",
+        "rarity": "Uncommon",
+        "set": "AER",
+        "text": "When Treasure Keeper dies, reveal cards from the top of your library until you reveal a nonland card with mana value 3 or less. You may cast that card without paying its mana cost. Put all revealed cards not cast this way on the bottom of your library in a random order.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423844&type=card",
+        "multiverseId": "423844"
+    },
+    {
+        "name": "Universal Solvent",
+        "manaCost": "{1}",
+        "cmc": 1.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "{7}, {T}, Sacrifice Universal Solvent: Destroy target permanent.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423845&type=card",
+        "multiverseId": "423845"
+    },
+    {
+        "name": "Untethered Express",
+        "manaCost": "{4}",
+        "cmc": 4.0,
+        "colors": null,
+        "type": "Artifact — Vehicle",
+        "rarity": "Uncommon",
+        "set": "AER",
+        "text": "Trample\nWhenever Untethered Express attacks, put a +1/+1 counter on it.\nCrew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423846&type=card",
+        "multiverseId": "423846"
+    },
+    {
+        "name": "Verdant Automaton",
+        "manaCost": "{2}",
+        "cmc": 2.0,
+        "colors": null,
+        "type": "Artifact Creature — Construct",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "{3}{G}: Put a +1/+1 counter on Verdant Automaton.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423847&type=card",
+        "multiverseId": "423847"
+    },
+    {
+        "name": "Walking Ballista",
+        "manaCost": "{X}{X}",
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Artifact Creature — Construct",
+        "rarity": "Rare",
+        "set": "AER",
+        "text": "Walking Ballista enters the battlefield with X +1/+1 counters on it.\n{4}: Put a +1/+1 counter on Walking Ballista.\nRemove a +1/+1 counter from Walking Ballista: It deals 1 damage to any target.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423848&type=card",
+        "multiverseId": "423848"
+    },
+    {
+        "name": "Watchful Automaton",
+        "manaCost": "{3}",
+        "cmc": 3.0,
+        "colors": null,
+        "type": "Artifact Creature — Construct",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "{2}{U}: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423849&type=card",
+        "multiverseId": "423849"
+    },
+    {
+        "name": "Welder Automaton",
+        "manaCost": "{2}",
+        "cmc": 2.0,
+        "colors": null,
+        "type": "Artifact Creature — Construct",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "{3}{R}: Welder Automaton deals 1 damage to each opponent.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423850&type=card",
+        "multiverseId": "423850"
+    },
+    {
+        "name": "Spire of Industry",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Land",
+        "rarity": "Rare",
+        "set": "AER",
+        "text": "{T}: Add {C}.\n{T}, Pay 1 life: Add one mana of any color. Activate only if you control an artifact.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423851&type=card",
+        "multiverseId": "423851"
+    },
+    {
+        "name": "Ajani, Valiant Protector",
+        "manaCost": "{4}{G}{W}",
+        "cmc": 6.0,
+        "colors": [
+            "G",
+            "W"
+        ],
+        "type": "Legendary Planeswalker — Ajani",
+        "rarity": "Mythic",
+        "set": "AER",
+        "text": "[+2]: Put two +1/+1 counters on up to one target creature.\n[+1]: Reveal cards from the top of your library until you reveal a creature card. Put that card into your hand and the rest on the bottom of your library in a random order.\n[−11]: Put X +1/+1 counters on target creature, where X is your life total. That creature gains trample until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=425692&type=card",
+        "multiverseId": "425692"
+    },
+    {
+        "name": "Inspiring Roar",
+        "manaCost": "{3}{W}",
+        "cmc": 4.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Sorcery",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "Put a +1/+1 counter on each creature you control.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=425693&type=card",
+        "multiverseId": "425693"
+    },
+    {
+        "name": "Ajani's Comrade",
+        "manaCost": "{1}{G}",
+        "cmc": 2.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Elf Soldier",
+        "rarity": "Uncommon",
+        "set": "AER",
+        "text": "Trample\nAt the beginning of combat on your turn, if you control an Ajani planeswalker, put a +1/+1 counter on Ajani's Comrade.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=425694&type=card",
+        "multiverseId": "425694"
+    },
+    {
+        "name": "Ajani's Aid",
+        "manaCost": "{2}{G}{W}",
+        "cmc": 4.0,
+        "colors": [
+            "G",
+            "W"
+        ],
+        "type": "Enchantment",
+        "rarity": "Rare",
+        "set": "AER",
+        "text": "When Ajani's Aid enters the battlefield, you may search your library and/or graveyard for a card named Ajani, Valiant Protector, reveal it, and put it into your hand. If you search your library this way, shuffle.\nSacrifice Ajani's Aid: Prevent all combat damage a creature of your choice would deal this turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=425695&type=card",
+        "multiverseId": "425695"
+    },
+    {
+        "name": "Tranquil Expanse",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Land",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "Tranquil Expanse enters the battlefield tapped.\n{T}: Add {G} or {W}.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=425696&type=card",
+        "multiverseId": "425696"
+    },
+    {
+        "name": "Tezzeret, Master of Metal",
+        "manaCost": "{4}{U}{B}",
+        "cmc": 6.0,
+        "colors": [
+            "B",
+            "U"
+        ],
+        "type": "Legendary Planeswalker — Tezzeret",
+        "rarity": "Mythic",
+        "set": "AER",
+        "text": "[+1]: Reveal cards from the top of your library until you reveal an artifact card. Put that card into your hand and the rest on the bottom of your library in a random order.\n[−3]: Target opponent loses life equal to the number of artifacts you control.\n[−8]: Gain control of all artifacts and creatures target opponent controls.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=425697&type=card",
+        "multiverseId": "425697"
+    },
+    {
+        "name": "Tezzeret's Betrayal",
+        "manaCost": "{3}{U}{B}",
+        "cmc": 5.0,
+        "colors": [
+            "B",
+            "U"
+        ],
+        "type": "Sorcery",
+        "rarity": "Rare",
+        "set": "AER",
+        "text": "Destroy target creature. You may search your library and/or graveyard for a card named Tezzeret, Master of Metal, reveal it, and put it into your hand. If you search your library this way, shuffle.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=425698&type=card",
+        "multiverseId": "425698"
+    },
+    {
+        "name": "Pendulum of Patterns",
+        "manaCost": "{2}",
+        "cmc": 2.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "When Pendulum of Patterns enters the battlefield, you gain 3 life.\n{5}, {T}, Sacrifice Pendulum of Patterns: Draw a card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=425699&type=card",
+        "multiverseId": "425699"
+    },
+    {
+        "name": "Tezzeret's Simulacrum",
+        "manaCost": "{3}",
+        "cmc": 3.0,
+        "colors": null,
+        "type": "Artifact Creature — Golem",
+        "rarity": "Uncommon",
+        "set": "AER",
+        "text": "{T}: Target opponent loses 1 life. If you control a Tezzeret planeswalker, that player loses 3 life instead.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=425700&type=card",
+        "multiverseId": "425700"
+    },
+    {
+        "name": "Submerged Boneyard",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Land",
+        "rarity": "Common",
+        "set": "AER",
+        "text": "Submerged Boneyard enters the battlefield tapped.\n{T}: Add {U} or {B}.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=425701&type=card",
+        "multiverseId": "425701"
+    }
+]

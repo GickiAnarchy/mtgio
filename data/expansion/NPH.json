@@ -1,0 +1,2357 @@
+[
+    {
+        "name": "Karn Liberated",
+        "manaCost": "{7}",
+        "cmc": 7.0,
+        "colors": null,
+        "type": "Legendary Planeswalker — Karn",
+        "rarity": "Mythic",
+        "set": "NPH",
+        "text": "[+4]: Target player exiles a card from their hand.\n[−3]: Exile target permanent.\n[−14]: Restart the game, leaving in exile all non-Aura permanent cards exiled with Karn Liberated. Then put those cards onto the battlefield under your control.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=214350&type=card",
+        "multiverseId": "214350"
+    },
+    {
+        "name": "Apostle's Blessing",
+        "manaCost": "{1}{W/P}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "({W/P} can be paid with either {W} or 2 life.)\nTarget artifact or creature you control gains protection from artifacts or from the color of your choice until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194208&type=card",
+        "multiverseId": "194208"
+    },
+    {
+        "name": "Auriok Survivors",
+        "manaCost": "{5}{W}",
+        "cmc": 6.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Human Soldier",
+        "rarity": "Uncommon",
+        "set": "NPH",
+        "text": "When Auriok Survivors enters the battlefield, you may return target Equipment card from your graveyard to the battlefield. If you do, you may attach it to Auriok Survivors.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=214353&type=card",
+        "multiverseId": "214353"
+    },
+    {
+        "name": "Blade Splicer",
+        "manaCost": "{2}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Phyrexian Human Artificer",
+        "rarity": "Rare",
+        "set": "NPH",
+        "text": "When Blade Splicer enters the battlefield, create a 3/3 colorless Phyrexian Golem artifact creature token.\nGolems you control have first strike.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233068&type=card",
+        "multiverseId": "233068"
+    },
+    {
+        "name": "Cathedral Membrane",
+        "manaCost": "{1}{W/P}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Artifact Creature — Phyrexian Wall",
+        "rarity": "Uncommon",
+        "set": "NPH",
+        "text": "({W/P} can be paid with either {W} or 2 life.)\nDefender\nWhen Cathedral Membrane dies during combat, it deals 6 damage to each creature it blocked this combat.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218024&type=card",
+        "multiverseId": "218024"
+    },
+    {
+        "name": "Chancellor of the Annex",
+        "manaCost": "{4}{W}{W}{W}",
+        "cmc": 7.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Phyrexian Angel",
+        "rarity": "Rare",
+        "set": "NPH",
+        "text": "You may reveal this card from your opening hand. If you do, when each opponent casts their first spell of the game, counter that spell unless that player pays {1}.\nFlying\nWhenever an opponent casts a spell, counter it unless that player pays {1}.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218083&type=card",
+        "multiverseId": "218083"
+    },
+    {
+        "name": "Dispatch",
+        "manaCost": "{W}",
+        "cmc": 1.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon",
+        "set": "NPH",
+        "text": "Tap target creature.\nMetalcraft — If you control three or more artifacts, exile that creature.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218072&type=card",
+        "multiverseId": "218072"
+    },
+    {
+        "name": "Due Respect",
+        "manaCost": "{1}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon",
+        "set": "NPH",
+        "text": "Permanents enter the battlefield tapped this turn.\nDraw a card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233077&type=card",
+        "multiverseId": "233077"
+    },
+    {
+        "name": "Elesh Norn, Grand Cenobite",
+        "manaCost": "{5}{W}{W}",
+        "cmc": 7.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Legendary Creature — Phyrexian Praetor",
+        "rarity": "Mythic",
+        "set": "NPH",
+        "text": "Vigilance\nOther creatures you control get +2/+2.\nCreatures your opponents control get -2/-2.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=214352&type=card",
+        "multiverseId": "214352"
+    },
+    {
+        "name": "Exclusion Ritual",
+        "manaCost": "{4}{W}{W}",
+        "cmc": 6.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Enchantment",
+        "rarity": "Uncommon",
+        "set": "NPH",
+        "text": "Imprint — When Exclusion Ritual enters the battlefield, exile target nonland permanent.\nPlayers can't cast spells with the same name as the exiled card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=214364&type=card",
+        "multiverseId": "214364"
+    },
+    {
+        "name": "Forced Worship",
+        "manaCost": "{1}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "Enchant creature\nEnchanted creature can't attack.\n{2}{W}: Return Forced Worship to its owner's hand.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=230083&type=card",
+        "multiverseId": "230083"
+    },
+    {
+        "name": "Inquisitor Exarch",
+        "manaCost": "{W}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Phyrexian Cleric",
+        "rarity": "Uncommon",
+        "set": "NPH",
+        "text": "When Inquisitor Exarch enters the battlefield, choose one —\n• You gain 2 life.\n• Target opponent loses 2 life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218070&type=card",
+        "multiverseId": "218070"
+    },
+    {
+        "name": "Lost Leonin",
+        "manaCost": "{1}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Phyrexian Cat Soldier",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218053&type=card",
+        "multiverseId": "218053"
+    },
+    {
+        "name": "Loxodon Convert",
+        "manaCost": "{3}{W}",
+        "cmc": 4.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Phyrexian Elephant Soldier",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": null,
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218013&type=card",
+        "multiverseId": "218013"
+    },
+    {
+        "name": "Marrow Shards",
+        "manaCost": "{W/P}",
+        "cmc": 1.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon",
+        "set": "NPH",
+        "text": "({W/P} can be paid with either {W} or 2 life.)\nMarrow Shards deals 1 damage to each attacking creature.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=230072&type=card",
+        "multiverseId": "230072"
+    },
+    {
+        "name": "Master Splicer",
+        "manaCost": "{3}{W}",
+        "cmc": 4.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Phyrexian Human Artificer",
+        "rarity": "Uncommon",
+        "set": "NPH",
+        "text": "When Master Splicer enters the battlefield, create a 3/3 colorless Phyrexian Golem artifact creature token.\nGolems you control get +1/+1.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233062&type=card",
+        "multiverseId": "233062"
+    },
+    {
+        "name": "Norn's Annex",
+        "manaCost": "{3}{W/P}{W/P}",
+        "cmc": 5.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Artifact",
+        "rarity": "Rare",
+        "set": "NPH",
+        "text": "({W/P} can be paid with either {W} or 2 life.)\nCreatures can't attack you or planeswalkers you control unless their controller pays {W/P} for each of those creatures.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233050&type=card",
+        "multiverseId": "233050"
+    },
+    {
+        "name": "Phyrexian Unlife",
+        "manaCost": "{2}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Enchantment",
+        "rarity": "Rare",
+        "set": "NPH",
+        "text": "You don't lose the game for having 0 or less life.\nAs long as you have 0 or less life, all damage is dealt to you as though its source had infect. (Damage is dealt to you in the form of poison counters.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218058&type=card",
+        "multiverseId": "218058"
+    },
+    {
+        "name": "Porcelain Legionnaire",
+        "manaCost": "{2}{W/P}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Artifact Creature — Phyrexian Soldier",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "({W/P} can be paid with either {W} or 2 life.)\nFirst strike",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218043&type=card",
+        "multiverseId": "218043"
+    },
+    {
+        "name": "Puresteel Paladin",
+        "manaCost": "{W}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Human Knight",
+        "rarity": "Rare",
+        "set": "NPH",
+        "text": "Whenever an Equipment enters the battlefield under your control, you may draw a card.\nMetalcraft — Equipment you control have equip {0} as long as you control three or more artifacts.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=227504&type=card",
+        "multiverseId": "227504"
+    },
+    {
+        "name": "Remember the Fallen",
+        "manaCost": "{2}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Sorcery",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "Choose one or both —\n• Return target creature card from your graveyard to your hand.\n• Return target artifact card from your graveyard to your hand.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218078&type=card",
+        "multiverseId": "218078"
+    },
+    {
+        "name": "Sensor Splicer",
+        "manaCost": "{4}{W}",
+        "cmc": 5.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Phyrexian Artificer",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "When Sensor Splicer enters the battlefield, create a 3/3 colorless Phyrexian Golem artifact creature token.\nGolem creatures you control have vigilance.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233038&type=card",
+        "multiverseId": "233038"
+    },
+    {
+        "name": "Shattered Angel",
+        "manaCost": "{3}{W}{W}",
+        "cmc": 5.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Phyrexian Angel",
+        "rarity": "Uncommon",
+        "set": "NPH",
+        "text": "Flying\nWhenever a land enters the battlefield under an opponent's control, you may gain 3 life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233059&type=card",
+        "multiverseId": "233059"
+    },
+    {
+        "name": "Shriek Raptor",
+        "manaCost": "{3}{W}{W}",
+        "cmc": 5.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Phyrexian Bird",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "Flying\nInfect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=217994&type=card",
+        "multiverseId": "217994"
+    },
+    {
+        "name": "Suture Priest",
+        "manaCost": "{1}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Phyrexian Cleric",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "Whenever another creature enters the battlefield under your control, you may gain 1 life.\nWhenever a creature enters the battlefield under an opponent's control, you may have that player lose 1 life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=217981&type=card",
+        "multiverseId": "217981"
+    },
+    {
+        "name": "War Report",
+        "manaCost": "{3}{W}",
+        "cmc": 4.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "You gain life equal to the number of creatures on the battlefield plus the number of artifacts on the battlefield.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=230078&type=card",
+        "multiverseId": "230078"
+    },
+    {
+        "name": "Argent Mutation",
+        "manaCost": "{2}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon",
+        "set": "NPH",
+        "text": "Target permanent becomes an artifact in addition to its other types until end of turn.\nDraw a card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218001&type=card",
+        "multiverseId": "218001"
+    },
+    {
+        "name": "Arm with Aether",
+        "manaCost": "{2}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "NPH",
+        "text": "Until end of turn, creatures you control gain \"Whenever this creature deals damage to an opponent, you may return target creature that player controls to its owner's hand.\"",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=202641&type=card",
+        "multiverseId": "202641"
+    },
+    {
+        "name": "Blighted Agent",
+        "manaCost": "{1}{U}",
+        "cmc": 2.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Phyrexian Human Rogue",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)\nBlighted Agent can't be blocked.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=214383&type=card",
+        "multiverseId": "214383"
+    },
+    {
+        "name": "Chained Throatseeker",
+        "manaCost": "{5}{U}",
+        "cmc": 6.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Phyrexian Horror",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)\nChained Throatseeker can't attack unless defending player is poisoned.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218075&type=card",
+        "multiverseId": "218075"
+    },
+    {
+        "name": "Chancellor of the Spires",
+        "manaCost": "{4}{U}{U}{U}",
+        "cmc": 7.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Phyrexian Sphinx",
+        "rarity": "Rare",
+        "set": "NPH",
+        "text": "You may reveal this card from your opening hand. If you do, at the beginning of the first upkeep, each opponent mills seven cards.\nFlying\nWhen Chancellor of the Spires enters the battlefield, you may cast target instant or sorcery card from an opponent's graveyard without paying its mana cost.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=214360&type=card",
+        "multiverseId": "214360"
+    },
+    {
+        "name": "Corrupted Resolve",
+        "manaCost": "{1}{U}",
+        "cmc": 2.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon",
+        "set": "NPH",
+        "text": "Counter target spell if its controller is poisoned.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233080&type=card",
+        "multiverseId": "233080"
+    },
+    {
+        "name": "Deceiver Exarch",
+        "manaCost": "{2}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Phyrexian Cleric",
+        "rarity": "Uncommon",
+        "set": "NPH",
+        "text": "Flash (You may cast this spell any time you could cast an instant.)\nWhen Deceiver Exarch enters the battlefield, choose one —\n• Untap target permanent you control.\n• Tap target permanent an opponent controls.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=214365&type=card",
+        "multiverseId": "214365"
+    },
+    {
+        "name": "Defensive Stance",
+        "manaCost": "{U}",
+        "cmc": 1.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "Enchant creature\nEnchanted creature gets -1/+1.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=217987&type=card",
+        "multiverseId": "217987"
+    },
+    {
+        "name": "Gitaxian Probe",
+        "manaCost": "{U/P}",
+        "cmc": 1.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Sorcery",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "({U/P} can be paid with either {U} or 2 life.)\nLook at target player's hand.\nDraw a card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233056&type=card",
+        "multiverseId": "233056"
+    },
+    {
+        "name": "Impaler Shrike",
+        "manaCost": "{2}{U}{U}",
+        "cmc": 4.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Phyrexian Bird",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "Flying\nWhenever Impaler Shrike deals combat damage to a player, you may sacrifice it. If you do, draw three cards.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=217988&type=card",
+        "multiverseId": "217988"
+    },
+    {
+        "name": "Jin-Gitaxias, Core Augur",
+        "manaCost": "{8}{U}{U}",
+        "cmc": 10.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Legendary Creature — Phyrexian Praetor",
+        "rarity": "Mythic",
+        "set": "NPH",
+        "text": "Flash\nAt the beginning of your end step, draw seven cards.\nEach opponent's maximum hand size is reduced by seven.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=214349&type=card",
+        "multiverseId": "214349"
+    },
+    {
+        "name": "Mental Misstep",
+        "manaCost": "{U/P}",
+        "cmc": 1.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon",
+        "set": "NPH",
+        "text": "({U/P} can be paid with either {U} or 2 life.)\nCounter target spell with mana value 1.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=230066&type=card",
+        "multiverseId": "230066"
+    },
+    {
+        "name": "Mindculling",
+        "manaCost": "{5}{U}",
+        "cmc": 6.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "NPH",
+        "text": "You draw two cards and target opponent discards two cards.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218085&type=card",
+        "multiverseId": "218085"
+    },
+    {
+        "name": "Numbing Dose",
+        "manaCost": "{3}{U}{U}",
+        "cmc": 5.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "Enchant artifact or creature\nEnchanted permanent doesn't untap during its controller's untap step.\nAt the beginning of the upkeep of enchanted permanent's controller, that player loses 1 life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218040&type=card",
+        "multiverseId": "218040"
+    },
+    {
+        "name": "Phyrexian Ingester",
+        "manaCost": "{6}{U}",
+        "cmc": 7.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Phyrexian Beast",
+        "rarity": "Rare",
+        "set": "NPH",
+        "text": "Imprint — When Phyrexian Ingester enters the battlefield, you may exile target nontoken creature.\nPhyrexian Ingester gets +X/+Y, where X is the exiled creature card's power and Y is its toughness.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=214384&type=card",
+        "multiverseId": "214384"
+    },
+    {
+        "name": "Phyrexian Metamorph",
+        "manaCost": "{3}{U/P}",
+        "cmc": 4.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Artifact Creature — Phyrexian Shapeshifter",
+        "rarity": "Rare",
+        "set": "NPH",
+        "text": "({U/P} can be paid with either {U} or 2 life.)\nYou may have Phyrexian Metamorph enter the battlefield as a copy of any artifact or creature on the battlefield, except it's an artifact in addition to its other types.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=214375&type=card",
+        "multiverseId": "214375"
+    },
+    {
+        "name": "Psychic Barrier",
+        "manaCost": "{U}{U}",
+        "cmc": 2.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "Counter target creature spell. Its controller loses 1 life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218016&type=card",
+        "multiverseId": "218016"
+    },
+    {
+        "name": "Psychic Surgery",
+        "manaCost": "{1}{U}",
+        "cmc": 2.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Enchantment",
+        "rarity": "Rare",
+        "set": "NPH",
+        "text": "Whenever an opponent shuffles their library, you may look at the top two cards of that library. You may exile one of those cards. Then put the rest on top of that library in any order.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=214347&type=card",
+        "multiverseId": "214347"
+    },
+    {
+        "name": "Spined Thopter",
+        "manaCost": "{2}{U/P}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Artifact Creature — Phyrexian Thopter",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "({U/P} can be paid with either {U} or 2 life.)\nFlying",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=217990&type=card",
+        "multiverseId": "217990"
+    },
+    {
+        "name": "Spire Monitor",
+        "manaCost": "{4}{U}",
+        "cmc": 5.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Phyrexian Drake",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "Flash (You may cast this spell any time you could cast an instant.)\nFlying",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233053&type=card",
+        "multiverseId": "233053"
+    },
+    {
+        "name": "Tezzeret's Gambit",
+        "manaCost": "{3}{U/P}",
+        "cmc": 4.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "NPH",
+        "text": "({U/P} can be paid with either {U} or 2 life.)\nDraw two cards, then proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=227547&type=card",
+        "multiverseId": "227547"
+    },
+    {
+        "name": "Vapor Snag",
+        "manaCost": "{U}",
+        "cmc": 1.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "Return target creature to its owner's hand. Its controller loses 1 life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218017&type=card",
+        "multiverseId": "218017"
+    },
+    {
+        "name": "Viral Drake",
+        "manaCost": "{3}{U}",
+        "cmc": 4.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Phyrexian Drake",
+        "rarity": "Uncommon",
+        "set": "NPH",
+        "text": "Flying\nInfect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)\n{3}{U}: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233047&type=card",
+        "multiverseId": "233047"
+    },
+    {
+        "name": "Wing Splicer",
+        "manaCost": "{3}{U}",
+        "cmc": 4.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Phyrexian Human Artificer",
+        "rarity": "Uncommon",
+        "set": "NPH",
+        "text": "When Wing Splicer enters the battlefield, create a 3/3 colorless Phyrexian Golem artifact creature token.\nGolem creatures you control have flying.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233037&type=card",
+        "multiverseId": "233037"
+    },
+    {
+        "name": "Xenograft",
+        "manaCost": "{4}{U}",
+        "cmc": 5.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Enchantment",
+        "rarity": "Rare",
+        "set": "NPH",
+        "text": "As Xenograft enters the battlefield, choose a creature type.\nEach creature you control is the chosen type in addition to its other types.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=227544&type=card",
+        "multiverseId": "227544"
+    },
+    {
+        "name": "Blind Zealot",
+        "manaCost": "{1}{B}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Phyrexian Human Cleric",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)\nWhenever Blind Zealot deals combat damage to a player, you may sacrifice it. If you do, destroy target creature that player controls.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=217999&type=card",
+        "multiverseId": "217999"
+    },
+    {
+        "name": "Caress of Phyrexia",
+        "manaCost": "{3}{B}{B}",
+        "cmc": 5.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "NPH",
+        "text": "Target player draws three cards, loses 3 life, and gets three poison counters.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218061&type=card",
+        "multiverseId": "218061"
+    },
+    {
+        "name": "Chancellor of the Dross",
+        "manaCost": "{4}{B}{B}{B}",
+        "cmc": 7.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Phyrexian Vampire",
+        "rarity": "Rare",
+        "set": "NPH",
+        "text": "You may reveal this card from your opening hand. If you do, at the beginning of the first upkeep, each opponent loses 3 life, then you gain life equal to the life lost this way.\nFlying, lifelink",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218020&type=card",
+        "multiverseId": "218020"
+    },
+    {
+        "name": "Dementia Bat",
+        "manaCost": "{4}{B}",
+        "cmc": 5.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Phyrexian Bat",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "Flying\n{4}{B}, Sacrifice Dementia Bat: Target player discards two cards.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233084&type=card",
+        "multiverseId": "233084"
+    },
+    {
+        "name": "Despise",
+        "manaCost": "{B}",
+        "cmc": 1.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "NPH",
+        "text": "Target opponent reveals their hand. You choose a creature or planeswalker card from it. That player discards that card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233043&type=card",
+        "multiverseId": "233043"
+    },
+    {
+        "name": "Dismember",
+        "manaCost": "{1}{B/P}{B/P}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon",
+        "set": "NPH",
+        "text": "({B/P} can be paid with either {B} or 2 life.)\nTarget creature gets -5/-5 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=230082&type=card",
+        "multiverseId": "230082"
+    },
+    {
+        "name": "Enslave",
+        "manaCost": "{4}{B}{B}",
+        "cmc": 6.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Uncommon",
+        "set": "NPH",
+        "text": "Enchant creature\nYou control enchanted creature.\nAt the beginning of your upkeep, enchanted creature deals 1 damage to its owner.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233060&type=card",
+        "multiverseId": "233060"
+    },
+    {
+        "name": "Entomber Exarch",
+        "manaCost": "{2}{B}{B}",
+        "cmc": 4.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Phyrexian Cleric",
+        "rarity": "Uncommon",
+        "set": "NPH",
+        "text": "When Entomber Exarch enters the battlefield, choose one —\n• Return target creature card from your graveyard to your hand.\n• Target opponent reveals their hand. You choose a noncreature card from it. That player discards that card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218023&type=card",
+        "multiverseId": "218023"
+    },
+    {
+        "name": "Evil Presence",
+        "manaCost": "{B}",
+        "cmc": 1.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "Enchant land\nEnchanted land is a Swamp.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218073&type=card",
+        "multiverseId": "218073"
+    },
+    {
+        "name": "Geth's Verdict",
+        "manaCost": "{B}{B}",
+        "cmc": 2.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "Target player sacrifices a creature and loses 1 life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=214376&type=card",
+        "multiverseId": "214376"
+    },
+    {
+        "name": "Glistening Oil",
+        "manaCost": "{B}{B}",
+        "cmc": 2.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Rare",
+        "set": "NPH",
+        "text": "Enchant creature\nEnchanted creature has infect.\nAt the beginning of your upkeep, put a -1/-1 counter on enchanted creature.\nWhen Glistening Oil is put into a graveyard from the battlefield, return Glistening Oil to its owner's hand.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=214346&type=card",
+        "multiverseId": "214346"
+    },
+    {
+        "name": "Grim Affliction",
+        "manaCost": "{2}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "Put a -1/-1 counter on target creature, then proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=214389&type=card",
+        "multiverseId": "214389"
+    },
+    {
+        "name": "Ichor Explosion",
+        "manaCost": "{5}{B}{B}",
+        "cmc": 7.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "NPH",
+        "text": "As an additional cost to cast this spell, sacrifice a creature.\nAll creatures get -X/-X until end of turn, where X is the sacrificed creature's power.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218066&type=card",
+        "multiverseId": "218066"
+    },
+    {
+        "name": "Life's Finale",
+        "manaCost": "{4}{B}{B}",
+        "cmc": 6.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Sorcery",
+        "rarity": "Rare",
+        "set": "NPH",
+        "text": "Destroy all creatures, then search target opponent's library for up to three creature cards and put them into their graveyard. Then that player shuffles.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=214362&type=card",
+        "multiverseId": "214362"
+    },
+    {
+        "name": "Mortis Dogs",
+        "manaCost": "{3}{B}",
+        "cmc": 4.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Phyrexian Dog",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "Whenever Mortis Dogs attacks, it gets +2/+0 until end of turn.\nWhen Mortis Dogs dies, target player loses life equal to its power.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233072&type=card",
+        "multiverseId": "233072"
+    },
+    {
+        "name": "Parasitic Implant",
+        "manaCost": "{3}{B}",
+        "cmc": 4.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "Enchant creature\nAt the beginning of your upkeep, enchanted creature's controller sacrifices it and you create a 1/1 colorless Phyrexian Myr artifact creature token.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194216&type=card",
+        "multiverseId": "194216"
+    },
+    {
+        "name": "Phyrexian Obliterator",
+        "manaCost": "{B}{B}{B}{B}",
+        "cmc": 4.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Phyrexian Horror",
+        "rarity": "Mythic",
+        "set": "NPH",
+        "text": "Trample\nWhenever a source deals damage to Phyrexian Obliterator, that source's controller sacrifices that many permanents.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=214386&type=card",
+        "multiverseId": "214386"
+    },
+    {
+        "name": "Pith Driller",
+        "manaCost": "{4}{B/P}",
+        "cmc": 5.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Artifact Creature — Phyrexian Horror",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "({B/P} can be paid with either {B} or 2 life.)\nWhen Pith Driller enters the battlefield, put a -1/-1 counter on target creature.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=230079&type=card",
+        "multiverseId": "230079"
+    },
+    {
+        "name": "Postmortem Lunge",
+        "manaCost": "{X}{B/P}",
+        "cmc": 1.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "NPH",
+        "text": "({B/P} can be paid with either {B} or 2 life.)\nReturn target creature card with mana value X from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233054&type=card",
+        "multiverseId": "233054"
+    },
+    {
+        "name": "Praetor's Grasp",
+        "manaCost": "{1}{B}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Sorcery",
+        "rarity": "Rare",
+        "set": "NPH",
+        "text": "Search target opponent's library for a card and exile it face down. Then that player shuffles. You may look at and play that card for as long as it remains exiled.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218050&type=card",
+        "multiverseId": "218050"
+    },
+    {
+        "name": "Reaper of Sheoldred",
+        "manaCost": "{4}{B}",
+        "cmc": 5.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Phyrexian Horror",
+        "rarity": "Uncommon",
+        "set": "NPH",
+        "text": "Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)\nWhenever a source deals damage to Reaper of Sheoldred, that source's controller gets a poison counter.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=214374&type=card",
+        "multiverseId": "214374"
+    },
+    {
+        "name": "Sheoldred, Whispering One",
+        "manaCost": "{5}{B}{B}",
+        "cmc": 7.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Legendary Creature — Phyrexian Praetor",
+        "rarity": "Mythic",
+        "set": "NPH",
+        "text": "Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)\nAt the beginning of your upkeep, return target creature card from your graveyard to the battlefield.\nAt the beginning of each opponent's upkeep, that player sacrifices a creature.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=214382&type=card",
+        "multiverseId": "214382"
+    },
+    {
+        "name": "Surgical Extraction",
+        "manaCost": "{B/P}",
+        "cmc": 1.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Instant",
+        "rarity": "Rare",
+        "set": "NPH",
+        "text": "({B/P} can be paid with either {B} or 2 life.)\nChoose target card in a graveyard other than a basic land card. Search its owner's graveyard, hand, and library for any number of cards with the same name as that card and exile them. Then that player shuffles.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233041&type=card",
+        "multiverseId": "233041"
+    },
+    {
+        "name": "Toxic Nim",
+        "manaCost": "{4}{B}{B}",
+        "cmc": 6.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Phyrexian Zombie",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)\n{B}: Regenerate Toxic Nim.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233081&type=card",
+        "multiverseId": "233081"
+    },
+    {
+        "name": "Vault Skirge",
+        "manaCost": "{1}{B/P}",
+        "cmc": 2.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Artifact Creature — Phyrexian Imp",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "({B/P} can be paid with either {B} or 2 life.)\nFlying\nLifelink (Damage dealt by this creature also causes you to gain that much life.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=217984&type=card",
+        "multiverseId": "217984"
+    },
+    {
+        "name": "Whispering Specter",
+        "manaCost": "{1}{B}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Phyrexian Specter",
+        "rarity": "Uncommon",
+        "set": "NPH",
+        "text": "Flying\nInfect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)\nWhenever Whispering Specter deals combat damage to a player, you may sacrifice it. If you do, that player discards a card for each poison counter they have.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218045&type=card",
+        "multiverseId": "218045"
+    },
+    {
+        "name": "Act of Aggression",
+        "manaCost": "{3}{R/P}{R/P}",
+        "cmc": 5.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon",
+        "set": "NPH",
+        "text": "({R/P} can be paid with either {R} or 2 life.)\nGain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=230076&type=card",
+        "multiverseId": "230076"
+    },
+    {
+        "name": "Artillerize",
+        "manaCost": "{3}{R}",
+        "cmc": 4.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "As an additional cost to cast this spell, sacrifice an artifact or creature.\nArtillerize deals 5 damage to any target.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218081&type=card",
+        "multiverseId": "218081"
+    },
+    {
+        "name": "Bludgeon Brawl",
+        "manaCost": "{2}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Enchantment",
+        "rarity": "Rare",
+        "set": "NPH",
+        "text": "Each noncreature, non-Equipment artifact is an Equipment with equip {X} and \"Equipped creature gets +X/+0,\" where X is that artifact's mana value.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218055&type=card",
+        "multiverseId": "218055"
+    },
+    {
+        "name": "Chancellor of the Forge",
+        "manaCost": "{4}{R}{R}{R}",
+        "cmc": 7.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Phyrexian Giant",
+        "rarity": "Rare",
+        "set": "NPH",
+        "text": "You may reveal this card from your opening hand. If you do, at the beginning of the first upkeep, create a 1/1 red Phyrexian Goblin creature token with haste.\nWhen Chancellor of the Forge enters the battlefield, create X 1/1 red Phyrexian Goblin creature tokens with haste, where X is the number of creatures you control.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218021&type=card",
+        "multiverseId": "218021"
+    },
+    {
+        "name": "Fallen Ferromancer",
+        "manaCost": "{3}{R}",
+        "cmc": 4.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Phyrexian Human Shaman",
+        "rarity": "Uncommon",
+        "set": "NPH",
+        "text": "Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)\n{1}{R}, {T}: Fallen Ferromancer deals 1 damage to any target.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=227537&type=card",
+        "multiverseId": "227537"
+    },
+    {
+        "name": "Flameborn Viron",
+        "manaCost": "{4}{R}{R}",
+        "cmc": 6.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Phyrexian Insect",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": null,
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233086&type=card",
+        "multiverseId": "233086"
+    },
+    {
+        "name": "Furnace Scamp",
+        "manaCost": "{R}",
+        "cmc": 1.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Phyrexian Beast",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "Whenever Furnace Scamp deals combat damage to a player, you may sacrifice it. If you do, Furnace Scamp deals 3 damage to that player.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=217979&type=card",
+        "multiverseId": "217979"
+    },
+    {
+        "name": "Geosurge",
+        "manaCost": "{R}{R}{R}{R}",
+        "cmc": 4.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "NPH",
+        "text": "Add {R}{R}{R}{R}{R}{R}{R}. Spend this mana only to cast artifact or creature spells.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218004&type=card",
+        "multiverseId": "218004"
+    },
+    {
+        "name": "Gut Shot",
+        "manaCost": "{R/P}",
+        "cmc": 1.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon",
+        "set": "NPH",
+        "text": "({R/P} can be paid with either {R} or 2 life.)\nGut Shot deals 1 damage to any target.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=230074&type=card",
+        "multiverseId": "230074"
+    },
+    {
+        "name": "Invader Parasite",
+        "manaCost": "{3}{R}{R}",
+        "cmc": 5.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Phyrexian Insect",
+        "rarity": "Rare",
+        "set": "NPH",
+        "text": "Imprint — When Invader Parasite enters the battlefield, exile target land.\nWhenever a land with the same name as the exiled card enters the battlefield under an opponent's control, Invader Parasite deals 2 damage to that player.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233067&type=card",
+        "multiverseId": "233067"
+    },
+    {
+        "name": "Moltensteel Dragon",
+        "manaCost": "{4}{R/P}{R/P}",
+        "cmc": 6.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Artifact Creature — Phyrexian Dragon",
+        "rarity": "Rare",
+        "set": "NPH",
+        "text": "({R/P} can be paid with either {R} or 2 life.)\nFlying\n{R/P}: Moltensteel Dragon gets +1/+0 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233051&type=card",
+        "multiverseId": "233051"
+    },
+    {
+        "name": "Ogre Menial",
+        "manaCost": "{3}{R}",
+        "cmc": 4.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Phyrexian Ogre",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)\n{R}: Ogre Menial gets +1/+0 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233082&type=card",
+        "multiverseId": "233082"
+    },
+    {
+        "name": "Priest of Urabrask",
+        "manaCost": "{2}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Phyrexian Human Cleric",
+        "rarity": "Uncommon",
+        "set": "NPH",
+        "text": "When Priest of Urabrask enters the battlefield, add {R}{R}{R}.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218037&type=card",
+        "multiverseId": "218037"
+    },
+    {
+        "name": "Rage Extractor",
+        "manaCost": "{4}{R/P}",
+        "cmc": 5.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Artifact",
+        "rarity": "Uncommon",
+        "set": "NPH",
+        "text": "({R/P} can be paid with either {R} or 2 life.)\nWhenever you cast a spell with {P} in its mana cost, Rage Extractor deals damage equal to that spell's mana value to any target.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=214385&type=card",
+        "multiverseId": "214385"
+    },
+    {
+        "name": "Razor Swine",
+        "manaCost": "{2}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Phyrexian Boar",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "First strike\nInfect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218022&type=card",
+        "multiverseId": "218022"
+    },
+    {
+        "name": "Ruthless Invasion",
+        "manaCost": "{3}{R/P}",
+        "cmc": 4.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Sorcery",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "({R/P} can be paid with either {R} or 2 life.)\nNonartifact creatures can't block this turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=227528&type=card",
+        "multiverseId": "227528"
+    },
+    {
+        "name": "Scrapyard Salvo",
+        "manaCost": "{1}{R}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Sorcery",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "Scrapyard Salvo deals damage to target player or planeswalker equal to the number of artifact cards in your graveyard.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218019&type=card",
+        "multiverseId": "218019"
+    },
+    {
+        "name": "Slag Fiend",
+        "manaCost": "{R}",
+        "cmc": 1.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Phyrexian Construct",
+        "rarity": "Rare",
+        "set": "NPH",
+        "text": "Slag Fiend's power and toughness are each equal to the number of artifact cards in all graveyards.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218010&type=card",
+        "multiverseId": "218010"
+    },
+    {
+        "name": "Slash Panther",
+        "manaCost": "{4}{R/P}",
+        "cmc": 5.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Artifact Creature — Phyrexian Cat",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "({R/P} can be paid with either {R} or 2 life.)\nHaste",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=230065&type=card",
+        "multiverseId": "230065"
+    },
+    {
+        "name": "Tormentor Exarch",
+        "manaCost": "{3}{R}",
+        "cmc": 4.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Phyrexian Cleric",
+        "rarity": "Uncommon",
+        "set": "NPH",
+        "text": "When Tormentor Exarch enters the battlefield, choose one —\n• Target creature gets +2/+0 until end of turn.\n• Target creature gets -0/-2 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218082&type=card",
+        "multiverseId": "218082"
+    },
+    {
+        "name": "Urabrask the Hidden",
+        "manaCost": "{3}{R}{R}",
+        "cmc": 5.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Legendary Creature — Phyrexian Praetor",
+        "rarity": "Mythic",
+        "set": "NPH",
+        "text": "Creatures you control have haste.\nCreatures your opponents control enter the battlefield tapped.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=214378&type=card",
+        "multiverseId": "214378"
+    },
+    {
+        "name": "Victorious Destruction",
+        "manaCost": "{4}{R}",
+        "cmc": 5.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Sorcery",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "Destroy target artifact or land. Its controller loses 1 life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=227549&type=card",
+        "multiverseId": "227549"
+    },
+    {
+        "name": "Volt Charge",
+        "manaCost": "{2}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "Volt Charge deals 3 damage to any target. Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=214381&type=card",
+        "multiverseId": "214381"
+    },
+    {
+        "name": "Vulshok Refugee",
+        "manaCost": "{1}{R}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Human Warrior",
+        "rarity": "Uncommon",
+        "set": "NPH",
+        "text": "Protection from red",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218038&type=card",
+        "multiverseId": "218038"
+    },
+    {
+        "name": "Whipflare",
+        "manaCost": "{1}{R}",
+        "cmc": 2.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "NPH",
+        "text": "Whipflare deals 2 damage to each nonartifact creature.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194383&type=card",
+        "multiverseId": "194383"
+    },
+    {
+        "name": "Beast Within",
+        "manaCost": "{2}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon",
+        "set": "NPH",
+        "text": "Destroy target permanent. Its controller creates a 3/3 green Beast creature token.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=221533&type=card",
+        "multiverseId": "221533"
+    },
+    {
+        "name": "Birthing Pod",
+        "manaCost": "{3}{G/P}",
+        "cmc": 4.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Artifact",
+        "rarity": "Rare",
+        "set": "NPH",
+        "text": "({G/P} can be paid with either {G} or 2 life.)\n{1}{G/P}, {T}, Sacrifice a creature: Search your library for a creature card with mana value equal to 1 plus the sacrificed creature's mana value, put that card onto the battlefield, then shuffle. Activate only as a sorcery.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218006&type=card",
+        "multiverseId": "218006"
+    },
+    {
+        "name": "Brutalizer Exarch",
+        "manaCost": "{5}{G}",
+        "cmc": 6.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Phyrexian Cleric",
+        "rarity": "Uncommon",
+        "set": "NPH",
+        "text": "When Brutalizer Exarch enters the battlefield, choose one —\n• Search your library for a creature card, reveal it, then shuffle and put that card on top.\n• Put target noncreature permanent on the bottom of its owner's library.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=217998&type=card",
+        "multiverseId": "217998"
+    },
+    {
+        "name": "Chancellor of the Tangle",
+        "manaCost": "{4}{G}{G}{G}",
+        "cmc": 7.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Phyrexian Beast",
+        "rarity": "Rare",
+        "set": "NPH",
+        "text": "You may reveal this card from your opening hand. If you do, at the beginning of your first main phase, add {G}.\nVigilance, reach",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218062&type=card",
+        "multiverseId": "218062"
+    },
+    {
+        "name": "Corrosive Gale",
+        "manaCost": "{X}{G/P}",
+        "cmc": 1.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "NPH",
+        "text": "({G/P} can be paid with either {G} or 2 life.)\nCorrosive Gale deals X damage to each creature with flying.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=230075&type=card",
+        "multiverseId": "230075"
+    },
+    {
+        "name": "Death-Hood Cobra",
+        "manaCost": "{1}{G}",
+        "cmc": 2.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Phyrexian Snake",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "{1}{G}: Death-Hood Cobra gains reach until end of turn.\n{1}{G}: Death-Hood Cobra gains deathtouch until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233065&type=card",
+        "multiverseId": "233065"
+    },
+    {
+        "name": "Fresh Meat",
+        "manaCost": "{3}{G}",
+        "cmc": 4.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Instant",
+        "rarity": "Rare",
+        "set": "NPH",
+        "text": "Create a 3/3 green Beast creature token for each creature put into your graveyard from the battlefield this turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218051&type=card",
+        "multiverseId": "218051"
+    },
+    {
+        "name": "Glissa's Scorn",
+        "manaCost": "{1}{G}",
+        "cmc": 2.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "Destroy target artifact. Its controller loses 1 life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194171&type=card",
+        "multiverseId": "194171"
+    },
+    {
+        "name": "Glistener Elf",
+        "manaCost": "{G}",
+        "cmc": 1.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Phyrexian Elf Warrior",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233052&type=card",
+        "multiverseId": "233052"
+    },
+    {
+        "name": "Greenhilt Trainee",
+        "manaCost": "{3}{G}",
+        "cmc": 4.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Elf Warrior",
+        "rarity": "Uncommon",
+        "set": "NPH",
+        "text": "{T}: Target creature gets +4/+4 until end of turn. Activate only if Greenhilt Trainee's power is 4 or greater.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233063&type=card",
+        "multiverseId": "233063"
+    },
+    {
+        "name": "Leeching Bite",
+        "manaCost": "{1}{G}",
+        "cmc": 2.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "Target creature gets +1/+1 until end of turn. Another target creature gets -1/-1 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218028&type=card",
+        "multiverseId": "218028"
+    },
+    {
+        "name": "Maul Splicer",
+        "manaCost": "{6}{G}",
+        "cmc": 7.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Phyrexian Human Artificer",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "When Maul Splicer enters the battlefield, create two 3/3 colorless Phyrexian Golem artifact creature tokens.\nGolem creatures you control have trample.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233040&type=card",
+        "multiverseId": "233040"
+    },
+    {
+        "name": "Melira, Sylvok Outcast",
+        "manaCost": "{1}{G}",
+        "cmc": 2.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Legendary Creature — Human Scout",
+        "rarity": "Rare",
+        "set": "NPH",
+        "text": "You can't get poison counters.\nCreatures you control can't have -1/-1 counters put on them.\nCreatures your opponents control lose infect.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194274&type=card",
+        "multiverseId": "194274"
+    },
+    {
+        "name": "Mutagenic Growth",
+        "manaCost": "{G/P}",
+        "cmc": 1.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "({G/P} can be paid with either {G} or 2 life.)\nTarget creature gets +2/+2 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233070&type=card",
+        "multiverseId": "233070"
+    },
+    {
+        "name": "Mycosynth Fiend",
+        "manaCost": "{2}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Phyrexian Horror",
+        "rarity": "Uncommon",
+        "set": "NPH",
+        "text": "Mycosynth Fiend gets +1/+1 for each poison counter your opponents have.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=217995&type=card",
+        "multiverseId": "217995"
+    },
+    {
+        "name": "Noxious Revival",
+        "manaCost": "{G/P}",
+        "cmc": 1.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon",
+        "set": "NPH",
+        "text": "({G/P} can be paid with either {G} or 2 life.)\nPut target card from a graveyard on top of its owner's library.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=230067&type=card",
+        "multiverseId": "230067"
+    },
+    {
+        "name": "Phyrexian Swarmlord",
+        "manaCost": "{4}{G}{G}",
+        "cmc": 6.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Phyrexian Insect Horror",
+        "rarity": "Rare",
+        "set": "NPH",
+        "text": "Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)\nAt the beginning of your upkeep, create a 1/1 green Phyrexian Insect creature token with infect for each poison counter your opponents have.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218086&type=card",
+        "multiverseId": "218086"
+    },
+    {
+        "name": "Rotted Hystrix",
+        "manaCost": "{4}{G}",
+        "cmc": 5.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Phyrexian Beast",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": null,
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233064&type=card",
+        "multiverseId": "233064"
+    },
+    {
+        "name": "Spinebiter",
+        "manaCost": "{4}{G}{G}",
+        "cmc": 6.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Phyrexian Beast",
+        "rarity": "Uncommon",
+        "set": "NPH",
+        "text": "Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)\nYou may have Spinebiter assign its combat damage as though it weren't blocked.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=230068&type=card",
+        "multiverseId": "230068"
+    },
+    {
+        "name": "Thundering Tanadon",
+        "manaCost": "{4}{G/P}{G/P}",
+        "cmc": 6.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Artifact Creature — Phyrexian Beast",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "({G/P} can be paid with either {G} or 2 life.)\nTrample",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218077&type=card",
+        "multiverseId": "218077"
+    },
+    {
+        "name": "Triumph of the Hordes",
+        "manaCost": "{2}{G}{G}",
+        "cmc": 4.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "NPH",
+        "text": "Until end of turn, creatures you control get +1/+1 and gain trample and infect. (Creatures with infect deal damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218044&type=card",
+        "multiverseId": "218044"
+    },
+    {
+        "name": "Viridian Betrayers",
+        "manaCost": "{1}{G}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Phyrexian Elf Warrior",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "Viridian Betrayers has infect as long as an opponent is poisoned. (It deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=214390&type=card",
+        "multiverseId": "214390"
+    },
+    {
+        "name": "Viridian Harvest",
+        "manaCost": "{G}",
+        "cmc": 1.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "Enchant artifact\nWhen enchanted artifact is put into a graveyard, you gain 6 life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=214388&type=card",
+        "multiverseId": "214388"
+    },
+    {
+        "name": "Vital Splicer",
+        "manaCost": "{3}{G}",
+        "cmc": 4.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Phyrexian Human Artificer",
+        "rarity": "Uncommon",
+        "set": "NPH",
+        "text": "When Vital Splicer enters the battlefield, create a 3/3 colorless Phyrexian Golem artifact creature token.\n{1}: Regenerate target Golem you control.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233079&type=card",
+        "multiverseId": "233079"
+    },
+    {
+        "name": "Vorinclex, Voice of Hunger",
+        "manaCost": "{6}{G}{G}",
+        "cmc": 8.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Legendary Creature — Phyrexian Praetor",
+        "rarity": "Mythic",
+        "set": "NPH",
+        "text": "Trample\nWhenever you tap a land for mana, add one mana of any type that land produced.\nWhenever an opponent taps a land for mana, that land doesn't untap during its controller's next untap step.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218002&type=card",
+        "multiverseId": "218002"
+    },
+    {
+        "name": "Jor Kadeen, the Prevailer",
+        "manaCost": "{3}{R}{W}",
+        "cmc": 5.0,
+        "colors": [
+            "R",
+            "W"
+        ],
+        "type": "Legendary Creature — Human Warrior",
+        "rarity": "Rare",
+        "set": "NPH",
+        "text": "First strike\nMetalcraft — Creatures you control get +3/+0 as long as you control three or more artifacts.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=227508&type=card",
+        "multiverseId": "227508"
+    },
+    {
+        "name": "Alloy Myr",
+        "manaCost": "{3}",
+        "cmc": 3.0,
+        "colors": null,
+        "type": "Artifact Creature — Myr",
+        "rarity": "Uncommon",
+        "set": "NPH",
+        "text": "{T}: Add one mana of any color.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=214344&type=card",
+        "multiverseId": "214344"
+    },
+    {
+        "name": "Batterskull",
+        "manaCost": "{5}",
+        "cmc": 5.0,
+        "colors": null,
+        "type": "Artifact — Equipment",
+        "rarity": "Mythic",
+        "set": "NPH",
+        "text": "Living weapon (When this Equipment enters the battlefield, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)\nEquipped creature gets +4/+4 and has vigilance and lifelink.\n{3}: Return Batterskull to its owner's hand.\nEquip {5}",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233055&type=card",
+        "multiverseId": "233055"
+    },
+    {
+        "name": "Blinding Souleater",
+        "manaCost": "{3}",
+        "cmc": 3.0,
+        "colors": null,
+        "type": "Artifact Creature — Phyrexian Cleric",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "{W/P}, {T}: Tap target creature. ({W/P} can be paid with either {W} or 2 life.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233045&type=card",
+        "multiverseId": "233045"
+    },
+    {
+        "name": "Caged Sun",
+        "manaCost": "{6}",
+        "cmc": 6.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Rare",
+        "set": "NPH",
+        "text": "As Caged Sun enters the battlefield, choose a color.\nCreatures you control of the chosen color get +1/+1.\nWhenever a land's ability causes you to add one or more mana of the chosen color, add one additional mana of that color.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=214345&type=card",
+        "multiverseId": "214345"
+    },
+    {
+        "name": "Conversion Chamber",
+        "manaCost": "{3}",
+        "cmc": 3.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Uncommon",
+        "set": "NPH",
+        "text": "{2}, {T}: Exile target artifact card from a graveyard. Put a charge counter on Conversion Chamber.\n{2}, {T}, Remove a charge counter from Conversion Chamber: Create a 3/3 colorless Phyrexian Golem artifact creature token.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=230070&type=card",
+        "multiverseId": "230070"
+    },
+    {
+        "name": "Darksteel Relic",
+        "manaCost": "{0}",
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Uncommon",
+        "set": "NPH",
+        "text": "Indestructible (Effects that say \"destroy\" don't destroy this artifact.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218067&type=card",
+        "multiverseId": "218067"
+    },
+    {
+        "name": "Etched Monstrosity",
+        "manaCost": "{5}",
+        "cmc": 5.0,
+        "colors": null,
+        "type": "Artifact Creature — Phyrexian Golem",
+        "rarity": "Mythic",
+        "set": "NPH",
+        "text": "Etched Monstrosity enters the battlefield with five -1/-1 counters on it.\n{W}{U}{B}{R}{G}, Remove five -1/-1 counters from Etched Monstrosity: Target player draws three cards.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=217996&type=card",
+        "multiverseId": "217996"
+    },
+    {
+        "name": "Gremlin Mine",
+        "manaCost": "{1}",
+        "cmc": 1.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "{1}, {T}, Sacrifice Gremlin Mine: It deals 4 damage to target artifact creature.\n{1}, {T}, Sacrifice Gremlin Mine: Remove up to four charge counters from target noncreature artifact.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218068&type=card",
+        "multiverseId": "218068"
+    },
+    {
+        "name": "Hex Parasite",
+        "manaCost": "{1}",
+        "cmc": 1.0,
+        "colors": null,
+        "type": "Artifact Creature — Phyrexian Insect",
+        "rarity": "Rare",
+        "set": "NPH",
+        "text": "{X}{B/P}: Remove up to X counters from target permanent. For each counter removed this way, Hex Parasite gets +1/+0 until end of turn. ({B/P} can be paid with either {B} or 2 life.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218008&type=card",
+        "multiverseId": "218008"
+    },
+    {
+        "name": "Hovermyr",
+        "manaCost": "{2}",
+        "cmc": 2.0,
+        "colors": null,
+        "type": "Artifact Creature — Myr",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "Flying, vigilance",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=227513&type=card",
+        "multiverseId": "227513"
+    },
+    {
+        "name": "Immolating Souleater",
+        "manaCost": "{2}",
+        "cmc": 2.0,
+        "colors": null,
+        "type": "Artifact Creature — Phyrexian Dog",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "{R/P}: Immolating Souleater gets +1/+0 until end of turn. ({R/P} can be paid with either {R} or 2 life.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233058&type=card",
+        "multiverseId": "233058"
+    },
+    {
+        "name": "Insatiable Souleater",
+        "manaCost": "{4}",
+        "cmc": 4.0,
+        "colors": null,
+        "type": "Artifact Creature — Phyrexian Beast",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "{G/P}: Insatiable Souleater gains trample until end of turn. ({G/P} can be paid with either {G} or 2 life.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233066&type=card",
+        "multiverseId": "233066"
+    },
+    {
+        "name": "Isolation Cell",
+        "manaCost": "{4}",
+        "cmc": 4.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Uncommon",
+        "set": "NPH",
+        "text": "Whenever an opponent casts a creature spell, that player loses 2 life unless they pay {2}.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218057&type=card",
+        "multiverseId": "218057"
+    },
+    {
+        "name": "Kiln Walker",
+        "manaCost": "{3}",
+        "cmc": 3.0,
+        "colors": null,
+        "type": "Artifact Creature — Phyrexian Construct",
+        "rarity": "Uncommon",
+        "set": "NPH",
+        "text": "Whenever Kiln Walker attacks, it gets +3/+0 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=214380&type=card",
+        "multiverseId": "214380"
+    },
+    {
+        "name": "Lashwrithe",
+        "manaCost": "{4}",
+        "cmc": 4.0,
+        "colors": null,
+        "type": "Artifact — Equipment",
+        "rarity": "Rare",
+        "set": "NPH",
+        "text": "Living weapon (When this Equipment enters the battlefield, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)\nEquipped creature gets +1/+1 for each Swamp you control.\nEquip {B/P}{B/P} ({B/P} can be paid with either {B} or 2 life.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=214359&type=card",
+        "multiverseId": "214359"
+    },
+    {
+        "name": "Mindcrank",
+        "manaCost": "{2}",
+        "cmc": 2.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Uncommon",
+        "set": "NPH",
+        "text": "Whenever an opponent loses life, that player mills that many cards. (Damage causes loss of life.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233078&type=card",
+        "multiverseId": "233078"
+    },
+    {
+        "name": "Mycosynth Wellspring",
+        "manaCost": "{2}",
+        "cmc": 2.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "When Mycosynth Wellspring enters the battlefield or is put into a graveyard from the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218039&type=card",
+        "multiverseId": "218039"
+    },
+    {
+        "name": "Myr Superion",
+        "manaCost": "{2}",
+        "cmc": 2.0,
+        "colors": null,
+        "type": "Artifact Creature — Myr",
+        "rarity": "Rare",
+        "set": "NPH",
+        "text": "Spend only mana produced by creatures to cast this spell.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194275&type=card",
+        "multiverseId": "194275"
+    },
+    {
+        "name": "Necropouncer",
+        "manaCost": "{6}",
+        "cmc": 6.0,
+        "colors": null,
+        "type": "Artifact — Equipment",
+        "rarity": "Uncommon",
+        "set": "NPH",
+        "text": "Living weapon (When this Equipment enters the battlefield, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)\nEquipped creature gets +3/+1 and has haste.\nEquip {2}",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=214367&type=card",
+        "multiverseId": "214367"
+    },
+    {
+        "name": "Omen Machine",
+        "manaCost": "{6}",
+        "cmc": 6.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Rare",
+        "set": "NPH",
+        "text": "Players can't draw cards.\nAt the beginning of each player's draw step, that player exiles the top card of their library. If it's a land card, the player puts it onto the battlefield. Otherwise, the player casts it without paying its mana cost if able.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233042&type=card",
+        "multiverseId": "233042"
+    },
+    {
+        "name": "Pestilent Souleater",
+        "manaCost": "{5}",
+        "cmc": 5.0,
+        "colors": null,
+        "type": "Artifact Creature — Phyrexian Insect",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "{B/P}: Pestilent Souleater gains infect until end of turn. ({B/P} can be paid with either {B} or 2 life. A creature with infect deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233085&type=card",
+        "multiverseId": "233085"
+    },
+    {
+        "name": "Phyrexian Hulk",
+        "manaCost": "{6}",
+        "cmc": 6.0,
+        "colors": null,
+        "type": "Artifact Creature — Phyrexian Golem",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": null,
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=214379&type=card",
+        "multiverseId": "214379"
+    },
+    {
+        "name": "Pristine Talisman",
+        "manaCost": "{3}",
+        "cmc": 3.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "{T}: Add {C}. You gain 1 life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233074&type=card",
+        "multiverseId": "233074"
+    },
+    {
+        "name": "Shrine of Boundless Growth",
+        "manaCost": "{3}",
+        "cmc": 3.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Uncommon",
+        "set": "NPH",
+        "text": "At the beginning of your upkeep or whenever you cast a green spell, put a charge counter on Shrine of Boundless Growth.\n{T}, Sacrifice Shrine of Boundless Growth: Add {C} for each charge counter on Shrine of Boundless Growth.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=217982&type=card",
+        "multiverseId": "217982"
+    },
+    {
+        "name": "Shrine of Burning Rage",
+        "manaCost": "{2}",
+        "cmc": 2.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Uncommon",
+        "set": "NPH",
+        "text": "At the beginning of your upkeep or whenever you cast a red spell, put a charge counter on Shrine of Burning Rage.\n{3}, {T}, Sacrifice Shrine of Burning Rage: It deals damage equal to the number of charge counters on it to any target.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218018&type=card",
+        "multiverseId": "218018"
+    },
+    {
+        "name": "Shrine of Limitless Power",
+        "manaCost": "{3}",
+        "cmc": 3.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Uncommon",
+        "set": "NPH",
+        "text": "At the beginning of your upkeep or whenever you cast a black spell, put a charge counter on Shrine of Limitless Power.\n{4}, {T}, Sacrifice Shrine of Limitless Power: Target player discards a card for each charge counter on Shrine of Limitless Power.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=217980&type=card",
+        "multiverseId": "217980"
+    },
+    {
+        "name": "Shrine of Loyal Legions",
+        "manaCost": "{2}",
+        "cmc": 2.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Uncommon",
+        "set": "NPH",
+        "text": "At the beginning of your upkeep or whenever you cast a white spell, put a charge counter on Shrine of Loyal Legions.\n{3}, {T}, Sacrifice Shrine of Loyal Legions: Create a 1/1 colorless Phyrexian Myr artifact creature token for each charge counter on Shrine of Loyal Legions.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=206347&type=card",
+        "multiverseId": "206347"
+    },
+    {
+        "name": "Shrine of Piercing Vision",
+        "manaCost": "{2}",
+        "cmc": 2.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Uncommon",
+        "set": "NPH",
+        "text": "At the beginning of your upkeep or whenever you cast a blue spell, put a charge counter on Shrine of Piercing Vision.\n{T}, Sacrifice Shrine of Piercing Vision: Look at the top X cards of your library, where X is the number of charge counters on Shrine of Piercing Vision. Put one of those cards into your hand and the rest on the bottom of your library in any order.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194318&type=card",
+        "multiverseId": "194318"
+    },
+    {
+        "name": "Sickleslicer",
+        "manaCost": "{3}",
+        "cmc": 3.0,
+        "colors": null,
+        "type": "Artifact — Equipment",
+        "rarity": "Uncommon",
+        "set": "NPH",
+        "text": "Living weapon (When this Equipment enters the battlefield, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)\nEquipped creature gets +2/+2.\nEquip {4}",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=214357&type=card",
+        "multiverseId": "214357"
+    },
+    {
+        "name": "Soul Conduit",
+        "manaCost": "{6}",
+        "cmc": 6.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Rare",
+        "set": "NPH",
+        "text": "{6}, {T}: Two target players exchange life totals.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233048&type=card",
+        "multiverseId": "233048"
+    },
+    {
+        "name": "Spellskite",
+        "manaCost": "{2}",
+        "cmc": 2.0,
+        "colors": null,
+        "type": "Artifact Creature — Phyrexian Horror",
+        "rarity": "Rare",
+        "set": "NPH",
+        "text": "{U/P}: Change a target of target spell or ability to Spellskite. ({U/P} can be paid with either {U} or 2 life.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=217992&type=card",
+        "multiverseId": "217992"
+    },
+    {
+        "name": "Surge Node",
+        "manaCost": "{1}",
+        "cmc": 1.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Uncommon",
+        "set": "NPH",
+        "text": "Surge Node enters the battlefield with six charge counters on it.\n{1}, {T}, Remove a charge counter from Surge Node: Put a charge counter on target artifact.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194070&type=card",
+        "multiverseId": "194070"
+    },
+    {
+        "name": "Sword of War and Peace",
+        "manaCost": "{3}",
+        "cmc": 3.0,
+        "colors": null,
+        "type": "Artifact — Equipment",
+        "rarity": "Mythic",
+        "set": "NPH",
+        "text": "Equipped creature gets +2/+2 and has protection from red and from white.\nWhenever equipped creature deals combat damage to a player, Sword of War and Peace deals damage to that player equal to the number of cards in their hand and you gain 1 life for each card in your hand.\nEquip {2}",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=214368&type=card",
+        "multiverseId": "214368"
+    },
+    {
+        "name": "Torpor Orb",
+        "manaCost": "{2}",
+        "cmc": 2.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Rare",
+        "set": "NPH",
+        "text": "Creatures entering the battlefield don't cause abilities to trigger.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233069&type=card",
+        "multiverseId": "233069"
+    },
+    {
+        "name": "Trespassing Souleater",
+        "manaCost": "{3}",
+        "cmc": 3.0,
+        "colors": null,
+        "type": "Artifact Creature — Phyrexian Construct",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "{U/P}: Trespassing Souleater can't be blocked this turn. ({U/P} can be paid with either {U} or 2 life.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233073&type=card",
+        "multiverseId": "233073"
+    },
+    {
+        "name": "Unwinding Clock",
+        "manaCost": "{4}",
+        "cmc": 4.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Rare",
+        "set": "NPH",
+        "text": "Untap all artifacts you control during each other player's untap step.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218079&type=card",
+        "multiverseId": "218079"
+    },
+    {
+        "name": "Phyrexia's Core",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Land",
+        "rarity": "Uncommon",
+        "set": "NPH",
+        "text": "{T}: Add {C}.\n{1}, {T}, Sacrifice an artifact: You gain 1 life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218015&type=card",
+        "multiverseId": "218015"
+    },
+    {
+        "name": "Plains",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Basic Land — Plains",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "({T}: Add {W}.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=227552&type=card",
+        "multiverseId": "227552"
+    },
+    {
+        "name": "Plains",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Basic Land — Plains",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "({T}: Add {W}.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=227518&type=card",
+        "multiverseId": "227518"
+    },
+    {
+        "name": "Island",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Basic Land — Island",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "({T}: Add {U}.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=227530&type=card",
+        "multiverseId": "227530"
+    },
+    {
+        "name": "Island",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Basic Land — Island",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "({T}: Add {U}.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=227505&type=card",
+        "multiverseId": "227505"
+    },
+    {
+        "name": "Swamp",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Basic Land — Swamp",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "({T}: Add {B}.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=227519&type=card",
+        "multiverseId": "227519"
+    },
+    {
+        "name": "Swamp",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Basic Land — Swamp",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "({T}: Add {B}.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=227521&type=card",
+        "multiverseId": "227521"
+    },
+    {
+        "name": "Mountain",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Basic Land — Mountain",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "({T}: Add {R}.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=227507&type=card",
+        "multiverseId": "227507"
+    },
+    {
+        "name": "Mountain",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Basic Land — Mountain",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "({T}: Add {R}.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=230064&type=card",
+        "multiverseId": "230064"
+    },
+    {
+        "name": "Forest",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Basic Land — Forest",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "({T}: Add {G}.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=230081&type=card",
+        "multiverseId": "230081"
+    },
+    {
+        "name": "Forest",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Basic Land — Forest",
+        "rarity": "Common",
+        "set": "NPH",
+        "text": "({T}: Add {G}.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=230071&type=card",
+        "multiverseId": "230071"
+    }
+]

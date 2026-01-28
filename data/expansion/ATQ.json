@@ -1,0 +1,1298 @@
+[
+    {
+        "name": "Argivian Archaeologist",
+        "manaCost": "{1}{W}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Human Artificer",
+        "rarity": "Rare",
+        "set": "ATQ",
+        "text": "{W}{W}, {T}: Return target artifact card from your graveyard to your hand.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1064&type=card",
+        "multiverseId": "1064"
+    },
+    {
+        "name": "Argivian Blacksmith",
+        "manaCost": "{1}{W}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Human Artificer",
+        "rarity": "Common",
+        "set": "ATQ",
+        "text": "{T}: Prevent the next 2 damage that would be dealt to target artifact creature this turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1065&type=card",
+        "multiverseId": "1065"
+    },
+    {
+        "name": "Artifact Ward",
+        "manaCost": "{W}",
+        "cmc": 1.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Common",
+        "set": "ATQ",
+        "text": "Enchant creature\nEnchanted creature can't be blocked by artifact creatures.\nPrevent all damage that would be dealt to enchanted creature by artifact sources.\nEnchanted creature can't be the target of abilities from artifact sources.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1066&type=card",
+        "multiverseId": "1066"
+    },
+    {
+        "name": "Circle of Protection: Artifacts",
+        "manaCost": "{1}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Enchantment",
+        "rarity": "Uncommon",
+        "set": "ATQ",
+        "text": "{2}: The next time an artifact source of your choice would deal damage to you this turn, prevent that damage.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1067&type=card",
+        "multiverseId": "1067"
+    },
+    {
+        "name": "Damping Field",
+        "manaCost": "{2}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Enchantment",
+        "rarity": "Uncommon",
+        "set": "ATQ",
+        "text": "Players can't untap more than one artifact during their untap steps.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1068&type=card",
+        "multiverseId": "1068"
+    },
+    {
+        "name": "Martyrs of Korlis",
+        "manaCost": "{3}{W}{W}",
+        "cmc": 5.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Human",
+        "rarity": "Uncommon",
+        "set": "ATQ",
+        "text": "As long as Martyrs of Korlis is untapped, all damage that would be dealt to you by artifacts is dealt to Martyrs of Korlis instead.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1069&type=card",
+        "multiverseId": "1069"
+    },
+    {
+        "name": "Reverse Polarity",
+        "manaCost": "{W}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "ATQ",
+        "text": "You gain X life, where X is twice the damage dealt to you so far this turn by artifacts.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1070&type=card",
+        "multiverseId": "1070"
+    },
+    {
+        "name": "Drafna's Restoration",
+        "manaCost": "{U}",
+        "cmc": 1.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Sorcery",
+        "rarity": "Common",
+        "set": "ATQ",
+        "text": "Put any number of target artifact cards from target player's graveyard on top of their library in any order.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1037&type=card",
+        "multiverseId": "1037"
+    },
+    {
+        "name": "Energy Flux",
+        "manaCost": "{2}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Enchantment",
+        "rarity": "Uncommon",
+        "set": "ATQ",
+        "text": "All artifacts have \"At the beginning of your upkeep, sacrifice this artifact unless you pay {2}.\"",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1038&type=card",
+        "multiverseId": "1038"
+    },
+    {
+        "name": "Hurkyl's Recall",
+        "manaCost": "{1}{U}",
+        "cmc": 2.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Instant",
+        "rarity": "Rare",
+        "set": "ATQ",
+        "text": "Return all artifacts target player owns to their hand.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1041&type=card",
+        "multiverseId": "1041"
+    },
+    {
+        "name": "Power Artifact",
+        "manaCost": "{U}{U}",
+        "cmc": 2.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Uncommon",
+        "set": "ATQ",
+        "text": "Enchant artifact\nEnchanted artifact's activated abilities cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1043&type=card",
+        "multiverseId": "1043"
+    },
+    {
+        "name": "Reconstruction",
+        "manaCost": "{U}",
+        "cmc": 1.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Sorcery",
+        "rarity": "Common",
+        "set": "ATQ",
+        "text": "Return target artifact card from your graveyard to your hand.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1045&type=card",
+        "multiverseId": "1045"
+    },
+    {
+        "name": "Sage of Lat-Nam",
+        "manaCost": "{1}{U}",
+        "cmc": 2.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Human Artificer",
+        "rarity": "Common",
+        "set": "ATQ",
+        "text": "{T}, Sacrifice an artifact: Draw a card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1046&type=card",
+        "multiverseId": "1046"
+    },
+    {
+        "name": "Transmute Artifact",
+        "manaCost": "{U}{U}",
+        "cmc": 2.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "ATQ",
+        "text": "Sacrifice an artifact. If you do, search your library for an artifact card. If that card's mana value is less than or equal to the sacrificed artifact's mana value, put it onto the battlefield. If it's greater, you may pay {X}, where X is the difference. If you do, put it onto the battlefield. If you don't, put it into its owner's graveyard. Then shuffle.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1047&type=card",
+        "multiverseId": "1047"
+    },
+    {
+        "name": "Artifact Possession",
+        "manaCost": "{2}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Common",
+        "set": "ATQ",
+        "text": "Enchant artifact\nWhenever enchanted artifact becomes tapped or a player activates an ability of enchanted artifact without {T} in its activation cost, Artifact Possession deals 2 damage to that artifact's controller.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1036&type=card",
+        "multiverseId": "1036"
+    },
+    {
+        "name": "Gate to Phyrexia",
+        "manaCost": "{B}{B}",
+        "cmc": 2.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Enchantment",
+        "rarity": "Uncommon",
+        "set": "ATQ",
+        "text": "Sacrifice a creature: Destroy target artifact. Activate only during your upkeep and only once each turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1039&type=card",
+        "multiverseId": "1039"
+    },
+    {
+        "name": "Haunting Wind",
+        "manaCost": "{3}{B}",
+        "cmc": 4.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Enchantment",
+        "rarity": "Uncommon",
+        "set": "ATQ",
+        "text": "Whenever an artifact becomes tapped or a player activates an artifact's ability without {T} in its activation cost, Haunting Wind deals 1 damage to that artifact's controller.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1040&type=card",
+        "multiverseId": "1040"
+    },
+    {
+        "name": "Phyrexian Gremlins",
+        "manaCost": "{2}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Phyrexian Gremlin",
+        "rarity": "Common",
+        "set": "ATQ",
+        "text": "You may choose not to untap Phyrexian Gremlins during your untap step.\n{T}: Tap target artifact. It doesn't untap during its controller's untap step for as long as Phyrexian Gremlins remains tapped.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1042&type=card",
+        "multiverseId": "1042"
+    },
+    {
+        "name": "Priest of Yawgmoth",
+        "manaCost": "{1}{B}",
+        "cmc": 2.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Phyrexian Human Cleric",
+        "rarity": "Common",
+        "set": "ATQ",
+        "text": "{T}, Sacrifice an artifact: Add an amount of {B} equal to the sacrificed artifact's mana value.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1044&type=card",
+        "multiverseId": "1044"
+    },
+    {
+        "name": "Xenic Poltergeist",
+        "manaCost": "{1}{B}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Spirit",
+        "rarity": "Uncommon",
+        "set": "ATQ",
+        "text": "{T}: Until your next upkeep, target noncreature artifact becomes an artifact creature with power and toughness each equal to its mana value.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1048&type=card",
+        "multiverseId": "1048"
+    },
+    {
+        "name": "Yawgmoth Demon",
+        "manaCost": "{4}{B}{B}",
+        "cmc": 6.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Phyrexian Demon",
+        "rarity": "Rare",
+        "set": "ATQ",
+        "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\nFirst strike (This creature deals combat damage before creatures without first strike.)\nAt the beginning of your upkeep, you may sacrifice an artifact. If you don't, tap Yawgmoth Demon and it deals 2 damage to you.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1049&type=card",
+        "multiverseId": "1049"
+    },
+    {
+        "name": "Artifact Blast",
+        "manaCost": "{R}",
+        "cmc": 1.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "ATQ",
+        "text": "Counter target artifact spell.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1057&type=card",
+        "multiverseId": "1057"
+    },
+    {
+        "name": "Atog",
+        "manaCost": "{1}{R}",
+        "cmc": 2.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Atog",
+        "rarity": "Common",
+        "set": "ATQ",
+        "text": "Sacrifice an artifact: Atog gets +2/+2 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1058&type=card",
+        "multiverseId": "1058"
+    },
+    {
+        "name": "Atog",
+        "manaCost": "{1}{R}",
+        "cmc": 2.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Atog",
+        "rarity": "Common",
+        "set": "ATQ",
+        "text": "Sacrifice an artifact: Atog gets +2/+2 until end of turn.",
+        "imageUrl": null,
+        "multiverseId": null
+    },
+    {
+        "name": "Detonate",
+        "manaCost": "{X}{R}",
+        "cmc": 1.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "ATQ",
+        "text": "Destroy target artifact with mana value X. It can't be regenerated. Detonate deals X damage to that artifact's controller.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1059&type=card",
+        "multiverseId": "1059"
+    },
+    {
+        "name": "Dwarven Weaponsmith",
+        "manaCost": "{1}{R}",
+        "cmc": 2.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Dwarf Artificer",
+        "rarity": "Uncommon",
+        "set": "ATQ",
+        "text": "{T}, Sacrifice an artifact: Put a +1/+1 counter on target creature. Activate only during your upkeep.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1060&type=card",
+        "multiverseId": "1060"
+    },
+    {
+        "name": "Goblin Artisans",
+        "manaCost": "{R}",
+        "cmc": 1.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Goblin Artificer",
+        "rarity": "Uncommon",
+        "set": "ATQ",
+        "text": "{T}: Flip a coin. If you win the flip, draw a card. If you lose the flip, counter target artifact spell you control that isn't the target of an ability from another creature named Goblin Artisans.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1061&type=card",
+        "multiverseId": "1061"
+    },
+    {
+        "name": "Orcish Mechanics",
+        "manaCost": "{2}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Orc",
+        "rarity": "Common",
+        "set": "ATQ",
+        "text": "{T}, Sacrifice an artifact: Orcish Mechanics deals 2 damage to any target.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1062&type=card",
+        "multiverseId": "1062"
+    },
+    {
+        "name": "Shatterstorm",
+        "manaCost": "{2}{R}{R}",
+        "cmc": 4.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Sorcery",
+        "rarity": "Rare",
+        "set": "ATQ",
+        "text": "Destroy all artifacts. They can't be regenerated.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1063&type=card",
+        "multiverseId": "1063"
+    },
+    {
+        "name": "Argothian Pixies",
+        "manaCost": "{1}{G}",
+        "cmc": 2.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Faerie",
+        "rarity": "Common",
+        "set": "ATQ",
+        "text": "Argothian Pixies can't be blocked by artifact creatures.\nPrevent all damage that would be dealt to Argothian Pixies by artifact creatures.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1050&type=card",
+        "multiverseId": "1050"
+    },
+    {
+        "name": "Argothian Treefolk",
+        "manaCost": "{3}{G}{G}",
+        "cmc": 5.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Treefolk",
+        "rarity": "Common",
+        "set": "ATQ",
+        "text": "Prevent all damage that would be dealt to Argothian Treefolk by artifact sources.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1051&type=card",
+        "multiverseId": "1051"
+    },
+    {
+        "name": "Citanul Druid",
+        "manaCost": "{1}{G}",
+        "cmc": 2.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Human Druid",
+        "rarity": "Uncommon",
+        "set": "ATQ",
+        "text": "Whenever an opponent casts an artifact spell, put a +1/+1 counter on Citanul Druid.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1052&type=card",
+        "multiverseId": "1052"
+    },
+    {
+        "name": "Crumble",
+        "manaCost": "{G}",
+        "cmc": 1.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "ATQ",
+        "text": "Destroy target artifact. It can't be regenerated. That artifact's controller gains life equal to its mana value.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1053&type=card",
+        "multiverseId": "1053"
+    },
+    {
+        "name": "Gaea's Avenger",
+        "manaCost": "{1}{G}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Treefolk",
+        "rarity": "Rare",
+        "set": "ATQ",
+        "text": "Gaea's Avenger's power and toughness are each equal to 1 plus the number of artifacts your opponents control.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1054&type=card",
+        "multiverseId": "1054"
+    },
+    {
+        "name": "Powerleech",
+        "manaCost": "{G}{G}",
+        "cmc": 2.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Enchantment",
+        "rarity": "Uncommon",
+        "set": "ATQ",
+        "text": "Whenever an artifact an opponent controls becomes tapped or an opponent activates an artifact's ability without {T} in its activation cost, you gain 1 life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1055&type=card",
+        "multiverseId": "1055"
+    },
+    {
+        "name": "Titania's Song",
+        "manaCost": "{3}{G}",
+        "cmc": 4.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Enchantment",
+        "rarity": "Uncommon",
+        "set": "ATQ",
+        "text": "Each noncreature artifact loses all abilities and becomes an artifact creature with power and toughness each equal to its mana value. If Titania's Song leaves the battlefield, this effect continues until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1056&type=card",
+        "multiverseId": "1056"
+    },
+    {
+        "name": "Amulet of Kroog",
+        "manaCost": "{2}",
+        "cmc": 2.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Common",
+        "set": "ATQ",
+        "text": "{2}, {T}: Prevent the next 1 damage that would be dealt to any target this turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=992&type=card",
+        "multiverseId": "992"
+    },
+    {
+        "name": "Armageddon Clock",
+        "manaCost": "{6}",
+        "cmc": 6.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Uncommon",
+        "set": "ATQ",
+        "text": "At the beginning of your upkeep, put a doom counter on Armageddon Clock.\nAt the beginning of your draw step, Armageddon Clock deals damage equal to the number of doom counters on it to each player.\n{4}: Remove a doom counter from Armageddon Clock. Any player may activate this ability but only during any upkeep step.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=993&type=card",
+        "multiverseId": "993"
+    },
+    {
+        "name": "Ashnod's Altar",
+        "manaCost": "{3}",
+        "cmc": 3.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Uncommon",
+        "set": "ATQ",
+        "text": "Sacrifice a creature: Add {C}{C}.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=994&type=card",
+        "multiverseId": "994"
+    },
+    {
+        "name": "Ashnod's Battle Gear",
+        "manaCost": "{2}",
+        "cmc": 2.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Uncommon",
+        "set": "ATQ",
+        "text": "You may choose not to untap Ashnod's Battle Gear during your untap step.\n{2}, {T}: Target creature you control gets +2/-2 for as long as Ashnod's Battle Gear remains tapped.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=995&type=card",
+        "multiverseId": "995"
+    },
+    {
+        "name": "Ashnod's Transmogrant",
+        "manaCost": "{1}",
+        "cmc": 1.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Uncommon",
+        "set": "ATQ",
+        "text": "{T}, Sacrifice Ashnod's Transmogrant: Put a +1/+1 counter on target nonartifact creature. That creature becomes an artifact in addition to its other types.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=996&type=card",
+        "multiverseId": "996"
+    },
+    {
+        "name": "Battering Ram",
+        "manaCost": "{2}",
+        "cmc": 2.0,
+        "colors": null,
+        "type": "Artifact Creature — Construct",
+        "rarity": "Common",
+        "set": "ATQ",
+        "text": "At the beginning of combat on your turn, Battering Ram gains banding until end of combat. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's blocking.)\nWhenever Battering Ram becomes blocked by a Wall, destroy that Wall at end of combat.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=997&type=card",
+        "multiverseId": "997"
+    },
+    {
+        "name": "Bronze Tablet",
+        "manaCost": "{6}",
+        "cmc": 6.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Rare",
+        "set": "ATQ",
+        "text": "Remove Bronze Tablet from your deck before playing if you're not playing for ante.\nBronze Tablet enters the battlefield tapped.\n{4}, {T}: Exile Bronze Tablet and target nontoken permanent an opponent owns. That player may pay 10 life. If they do, put Bronze Tablet into its owner's graveyard. Otherwise, that player owns Bronze Tablet and you own the other exiled card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=998&type=card",
+        "multiverseId": "998"
+    },
+    {
+        "name": "Candelabra of Tawnos",
+        "manaCost": "{1}",
+        "cmc": 1.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Rare",
+        "set": "ATQ",
+        "text": "{X}, {T}: Untap X target lands.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=999&type=card",
+        "multiverseId": "999"
+    },
+    {
+        "name": "Clay Statue",
+        "manaCost": "{4}",
+        "cmc": 4.0,
+        "colors": null,
+        "type": "Artifact Creature — Golem",
+        "rarity": "Common",
+        "set": "ATQ",
+        "text": "{2}: Regenerate Clay Statue.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1000&type=card",
+        "multiverseId": "1000"
+    },
+    {
+        "name": "Clockwork Avian",
+        "manaCost": "{5}",
+        "cmc": 5.0,
+        "colors": null,
+        "type": "Artifact Creature — Bird",
+        "rarity": "Rare",
+        "set": "ATQ",
+        "text": "Flying\nClockwork Avian enters the battlefield with four +1/+0 counters on it.\nAt end of combat, if Clockwork Avian attacked or blocked this combat, remove a +1/+0 counter from it.\n{X}, {T}: Put up to X +1/+0 counters on Clockwork Avian. This ability can't cause the total number of +1/+0 counters on Clockwork Avian to be greater than four. Activate only during your upkeep.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1001&type=card",
+        "multiverseId": "1001"
+    },
+    {
+        "name": "Colossus of Sardia",
+        "manaCost": "{9}",
+        "cmc": 9.0,
+        "colors": null,
+        "type": "Artifact Creature — Golem",
+        "rarity": "Rare",
+        "set": "ATQ",
+        "text": "Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)\nColossus of Sardia doesn't untap during your untap step.\n{9}: Untap Colossus of Sardia. Activate only during your upkeep.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1002&type=card",
+        "multiverseId": "1002"
+    },
+    {
+        "name": "Coral Helm",
+        "manaCost": "{3}",
+        "cmc": 3.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Rare",
+        "set": "ATQ",
+        "text": "{3}, Discard a card at random: Target creature gets +2/+2 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1003&type=card",
+        "multiverseId": "1003"
+    },
+    {
+        "name": "Cursed Rack",
+        "manaCost": "{4}",
+        "cmc": 4.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Uncommon",
+        "set": "ATQ",
+        "text": "As Cursed Rack enters the battlefield, choose an opponent.\nThe chosen player's maximum hand size is four.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1004&type=card",
+        "multiverseId": "1004"
+    },
+    {
+        "name": "Dragon Engine",
+        "manaCost": "{3}",
+        "cmc": 3.0,
+        "colors": null,
+        "type": "Artifact Creature — Construct",
+        "rarity": "Common",
+        "set": "ATQ",
+        "text": "{2}: Dragon Engine gets +1/+0 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1005&type=card",
+        "multiverseId": "1005"
+    },
+    {
+        "name": "Feldon's Cane",
+        "manaCost": "{1}",
+        "cmc": 1.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Uncommon",
+        "set": "ATQ",
+        "text": "{T}, Exile Feldon's Cane: Shuffle your graveyard into your library.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1006&type=card",
+        "multiverseId": "1006"
+    },
+    {
+        "name": "Golgothian Sylex",
+        "manaCost": "{4}",
+        "cmc": 4.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Rare",
+        "set": "ATQ",
+        "text": "{1}, {T}: Each nontoken permanent with a name originally printed in the Antiquities expansion is sacrificed by its controller.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1007&type=card",
+        "multiverseId": "1007"
+    },
+    {
+        "name": "Grapeshot Catapult",
+        "manaCost": "{4}",
+        "cmc": 4.0,
+        "colors": null,
+        "type": "Artifact Creature — Construct",
+        "rarity": "Common",
+        "set": "ATQ",
+        "text": "{T}: Grapeshot Catapult deals 1 damage to target creature with flying.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1008&type=card",
+        "multiverseId": "1008"
+    },
+    {
+        "name": "Ivory Tower",
+        "manaCost": "{1}",
+        "cmc": 1.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Uncommon",
+        "set": "ATQ",
+        "text": "At the beginning of your upkeep, you gain X life, where X is the number of cards in your hand minus 4.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1009&type=card",
+        "multiverseId": "1009"
+    },
+    {
+        "name": "Jalum Tome",
+        "manaCost": "{3}",
+        "cmc": 3.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Uncommon",
+        "set": "ATQ",
+        "text": "{2}, {T}: Draw a card, then discard a card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1010&type=card",
+        "multiverseId": "1010"
+    },
+    {
+        "name": "Mightstone",
+        "manaCost": "{4}",
+        "cmc": 4.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Uncommon",
+        "set": "ATQ",
+        "text": "Attacking creatures get +1/+0.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1011&type=card",
+        "multiverseId": "1011"
+    },
+    {
+        "name": "Millstone",
+        "manaCost": "{2}",
+        "cmc": 2.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Uncommon",
+        "set": "ATQ",
+        "text": "{2}, {T}: Target player mills two cards.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1012&type=card",
+        "multiverseId": "1012"
+    },
+    {
+        "name": "Mishra's War Machine",
+        "manaCost": "{7}",
+        "cmc": 7.0,
+        "colors": null,
+        "type": "Artifact Creature — Juggernaut",
+        "rarity": "Rare",
+        "set": "ATQ",
+        "text": "Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)\nAt the beginning of your upkeep, Mishra's War Machine deals 3 damage to you unless you discard a card. If Mishra's War Machine deals damage to you this way, tap it.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1013&type=card",
+        "multiverseId": "1013"
+    },
+    {
+        "name": "Obelisk of Undoing",
+        "manaCost": "{1}",
+        "cmc": 1.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Rare",
+        "set": "ATQ",
+        "text": "{6}, {T}: Return target permanent you both own and control to your hand.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1014&type=card",
+        "multiverseId": "1014"
+    },
+    {
+        "name": "Onulet",
+        "manaCost": "{3}",
+        "cmc": 3.0,
+        "colors": null,
+        "type": "Artifact Creature — Construct",
+        "rarity": "Uncommon",
+        "set": "ATQ",
+        "text": "When Onulet dies, you gain 2 life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1015&type=card",
+        "multiverseId": "1015"
+    },
+    {
+        "name": "Ornithopter",
+        "manaCost": "{0}",
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Artifact Creature — Thopter",
+        "rarity": "Common",
+        "set": "ATQ",
+        "text": "Flying",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1016&type=card",
+        "multiverseId": "1016"
+    },
+    {
+        "name": "Primal Clay",
+        "manaCost": "{4}",
+        "cmc": 4.0,
+        "colors": null,
+        "type": "Artifact Creature — Shapeshifter",
+        "rarity": "Uncommon",
+        "set": "ATQ",
+        "text": "As Primal Clay enters the battlefield, it becomes your choice of a 3/3 artifact creature, a 2/2 artifact creature with flying, or a 1/6 Wall artifact creature with defender in addition to its other types. (A creature with defender can't attack.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1017&type=card",
+        "multiverseId": "1017"
+    },
+    {
+        "name": "Rakalite",
+        "manaCost": "{6}",
+        "cmc": 6.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Uncommon",
+        "set": "ATQ",
+        "text": "{2}: Prevent the next 1 damage that would be dealt to any target this turn. Return Rakalite to its owner's hand at the beginning of the next end step.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1018&type=card",
+        "multiverseId": "1018"
+    },
+    {
+        "name": "Rocket Launcher",
+        "manaCost": "{4}",
+        "cmc": 4.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Uncommon",
+        "set": "ATQ",
+        "text": "{2}: Rocket Launcher deals 1 damage to any target. Destroy Rocket Launcher at the beginning of the next end step. Activate only if you've controlled Rocket Launcher continuously since the beginning of your most recent turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1019&type=card",
+        "multiverseId": "1019"
+    },
+    {
+        "name": "Shapeshifter",
+        "manaCost": "{6}",
+        "cmc": 6.0,
+        "colors": null,
+        "type": "Artifact Creature — Shapeshifter",
+        "rarity": "Rare",
+        "set": "ATQ",
+        "text": "As Shapeshifter enters the battlefield, choose a number between 0 and 7.\nAt the beginning of your upkeep, you may choose a number between 0 and 7.\nShapeshifter's power is equal to the last chosen number and its toughness is equal to 7 minus that number.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1020&type=card",
+        "multiverseId": "1020"
+    },
+    {
+        "name": "Staff of Zegon",
+        "manaCost": "{4}",
+        "cmc": 4.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Common",
+        "set": "ATQ",
+        "text": "{3}, {T}: Target creature gets -2/-0 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1021&type=card",
+        "multiverseId": "1021"
+    },
+    {
+        "name": "Su-Chi",
+        "manaCost": "{4}",
+        "cmc": 4.0,
+        "colors": null,
+        "type": "Artifact Creature — Construct",
+        "rarity": "Uncommon",
+        "set": "ATQ",
+        "text": "When Su-Chi dies, add {C}{C}{C}{C}.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1022&type=card",
+        "multiverseId": "1022"
+    },
+    {
+        "name": "Tablet of Epityr",
+        "manaCost": "{1}",
+        "cmc": 1.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Common",
+        "set": "ATQ",
+        "text": "Whenever an artifact you control is put into a graveyard from the battlefield, you may pay {1}. If you do, you gain 1 life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1023&type=card",
+        "multiverseId": "1023"
+    },
+    {
+        "name": "Tawnos's Coffin",
+        "manaCost": "{4}",
+        "cmc": 4.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Rare",
+        "set": "ATQ",
+        "text": "You may choose not to untap Tawnos's Coffin during your untap step.\n{3}, {T}: Exile target creature and all Auras attached to it. Note the number and kind of counters that were on that creature. When Tawnos's Coffin leaves the battlefield or becomes untapped, return that exiled card to the battlefield under its owner's control tapped with the noted number and kind of counters on it. If you do, return the other exiled cards to the battlefield under their owner's control attached to that permanent.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1024&type=card",
+        "multiverseId": "1024"
+    },
+    {
+        "name": "Tawnos's Wand",
+        "manaCost": "{4}",
+        "cmc": 4.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Uncommon",
+        "set": "ATQ",
+        "text": "{2}, {T}: Target creature with power 2 or less can't be blocked this turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1025&type=card",
+        "multiverseId": "1025"
+    },
+    {
+        "name": "Tawnos's Weaponry",
+        "manaCost": "{2}",
+        "cmc": 2.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Uncommon",
+        "set": "ATQ",
+        "text": "You may choose not to untap Tawnos's Weaponry during your untap step.\n{2}, {T}: Target creature gets +1/+1 for as long as Tawnos's Weaponry remains tapped.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1026&type=card",
+        "multiverseId": "1026"
+    },
+    {
+        "name": "Tawnos's Weaponry",
+        "manaCost": "{2}",
+        "cmc": 2.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Uncommon",
+        "set": "ATQ",
+        "text": "You may choose not to untap Tawnos's Weaponry during your untap step.\n{2}, {T}: Target creature gets +1/+1 for as long as Tawnos's Weaponry remains tapped.",
+        "imageUrl": null,
+        "multiverseId": null
+    },
+    {
+        "name": "Tetravus",
+        "manaCost": "{6}",
+        "cmc": 6.0,
+        "colors": null,
+        "type": "Artifact Creature — Construct",
+        "rarity": "Rare",
+        "set": "ATQ",
+        "text": "Flying\nTetravus enters the battlefield with three +1/+1 counters on it.\nAt the beginning of your upkeep, you may remove any number of +1/+1 counters from Tetravus. If you do, create that many 1/1 colorless Tetravite artifact creature tokens. They each have flying and \"This creature can't be enchanted.\"\nAt the beginning of your upkeep, you may exile any number of tokens created with Tetravus. If you do, put that many +1/+1 counters on Tetravus.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1027&type=card",
+        "multiverseId": "1027"
+    },
+    {
+        "name": "The Rack",
+        "manaCost": "{1}",
+        "cmc": 1.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Uncommon",
+        "set": "ATQ",
+        "text": "As The Rack enters the battlefield, choose an opponent.\nAt the beginning of the chosen player's upkeep, The Rack deals X damage to that player, where X is 3 minus the number of cards in their hand.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1028&type=card",
+        "multiverseId": "1028"
+    },
+    {
+        "name": "Triskelion",
+        "manaCost": "{6}",
+        "cmc": 6.0,
+        "colors": null,
+        "type": "Artifact Creature — Construct",
+        "rarity": "Rare",
+        "set": "ATQ",
+        "text": "Triskelion enters the battlefield with three +1/+1 counters on it.\nRemove a +1/+1 counter from Triskelion: It deals 1 damage to any target.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1029&type=card",
+        "multiverseId": "1029"
+    },
+    {
+        "name": "Urza's Avenger",
+        "manaCost": "{6}",
+        "cmc": 6.0,
+        "colors": null,
+        "type": "Artifact Creature — Shapeshifter",
+        "rarity": "Rare",
+        "set": "ATQ",
+        "text": "{0}: Urza's Avenger gets -1/-1 and gains your choice of banding, flying, first strike, or trample until end of turn. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1030&type=card",
+        "multiverseId": "1030"
+    },
+    {
+        "name": "Urza's Chalice",
+        "manaCost": "{1}",
+        "cmc": 1.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Common",
+        "set": "ATQ",
+        "text": "Whenever a player casts an artifact spell, you may pay {1}. If you do, you gain 1 life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1031&type=card",
+        "multiverseId": "1031"
+    },
+    {
+        "name": "Urza's Miter",
+        "manaCost": "{3}",
+        "cmc": 3.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Rare",
+        "set": "ATQ",
+        "text": "Whenever an artifact you control is put into a graveyard from the battlefield, if it wasn't sacrificed, you may pay {3}. If you do, draw a card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1032&type=card",
+        "multiverseId": "1032"
+    },
+    {
+        "name": "Wall of Spears",
+        "manaCost": "{3}",
+        "cmc": 3.0,
+        "colors": null,
+        "type": "Artifact Creature — Wall",
+        "rarity": "Uncommon",
+        "set": "ATQ",
+        "text": "Defender (This creature can't attack.)\nFirst strike",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1033&type=card",
+        "multiverseId": "1033"
+    },
+    {
+        "name": "Weakstone",
+        "manaCost": "{4}",
+        "cmc": 4.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Uncommon",
+        "set": "ATQ",
+        "text": "Attacking creatures get -1/-0.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1034&type=card",
+        "multiverseId": "1034"
+    },
+    {
+        "name": "Yotian Soldier",
+        "manaCost": "{3}",
+        "cmc": 3.0,
+        "colors": null,
+        "type": "Artifact Creature — Soldier",
+        "rarity": "Common",
+        "set": "ATQ",
+        "text": "Vigilance",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1035&type=card",
+        "multiverseId": "1035"
+    },
+    {
+        "name": "Mishra's Factory",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Land",
+        "rarity": "Uncommon",
+        "set": "ATQ",
+        "text": "{T}: Add {C}.\n{1}: Mishra's Factory becomes a 2/2 Assembly-Worker artifact creature until end of turn. It's still a land.\n{T}: Target Assembly-Worker creature gets +1/+1 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1072&type=card",
+        "multiverseId": "1072"
+    },
+    {
+        "name": "Mishra's Factory",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Land",
+        "rarity": "Rare",
+        "set": "ATQ",
+        "text": "{T}: Add {C}.\n{1}: Mishra's Factory becomes a 2/2 Assembly-Worker artifact creature until end of turn. It's still a land.\n{T}: Target Assembly-Worker creature gets +1/+1 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1073&type=card",
+        "multiverseId": "1073"
+    },
+    {
+        "name": "Mishra's Factory",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Land",
+        "rarity": "Rare",
+        "set": "ATQ",
+        "text": "{T}: Add {C}.\n{1}: Mishra's Factory becomes a 2/2 Assembly-Worker artifact creature until end of turn. It's still a land.\n{T}: Target Assembly-Worker creature gets +1/+1 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1071&type=card",
+        "multiverseId": "1071"
+    },
+    {
+        "name": "Mishra's Factory",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Land",
+        "rarity": "Rare",
+        "set": "ATQ",
+        "text": "{T}: Add {C}.\n{1}: Mishra's Factory becomes a 2/2 Assembly-Worker artifact creature until end of turn. It's still a land.\n{T}: Target Assembly-Worker creature gets +1/+1 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1074&type=card",
+        "multiverseId": "1074"
+    },
+    {
+        "name": "Mishra's Workshop",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Land",
+        "rarity": "Rare",
+        "set": "ATQ",
+        "text": "{T}: Add {C}{C}{C}. Spend this mana only to cast artifact spells.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1075&type=card",
+        "multiverseId": "1075"
+    },
+    {
+        "name": "Strip Mine",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Land",
+        "rarity": "Uncommon",
+        "set": "ATQ",
+        "text": "{T}: Add {C}.\n{T}, Sacrifice Strip Mine: Destroy target land.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1076&type=card",
+        "multiverseId": "1076"
+    },
+    {
+        "name": "Strip Mine",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Land",
+        "rarity": "Rare",
+        "set": "ATQ",
+        "text": "{T}: Add {C}.\n{T}, Sacrifice Strip Mine: Destroy target land.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1078&type=card",
+        "multiverseId": "1078"
+    },
+    {
+        "name": "Strip Mine",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Land",
+        "rarity": "Rare",
+        "set": "ATQ",
+        "text": "{T}: Add {C}.\n{T}, Sacrifice Strip Mine: Destroy target land.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1079&type=card",
+        "multiverseId": "1079"
+    },
+    {
+        "name": "Strip Mine",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Land",
+        "rarity": "Rare",
+        "set": "ATQ",
+        "text": "{T}: Add {C}.\n{T}, Sacrifice Strip Mine: Destroy target land.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1077&type=card",
+        "multiverseId": "1077"
+    },
+    {
+        "name": "Urza's Mine",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Land — Urza's Mine",
+        "rarity": "Uncommon",
+        "set": "ATQ",
+        "text": "{T}: Add {C}. If you control an Urza's Power-Plant and an Urza's Tower, add {C}{C} instead.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1081&type=card",
+        "multiverseId": "1081"
+    },
+    {
+        "name": "Urza's Mine",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Land — Urza's Mine",
+        "rarity": "Uncommon",
+        "set": "ATQ",
+        "text": "{T}: Add {C}. If you control an Urza's Power-Plant and an Urza's Tower, add {C}{C} instead.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1083&type=card",
+        "multiverseId": "1083"
+    },
+    {
+        "name": "Urza's Mine",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Land — Urza's Mine",
+        "rarity": "Common",
+        "set": "ATQ",
+        "text": "{T}: Add {C}. If you control an Urza's Power-Plant and an Urza's Tower, add {C}{C} instead.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1082&type=card",
+        "multiverseId": "1082"
+    },
+    {
+        "name": "Urza's Mine",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Land — Urza's Mine",
+        "rarity": "Common",
+        "set": "ATQ",
+        "text": "{T}: Add {C}. If you control an Urza's Power-Plant and an Urza's Tower, add {C}{C} instead.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1080&type=card",
+        "multiverseId": "1080"
+    },
+    {
+        "name": "Urza's Power Plant",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Land — Urza's Power-Plant",
+        "rarity": "Common",
+        "set": "ATQ",
+        "text": "{T}: Add {C}. If you control an Urza's Mine and an Urza's Tower, add {C}{C} instead.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1087&type=card",
+        "multiverseId": "1087"
+    },
+    {
+        "name": "Urza's Power Plant",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Land — Urza's Power-Plant",
+        "rarity": "Uncommon",
+        "set": "ATQ",
+        "text": "{T}: Add {C}. If you control an Urza's Mine and an Urza's Tower, add {C}{C} instead.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1084&type=card",
+        "multiverseId": "1084"
+    },
+    {
+        "name": "Urza's Power Plant",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Land — Urza's Power-Plant",
+        "rarity": "Common",
+        "set": "ATQ",
+        "text": "{T}: Add {C}. If you control an Urza's Mine and an Urza's Tower, add {C}{C} instead.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1086&type=card",
+        "multiverseId": "1086"
+    },
+    {
+        "name": "Urza's Power Plant",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Land — Urza's Power-Plant",
+        "rarity": "Uncommon",
+        "set": "ATQ",
+        "text": "{T}: Add {C}. If you control an Urza's Mine and an Urza's Tower, add {C}{C} instead.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1085&type=card",
+        "multiverseId": "1085"
+    },
+    {
+        "name": "Urza's Tower",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Land — Urza's Tower",
+        "rarity": "Common",
+        "set": "ATQ",
+        "text": "{T}: Add {C}. If you control an Urza's Mine and an Urza's Power-Plant, add {C}{C}{C} instead.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1090&type=card",
+        "multiverseId": "1090"
+    },
+    {
+        "name": "Urza's Tower",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Land — Urza's Tower",
+        "rarity": "Uncommon",
+        "set": "ATQ",
+        "text": "{T}: Add {C}. If you control an Urza's Mine and an Urza's Power-Plant, add {C}{C}{C} instead.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1088&type=card",
+        "multiverseId": "1088"
+    },
+    {
+        "name": "Urza's Tower",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Land — Urza's Tower",
+        "rarity": "Uncommon",
+        "set": "ATQ",
+        "text": "{T}: Add {C}. If you control an Urza's Mine and an Urza's Power-Plant, add {C}{C}{C} instead.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1089&type=card",
+        "multiverseId": "1089"
+    },
+    {
+        "name": "Urza's Tower",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Land — Urza's Tower",
+        "rarity": "Uncommon",
+        "set": "ATQ",
+        "text": "{T}: Add {C}. If you control an Urza's Mine and an Urza's Power-Plant, add {C}{C}{C} instead.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1091&type=card",
+        "multiverseId": "1091"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Diabolical Salvation",
+        "manaCost": "{2}{R}{R}{R}{R}",
+        "cmc": 6.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Instant",
+        "rarity": "Mythic",
+        "set": "HTR17",
+        "text": "Split second\nCreate four 4/4 red Devil creature tokens with haste and \"When this creature dies, create a colorless Treasure artifact token with '{T}, Sacrifice this artifact: Add one mana of any color.'\" Sacrifice the Devil tokens at the beginning of the next end step.",
+        "imageUrl": null,
+        "multiverseId": null
+    },
+    {
+        "name": "Inzerva, Master of Insights",
+        "manaCost": "{1}{2/U}{2/R}",
+        "cmc": 5.0,
+        "colors": [
+            "R",
+            "U"
+        ],
+        "type": "Legendary Planeswalker — Inzerva",
+        "rarity": "Mythic",
+        "set": "HTR17",
+        "text": "[+2]: Draw two cards, then discard a card.\n[−2]: Look at the top two cards of each other player's library, then put any number of them on the bottom of that library and the rest on top in any order. Scry 2.\n[−4]: You get an emblem with \"Your opponents play with their hands revealed\" and \"Whenever an opponent draws a card, this emblem deals 1 damage to them.\"",
+        "imageUrl": null,
+        "multiverseId": null
+    },
+    {
+        "name": "M'Odo, the Gnarled Oracle",
+        "manaCost": "{B}{U}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "B",
+            "G",
+            "U"
+        ],
+        "type": "Legendary Creature — Zombie Elf Wizard",
+        "rarity": "Mythic",
+        "set": "HTR17",
+        "text": "Eminence — {X}, Discard a card: Target player reveals cards from the top of their library until they reveal a creature card with converted mana cost X or less. Put that card onto the battlefield under your control, then that player shuffles the rest into their library. Activate this ability only if M'Odo, the Gnarled Oracle is on the battlefield or in the command zone.",
+        "imageUrl": null,
+        "multiverseId": null
+    }
+]

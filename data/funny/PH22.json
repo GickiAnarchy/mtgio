@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Treizeci, Sun of Serra",
+        "manaCost": "{3}{W}",
+        "cmc": 4.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Legendary Creature — Human Knight",
+        "rarity": "Mythic",
+        "set": "PH22",
+        "text": "Companion — Your starting deck contains only nostalgic cards. (Retro frames, legends, and artifacts are nostalgic.)\nVigilance\nWhenever you cast a nostalgic spell, you may pay {2}. If you do, put a +1/+1 counter on Treizeci, then for each +1/+1 counter on it, create a Serra Angel token.",
+        "imageUrl": null,
+        "multiverseId": null
+    },
+    {
+        "name": "Elusen, the Giving",
+        "manaCost": "{R}{G}{W}{U}",
+        "cmc": 4.0,
+        "colors": [
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "type": "Legendary Creature — Angel Advisor",
+        "rarity": "Mythic",
+        "set": "PH22",
+        "text": "Flying, vigilance, lifelink, haste\nAt the beginning of your postcombat main phase, the player to your left gains control of Elusen, the Giving.\nWhenever a player donates a permanent to another player, the donating player draws a card, gains 1 life, and creates three Treasure tokens.",
+        "imageUrl": null,
+        "multiverseId": null
+    },
+    {
+        "name": "Heroes of Kamigawa",
+        "manaCost": "{1}{W}{U}{B}",
+        "cmc": 4.0,
+        "colors": [
+            "B",
+            "U",
+            "W"
+        ],
+        "type": "Legendary Planeswalker — Kaito Wanderer",
+        "rarity": "Mythic",
+        "set": "PH22",
+        "text": "Each spell you cast with a name printed in a Kamigawa expansion costs {1} less to cast.\n[+2]: Open up to one sealed Kamigawa booster pack and shuffle those cards into your booster pile. Look at the top four cards of your booster pile. Put two of those cards into your hand and the rest into your graveyard.\n[−3]: Return a creature card with a name printed in a Kamigawa expansion from your graveyard to the battlefield.\nHeroes of Kamigawa can be your commander.",
+        "imageUrl": null,
+        "multiverseId": null
+    },
+    {
+        "name": "Svega, the Unconventional",
+        "manaCost": "{1}{G}{W}{U}",
+        "cmc": 4.0,
+        "colors": [
+            "G",
+            "U",
+            "W"
+        ],
+        "type": "Legendary Planeswalker — Svega",
+        "rarity": "Mythic",
+        "set": "PH22",
+        "text": "Landfall — Whenever a land enters the battlefield under your control, put a loyalty counter on target planeswalker.\n[−2]: For each planeswalker type among planeswalkers you control, create a 1/1 Attendee creature token that's all colors.\n[−X]: Choose an Elspeth, Teferi, Liliana, Chandra, or Garruk planeswalker card name with mana value X. Create a copy of the card with the chosen name. You may cast the copy without paying its mana cost.\nSvega can be your commander.",
+        "imageUrl": null,
+        "multiverseId": null
+    },
+    {
+        "name": "Wizard from Beyond",
+        "manaCost": "{W}{U}{B}{R}{G}",
+        "cmc": 5.0,
+        "colors": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "type": "Legendary Enchantment — Background",
+        "rarity": "Mythic",
+        "set": "PH22",
+        "text": "Create a Character (Any nonlegendary creature can choose this as its Background. It becomes legendary and can be your commander.)\nCommander creatures you own are Clerics, Rogues, Warriors, and Wizards in addition to their other types.\nAs long as you have a full party, if an ability of a creature you control triggers, that ability triggers an additional time.",
+        "imageUrl": null,
+        "multiverseId": null
+    }
+]

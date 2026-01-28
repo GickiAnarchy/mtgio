@@ -1,0 +1,2147 @@
+[
+    {
+        "name": "Adarkar Valkyrie",
+        "manaCost": "{4}{W}{W}",
+        "cmc": 6.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Snow Creature — Angel",
+        "rarity": "Rare",
+        "set": "CSP",
+        "text": "Flying, vigilance\n{T}: When target creature other than Adarkar Valkyrie dies this turn, return that card to the battlefield under your control.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121196&type=card",
+        "multiverseId": "121196"
+    },
+    {
+        "name": "Boreal Griffin",
+        "manaCost": "{3}{W}{W}",
+        "cmc": 5.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Snow Creature — Griffin",
+        "rarity": "Common",
+        "set": "CSP",
+        "text": "Flying\n{S}: Boreal Griffin gains first strike until end of turn. ({S} can be paid with one mana from a snow source.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121244&type=card",
+        "multiverseId": "121244"
+    },
+    {
+        "name": "Cover of Winter",
+        "manaCost": "{2}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Snow Enchantment",
+        "rarity": "Rare",
+        "set": "CSP",
+        "text": "Cumulative upkeep {S} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it. {S} can be paid with one mana from a snow source.)\nIf a creature would deal combat damage to you and/or one or more creatures you control, prevent X of that damage, where X is the number of age counters on Cover of Winter.\n{S}: Put an age counter on Cover of Winter.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121140&type=card",
+        "multiverseId": "121140"
+    },
+    {
+        "name": "Darien, King of Kjeldor",
+        "manaCost": "{4}{W}{W}",
+        "cmc": 6.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Legendary Creature — Human Soldier",
+        "rarity": "Rare",
+        "set": "CSP",
+        "text": "Whenever you're dealt damage, you may create that many 1/1 white Soldier creature tokens.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=122049&type=card",
+        "multiverseId": "122049"
+    },
+    {
+        "name": "Field Marshal",
+        "manaCost": "{1}{W}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Human Soldier",
+        "rarity": "Rare",
+        "set": "CSP",
+        "text": "Other Soldier creatures get +1/+1 and have first strike. (They deal combat damage before creatures without first strike.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121265&type=card",
+        "multiverseId": "121265"
+    },
+    {
+        "name": "Gelid Shackles",
+        "manaCost": "{W}",
+        "cmc": 1.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Snow Enchantment — Aura",
+        "rarity": "Common",
+        "set": "CSP",
+        "text": "Enchant creature\nEnchanted creature can't block, and its activated abilities can't be activated.\n{S}: Enchanted creature gains defender until end of turn. ({S} can be paid with one mana from a snow source.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121213&type=card",
+        "multiverseId": "121213"
+    },
+    {
+        "name": "Glacial Plating",
+        "manaCost": "{2}{W}{W}",
+        "cmc": 4.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Snow Enchantment — Aura",
+        "rarity": "Uncommon",
+        "set": "CSP",
+        "text": "Enchant creature\nCumulative upkeep {S} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it. {S} can be paid with one mana from a snow source.)\nEnchanted creature gets +3/+3 for each age counter on Glacial Plating.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121211&type=card",
+        "multiverseId": "121211"
+    },
+    {
+        "name": "Jötun Grunt",
+        "manaCost": "{1}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Giant Soldier",
+        "rarity": "Uncommon",
+        "set": "CSP",
+        "text": "Cumulative upkeep—Put two cards from a single graveyard on the bottom of their owner's library. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=122075&type=card",
+        "multiverseId": "122075"
+    },
+    {
+        "name": "Jötun Owl Keeper",
+        "manaCost": "{2}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Giant",
+        "rarity": "Uncommon",
+        "set": "CSP",
+        "text": "Cumulative upkeep {W} or {U} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nWhen Jötun Owl Keeper dies, create a 1/1 white Bird creature token with flying for each age counter on it.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121236&type=card",
+        "multiverseId": "121236"
+    },
+    {
+        "name": "Kjeldoran Gargoyle",
+        "manaCost": "{5}{W}",
+        "cmc": 6.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Gargoyle",
+        "rarity": "Uncommon",
+        "set": "CSP",
+        "text": "Flying, first strike\nWhenever Kjeldoran Gargoyle deals damage, you gain that much life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121207&type=card",
+        "multiverseId": "121207"
+    },
+    {
+        "name": "Kjeldoran Javelineer",
+        "manaCost": "{W}",
+        "cmc": 1.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Human Soldier",
+        "rarity": "Common",
+        "set": "CSP",
+        "text": "Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\n{T}: Kjeldoran Javelineer deals damage equal to the number of age counters on it to target attacking or blocking creature.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121235&type=card",
+        "multiverseId": "121235"
+    },
+    {
+        "name": "Kjeldoran Outrider",
+        "manaCost": "{1}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Human Soldier",
+        "rarity": "Common",
+        "set": "CSP",
+        "text": "{W}: Kjeldoran Outrider gets +0/+1 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121188&type=card",
+        "multiverseId": "121188"
+    },
+    {
+        "name": "Kjeldoran War Cry",
+        "manaCost": "{1}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "CSP",
+        "text": "Creatures you control get +X/+X until end of turn, where X is 1 plus the number of cards named Kjeldoran War Cry in all graveyards.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121148&type=card",
+        "multiverseId": "121148"
+    },
+    {
+        "name": "Luminesce",
+        "manaCost": "{W}",
+        "cmc": 1.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon",
+        "set": "CSP",
+        "text": "Prevent all damage that black sources and red sources would deal this turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121153&type=card",
+        "multiverseId": "121153"
+    },
+    {
+        "name": "Martyr of Sands",
+        "manaCost": "{W}",
+        "cmc": 1.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Human Cleric",
+        "rarity": "Common",
+        "set": "CSP",
+        "text": "{1}, Reveal X white cards from your hand, Sacrifice Martyr of Sands: You gain three times X life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121263&type=card",
+        "multiverseId": "121263"
+    },
+    {
+        "name": "Ronom Unicorn",
+        "manaCost": "{1}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Unicorn",
+        "rarity": "Common",
+        "set": "CSP",
+        "text": "Sacrifice Ronom Unicorn: Destroy target enchantment.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121237&type=card",
+        "multiverseId": "121237"
+    },
+    {
+        "name": "Squall Drifter",
+        "manaCost": "{1}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Snow Creature — Elemental",
+        "rarity": "Common",
+        "set": "CSP",
+        "text": "Flying\n{W}, {T}: Tap target creature.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121273&type=card",
+        "multiverseId": "121273"
+    },
+    {
+        "name": "Sun's Bounty",
+        "manaCost": "{1}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "CSP",
+        "text": "You gain 4 life.\nRecover {1}{W} (When a creature is put into your graveyard from the battlefield, you may pay {1}{W}. If you do, return this card from your graveyard to your hand. Otherwise, exile this card.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121494&type=card",
+        "multiverseId": "121494"
+    },
+    {
+        "name": "Sunscour",
+        "manaCost": "{5}{W}{W}",
+        "cmc": 7.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Sorcery",
+        "rarity": "Rare",
+        "set": "CSP",
+        "text": "You may exile two white cards from your hand rather than pay this spell's mana cost.\nDestroy all creatures.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121251&type=card",
+        "multiverseId": "121251"
+    },
+    {
+        "name": "Surging Sentinels",
+        "manaCost": "{2}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Human Soldier",
+        "rarity": "Common",
+        "set": "CSP",
+        "text": "First strike\nRipple 4 (When you cast this spell, you may reveal the top four cards of your library. You may cast spells with the same name as this spell from among those cards without paying their mana costs. Put the rest on the bottom of your library.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=122118&type=card",
+        "multiverseId": "122118"
+    },
+    {
+        "name": "Swift Maneuver",
+        "manaCost": "{1}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "CSP",
+        "text": "Prevent the next 2 damage that would be dealt to any target this turn.\nDraw a card at the beginning of the next turn's upkeep.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121255&type=card",
+        "multiverseId": "121255"
+    },
+    {
+        "name": "Ursine Fylgja",
+        "manaCost": "{4}{W}",
+        "cmc": 5.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Spirit Bear",
+        "rarity": "Uncommon",
+        "set": "CSP",
+        "text": "Ursine Fylgja enters the battlefield with four healing counters on it.\nRemove a healing counter from Ursine Fylgja: Prevent the next 1 damage that would be dealt to Ursine Fylgja this turn.\n{2}{W}: Put a healing counter on Ursine Fylgja.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121150&type=card",
+        "multiverseId": "121150"
+    },
+    {
+        "name": "Wall of Shards",
+        "manaCost": "{1}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Snow Creature — Wall",
+        "rarity": "Uncommon",
+        "set": "CSP",
+        "text": "Defender, flying\nCumulative upkeep—An opponent gains 1 life. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121225&type=card",
+        "multiverseId": "121225"
+    },
+    {
+        "name": "White Shield Crusader",
+        "manaCost": "{W}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Human Knight",
+        "rarity": "Uncommon",
+        "set": "CSP",
+        "text": "Protection from black\n{W}: White Shield Crusader gains flying until end of turn.\n{W}{W}: White Shield Crusader gets +1/+0 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121216&type=card",
+        "multiverseId": "121216"
+    },
+    {
+        "name": "Woolly Razorback",
+        "manaCost": "{2}{W}{W}",
+        "cmc": 4.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Boar Beast",
+        "rarity": "Rare",
+        "set": "CSP",
+        "text": "Woolly Razorback enters the battlefield with three ice counters on it.\nAs long as Woolly Razorback has an ice counter on it, prevent all combat damage it would deal and it has defender.\nWhenever Woolly Razorback blocks, remove an ice counter from it.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121230&type=card",
+        "multiverseId": "121230"
+    },
+    {
+        "name": "Adarkar Windform",
+        "manaCost": "{4}{U}",
+        "cmc": 5.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Snow Creature — Illusion",
+        "rarity": "Uncommon",
+        "set": "CSP",
+        "text": "Flying\n{1}{S}: Target creature loses flying until end of turn. ({S} can be paid with one mana from a snow source.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121268&type=card",
+        "multiverseId": "121268"
+    },
+    {
+        "name": "Arcum Dagsson",
+        "manaCost": "{3}{U}",
+        "cmc": 4.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Legendary Creature — Human Artificer",
+        "rarity": "Rare",
+        "set": "CSP",
+        "text": "{T}: Target artifact creature's controller sacrifices it. That player may search their library for a noncreature artifact card, put it onto the battlefield, then shuffle.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=122124&type=card",
+        "multiverseId": "122124"
+    },
+    {
+        "name": "Balduvian Frostwaker",
+        "manaCost": "{2}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Human Wizard",
+        "rarity": "Uncommon",
+        "set": "CSP",
+        "text": "{U}, {T}: Target snow land becomes a 2/2 blue Elemental creature with flying. It's still a land.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121175&type=card",
+        "multiverseId": "121175"
+    },
+    {
+        "name": "Commandeer",
+        "manaCost": "{5}{U}{U}",
+        "cmc": 7.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Instant",
+        "rarity": "Rare",
+        "set": "CSP",
+        "text": "You may exile two blue cards from your hand rather than pay this spell's mana cost.\nGain control of target noncreature spell. You may choose new targets for it. (If that spell is an artifact, enchantment, or planeswalker, the permanent enters the battlefield under your control.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121243&type=card",
+        "multiverseId": "121243"
+    },
+    {
+        "name": "Controvert",
+        "manaCost": "{2}{U}{U}",
+        "cmc": 4.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon",
+        "set": "CSP",
+        "text": "Counter target spell.\nRecover {2}{U}{U} (When a creature is put into your graveyard from the battlefield, you may pay {2}{U}{U}. If you do, return this card from your graveyard to your hand. Otherwise, exile this card.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=122121&type=card",
+        "multiverseId": "122121"
+    },
+    {
+        "name": "Counterbalance",
+        "manaCost": "{U}{U}",
+        "cmc": 2.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Enchantment",
+        "rarity": "Uncommon",
+        "set": "CSP",
+        "text": "Whenever an opponent casts a spell, you may reveal the top card of your library. If you do, counter that spell if it has the same mana value as the revealed card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121159&type=card",
+        "multiverseId": "121159"
+    },
+    {
+        "name": "Drelnoch",
+        "manaCost": "{4}{U}",
+        "cmc": 5.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Yeti Mutant",
+        "rarity": "Common",
+        "set": "CSP",
+        "text": "Whenever Drelnoch becomes blocked, you may draw two cards.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121174&type=card",
+        "multiverseId": "121174"
+    },
+    {
+        "name": "Flashfreeze",
+        "manaCost": "{1}{U}",
+        "cmc": 2.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon",
+        "set": "CSP",
+        "text": "Counter target red or green spell.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121218&type=card",
+        "multiverseId": "121218"
+    },
+    {
+        "name": "Frost Raptor",
+        "manaCost": "{2}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Snow Creature — Bird",
+        "rarity": "Common",
+        "set": "CSP",
+        "text": "Flying\n{S}{S}: Frost Raptor gains shroud until end of turn. ({S} can be paid with one mana from a snow source. A creature with shroud can't be the target of spells or abilities.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121132&type=card",
+        "multiverseId": "121132"
+    },
+    {
+        "name": "Frozen Solid",
+        "manaCost": "{1}{U}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Common",
+        "set": "CSP",
+        "text": "Enchant creature\nEnchanted creature doesn't untap during its controller's untap step.\nWhen enchanted creature is dealt damage, destroy it.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121228&type=card",
+        "multiverseId": "121228"
+    },
+    {
+        "name": "Heidar, Rimewind Master",
+        "manaCost": "{4}{U}",
+        "cmc": 5.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Legendary Creature — Human Wizard",
+        "rarity": "Rare",
+        "set": "CSP",
+        "text": "{2}, {T}: Return target permanent to its owner's hand. Activate only if you control four or more snow permanents.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121147&type=card",
+        "multiverseId": "121147"
+    },
+    {
+        "name": "Jokulmorder",
+        "manaCost": "{4}{U}{U}{U}",
+        "cmc": 7.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Leviathan",
+        "rarity": "Rare",
+        "set": "CSP",
+        "text": "Trample\nJokulmorder enters the battlefield tapped.\nWhen Jokulmorder enters the battlefield, sacrifice it unless you sacrifice five lands.\nJokulmorder doesn't untap during your untap step.\nWhenever you play an Island, you may untap Jokulmorder.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121198&type=card",
+        "multiverseId": "121198"
+    },
+    {
+        "name": "Krovikan Mist",
+        "manaCost": "{1}{U}",
+        "cmc": 2.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Illusion",
+        "rarity": "Common",
+        "set": "CSP",
+        "text": "Flying\nKrovikan Mist's power and toughness are each equal to the number of Illusions on the battlefield.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=122047&type=card",
+        "multiverseId": "122047"
+    },
+    {
+        "name": "Krovikan Whispers",
+        "manaCost": "{3}{U}",
+        "cmc": 4.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Uncommon",
+        "set": "CSP",
+        "text": "Enchant creature\nCumulative upkeep {U} or {B} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nYou control enchanted creature.\nWhen Krovikan Whispers is put into a graveyard from the battlefield, you lose 2 life for each age counter on it.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121493&type=card",
+        "multiverseId": "121493"
+    },
+    {
+        "name": "Martyr of Frost",
+        "manaCost": "{U}",
+        "cmc": 1.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Human Wizard",
+        "rarity": "Common",
+        "set": "CSP",
+        "text": "{2}, Reveal X blue cards from your hand, Sacrifice Martyr of Frost: Counter target spell unless its controller pays {X}.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121164&type=card",
+        "multiverseId": "121164"
+    },
+    {
+        "name": "Perilous Research",
+        "manaCost": "{1}{U}",
+        "cmc": 2.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon",
+        "set": "CSP",
+        "text": "Draw two cards, then sacrifice a permanent.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121238&type=card",
+        "multiverseId": "121238"
+    },
+    {
+        "name": "Rimefeather Owl",
+        "manaCost": "{5}{U}{U}",
+        "cmc": 7.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Snow Creature — Bird",
+        "rarity": "Rare",
+        "set": "CSP",
+        "text": "Flying\nRimefeather Owl's power and toughness are each equal to the number of snow permanents on the battlefield.\n{1}{S}: Put an ice counter on target permanent.\nPermanents with ice counters on them are snow.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=122116&type=card",
+        "multiverseId": "122116"
+    },
+    {
+        "name": "Rimewind Cryomancer",
+        "manaCost": "{3}{U}",
+        "cmc": 4.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Human Wizard",
+        "rarity": "Uncommon",
+        "set": "CSP",
+        "text": "{1}, {T}: Counter target activated ability. Activate only if you control four or more snow permanents. (Mana abilities can't be targeted.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121215&type=card",
+        "multiverseId": "121215"
+    },
+    {
+        "name": "Rimewind Taskmage",
+        "manaCost": "{1}{U}",
+        "cmc": 2.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Human Wizard",
+        "rarity": "Common",
+        "set": "CSP",
+        "text": "{1}, {T}: You may tap or untap target permanent. Activate only if you control four or more snow permanents.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121239&type=card",
+        "multiverseId": "121239"
+    },
+    {
+        "name": "Ronom Serpent",
+        "manaCost": "{5}{U}",
+        "cmc": 6.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Snow Creature — Serpent",
+        "rarity": "Common",
+        "set": "CSP",
+        "text": "Ronom Serpent can't attack unless defending player controls a snow land.\nWhen you control no snow lands, sacrifice Ronom Serpent.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121176&type=card",
+        "multiverseId": "121176"
+    },
+    {
+        "name": "Rune Snag",
+        "manaCost": "{1}{U}",
+        "cmc": 2.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "CSP",
+        "text": "Counter target spell unless its controller pays {2} plus an additional {2} for each card named Rune Snag in each graveyard.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121247&type=card",
+        "multiverseId": "121247"
+    },
+    {
+        "name": "Surging Aether",
+        "manaCost": "{3}{U}",
+        "cmc": 4.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "CSP",
+        "text": "Ripple 4 (When you cast this spell, you may reveal the top four cards of your library. You may cast spells with the same name as this spell from among those cards without paying their mana costs. Put the rest on the bottom of your library.)\nReturn target permanent to its owner's hand.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=122052&type=card",
+        "multiverseId": "122052"
+    },
+    {
+        "name": "Survivor of the Unseen",
+        "manaCost": "{2}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Human Wizard",
+        "rarity": "Common",
+        "set": "CSP",
+        "text": "Cumulative upkeep {2} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\n{T}: Draw two cards, then put a card from your hand on top of your library.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121224&type=card",
+        "multiverseId": "121224"
+    },
+    {
+        "name": "Thermal Flux",
+        "manaCost": "{U}",
+        "cmc": 1.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "CSP",
+        "text": "Choose one —\n• Target nonsnow permanent becomes snow until end of turn.\n• Target snow permanent isn't snow until end of turn.\nDraw a card at the beginning of the next turn's upkeep.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=122119&type=card",
+        "multiverseId": "122119"
+    },
+    {
+        "name": "Vexing Sphinx",
+        "manaCost": "{1}{U}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Sphinx",
+        "rarity": "Rare",
+        "set": "CSP",
+        "text": "Flying\nCumulative upkeep—Discard a card. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nWhen Vexing Sphinx dies, draw a card for each age counter on it.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=122071&type=card",
+        "multiverseId": "122071"
+    },
+    {
+        "name": "Balduvian Fallen",
+        "manaCost": "{3}{B}",
+        "cmc": 4.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Zombie",
+        "rarity": "Uncommon",
+        "set": "CSP",
+        "text": "Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nWhenever Balduvian Fallen's cumulative upkeep is paid, it gets +1/+0 until end of turn for each {B} or {R} spent this way.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121272&type=card",
+        "multiverseId": "121272"
+    },
+    {
+        "name": "Chill to the Bone",
+        "manaCost": "{3}{B}",
+        "cmc": 4.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "CSP",
+        "text": "Destroy target nonsnow creature.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121190&type=card",
+        "multiverseId": "121190"
+    },
+    {
+        "name": "Chilling Shade",
+        "manaCost": "{2}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Snow Creature — Shade",
+        "rarity": "Common",
+        "set": "CSP",
+        "text": "Flying\n{S}: Chilling Shade gets +1/+1 until end of turn. ({S} can be paid with one mana from a snow source.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121258&type=card",
+        "multiverseId": "121258"
+    },
+    {
+        "name": "Deathmark",
+        "manaCost": "{B}",
+        "cmc": 1.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "CSP",
+        "text": "Destroy target green or white creature.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121119&type=card",
+        "multiverseId": "121119"
+    },
+    {
+        "name": "Disciple of Tevesh Szat",
+        "manaCost": "{2}{B}{B}",
+        "cmc": 4.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Human Cleric",
+        "rarity": "Common",
+        "set": "CSP",
+        "text": "{T}: Target creature gets -1/-1 until end of turn.\n{4}{B}{B}, {T}, Sacrifice Disciple of Tevesh Szat: Target creature gets -6/-6 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121222&type=card",
+        "multiverseId": "121222"
+    },
+    {
+        "name": "Feast of Flesh",
+        "manaCost": "{B}",
+        "cmc": 1.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Sorcery",
+        "rarity": "Common",
+        "set": "CSP",
+        "text": "Feast of Flesh deals X damage to target creature and you gain X life, where X is 1 plus the number of cards named Feast of Flesh in all graveyards.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121137&type=card",
+        "multiverseId": "121137"
+    },
+    {
+        "name": "Garza's Assassin",
+        "manaCost": "{B}{B}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Human Assassin",
+        "rarity": "Rare",
+        "set": "CSP",
+        "text": "Sacrifice Garza's Assassin: Destroy target nonblack creature.\nRecover—Pay half your life, rounded up. (When another creature is put into your graveyard from the battlefield, you may pay half your life, rounded up. If you do, return this card from your graveyard to your hand. Otherwise, exile this card.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=122051&type=card",
+        "multiverseId": "122051"
+    },
+    {
+        "name": "Grim Harvest",
+        "manaCost": "{1}{B}",
+        "cmc": 2.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "CSP",
+        "text": "Return target creature card from your graveyard to your hand.\nRecover {2}{B} (When a creature is put into your graveyard from the battlefield, you may pay {2}{B}. If you do, return this card from your graveyard to your hand. Otherwise, exile this card.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=122114&type=card",
+        "multiverseId": "122114"
+    },
+    {
+        "name": "Gristle Grinner",
+        "manaCost": "{4}{B}",
+        "cmc": 5.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Zombie",
+        "rarity": "Uncommon",
+        "set": "CSP",
+        "text": "Whenever a creature dies, Gristle Grinner gets +2/+2 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121133&type=card",
+        "multiverseId": "121133"
+    },
+    {
+        "name": "Gutless Ghoul",
+        "manaCost": "{2}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Snow Creature — Zombie",
+        "rarity": "Common",
+        "set": "CSP",
+        "text": "{1}, Sacrifice a creature: You gain 2 life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121194&type=card",
+        "multiverseId": "121194"
+    },
+    {
+        "name": "Haakon, Stromgald Scourge",
+        "manaCost": "{1}{B}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Legendary Creature — Zombie Knight",
+        "rarity": "Rare",
+        "set": "CSP",
+        "text": "You may cast Haakon, Stromgald Scourge from your graveyard, but not from anywhere else.\nAs long as Haakon is on the battlefield, you may cast Knight spells from your graveyard.\nWhen Haakon dies, you lose 2 life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=122045&type=card",
+        "multiverseId": "122045"
+    },
+    {
+        "name": "Herald of Leshrac",
+        "manaCost": "{6}{B}",
+        "cmc": 7.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Avatar",
+        "rarity": "Rare",
+        "set": "CSP",
+        "text": "Flying\nCumulative upkeep—Gain control of a land you don't control. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nHerald of Leshrac gets +1/+1 for each land you control but don't own.\nWhen Herald of Leshrac leaves the battlefield, each player gains control of each land they own that you control.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121250&type=card",
+        "multiverseId": "121250"
+    },
+    {
+        "name": "Krovikan Rot",
+        "manaCost": "{2}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon",
+        "set": "CSP",
+        "text": "Destroy target creature with power 2 or less.\nRecover {1}{B}{B} (When a creature is put into your graveyard from the battlefield, you may pay {1}{B}{B}. If you do, return this card from your graveyard to your hand. Otherwise, exile this card.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=122050&type=card",
+        "multiverseId": "122050"
+    },
+    {
+        "name": "Krovikan Scoundrel",
+        "manaCost": "{1}{B}",
+        "cmc": 2.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Human Rogue",
+        "rarity": "Common",
+        "set": "CSP",
+        "text": null,
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121226&type=card",
+        "multiverseId": "121226"
+    },
+    {
+        "name": "Martyr of Bones",
+        "manaCost": "{B}",
+        "cmc": 1.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Human Wizard",
+        "rarity": "Common",
+        "set": "CSP",
+        "text": "{1}, Reveal X black cards from your hand, Sacrifice Martyr of Bones: Exile up to X target cards from a single graveyard.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121131&type=card",
+        "multiverseId": "121131"
+    },
+    {
+        "name": "Phobian Phantasm",
+        "manaCost": "{1}{B}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Illusion",
+        "rarity": "Uncommon",
+        "set": "CSP",
+        "text": "Flying; fear (This creature can't be blocked except by artifact creatures and/or black creatures.)\nCumulative upkeep {B} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121146&type=card",
+        "multiverseId": "121146"
+    },
+    {
+        "name": "Phyrexian Etchings",
+        "manaCost": "{B}{B}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Enchantment",
+        "rarity": "Rare",
+        "set": "CSP",
+        "text": "Cumulative upkeep {B} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nAt the beginning of your end step, draw a card for each age counter on Phyrexian Etchings.\nWhen Phyrexian Etchings is put into a graveyard from the battlefield, you lose 2 life for each age counter on it.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121121&type=card",
+        "multiverseId": "121121"
+    },
+    {
+        "name": "Rime Transfusion",
+        "manaCost": "{1}{B}",
+        "cmc": 2.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Snow Enchantment — Aura",
+        "rarity": "Uncommon",
+        "set": "CSP",
+        "text": "Enchant creature\nEnchanted creature gets +2/+1 and has \"{S}: This creature can't be blocked this turn except by snow creatures.\" ({S} can be paid with one mana from a snow source.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121257&type=card",
+        "multiverseId": "121257"
+    },
+    {
+        "name": "Rimebound Dead",
+        "manaCost": "{B}",
+        "cmc": 1.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Snow Creature — Skeleton",
+        "rarity": "Common",
+        "set": "CSP",
+        "text": "{S}: Regenerate Rimebound Dead. ({S} can be paid with one mana from a snow source.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121136&type=card",
+        "multiverseId": "121136"
+    },
+    {
+        "name": "Soul Spike",
+        "manaCost": "{5}{B}{B}",
+        "cmc": 7.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Instant",
+        "rarity": "Rare",
+        "set": "CSP",
+        "text": "You may exile two black cards from your hand rather than pay this spell's mana cost.\nSoul Spike deals 4 damage to any target and you gain 4 life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121165&type=card",
+        "multiverseId": "121165"
+    },
+    {
+        "name": "Stromgald Crusader",
+        "manaCost": "{B}{B}",
+        "cmc": 2.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Zombie Knight",
+        "rarity": "Uncommon",
+        "set": "CSP",
+        "text": "Protection from white\n{B}: Stromgald Crusader gains flying until end of turn.\n{B}{B}: Stromgald Crusader gets +1/+0 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121253&type=card",
+        "multiverseId": "121253"
+    },
+    {
+        "name": "Surging Dementia",
+        "manaCost": "{1}{B}",
+        "cmc": 2.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Sorcery",
+        "rarity": "Common",
+        "set": "CSP",
+        "text": "Ripple 4 (When you cast this spell, you may reveal the top four cards of your library. You may cast spells with the same name as this spell from among those cards without paying their mana costs. Put the rest on the bottom of your library.)\nTarget player discards a card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=122053&type=card",
+        "multiverseId": "122053"
+    },
+    {
+        "name": "Tresserhorn Skyknight",
+        "manaCost": "{5}{B}{B}",
+        "cmc": 7.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Zombie Knight",
+        "rarity": "Uncommon",
+        "set": "CSP",
+        "text": "Flying\nPrevent all damage that would be dealt to Tresserhorn Skyknight by creatures with first strike.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121195&type=card",
+        "multiverseId": "121195"
+    },
+    {
+        "name": "Void Maw",
+        "manaCost": "{4}{B}{B}",
+        "cmc": 6.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Horror",
+        "rarity": "Rare",
+        "set": "CSP",
+        "text": "Trample\nIf another creature would die, exile it instead.\nPut a card exiled with Void Maw into its owner's graveyard: Void Maw gets +2/+2 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121129&type=card",
+        "multiverseId": "121129"
+    },
+    {
+        "name": "Zombie Musher",
+        "manaCost": "{3}{B}",
+        "cmc": 4.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Snow Creature — Zombie",
+        "rarity": "Common",
+        "set": "CSP",
+        "text": "Snow landwalk (This creature can't be blocked as long as defending player controls a snow land.)\n{S}: Regenerate Zombie Musher. ({S} can be paid with one mana from a snow source.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121154&type=card",
+        "multiverseId": "121154"
+    },
+    {
+        "name": "Balduvian Rage",
+        "manaCost": "{X}{R}",
+        "cmc": 1.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon",
+        "set": "CSP",
+        "text": "Target attacking creature gets +X/+0 until end of turn.\nDraw a card at the beginning of the next turn's upkeep.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121248&type=card",
+        "multiverseId": "121248"
+    },
+    {
+        "name": "Balduvian Warlord",
+        "manaCost": "{3}{R}",
+        "cmc": 4.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Human Barbarian",
+        "rarity": "Uncommon",
+        "set": "CSP",
+        "text": "{T}: Remove target blocking creature from combat. Creatures it was blocking that hadn't become blocked by another creature this combat become unblocked, then it blocks an attacking creature of your choice. Activate only during the declare blockers step.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=122056&type=card",
+        "multiverseId": "122056"
+    },
+    {
+        "name": "Braid of Fire",
+        "manaCost": "{1}{R}",
+        "cmc": 2.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Enchantment",
+        "rarity": "Rare",
+        "set": "CSP",
+        "text": "Cumulative upkeep—Add {R}. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=122123&type=card",
+        "multiverseId": "122123"
+    },
+    {
+        "name": "Cryoclasm",
+        "manaCost": "{2}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "CSP",
+        "text": "Destroy target Plains or Island. Cryoclasm deals 3 damage to that land's controller.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121169&type=card",
+        "multiverseId": "121169"
+    },
+    {
+        "name": "Earthen Goo",
+        "manaCost": "{2}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Ooze",
+        "rarity": "Uncommon",
+        "set": "CSP",
+        "text": "Trample\nCumulative upkeep {R} or {G} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nEarthen Goo gets +1/+1 for each age counter on it.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121254&type=card",
+        "multiverseId": "121254"
+    },
+    {
+        "name": "Fury of the Horde",
+        "manaCost": "{5}{R}{R}",
+        "cmc": 7.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Sorcery",
+        "rarity": "Rare",
+        "set": "CSP",
+        "text": "You may exile two red cards from your hand rather than pay this spell's mana cost.\nUntap all creatures that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121181&type=card",
+        "multiverseId": "121181"
+    },
+    {
+        "name": "Goblin Furrier",
+        "manaCost": "{1}{R}",
+        "cmc": 2.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Goblin Warrior",
+        "rarity": "Common",
+        "set": "CSP",
+        "text": "Prevent all damage that Goblin Furrier would deal to snow creatures.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121185&type=card",
+        "multiverseId": "121185"
+    },
+    {
+        "name": "Goblin Rimerunner",
+        "manaCost": "{2}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Snow Creature — Goblin Warrior",
+        "rarity": "Common",
+        "set": "CSP",
+        "text": "{T}: Target creature can't block this turn.\n{S}: Goblin Rimerunner gains haste until end of turn. ({S} can be paid with one mana from a snow source.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121219&type=card",
+        "multiverseId": "121219"
+    },
+    {
+        "name": "Greater Stone Spirit",
+        "manaCost": "{4}{R}{R}",
+        "cmc": 6.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Elemental Spirit",
+        "rarity": "Uncommon",
+        "set": "CSP",
+        "text": "Greater Stone Spirit can't be blocked by creatures with flying.\n{2}{R}: Until end of turn, target creature gets +0/+2 and gains \"{R}: This creature gets +1/+0 until end of turn.\"",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121208&type=card",
+        "multiverseId": "121208"
+    },
+    {
+        "name": "Icefall",
+        "manaCost": "{2}{R}{R}",
+        "cmc": 4.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Sorcery",
+        "rarity": "Common",
+        "set": "CSP",
+        "text": "Destroy target artifact or land.\nRecover {R}{R} (When a creature is put into your graveyard from the battlefield, you may pay {R}{R}. If you do, return this card from your graveyard to your hand. Otherwise, exile this card.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121143&type=card",
+        "multiverseId": "121143"
+    },
+    {
+        "name": "Karplusan Minotaur",
+        "manaCost": "{2}{R}{R}",
+        "cmc": 4.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Minotaur Warrior",
+        "rarity": "Rare",
+        "set": "CSP",
+        "text": "Cumulative upkeep—Flip a coin. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nWhenever you win a coin flip, Karplusan Minotaur deals 1 damage to any target.\nWhenever you lose a coin flip, Karplusan Minotaur deals 1 damage to any target of an opponent's choice.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=122070&type=card",
+        "multiverseId": "122070"
+    },
+    {
+        "name": "Karplusan Wolverine",
+        "manaCost": "{R}",
+        "cmc": 1.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Snow Creature — Wolverine Beast",
+        "rarity": "Common",
+        "set": "CSP",
+        "text": "Whenever Karplusan Wolverine becomes blocked, you may have it deal 1 damage to any target.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121179&type=card",
+        "multiverseId": "121179"
+    },
+    {
+        "name": "Lightning Serpent",
+        "manaCost": "{X}{R}",
+        "cmc": 1.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Elemental Serpent",
+        "rarity": "Rare",
+        "set": "CSP",
+        "text": "Trample, haste\nLightning Serpent enters the battlefield with X +1/+0 counters on it.\nAt the beginning of the end step, sacrifice Lightning Serpent.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121220&type=card",
+        "multiverseId": "121220"
+    },
+    {
+        "name": "Lightning Storm",
+        "manaCost": "{1}{R}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon",
+        "set": "CSP",
+        "text": "Lightning Storm deals X damage to any target, where X is 3 plus the number of charge counters on Lightning Storm.\nDiscard a land card: Put two charge counters on Lightning Storm. You may choose a new target for it. Any player may activate this ability but only if Lightning Storm is on the stack.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121495&type=card",
+        "multiverseId": "121495"
+    },
+    {
+        "name": "Lovisa Coldeyes",
+        "manaCost": "{3}{R}{R}",
+        "cmc": 5.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Legendary Creature — Human",
+        "rarity": "Rare",
+        "set": "CSP",
+        "text": "Each creature that's a Barbarian, a Warrior, or a Berserker gets +2/+2 and has haste.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=113542&type=card",
+        "multiverseId": "113542"
+    },
+    {
+        "name": "Magmatic Core",
+        "manaCost": "{2}{R}{R}",
+        "cmc": 4.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Enchantment",
+        "rarity": "Uncommon",
+        "set": "CSP",
+        "text": "Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nAt the beginning of your end step, Magmatic Core deals X damage divided as you choose among any number of target creatures, where X is the number of age counters on it.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121163&type=card",
+        "multiverseId": "121163"
+    },
+    {
+        "name": "Martyr of Ashes",
+        "manaCost": "{R}",
+        "cmc": 1.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Human Shaman",
+        "rarity": "Common",
+        "set": "CSP",
+        "text": "{2}, Reveal X red cards from your hand, Sacrifice Martyr of Ashes: Martyr of Ashes deals X damage to each creature without flying.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121170&type=card",
+        "multiverseId": "121170"
+    },
+    {
+        "name": "Ohran Yeti",
+        "manaCost": "{3}{R}",
+        "cmc": 4.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Snow Creature — Yeti",
+        "rarity": "Common",
+        "set": "CSP",
+        "text": "{2}{S}: Target snow creature gains first strike until end of turn. ({S} can be paid with one mana from a snow source.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121144&type=card",
+        "multiverseId": "121144"
+    },
+    {
+        "name": "Orcish Bloodpainter",
+        "manaCost": "{2}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Orc Shaman",
+        "rarity": "Common",
+        "set": "CSP",
+        "text": "{T}, Sacrifice a creature: Orcish Bloodpainter deals 1 damage to any target.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121232&type=card",
+        "multiverseId": "121232"
+    },
+    {
+        "name": "Rimescale Dragon",
+        "manaCost": "{5}{R}{R}",
+        "cmc": 7.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Snow Creature — Dragon",
+        "rarity": "Rare",
+        "set": "CSP",
+        "text": "Flying\n{2}{S}: Tap target creature and put an ice counter on it. ({S} can be paid with one mana from a snow source.)\nCreatures with ice counters on them don't untap during their controllers' untap steps.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121184&type=card",
+        "multiverseId": "121184"
+    },
+    {
+        "name": "Rite of Flame",
+        "manaCost": "{R}",
+        "cmc": 1.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Sorcery",
+        "rarity": "Common",
+        "set": "CSP",
+        "text": "Add {R}{R}, then add {R} for each card named Rite of Flame in each graveyard.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121217&type=card",
+        "multiverseId": "121217"
+    },
+    {
+        "name": "Skred",
+        "manaCost": "{R}",
+        "cmc": 1.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "CSP",
+        "text": "Skred deals damage to target creature equal to the number of snow permanents you control.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=122120&type=card",
+        "multiverseId": "122120"
+    },
+    {
+        "name": "Stalking Yeti",
+        "manaCost": "{2}{R}{R}",
+        "cmc": 4.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Snow Creature — Yeti",
+        "rarity": "Uncommon",
+        "set": "CSP",
+        "text": "When Stalking Yeti enters the battlefield, if it's on the battlefield, it deals damage equal to its power to target creature an opponent controls and that creature deals damage equal to its power to Stalking Yeti.\n{2}{S}: Return Stalking Yeti to its owner's hand. Activate only as a sorcery. ({S} can be paid with one mana from a snow source.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=122046&type=card",
+        "multiverseId": "122046"
+    },
+    {
+        "name": "Surging Flame",
+        "manaCost": "{1}{R}",
+        "cmc": 2.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "CSP",
+        "text": "Ripple 4 (When you cast this spell, you may reveal the top four cards of your library. You may cast spells with the same name as this spell from among those cards without paying their mana costs. Put the rest on the bottom of your library.)\nSurging Flame deals 2 damage to any target.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121269&type=card",
+        "multiverseId": "121269"
+    },
+    {
+        "name": "Thermopod",
+        "manaCost": "{4}{R}",
+        "cmc": 5.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Snow Creature — Slug",
+        "rarity": "Common",
+        "set": "CSP",
+        "text": "{S}: Thermopod gains haste until end of turn. ({S} can be paid with one mana from a snow source.)\nSacrifice a creature: Add {R}.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121173&type=card",
+        "multiverseId": "121173"
+    },
+    {
+        "name": "Allosaurus Rider",
+        "manaCost": "{5}{G}{G}",
+        "cmc": 7.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Elf Warrior",
+        "rarity": "Rare",
+        "set": "CSP",
+        "text": "You may exile two green cards from your hand rather than pay this spell's mana cost.\nAllosaurus Rider's power and toughness are each equal to 1 plus the number of lands you control.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121157&type=card",
+        "multiverseId": "121157"
+    },
+    {
+        "name": "Arctic Nishoba",
+        "manaCost": "{5}{G}",
+        "cmc": 6.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Cat Warrior",
+        "rarity": "Uncommon",
+        "set": "CSP",
+        "text": "Trample\nCumulative upkeep {G} or {W} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nWhen Arctic Nishoba dies, you gain 2 life for each age counter on it.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121229&type=card",
+        "multiverseId": "121229"
+    },
+    {
+        "name": "Aurochs Herd",
+        "manaCost": "{5}{G}",
+        "cmc": 6.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Aurochs",
+        "rarity": "Common",
+        "set": "CSP",
+        "text": "Trample\nWhen Aurochs Herd enters the battlefield, you may search your library for an Aurochs card, reveal it, put it into your hand, then shuffle.\nWhenever Aurochs Herd attacks, it gets +1/+0 until end of turn for each other attacking Aurochs.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121260&type=card",
+        "multiverseId": "121260"
+    },
+    {
+        "name": "Boreal Centaur",
+        "manaCost": "{1}{G}",
+        "cmc": 2.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Snow Creature — Centaur Warrior",
+        "rarity": "Common",
+        "set": "CSP",
+        "text": "{S}: Boreal Centaur gets +1/+1 until end of turn. Activate only once each turn. ({S} can be paid with one mana from a snow source.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121200&type=card",
+        "multiverseId": "121200"
+    },
+    {
+        "name": "Boreal Druid",
+        "manaCost": "{G}",
+        "cmc": 1.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Snow Creature — Elf Druid",
+        "rarity": "Common",
+        "set": "CSP",
+        "text": "{T}: Add {C}.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121193&type=card",
+        "multiverseId": "121193"
+    },
+    {
+        "name": "Brooding Saurian",
+        "manaCost": "{2}{G}{G}",
+        "cmc": 4.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Lizard",
+        "rarity": "Rare",
+        "set": "CSP",
+        "text": "At the beginning of each end step, each player gains control of all nontoken permanents they own.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=122055&type=card",
+        "multiverseId": "122055"
+    },
+    {
+        "name": "Bull Aurochs",
+        "manaCost": "{1}{G}",
+        "cmc": 2.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Aurochs",
+        "rarity": "Common",
+        "set": "CSP",
+        "text": "Trample\nWhenever Bull Aurochs attacks, it gets +1/+0 until end of turn for each other attacking Aurochs.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121152&type=card",
+        "multiverseId": "121152"
+    },
+    {
+        "name": "Freyalise's Radiance",
+        "manaCost": "{1}{G}",
+        "cmc": 2.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Enchantment",
+        "rarity": "Uncommon",
+        "set": "CSP",
+        "text": "Cumulative upkeep {2} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nSnow permanents don't untap during their controllers' untap steps.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=122059&type=card",
+        "multiverseId": "122059"
+    },
+    {
+        "name": "Frostweb Spider",
+        "manaCost": "{2}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Snow Creature — Spider",
+        "rarity": "Common",
+        "set": "CSP",
+        "text": "Reach (This creature can block creatures with flying.)\nWhenever Frostweb Spider blocks a creature with flying, put a +1/+1 counter on Frostweb Spider at end of combat.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121197&type=card",
+        "multiverseId": "121197"
+    },
+    {
+        "name": "Hibernation's End",
+        "manaCost": "{4}{G}",
+        "cmc": 5.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Enchantment",
+        "rarity": "Rare",
+        "set": "CSP",
+        "text": "Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nWhenever you pay Hibernation's End's cumulative upkeep, you may search your library for a creature card with mana value equal to the number of age counters on Hibernation's End, put it onto the battlefield, then shuffle.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121139&type=card",
+        "multiverseId": "121139"
+    },
+    {
+        "name": "Into the North",
+        "manaCost": "{1}{G}",
+        "cmc": 2.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Sorcery",
+        "rarity": "Common",
+        "set": "CSP",
+        "text": "Search your library for a snow land card, put it onto the battlefield tapped, then shuffle.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121199&type=card",
+        "multiverseId": "121199"
+    },
+    {
+        "name": "Karplusan Strider",
+        "manaCost": "{3}{G}",
+        "cmc": 4.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Yeti",
+        "rarity": "Uncommon",
+        "set": "CSP",
+        "text": "Karplusan Strider can't be the target of blue or black spells.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121214&type=card",
+        "multiverseId": "121214"
+    },
+    {
+        "name": "Martyr of Spores",
+        "manaCost": "{G}",
+        "cmc": 1.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Human Shaman",
+        "rarity": "Common",
+        "set": "CSP",
+        "text": "{1}, Reveal X green cards from your hand, Sacrifice Martyr of Spores: Target creature gets +X/+X until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121145&type=card",
+        "multiverseId": "121145"
+    },
+    {
+        "name": "Mystic Melting",
+        "manaCost": "{3}{G}",
+        "cmc": 4.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon",
+        "set": "CSP",
+        "text": "Destroy target artifact or enchantment.\nDraw a card at the beginning of the next turn's upkeep.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121141&type=card",
+        "multiverseId": "121141"
+    },
+    {
+        "name": "Ohran Viper",
+        "manaCost": "{1}{G}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Snow Creature — Snake",
+        "rarity": "Rare",
+        "set": "CSP",
+        "text": "Whenever Ohran Viper deals combat damage to a creature, destroy that creature at end of combat.\nWhenever Ohran Viper deals combat damage to a player, you may draw a card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121266&type=card",
+        "multiverseId": "121266"
+    },
+    {
+        "name": "Panglacial Wurm",
+        "manaCost": "{5}{G}{G}",
+        "cmc": 7.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Wurm",
+        "rarity": "Rare",
+        "set": "CSP",
+        "text": "Trample\nWhile you're searching your library, you may cast Panglacial Wurm from your library.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121264&type=card",
+        "multiverseId": "121264"
+    },
+    {
+        "name": "Resize",
+        "manaCost": "{1}{G}",
+        "cmc": 2.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon",
+        "set": "CSP",
+        "text": "Target creature gets +3/+3 until end of turn.\nRecover {1}{G} (When a creature is put into your graveyard from the battlefield, you may pay {1}{G}. If you do, return this card from your graveyard to your hand. Otherwise, exile this card.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121223&type=card",
+        "multiverseId": "121223"
+    },
+    {
+        "name": "Rimehorn Aurochs",
+        "manaCost": "{4}{G}",
+        "cmc": 5.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Snow Creature — Aurochs",
+        "rarity": "Uncommon",
+        "set": "CSP",
+        "text": "Trample\nWhenever Rimehorn Aurochs attacks, it gets +1/+0 until end of turn for each other attacking Aurochs.\n{2}{S}: Target creature blocks target creature this turn if able. ({S} can be paid with one mana from a snow source.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121210&type=card",
+        "multiverseId": "121210"
+    },
+    {
+        "name": "Ronom Hulk",
+        "manaCost": "{4}{G}",
+        "cmc": 5.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Beast",
+        "rarity": "Common",
+        "set": "CSP",
+        "text": "Protection from snow\nCumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121270&type=card",
+        "multiverseId": "121270"
+    },
+    {
+        "name": "Shape of the Wiitigo",
+        "manaCost": "{3}{G}{G}{G}",
+        "cmc": 6.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Rare",
+        "set": "CSP",
+        "text": "Enchant creature\nWhen Shape of the Wiitigo enters the battlefield, put six +1/+1 counters on enchanted creature.\nAt the beginning of your upkeep, put a +1/+1 counter on enchanted creature if it attacked or blocked since your last upkeep. Otherwise, remove a +1/+1 counter from it.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=122073&type=card",
+        "multiverseId": "122073"
+    },
+    {
+        "name": "Sheltering Ancient",
+        "manaCost": "{1}{G}",
+        "cmc": 2.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Treefolk",
+        "rarity": "Uncommon",
+        "set": "CSP",
+        "text": "Trample\nCumulative upkeep—Put a +1/+1 counter on a creature an opponent controls. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=122069&type=card",
+        "multiverseId": "122069"
+    },
+    {
+        "name": "Simian Brawler",
+        "manaCost": "{3}{G}",
+        "cmc": 4.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Ape Warrior",
+        "rarity": "Common",
+        "set": "CSP",
+        "text": "Discard a land card: Simian Brawler gets +1/+1 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121183&type=card",
+        "multiverseId": "121183"
+    },
+    {
+        "name": "Sound the Call",
+        "manaCost": "{2}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Sorcery",
+        "rarity": "Common",
+        "set": "CSP",
+        "text": "Create a 1/1 green Wolf creature token. It has \"This creature gets +1/+1 for each card named Sound the Call in each graveyard.\"",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121156&type=card",
+        "multiverseId": "121156"
+    },
+    {
+        "name": "Steam Spitter",
+        "manaCost": "{4}{G}",
+        "cmc": 5.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Spider",
+        "rarity": "Uncommon",
+        "set": "CSP",
+        "text": "Reach (This creature can block creatures with flying.)\n{R}: Steam Spitter gets +1/+0 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121240&type=card",
+        "multiverseId": "121240"
+    },
+    {
+        "name": "Surging Might",
+        "manaCost": "{2}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Common",
+        "set": "CSP",
+        "text": "Enchant creature\nEnchanted creature gets +2/+2.\nRipple 4 (When you cast this spell, you may reveal the top four cards of your library. You may cast spells with the same name as this spell from among those cards without paying their mana costs. Put the rest on the bottom of your library.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121205&type=card",
+        "multiverseId": "121205"
+    },
+    {
+        "name": "Blizzard Specter",
+        "manaCost": "{2}{U}{B}",
+        "cmc": 4.0,
+        "colors": [
+            "B",
+            "U"
+        ],
+        "type": "Snow Creature — Specter",
+        "rarity": "Uncommon",
+        "set": "CSP",
+        "text": "Flying\nWhenever Blizzard Specter deals combat damage to a player, choose one —\n• That player returns a permanent they control to its owner's hand.\n• That player discards a card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121151&type=card",
+        "multiverseId": "121151"
+    },
+    {
+        "name": "Deepfire Elemental",
+        "manaCost": "{4}{B}{R}",
+        "cmc": 6.0,
+        "colors": [
+            "B",
+            "R"
+        ],
+        "type": "Creature — Elemental",
+        "rarity": "Uncommon",
+        "set": "CSP",
+        "text": "{X}{X}{1}: Destroy target artifact or creature with mana value X.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=122057&type=card",
+        "multiverseId": "122057"
+    },
+    {
+        "name": "Diamond Faerie",
+        "manaCost": "{2}{G}{W}{U}",
+        "cmc": 5.0,
+        "colors": [
+            "G",
+            "U",
+            "W"
+        ],
+        "type": "Snow Creature — Faerie",
+        "rarity": "Rare",
+        "set": "CSP",
+        "text": "Flying\n{1}{S}: Snow creatures you control get +1/+1 until end of turn. ({S} can be paid with one mana from a snow source.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121138&type=card",
+        "multiverseId": "121138"
+    },
+    {
+        "name": "Garza Zol, Plague Queen",
+        "manaCost": "{4}{U}{B}{R}",
+        "cmc": 7.0,
+        "colors": [
+            "B",
+            "R",
+            "U"
+        ],
+        "type": "Legendary Creature — Vampire Noble",
+        "rarity": "Rare",
+        "set": "CSP",
+        "text": "Flying, haste\nWhenever a creature dealt damage by Garza Zol, Plague Queen this turn dies, put a +1/+1 counter on Garza Zol.\nWhenever Garza Zol deals combat damage to a player, you may draw a card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121126&type=card",
+        "multiverseId": "121126"
+    },
+    {
+        "name": "Juniper Order Ranger",
+        "manaCost": "{3}{G}{W}",
+        "cmc": 5.0,
+        "colors": [
+            "G",
+            "W"
+        ],
+        "type": "Creature — Human Knight Ranger",
+        "rarity": "Uncommon",
+        "set": "CSP",
+        "text": "Whenever another creature enters the battlefield under your control, put a +1/+1 counter on that creature and a +1/+1 counter on Juniper Order Ranger.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121172&type=card",
+        "multiverseId": "121172"
+    },
+    {
+        "name": "Sek'Kuar, Deathkeeper",
+        "manaCost": "{2}{B}{R}{G}",
+        "cmc": 5.0,
+        "colors": [
+            "B",
+            "G",
+            "R"
+        ],
+        "type": "Legendary Creature — Orc Shaman",
+        "rarity": "Rare",
+        "set": "CSP",
+        "text": "Whenever another nontoken creature you control dies, create a 3/1 black and red Graveborn creature token with haste.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121261&type=card",
+        "multiverseId": "121261"
+    },
+    {
+        "name": "Tamanoa",
+        "manaCost": "{R}{G}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "G",
+            "R",
+            "W"
+        ],
+        "type": "Creature — Spirit",
+        "rarity": "Rare",
+        "set": "CSP",
+        "text": "Whenever a noncreature source you control deals damage, you gain that much life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121262&type=card",
+        "multiverseId": "121262"
+    },
+    {
+        "name": "Vanish into Memory",
+        "manaCost": "{2}{W}{U}",
+        "cmc": 4.0,
+        "colors": [
+            "U",
+            "W"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon",
+        "set": "CSP",
+        "text": "Exile target creature. You draw cards equal to that creature's power. At the beginning of your next upkeep, return that card to the battlefield under its owner's control. If you do, discard cards equal to that creature's toughness.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121187&type=card",
+        "multiverseId": "121187"
+    },
+    {
+        "name": "Wilderness Elemental",
+        "manaCost": "{1}{R}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G",
+            "R"
+        ],
+        "type": "Creature — Elemental",
+        "rarity": "Uncommon",
+        "set": "CSP",
+        "text": "Trample\nWilderness Elemental's power is equal to the number of nonbasic lands your opponents control.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121191&type=card",
+        "multiverseId": "121191"
+    },
+    {
+        "name": "Zur the Enchanter",
+        "manaCost": "{1}{W}{U}{B}",
+        "cmc": 4.0,
+        "colors": [
+            "B",
+            "U",
+            "W"
+        ],
+        "type": "Legendary Creature — Human Wizard",
+        "rarity": "Rare",
+        "set": "CSP",
+        "text": "Flying\nWhenever Zur the Enchanter attacks, you may search your library for an enchantment card with mana value 3 or less, put it onto the battlefield, then shuffle.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121162&type=card",
+        "multiverseId": "121162"
+    },
+    {
+        "name": "Coldsteel Heart",
+        "manaCost": "{2}",
+        "cmc": 2.0,
+        "colors": null,
+        "type": "Snow Artifact",
+        "rarity": "Uncommon",
+        "set": "CSP",
+        "text": "Coldsteel Heart enters the battlefield tapped.\nAs Coldsteel Heart enters the battlefield, choose a color.\n{T}: Add one mana of the chosen color.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121123&type=card",
+        "multiverseId": "121123"
+    },
+    {
+        "name": "Jester's Scepter",
+        "manaCost": "{3}",
+        "cmc": 3.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Rare",
+        "set": "CSP",
+        "text": "When Jester's Scepter enters the battlefield, exile the top five cards of target player's library face down. You may look at those cards for as long as they remain exiled.\n{2}, {T}, Put a card exiled with Jester's Scepter into its owner's graveyard: Counter target spell if it has the same name as that card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=122066&type=card",
+        "multiverseId": "122066"
+    },
+    {
+        "name": "Mishra's Bauble",
+        "manaCost": "{0}",
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Uncommon",
+        "set": "CSP",
+        "text": "{T}, Sacrifice Mishra's Bauble: Look at the top card of target player's library. Draw a card at the beginning of the next turn's upkeep.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=122122&type=card",
+        "multiverseId": "122122"
+    },
+    {
+        "name": "Phyrexian Ironfoot",
+        "manaCost": "{3}",
+        "cmc": 3.0,
+        "colors": null,
+        "type": "Snow Artifact Creature — Phyrexian Construct",
+        "rarity": "Uncommon",
+        "set": "CSP",
+        "text": "Phyrexian Ironfoot doesn't untap during your untap step.\n{1}{S}: Untap Phyrexian Ironfoot. ({S} can be paid with one mana from a snow source.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121127&type=card",
+        "multiverseId": "121127"
+    },
+    {
+        "name": "Phyrexian Snowcrusher",
+        "manaCost": "{6}",
+        "cmc": 6.0,
+        "colors": null,
+        "type": "Snow Artifact Creature — Phyrexian Juggernaut",
+        "rarity": "Uncommon",
+        "set": "CSP",
+        "text": "Phyrexian Snowcrusher attacks each combat if able.\n{1}{S}: Phyrexian Snowcrusher gets +1/+0 until end of turn. ({S} can be paid with one mana from a snow source.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121142&type=card",
+        "multiverseId": "121142"
+    },
+    {
+        "name": "Phyrexian Soulgorger",
+        "manaCost": "{3}",
+        "cmc": 3.0,
+        "colors": null,
+        "type": "Snow Artifact Creature — Phyrexian Construct",
+        "rarity": "Rare",
+        "set": "CSP",
+        "text": "Cumulative upkeep—Sacrifice a creature. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121160&type=card",
+        "multiverseId": "121160"
+    },
+    {
+        "name": "Thrumming Stone",
+        "manaCost": "{5}",
+        "cmc": 5.0,
+        "colors": null,
+        "type": "Legendary Artifact",
+        "rarity": "Rare",
+        "set": "CSP",
+        "text": "Spells you cast have ripple 4. (Whenever you cast a spell, you may reveal the top four cards of your library. You may cast spells with the same name as that spell from among the revealed cards without paying their mana costs. Put the rest on the bottom of your library.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=124451&type=card",
+        "multiverseId": "124451"
+    },
+    {
+        "name": "Arctic Flats",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Snow Land",
+        "rarity": "Uncommon",
+        "set": "CSP",
+        "text": "Arctic Flats enters the battlefield tapped.\n{T}: Add {G} or {W}.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121158&type=card",
+        "multiverseId": "121158"
+    },
+    {
+        "name": "Boreal Shelf",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Snow Land",
+        "rarity": "Uncommon",
+        "set": "CSP",
+        "text": "Boreal Shelf enters the battlefield tapped.\n{T}: Add {W} or {U}.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121189&type=card",
+        "multiverseId": "121189"
+    },
+    {
+        "name": "Dark Depths",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Legendary Snow Land",
+        "rarity": "Rare",
+        "set": "CSP",
+        "text": "Dark Depths enters the battlefield with ten ice counters on it.\n{3}: Remove an ice counter from Dark Depths.\nWhen Dark Depths has no ice counters on it, sacrifice it. If you do, create Marit Lage, a legendary 20/20 black Avatar creature token with flying and indestructible.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121155&type=card",
+        "multiverseId": "121155"
+    },
+    {
+        "name": "Frost Marsh",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Snow Land",
+        "rarity": "Uncommon",
+        "set": "CSP",
+        "text": "Frost Marsh enters the battlefield tapped.\n{T}: Add {U} or {B}.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121212&type=card",
+        "multiverseId": "121212"
+    },
+    {
+        "name": "Highland Weald",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Snow Land",
+        "rarity": "Uncommon",
+        "set": "CSP",
+        "text": "Highland Weald enters the battlefield tapped.\n{T}: Add {R} or {G}.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121259&type=card",
+        "multiverseId": "121259"
+    },
+    {
+        "name": "Mouth of Ronom",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Snow Land",
+        "rarity": "Uncommon",
+        "set": "CSP",
+        "text": "{T}: Add {C}.\n{4}{S}, {T}, Sacrifice Mouth of Ronom: It deals 4 damage to target creature. ({S} can be paid with one mana from a snow source.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121234&type=card",
+        "multiverseId": "121234"
+    },
+    {
+        "name": "Scrying Sheets",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Snow Land",
+        "rarity": "Rare",
+        "set": "CSP",
+        "text": "{T}: Add {C}.\n{1}{S}, {T}: Look at the top card of your library. If that card is snow, you may reveal it and put it into your hand. ({S} can be paid with one mana from a snow source.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121204&type=card",
+        "multiverseId": "121204"
+    },
+    {
+        "name": "Tresserhorn Sinks",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Snow Land",
+        "rarity": "Uncommon",
+        "set": "CSP",
+        "text": "Tresserhorn Sinks enters the battlefield tapped.\n{T}: Add {B} or {R}.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121125&type=card",
+        "multiverseId": "121125"
+    },
+    {
+        "name": "Snow-Covered Plains",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Basic Snow Land — Plains",
+        "rarity": "Common",
+        "set": "CSP",
+        "text": "({T}: Add {W}.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121267&type=card",
+        "multiverseId": "121267"
+    },
+    {
+        "name": "Snow-Covered Island",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Basic Snow Land — Island",
+        "rarity": "Common",
+        "set": "CSP",
+        "text": "({T}: Add {U}.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121130&type=card",
+        "multiverseId": "121130"
+    },
+    {
+        "name": "Snow-Covered Swamp",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Basic Snow Land — Swamp",
+        "rarity": "Common",
+        "set": "CSP",
+        "text": "({T}: Add {B}.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121256&type=card",
+        "multiverseId": "121256"
+    },
+    {
+        "name": "Snow-Covered Mountain",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Basic Snow Land — Mountain",
+        "rarity": "Common",
+        "set": "CSP",
+        "text": "({T}: Add {R}.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121233&type=card",
+        "multiverseId": "121233"
+    },
+    {
+        "name": "Snow-Covered Forest",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Basic Snow Land — Forest",
+        "rarity": "Common",
+        "set": "CSP",
+        "text": "({T}: Add {G}.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121192&type=card",
+        "multiverseId": "121192"
+    }
+]

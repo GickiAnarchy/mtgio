@@ -1,0 +1,2374 @@
+[
+    {
+        "name": "Archangel's Light",
+        "manaCost": "{7}{W}",
+        "cmc": 8.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Sorcery",
+        "rarity": "Mythic",
+        "set": "DKA",
+        "text": "You gain 2 life for each card in your graveyard, then shuffle your graveyard into your library.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=244691&type=card",
+        "multiverseId": "244691"
+    },
+    {
+        "name": "Bar the Door",
+        "manaCost": "{2}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "Creatures you control get +0/+4 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262858&type=card",
+        "multiverseId": "262858"
+    },
+    {
+        "name": "Break of Day",
+        "manaCost": "{1}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "Creatures you control get +1/+1 until end of turn.\nFateful hour — If you have 5 or less life, those creatures gain indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy them.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262702&type=card",
+        "multiverseId": "262702"
+    },
+    {
+        "name": "Burden of Guilt",
+        "manaCost": "{W}",
+        "cmc": 1.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "Enchant creature\n{1}: Tap enchanted creature.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262873&type=card",
+        "multiverseId": "262873"
+    },
+    {
+        "name": "Curse of Exhaustion",
+        "manaCost": "{2}{W}{W}",
+        "cmc": 4.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Enchantment — Aura Curse",
+        "rarity": "Uncommon",
+        "set": "DKA",
+        "text": "Enchant player\nEnchanted player can't cast more than one spell each turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=226729&type=card",
+        "multiverseId": "226729"
+    },
+    {
+        "name": "Elgaud Inquisitor",
+        "manaCost": "{3}{W}",
+        "cmc": 4.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Human Cleric",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "Lifelink (Damage dealt by this creature also causes you to gain that much life.)\nWhen Elgaud Inquisitor dies, create a 1/1 white Spirit creature token with flying.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=245219&type=card",
+        "multiverseId": "245219"
+    },
+    {
+        "name": "Faith's Shield",
+        "manaCost": "{W}",
+        "cmc": 1.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon",
+        "set": "DKA",
+        "text": "Target permanent you control gains protection from the color of your choice until end of turn.\nFateful hour — If you have 5 or less life, instead you and each permanent you control gain protection from the color of your choice until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262696&type=card",
+        "multiverseId": "262696"
+    },
+    {
+        "name": "Gather the Townsfolk",
+        "manaCost": "{1}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Sorcery",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "Create two 1/1 white Human creature tokens.\nFateful hour — If you have 5 or less life, create five of those tokens instead.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262686&type=card",
+        "multiverseId": "262686"
+    },
+    {
+        "name": "Gavony Ironwright",
+        "manaCost": "{2}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Human Soldier",
+        "rarity": "Uncommon",
+        "set": "DKA",
+        "text": "Fateful hour — As long as you have 5 or less life, other creatures you control get +1/+4.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262685&type=card",
+        "multiverseId": "262685"
+    },
+    {
+        "name": "Hollowhenge Spirit",
+        "manaCost": "{3}{W}",
+        "cmc": 4.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Spirit",
+        "rarity": "Uncommon",
+        "set": "DKA",
+        "text": "Flash (You may cast this spell any time you could cast an instant.)\nFlying\nWhen Hollowhenge Spirit enters the battlefield, remove target attacking or blocking creature from combat.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=222001&type=card",
+        "multiverseId": "222001"
+    },
+    {
+        "name": "Increasing Devotion",
+        "manaCost": "{3}{W}{W}",
+        "cmc": 5.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Sorcery",
+        "rarity": "Rare",
+        "set": "DKA",
+        "text": "Create five 1/1 white Human creature tokens. If this spell was cast from a graveyard, create ten of those tokens instead.\nFlashback {7}{W}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262870&type=card",
+        "multiverseId": "262870"
+    },
+    {
+        "name": "Lingering Souls",
+        "manaCost": "{2}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "DKA",
+        "text": "Create two 1/1 white Spirit creature tokens with flying.\nFlashback {1}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262695&type=card",
+        "multiverseId": "262695"
+    },
+    {
+        "name": "Loyal Cathar // Unhallowed Cathar",
+        "manaCost": "{W}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Human Soldier",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "Vigilance\nWhen Loyal Cathar dies, return it to the battlefield transformed under your control at the beginning of the next end step.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=244724&type=card",
+        "multiverseId": "244724"
+    },
+    {
+        "name": "Loyal Cathar // Unhallowed Cathar",
+        "manaCost": null,
+        "cmc": 2.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Zombie Soldier",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "Unhallowed Cathar can't block.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=244734&type=card",
+        "multiverseId": "244734"
+    },
+    {
+        "name": "Midnight Guard",
+        "manaCost": "{2}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Human Soldier",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "Whenever another creature enters the battlefield, untap Midnight Guard.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262859&type=card",
+        "multiverseId": "262859"
+    },
+    {
+        "name": "Niblis of the Mist",
+        "manaCost": "{2}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Spirit",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "Flying\nWhen Niblis of the Mist enters the battlefield, you may tap target creature.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=245292&type=card",
+        "multiverseId": "245292"
+    },
+    {
+        "name": "Niblis of the Urn",
+        "manaCost": "{1}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Spirit",
+        "rarity": "Uncommon",
+        "set": "DKA",
+        "text": "Flying\nWhenever Niblis of the Urn attacks, you may tap target creature.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=244744&type=card",
+        "multiverseId": "244744"
+    },
+    {
+        "name": "Ray of Revelation",
+        "manaCost": "{1}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "Destroy target enchantment.\nFlashback {G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=245288&type=card",
+        "multiverseId": "245288"
+    },
+    {
+        "name": "Requiem Angel",
+        "manaCost": "{5}{W}",
+        "cmc": 6.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Angel",
+        "rarity": "Rare",
+        "set": "DKA",
+        "text": "Flying\nWhenever another non-Spirit creature you control dies, create a 1/1 white Spirit creature token with flying.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270779&type=card",
+        "multiverseId": "270779"
+    },
+    {
+        "name": "Sanctuary Cat",
+        "manaCost": "{W}",
+        "cmc": 1.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Cat",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": null,
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262864&type=card",
+        "multiverseId": "262864"
+    },
+    {
+        "name": "Séance",
+        "manaCost": "{2}{W}{W}",
+        "cmc": 4.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Enchantment",
+        "rarity": "Rare",
+        "set": "DKA",
+        "text": "At the beginning of each upkeep, you may exile target creature card from your graveyard. If you do, create a token that's a copy of that card, except it's a Spirit in addition to its other types. Exile it at the beginning of the next end step.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=249422&type=card",
+        "multiverseId": "249422"
+    },
+    {
+        "name": "Silverclaw Griffin",
+        "manaCost": "{3}{W}{W}",
+        "cmc": 5.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Griffin",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "Flying, first strike",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262876&type=card",
+        "multiverseId": "262876"
+    },
+    {
+        "name": "Skillful Lunge",
+        "manaCost": "{1}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "Target creature gets +2/+0 and gains first strike until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262877&type=card",
+        "multiverseId": "262877"
+    },
+    {
+        "name": "Sudden Disappearance",
+        "manaCost": "{5}{W}",
+        "cmc": 6.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Sorcery",
+        "rarity": "Rare",
+        "set": "DKA",
+        "text": "Exile all nonland permanents target player controls. Return the exiled cards to the battlefield under their owner's control at the beginning of the next end step.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262865&type=card",
+        "multiverseId": "262865"
+    },
+    {
+        "name": "Thalia, Guardian of Thraben",
+        "manaCost": "{1}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Legendary Creature — Human Soldier",
+        "rarity": "Rare",
+        "set": "DKA",
+        "text": "First strike\nNoncreature spells cost {1} more to cast.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270445&type=card",
+        "multiverseId": "270445"
+    },
+    {
+        "name": "Thraben Doomsayer",
+        "manaCost": "{1}{W}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Human Cleric",
+        "rarity": "Rare",
+        "set": "DKA",
+        "text": "{T}: Create a 1/1 white Human creature token.\nFateful hour — As long as you have 5 or less life, other creatures you control get +2/+2.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262692&type=card",
+        "multiverseId": "262692"
+    },
+    {
+        "name": "Thraben Heretic",
+        "manaCost": "{1}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Human Wizard",
+        "rarity": "Uncommon",
+        "set": "DKA",
+        "text": "{T}: Exile target creature card from a graveyard.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=244709&type=card",
+        "multiverseId": "244709"
+    },
+    {
+        "name": "Artful Dodge",
+        "manaCost": "{U}",
+        "cmc": 1.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Sorcery",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "Target creature can't be blocked this turn.\nFlashback {U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262840&type=card",
+        "multiverseId": "262840"
+    },
+    {
+        "name": "Beguiler of Wills",
+        "manaCost": "{3}{U}{U}",
+        "cmc": 5.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Human Wizard",
+        "rarity": "Mythic",
+        "set": "DKA",
+        "text": "{T}: Gain control of target creature with power less than or equal to the number of creatures you control.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=227080&type=card",
+        "multiverseId": "227080"
+    },
+    {
+        "name": "Bone to Ash",
+        "manaCost": "{2}{U}{U}",
+        "cmc": 4.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "Counter target creature spell.\nDraw a card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262845&type=card",
+        "multiverseId": "262845"
+    },
+    {
+        "name": "Call to the Kindred",
+        "manaCost": "{3}{U}",
+        "cmc": 4.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Rare",
+        "set": "DKA",
+        "text": "Enchant creature\nAt the beginning of your upkeep, you may look at the top five cards of your library. If you do, you may put a creature card that shares a creature type with enchanted creature from among them onto the battlefield, then you put the rest of those cards on the bottom of your library in any order.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262706&type=card",
+        "multiverseId": "262706"
+    },
+    {
+        "name": "Chant of the Skifsang",
+        "manaCost": "{2}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "Enchant creature\nEnchanted creature gets -13/-0.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262829&type=card",
+        "multiverseId": "262829"
+    },
+    {
+        "name": "Chill of Foreboding",
+        "manaCost": "{2}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "DKA",
+        "text": "Each player mills five cards.\nFlashback {7}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=242511&type=card",
+        "multiverseId": "242511"
+    },
+    {
+        "name": "Counterlash",
+        "manaCost": "{4}{U}{U}",
+        "cmc": 6.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Instant",
+        "rarity": "Rare",
+        "set": "DKA",
+        "text": "Counter target spell. You may cast a spell that shares a card type with it from your hand without paying its mana cost.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262830&type=card",
+        "multiverseId": "262830"
+    },
+    {
+        "name": "Curse of Echoes",
+        "manaCost": "{4}{U}",
+        "cmc": 5.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Enchantment — Aura Curse",
+        "rarity": "Rare",
+        "set": "DKA",
+        "text": "Enchant player\nWhenever enchanted player casts an instant or sorcery spell, each other player may copy that spell and may choose new targets for the copy they control.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262841&type=card",
+        "multiverseId": "262841"
+    },
+    {
+        "name": "Divination",
+        "manaCost": "{2}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Sorcery",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "Draw two cards.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262848&type=card",
+        "multiverseId": "262848"
+    },
+    {
+        "name": "Dungeon Geists",
+        "manaCost": "{2}{U}{U}",
+        "cmc": 4.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Spirit",
+        "rarity": "Rare",
+        "set": "DKA",
+        "text": "Flying\nWhen Dungeon Geists enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's untap step for as long as you control Dungeon Geists.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=249875&type=card",
+        "multiverseId": "249875"
+    },
+    {
+        "name": "Geralf's Mindcrusher",
+        "manaCost": "{4}{U}{U}",
+        "cmc": 6.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Zombie Horror",
+        "rarity": "Rare",
+        "set": "DKA",
+        "text": "When Geralf's Mindcrusher enters the battlefield, target player mills five cards.\nUndying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262839&type=card",
+        "multiverseId": "262839"
+    },
+    {
+        "name": "Griptide",
+        "manaCost": "{3}{U}",
+        "cmc": 4.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "Put target creature on top of its owner's library.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=243224&type=card",
+        "multiverseId": "243224"
+    },
+    {
+        "name": "Havengul Runebinder",
+        "manaCost": "{2}{U}{U}",
+        "cmc": 4.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Human Wizard",
+        "rarity": "Rare",
+        "set": "DKA",
+        "text": "{2}{U}, {T}, Exile a creature card from your graveyard: Create a 2/2 black Zombie creature token, then put a +1/+1 counter on each Zombie creature you control.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=249878&type=card",
+        "multiverseId": "249878"
+    },
+    {
+        "name": "Headless Skaab",
+        "manaCost": "{2}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Zombie Warrior",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "As an additional cost to cast this spell, exile a creature card from your graveyard.\nHeadless Skaab enters the battlefield tapped.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=244761&type=card",
+        "multiverseId": "244761"
+    },
+    {
+        "name": "Increasing Confusion",
+        "manaCost": "{X}{U}",
+        "cmc": 1.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Sorcery",
+        "rarity": "Rare",
+        "set": "DKA",
+        "text": "Target player mills X cards. If this spell was cast from a graveyard, that player mills twice that many cards instead.\nFlashback {X}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262856&type=card",
+        "multiverseId": "262856"
+    },
+    {
+        "name": "Mystic Retrieval",
+        "manaCost": "{3}{U}",
+        "cmc": 4.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "DKA",
+        "text": "Return target instant or sorcery card from your graveyard to your hand.\nFlashback {2}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262678&type=card",
+        "multiverseId": "262678"
+    },
+    {
+        "name": "Nephalia Seakite",
+        "manaCost": "{3}{U}",
+        "cmc": 4.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Bird",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "Flash (You may cast this spell any time you could cast an instant.)\nFlying",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=247126&type=card",
+        "multiverseId": "247126"
+    },
+    {
+        "name": "Niblis of the Breath",
+        "manaCost": "{2}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Spirit",
+        "rarity": "Uncommon",
+        "set": "DKA",
+        "text": "Flying\n{U}, {T}: You may tap or untap target creature.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=226724&type=card",
+        "multiverseId": "226724"
+    },
+    {
+        "name": "Relentless Skaabs",
+        "manaCost": "{3}{U}{U}",
+        "cmc": 5.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Zombie",
+        "rarity": "Uncommon",
+        "set": "DKA",
+        "text": "As an additional cost to cast this spell, exile a creature card from your graveyard.\nUndying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262701&type=card",
+        "multiverseId": "262701"
+    },
+    {
+        "name": "Saving Grasp",
+        "manaCost": "{U}",
+        "cmc": 1.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "Return target creature you own to your hand.\nFlashback {W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=245296&type=card",
+        "multiverseId": "245296"
+    },
+    {
+        "name": "Screeching Skaab",
+        "manaCost": "{1}{U}",
+        "cmc": 2.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Zombie",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "When Screeching Skaab enters the battlefield, mill two cards.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=245207&type=card",
+        "multiverseId": "245207"
+    },
+    {
+        "name": "Secrets of the Dead",
+        "manaCost": "{2}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Enchantment",
+        "rarity": "Uncommon",
+        "set": "DKA",
+        "text": "Whenever you cast a spell from your graveyard, draw a card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=230621&type=card",
+        "multiverseId": "230621"
+    },
+    {
+        "name": "Shriekgeist",
+        "manaCost": "{1}{U}",
+        "cmc": 2.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Spirit",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "Flying\nWhenever Shriekgeist deals combat damage to a player, that player mills two cards.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=242525&type=card",
+        "multiverseId": "242525"
+    },
+    {
+        "name": "Soul Seizer // Ghastly Haunting",
+        "manaCost": "{3}{U}{U}",
+        "cmc": 5.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Spirit",
+        "rarity": "Uncommon",
+        "set": "DKA",
+        "text": "Flying\nWhen Soul Seizer deals combat damage to a player, you may transform it. If you do, attach it to target creature that player controls.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=222178&type=card",
+        "multiverseId": "222178"
+    },
+    {
+        "name": "Soul Seizer // Ghastly Haunting",
+        "manaCost": null,
+        "cmc": 5.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Uncommon",
+        "set": "DKA",
+        "text": "Enchant creature\nYou control enchanted creature.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=242498&type=card",
+        "multiverseId": "242498"
+    },
+    {
+        "name": "Stormbound Geist",
+        "manaCost": "{1}{U}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Spirit",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "Flying\nStormbound Geist can block only creatures with flying.\nUndying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262660&type=card",
+        "multiverseId": "262660"
+    },
+    {
+        "name": "Thought Scour",
+        "manaCost": "{U}",
+        "cmc": 1.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "Target player mills two cards.\nDraw a card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262838&type=card",
+        "multiverseId": "262838"
+    },
+    {
+        "name": "Tower Geist",
+        "manaCost": "{3}{U}",
+        "cmc": 4.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Spirit",
+        "rarity": "Uncommon",
+        "set": "DKA",
+        "text": "Flying\nWhen Tower Geist enters the battlefield, look at the top two cards of your library. Put one of them into your hand and the other into your graveyard.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262665&type=card",
+        "multiverseId": "262665"
+    },
+    {
+        "name": "Black Cat",
+        "manaCost": "{1}{B}",
+        "cmc": 2.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Zombie Cat",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "When Black Cat dies, target opponent discards a card at random.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262862&type=card",
+        "multiverseId": "262862"
+    },
+    {
+        "name": "Chosen of Markov // Markov's Servant",
+        "manaCost": "{2}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Human",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "{T}, Tap an untapped Vampire you control: Transform Chosen of Markov.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=243229&type=card",
+        "multiverseId": "243229"
+    },
+    {
+        "name": "Chosen of Markov // Markov's Servant",
+        "manaCost": null,
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Vampire",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": null,
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=244712&type=card",
+        "multiverseId": "244712"
+    },
+    {
+        "name": "Curse of Misfortunes",
+        "manaCost": "{4}{B}",
+        "cmc": 5.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Enchantment — Aura Curse",
+        "rarity": "Rare",
+        "set": "DKA",
+        "text": "Enchant player\nAt the beginning of your upkeep, you may search your library for a Curse card that doesn't have the same name as a Curse attached to enchanted player, put it onto the battlefield attached to that player, then shuffle.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262874&type=card",
+        "multiverseId": "262874"
+    },
+    {
+        "name": "Curse of Thirst",
+        "manaCost": "{4}{B}",
+        "cmc": 5.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Enchantment — Aura Curse",
+        "rarity": "Uncommon",
+        "set": "DKA",
+        "text": "Enchant player\nAt the beginning of enchanted player's upkeep, Curse of Thirst deals damage to that player equal to the number of Curses attached to them.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=220003&type=card",
+        "multiverseId": "220003"
+    },
+    {
+        "name": "Deadly Allure",
+        "manaCost": "{B}",
+        "cmc": 1.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "DKA",
+        "text": "Target creature gains deathtouch until end of turn and must be blocked this turn if able.\nFlashback {G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262690&type=card",
+        "multiverseId": "262690"
+    },
+    {
+        "name": "Death's Caress",
+        "manaCost": "{3}{B}{B}",
+        "cmc": 5.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Sorcery",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "Destroy target creature. If that creature was a Human, you gain life equal to its toughness.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262854&type=card",
+        "multiverseId": "262854"
+    },
+    {
+        "name": "Falkenrath Torturer",
+        "manaCost": "{2}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Vampire",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "Sacrifice a creature: Falkenrath Torturer gains flying until end of turn. If the sacrificed creature was a Human, put a +1/+1 counter on Falkenrath Torturer.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262697&type=card",
+        "multiverseId": "262697"
+    },
+    {
+        "name": "Farbog Boneflinger",
+        "manaCost": "{4}{B}",
+        "cmc": 5.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Zombie",
+        "rarity": "Uncommon",
+        "set": "DKA",
+        "text": "When Farbog Boneflinger enters the battlefield, target creature gets -2/-2 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262677&type=card",
+        "multiverseId": "262677"
+    },
+    {
+        "name": "Fiend of the Shadows",
+        "manaCost": "{3}{B}{B}",
+        "cmc": 5.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Vampire Wizard",
+        "rarity": "Rare",
+        "set": "DKA",
+        "text": "Flying\nWhenever Fiend of the Shadows deals combat damage to a player, that player exiles a card from their hand. You may play that card for as long as it remains exiled.\nSacrifice a Human: Regenerate Fiend of the Shadows.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262837&type=card",
+        "multiverseId": "262837"
+    },
+    {
+        "name": "Geralf's Messenger",
+        "manaCost": "{B}{B}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Zombie",
+        "rarity": "Rare",
+        "set": "DKA",
+        "text": "Geralf's Messenger enters the battlefield tapped.\nWhen Geralf's Messenger enters the battlefield, target opponent loses 2 life.\nUndying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=243250&type=card",
+        "multiverseId": "243250"
+    },
+    {
+        "name": "Gravecrawler",
+        "manaCost": "{B}",
+        "cmc": 1.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Zombie",
+        "rarity": "Rare",
+        "set": "DKA",
+        "text": "Gravecrawler can't block.\nYou may cast Gravecrawler from your graveyard as long as you control a Zombie.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=222902&type=card",
+        "multiverseId": "222902"
+    },
+    {
+        "name": "Gravepurge",
+        "manaCost": "{2}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "Put any number of target creature cards from your graveyard on top of your library.\nDraw a card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=220056&type=card",
+        "multiverseId": "220056"
+    },
+    {
+        "name": "Gruesome Discovery",
+        "manaCost": "{2}{B}{B}",
+        "cmc": 4.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Sorcery",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "Target player discards two cards.\nMorbid — If a creature died this turn, instead that player reveals their hand, you choose two cards from it, then that player discards those cards.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262843&type=card",
+        "multiverseId": "262843"
+    },
+    {
+        "name": "Harrowing Journey",
+        "manaCost": "{4}{B}",
+        "cmc": 5.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "DKA",
+        "text": "Target player draws three cards and loses 3 life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262689&type=card",
+        "multiverseId": "262689"
+    },
+    {
+        "name": "Highborn Ghoul",
+        "manaCost": "{B}{B}",
+        "cmc": 2.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Zombie",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=242503&type=card",
+        "multiverseId": "242503"
+    },
+    {
+        "name": "Increasing Ambition",
+        "manaCost": "{4}{B}",
+        "cmc": 5.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Sorcery",
+        "rarity": "Rare",
+        "set": "DKA",
+        "text": "Search your library for a card and put that card into your hand. If this spell was cast from a graveyard, instead search your library for two cards and put those cards into your hand. Then shuffle.\nFlashback {7}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262833&type=card",
+        "multiverseId": "262833"
+    },
+    {
+        "name": "Mikaeus, the Unhallowed",
+        "manaCost": "{3}{B}{B}{B}",
+        "cmc": 6.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Legendary Creature — Zombie Cleric",
+        "rarity": "Mythic",
+        "set": "DKA",
+        "text": "Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)\nWhenever a Human deals damage to you, destroy it.\nOther non-Human creatures you control get +1/+1 and have undying. (When a creature with undying dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=249896&type=card",
+        "multiverseId": "249896"
+    },
+    {
+        "name": "Ravenous Demon // Archdemon of Greed",
+        "manaCost": "{3}{B}{B}",
+        "cmc": 5.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Demon",
+        "rarity": "Rare",
+        "set": "DKA",
+        "text": "Sacrifice a Human: Transform Ravenous Demon. Activate only as a sorcery.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=227417&type=card",
+        "multiverseId": "227417"
+    },
+    {
+        "name": "Ravenous Demon // Archdemon of Greed",
+        "manaCost": null,
+        "cmc": 5.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Demon",
+        "rarity": "Rare",
+        "set": "DKA",
+        "text": "Flying, trample\nAt the beginning of your upkeep, sacrifice a Human. If you can't, tap Archdemon of Greed and it deals 9 damage to you.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=227405&type=card",
+        "multiverseId": "227405"
+    },
+    {
+        "name": "Reap the Seagraf",
+        "manaCost": "{2}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Sorcery",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "Create a 2/2 black Zombie creature token.\nFlashback {4}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=244759&type=card",
+        "multiverseId": "244759"
+    },
+    {
+        "name": "Sightless Ghoul",
+        "manaCost": "{3}{B}",
+        "cmc": 4.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Zombie Soldier",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "Sightless Ghoul can't block.\nUndying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262682&type=card",
+        "multiverseId": "262682"
+    },
+    {
+        "name": "Skirsdag Flayer",
+        "manaCost": "{1}{B}",
+        "cmc": 2.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Human Cleric",
+        "rarity": "Uncommon",
+        "set": "DKA",
+        "text": "{3}{B}, {T}, Sacrifice a Human: Destroy target creature.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262667&type=card",
+        "multiverseId": "262667"
+    },
+    {
+        "name": "Spiteful Shadows",
+        "manaCost": "{1}{B}",
+        "cmc": 2.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "Enchant creature\nWhenever enchanted creature is dealt damage, it deals that much damage to its controller.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262668&type=card",
+        "multiverseId": "262668"
+    },
+    {
+        "name": "Tragic Slip",
+        "manaCost": "{B}",
+        "cmc": 1.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "Target creature gets -1/-1 until end of turn.\nMorbid — That creature gets -13/-13 until end of turn instead if a creature died this turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=242500&type=card",
+        "multiverseId": "242500"
+    },
+    {
+        "name": "Undying Evil",
+        "manaCost": "{B}",
+        "cmc": 1.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "Target creature gains undying until end of turn. (When it dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262835&type=card",
+        "multiverseId": "262835"
+    },
+    {
+        "name": "Vengeful Vampire",
+        "manaCost": "{4}{B}{B}",
+        "cmc": 6.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Vampire",
+        "rarity": "Uncommon",
+        "set": "DKA",
+        "text": "Flying\nUndying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262691&type=card",
+        "multiverseId": "262691"
+    },
+    {
+        "name": "Wakedancer",
+        "manaCost": "{2}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Human Shaman",
+        "rarity": "Uncommon",
+        "set": "DKA",
+        "text": "Morbid — When Wakedancer enters the battlefield, if a creature died this turn, create a 2/2 black Zombie creature token.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262836&type=card",
+        "multiverseId": "262836"
+    },
+    {
+        "name": "Zombie Apocalypse",
+        "manaCost": "{3}{B}{B}{B}",
+        "cmc": 6.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Sorcery",
+        "rarity": "Rare",
+        "set": "DKA",
+        "text": "Return all Zombie creature cards from your graveyard to the battlefield tapped, then destroy all Humans.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262669&type=card",
+        "multiverseId": "262669"
+    },
+    {
+        "name": "Afflicted Deserter // Werewolf Ransacker",
+        "manaCost": "{3}{R}",
+        "cmc": 4.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Human Werewolf",
+        "rarity": "Uncommon",
+        "set": "DKA",
+        "text": "At the beginning of each upkeep, if no spells were cast last turn, transform Afflicted Deserter.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262675&type=card",
+        "multiverseId": "262675"
+    },
+    {
+        "name": "Afflicted Deserter // Werewolf Ransacker",
+        "manaCost": null,
+        "cmc": 4.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Werewolf",
+        "rarity": "Uncommon",
+        "set": "DKA",
+        "text": "Whenever this creature transforms into Werewolf Ransacker, you may destroy target artifact. If that artifact is put into a graveyard this way, Werewolf Ransacker deals 3 damage to that artifact's controller.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Werewolf Ransacker.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262698&type=card",
+        "multiverseId": "262698"
+    },
+    {
+        "name": "Alpha Brawl",
+        "manaCost": "{6}{R}{R}",
+        "cmc": 8.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Sorcery",
+        "rarity": "Rare",
+        "set": "DKA",
+        "text": "Target creature an opponent controls deals damage equal to its power to each other creature that player controls, then each of those creatures deals damage equal to its power to that creature.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262657&type=card",
+        "multiverseId": "262657"
+    },
+    {
+        "name": "Blood Feud",
+        "manaCost": "{4}{R}{R}",
+        "cmc": 6.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "DKA",
+        "text": "Target creature fights another target creature. (Each deals damage equal to its power to the other.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=244731&type=card",
+        "multiverseId": "244731"
+    },
+    {
+        "name": "Burning Oil",
+        "manaCost": "{1}{R}",
+        "cmc": 2.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon",
+        "set": "DKA",
+        "text": "Burning Oil deals 3 damage to target attacking or blocking creature.\nFlashback {3}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262705&type=card",
+        "multiverseId": "262705"
+    },
+    {
+        "name": "Curse of Bloodletting",
+        "manaCost": "{3}{R}{R}",
+        "cmc": 5.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Enchantment — Aura Curse",
+        "rarity": "Rare",
+        "set": "DKA",
+        "text": "Enchant player\nIf a source would deal damage to enchanted player, it deals double that damage to that player instead.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=227091&type=card",
+        "multiverseId": "227091"
+    },
+    {
+        "name": "Erdwal Ripper",
+        "manaCost": "{1}{R}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Vampire",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "Haste\nWhenever Erdwal Ripper deals combat damage to a player, put a +1/+1 counter on it.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=249979&type=card",
+        "multiverseId": "249979"
+    },
+    {
+        "name": "Faithless Looting",
+        "manaCost": "{R}",
+        "cmc": 1.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Sorcery",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "Draw two cards, then discard two cards.\nFlashback {2}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=245299&type=card",
+        "multiverseId": "245299"
+    },
+    {
+        "name": "Fires of Undeath",
+        "manaCost": "{2}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "Fires of Undeath deals 2 damage to any target.\nFlashback {5}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262832&type=card",
+        "multiverseId": "262832"
+    },
+    {
+        "name": "Flayer of the Hatebound",
+        "manaCost": "{5}{R}",
+        "cmc": 6.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Devil",
+        "rarity": "Rare",
+        "set": "DKA",
+        "text": "Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)\nWhenever Flayer of the Hatebound or another creature enters the battlefield from your graveyard, that creature deals damage equal to its power to any target.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262853&type=card",
+        "multiverseId": "262853"
+    },
+    {
+        "name": "Fling",
+        "manaCost": "{1}{R}",
+        "cmc": 2.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "As an additional cost to cast this spell, sacrifice a creature.\nFling deals damage equal to the sacrificed creature's power to any target.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262871&type=card",
+        "multiverseId": "262871"
+    },
+    {
+        "name": "Forge Devil",
+        "manaCost": "{R}",
+        "cmc": 1.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Devil",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "When Forge Devil enters the battlefield, it deals 1 damage to target creature and 1 damage to you.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=221174&type=card",
+        "multiverseId": "221174"
+    },
+    {
+        "name": "Heckling Fiends",
+        "manaCost": "{2}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Devil",
+        "rarity": "Uncommon",
+        "set": "DKA",
+        "text": "{2}{R}: Target creature attacks this turn if able.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262704&type=card",
+        "multiverseId": "262704"
+    },
+    {
+        "name": "Hellrider",
+        "manaCost": "{2}{R}{R}",
+        "cmc": 4.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Devil",
+        "rarity": "Rare",
+        "set": "DKA",
+        "text": "Haste\nWhenever a creature you control attacks, Hellrider deals 1 damage to the player or planeswalker it's attacking.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=226874&type=card",
+        "multiverseId": "226874"
+    },
+    {
+        "name": "Hinterland Hermit // Hinterland Scourge",
+        "manaCost": "{1}{R}",
+        "cmc": 2.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Human Werewolf",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "At the beginning of each upkeep, if no spells were cast last turn, transform Hinterland Hermit.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=247125&type=card",
+        "multiverseId": "247125"
+    },
+    {
+        "name": "Hinterland Hermit // Hinterland Scourge",
+        "manaCost": null,
+        "cmc": 2.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Werewolf",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "Hinterland Scourge must be blocked if able.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Hinterland Scourge.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=247122&type=card",
+        "multiverseId": "247122"
+    },
+    {
+        "name": "Increasing Vengeance",
+        "manaCost": "{R}{R}",
+        "cmc": 2.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Instant",
+        "rarity": "Rare",
+        "set": "DKA",
+        "text": "Copy target instant or sorcery spell you control. If this spell was cast from a graveyard, copy that spell twice instead. You may choose new targets for the copies.\nFlashback {3}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262661&type=card",
+        "multiverseId": "262661"
+    },
+    {
+        "name": "Markov Blademaster",
+        "manaCost": "{1}{R}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Vampire Warrior",
+        "rarity": "Rare",
+        "set": "DKA",
+        "text": "Double strike\nWhenever Markov Blademaster deals combat damage to a player, put a +1/+1 counter on it.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=249419&type=card",
+        "multiverseId": "249419"
+    },
+    {
+        "name": "Markov Warlord",
+        "manaCost": "{5}{R}",
+        "cmc": 6.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Vampire Warrior",
+        "rarity": "Uncommon",
+        "set": "DKA",
+        "text": "Haste\nWhen Markov Warlord enters the battlefield, up to two target creatures can't block this turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262693&type=card",
+        "multiverseId": "262693"
+    },
+    {
+        "name": "Mondronen Shaman // Tovolar's Magehunter",
+        "manaCost": "{3}{R}",
+        "cmc": 4.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Human Shaman Werewolf",
+        "rarity": "Rare",
+        "set": "DKA",
+        "text": "At the beginning of each upkeep, if no spells were cast last turn, transform Mondronen Shaman.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=253433&type=card",
+        "multiverseId": "253433"
+    },
+    {
+        "name": "Mondronen Shaman // Tovolar's Magehunter",
+        "manaCost": null,
+        "cmc": 4.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Werewolf",
+        "rarity": "Rare",
+        "set": "DKA",
+        "text": "Whenever an opponent casts a spell, Tovolar's Magehunter deals 2 damage to that player.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Tovolar's Magehunter.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=253429&type=card",
+        "multiverseId": "253429"
+    },
+    {
+        "name": "Moonveil Dragon",
+        "manaCost": "{3}{R}{R}{R}",
+        "cmc": 6.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Dragon",
+        "rarity": "Mythic",
+        "set": "DKA",
+        "text": "Flying\n{R}: Each creature you control gets +1/+0 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=249885&type=card",
+        "multiverseId": "249885"
+    },
+    {
+        "name": "Nearheath Stalker",
+        "manaCost": "{4}{R}",
+        "cmc": 5.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Vampire Rogue",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262681&type=card",
+        "multiverseId": "262681"
+    },
+    {
+        "name": "Pyreheart Wolf",
+        "manaCost": "{2}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Wolf",
+        "rarity": "Uncommon",
+        "set": "DKA",
+        "text": "Whenever Pyreheart Wolf attacks, creatures you control gain menace until end of turn. (They can't be blocked except by two or more creatures.)\nUndying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=249983&type=card",
+        "multiverseId": "249983"
+    },
+    {
+        "name": "Russet Wolves",
+        "manaCost": "{3}{R}",
+        "cmc": 4.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Wolf",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": null,
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=244726&type=card",
+        "multiverseId": "244726"
+    },
+    {
+        "name": "Scorch the Fields",
+        "manaCost": "{4}{R}",
+        "cmc": 5.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Sorcery",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "Destroy target land. Scorch the Fields deals 1 damage to each Human creature.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262828&type=card",
+        "multiverseId": "262828"
+    },
+    {
+        "name": "Shattered Perception",
+        "manaCost": "{2}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "DKA",
+        "text": "Discard all the cards in your hand, then draw that many cards.\nFlashback {5}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=254058&type=card",
+        "multiverseId": "254058"
+    },
+    {
+        "name": "Talons of Falkenrath",
+        "manaCost": "{1}{R}",
+        "cmc": 2.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "Flash (You may cast this spell any time you could cast an instant.)\nEnchant creature\nEnchanted creature has \"{1}{R}: This creature gets +2/+0 until end of turn.\"",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262855&type=card",
+        "multiverseId": "262855"
+    },
+    {
+        "name": "Torch Fiend",
+        "manaCost": "{1}{R}",
+        "cmc": 2.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Devil",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "{R}, Sacrifice Torch Fiend: Destroy target artifact.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=244702&type=card",
+        "multiverseId": "244702"
+    },
+    {
+        "name": "Wrack with Madness",
+        "manaCost": "{3}{R}",
+        "cmc": 4.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Sorcery",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "Target creature deals damage to itself equal to its power.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=243231&type=card",
+        "multiverseId": "243231"
+    },
+    {
+        "name": "Briarpack Alpha",
+        "manaCost": "{3}{G}",
+        "cmc": 4.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Wolf",
+        "rarity": "Uncommon",
+        "set": "DKA",
+        "text": "Flash (You may cast this spell any time you could cast an instant.)\nWhen Briarpack Alpha enters the battlefield, target creature gets +2/+2 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262664&type=card",
+        "multiverseId": "262664"
+    },
+    {
+        "name": "Clinging Mists",
+        "manaCost": "{2}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "Prevent all combat damage that would be dealt this turn.\nFateful hour — If you have 5 or less life, tap all attacking creatures. Those creatures don't untap during their controller's next untap step.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262844&type=card",
+        "multiverseId": "262844"
+    },
+    {
+        "name": "Crushing Vines",
+        "manaCost": "{2}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "Choose one —\n• Destroy target creature with flying.\n• Destroy target artifact.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262867&type=card",
+        "multiverseId": "262867"
+    },
+    {
+        "name": "Dawntreader Elk",
+        "manaCost": "{1}{G}",
+        "cmc": 2.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Elk",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "{G}, Sacrifice Dawntreader Elk: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=242532&type=card",
+        "multiverseId": "242532"
+    },
+    {
+        "name": "Deranged Outcast",
+        "manaCost": "{1}{G}",
+        "cmc": 2.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Human Rogue",
+        "rarity": "Rare",
+        "set": "DKA",
+        "text": "{1}{G}, Sacrifice a Human: Put two +1/+1 counters on target creature.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=249901&type=card",
+        "multiverseId": "249901"
+    },
+    {
+        "name": "Favor of the Woods",
+        "manaCost": "{2}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "Enchant creature\nWhenever enchanted creature blocks, you gain 3 life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262687&type=card",
+        "multiverseId": "262687"
+    },
+    {
+        "name": "Feed the Pack",
+        "manaCost": "{5}{G}",
+        "cmc": 6.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Enchantment",
+        "rarity": "Rare",
+        "set": "DKA",
+        "text": "At the beginning of your end step, you may sacrifice a nontoken creature. If you do, create X 2/2 green Wolf creature tokens, where X is the sacrificed creature's toughness.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262857&type=card",
+        "multiverseId": "262857"
+    },
+    {
+        "name": "Ghoultree",
+        "manaCost": "{7}{G}",
+        "cmc": 8.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Zombie Treefolk",
+        "rarity": "Rare",
+        "set": "DKA",
+        "text": "This spell costs {1} less to cast for each creature card in your graveyard.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262662&type=card",
+        "multiverseId": "262662"
+    },
+    {
+        "name": "Gravetiller Wurm",
+        "manaCost": "{5}{G}",
+        "cmc": 6.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Wurm",
+        "rarity": "Uncommon",
+        "set": "DKA",
+        "text": "Trample\nMorbid — Gravetiller Wurm enters the battlefield with four +1/+1 counters on it if a creature died this turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262673&type=card",
+        "multiverseId": "262673"
+    },
+    {
+        "name": "Grim Flowering",
+        "manaCost": "{5}{G}",
+        "cmc": 6.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "DKA",
+        "text": "Draw a card for each creature card in your graveyard.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262842&type=card",
+        "multiverseId": "262842"
+    },
+    {
+        "name": "Hollowhenge Beast",
+        "manaCost": "{3}{G}{G}",
+        "cmc": 5.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Beast",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": null,
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262868&type=card",
+        "multiverseId": "262868"
+    },
+    {
+        "name": "Hunger of the Howlpack",
+        "manaCost": "{G}",
+        "cmc": 1.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "Put a +1/+1 counter on target creature.\nMorbid — Put three +1/+1 counters on that creature instead if a creature died this turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=243257&type=card",
+        "multiverseId": "243257"
+    },
+    {
+        "name": "Increasing Savagery",
+        "manaCost": "{2}{G}{G}",
+        "cmc": 4.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Sorcery",
+        "rarity": "Rare",
+        "set": "DKA",
+        "text": "Put five +1/+1 counters on target creature. If this spell was cast from a graveyard, put ten +1/+1 counters on that creature instead.\nFlashback {5}{G}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262834&type=card",
+        "multiverseId": "262834"
+    },
+    {
+        "name": "Kessig Recluse",
+        "manaCost": "{2}{G}{G}",
+        "cmc": 4.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Spider",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "Reach (This creature can block creatures with flying.)\nDeathtouch (Any amount of damage this deals to a creature is enough to destroy it.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=243233&type=card",
+        "multiverseId": "243233"
+    },
+    {
+        "name": "Lambholt Elder // Silverpelt Werewolf",
+        "manaCost": "{2}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Human Werewolf",
+        "rarity": "Uncommon",
+        "set": "DKA",
+        "text": "At the beginning of each upkeep, if no spells were cast last turn, transform Lambholt Elder.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=242537&type=card",
+        "multiverseId": "242537"
+    },
+    {
+        "name": "Lambholt Elder // Silverpelt Werewolf",
+        "manaCost": null,
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Werewolf",
+        "rarity": "Uncommon",
+        "set": "DKA",
+        "text": "Whenever Silverpelt Werewolf deals combat damage to a player, draw a card.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Silverpelt Werewolf.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=242509&type=card",
+        "multiverseId": "242509"
+    },
+    {
+        "name": "Lost in the Woods",
+        "manaCost": "{3}{G}{G}",
+        "cmc": 5.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Enchantment",
+        "rarity": "Rare",
+        "set": "DKA",
+        "text": "Whenever a creature attacks you or a planeswalker you control, reveal the top card of your library. If it's a Forest card, remove that creature from combat. Then put the revealed card on the bottom of your library.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=242539&type=card",
+        "multiverseId": "242539"
+    },
+    {
+        "name": "Predator Ooze",
+        "manaCost": "{G}{G}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Ooze",
+        "rarity": "Rare",
+        "set": "DKA",
+        "text": "Indestructible\nWhenever Predator Ooze attacks, put a +1/+1 counter on it.\nWhenever a creature dealt damage by Predator Ooze this turn dies, put a +1/+1 counter on Predator Ooze.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262866&type=card",
+        "multiverseId": "262866"
+    },
+    {
+        "name": "Scorned Villager // Moonscarred Werewolf",
+        "manaCost": "{1}{G}",
+        "cmc": 2.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Human Werewolf",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "{T}: Add {G}.\nAt the beginning of each upkeep, if no spells were cast last turn, transform Scorned Villager.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262694&type=card",
+        "multiverseId": "262694"
+    },
+    {
+        "name": "Scorned Villager // Moonscarred Werewolf",
+        "manaCost": null,
+        "cmc": 2.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Werewolf",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "Vigilance\n{T}: Add {G}{G}.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Moonscarred Werewolf.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262659&type=card",
+        "multiverseId": "262659"
+    },
+    {
+        "name": "Somberwald Dryad",
+        "manaCost": "{1}{G}",
+        "cmc": 2.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Dryad",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=244768&type=card",
+        "multiverseId": "244768"
+    },
+    {
+        "name": "Strangleroot Geist",
+        "manaCost": "{G}{G}",
+        "cmc": 2.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Spirit",
+        "rarity": "Uncommon",
+        "set": "DKA",
+        "text": "Haste\nUndying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262671&type=card",
+        "multiverseId": "262671"
+    },
+    {
+        "name": "Tracker's Instincts",
+        "manaCost": "{1}{G}",
+        "cmc": 2.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "DKA",
+        "text": "Reveal the top four cards of your library. Put a creature card from among them into your hand and the rest into your graveyard.\nFlashback {2}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=247116&type=card",
+        "multiverseId": "247116"
+    },
+    {
+        "name": "Ulvenwald Bear",
+        "manaCost": "{2}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Bear",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "Morbid — When Ulvenwald Bear enters the battlefield, if a creature died this turn, put two +1/+1 counters on target creature.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=244727&type=card",
+        "multiverseId": "244727"
+    },
+    {
+        "name": "Village Survivors",
+        "manaCost": "{4}{G}",
+        "cmc": 5.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Human",
+        "rarity": "Uncommon",
+        "set": "DKA",
+        "text": "Vigilance\nFateful hour — As long as you have 5 or less life, other creatures you control have vigilance.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262688&type=card",
+        "multiverseId": "262688"
+    },
+    {
+        "name": "Vorapede",
+        "manaCost": "{2}{G}{G}{G}",
+        "cmc": 5.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Insect",
+        "rarity": "Mythic",
+        "set": "DKA",
+        "text": "Vigilance, trample\nUndying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262850&type=card",
+        "multiverseId": "262850"
+    },
+    {
+        "name": "Wild Hunger",
+        "manaCost": "{2}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "Target creature gets +3/+1 and gains trample until end of turn.\nFlashback {3}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=245291&type=card",
+        "multiverseId": "245291"
+    },
+    {
+        "name": "Wolfbitten Captive // Krallenhorde Killer",
+        "manaCost": "{G}",
+        "cmc": 1.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Human Werewolf",
+        "rarity": "Rare",
+        "set": "DKA",
+        "text": "{1}{G}: Wolfbitten Captive gets +2/+2 until end of turn. Activate only once each turn.\nAt the beginning of each upkeep, if no spells were cast last turn, transform Wolfbitten Captive.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=253426&type=card",
+        "multiverseId": "253426"
+    },
+    {
+        "name": "Wolfbitten Captive // Krallenhorde Killer",
+        "manaCost": null,
+        "cmc": 1.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Werewolf",
+        "rarity": "Rare",
+        "set": "DKA",
+        "text": "{3}{G}: Krallenhorde Killer gets +4/+4 until end of turn. Activate only once each turn.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Krallenhorde Killer.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=253431&type=card",
+        "multiverseId": "253431"
+    },
+    {
+        "name": "Young Wolf",
+        "manaCost": "{G}",
+        "cmc": 1.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Wolf",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262872&type=card",
+        "multiverseId": "262872"
+    },
+    {
+        "name": "Diregraf Captain",
+        "manaCost": "{1}{U}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B",
+            "U"
+        ],
+        "type": "Creature — Zombie Soldier",
+        "rarity": "Uncommon",
+        "set": "DKA",
+        "text": "Deathtouch\nOther Zombie creatures you control get +1/+1.\nWhenever another Zombie you control dies, target opponent loses 1 life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262663&type=card",
+        "multiverseId": "262663"
+    },
+    {
+        "name": "Drogskol Captain",
+        "manaCost": "{1}{W}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U",
+            "W"
+        ],
+        "type": "Creature — Spirit Soldier",
+        "rarity": "Uncommon",
+        "set": "DKA",
+        "text": "Flying\nOther Spirit creatures you control get +1/+1 and have hexproof. (They can't be the targets of spells or abilities your opponents control.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=244773&type=card",
+        "multiverseId": "244773"
+    },
+    {
+        "name": "Drogskol Reaver",
+        "manaCost": "{5}{W}{U}",
+        "cmc": 7.0,
+        "colors": [
+            "U",
+            "W"
+        ],
+        "type": "Creature — Spirit",
+        "rarity": "Mythic",
+        "set": "DKA",
+        "text": "Flying, double strike, lifelink\nWhenever you gain life, draw a card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262860&type=card",
+        "multiverseId": "262860"
+    },
+    {
+        "name": "Falkenrath Aristocrat",
+        "manaCost": "{2}{B}{R}",
+        "cmc": 4.0,
+        "colors": [
+            "B",
+            "R"
+        ],
+        "type": "Creature — Vampire Noble",
+        "rarity": "Mythic",
+        "set": "DKA",
+        "text": "Flying, haste\nSacrifice a creature: Falkenrath Aristocrat gains indestructible until end of turn. If the sacrificed creature was a Human, put a +1/+1 counter on Falkenrath Aristocrat.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262847&type=card",
+        "multiverseId": "262847"
+    },
+    {
+        "name": "Havengul Lich",
+        "manaCost": "{3}{U}{B}",
+        "cmc": 5.0,
+        "colors": [
+            "B",
+            "U"
+        ],
+        "type": "Creature — Zombie Wizard",
+        "rarity": "Mythic",
+        "set": "DKA",
+        "text": "{1}: You may cast target creature card in a graveyard this turn. When you cast it this turn, Havengul Lich gains all activated abilities of that card until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262852&type=card",
+        "multiverseId": "262852"
+    },
+    {
+        "name": "Huntmaster of the Fells // Ravager of the Fells",
+        "manaCost": "{2}{R}{G}",
+        "cmc": 4.0,
+        "colors": [
+            "G",
+            "R"
+        ],
+        "type": "Creature — Human Werewolf",
+        "rarity": "Mythic",
+        "set": "DKA",
+        "text": "Whenever this creature enters the battlefield or transforms into Huntmaster of the Fells, create a 2/2 green Wolf creature token and you gain 2 life.\nAt the beginning of each upkeep, if no spells were cast last turn, transform Huntmaster of the Fells.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262875&type=card",
+        "multiverseId": "262875"
+    },
+    {
+        "name": "Huntmaster of the Fells // Ravager of the Fells",
+        "manaCost": null,
+        "cmc": 4.0,
+        "colors": [
+            "G",
+            "R"
+        ],
+        "type": "Creature — Werewolf",
+        "rarity": "Mythic",
+        "set": "DKA",
+        "text": "Trample\nWhenever this creature transforms into Ravager of the Fells, it deals 2 damage to target opponent or planeswalker and 2 damage to up to one target creature that player or that planeswalker's controller controls.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Ravager of the Fells.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262699&type=card",
+        "multiverseId": "262699"
+    },
+    {
+        "name": "Immerwolf",
+        "manaCost": "{1}{R}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G",
+            "R"
+        ],
+        "type": "Creature — Wolf",
+        "rarity": "Uncommon",
+        "set": "DKA",
+        "text": "Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)\nEach other creature you control that's a Wolf or a Werewolf gets +1/+1.\nNon-Human Werewolves you control can't transform.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262700&type=card",
+        "multiverseId": "262700"
+    },
+    {
+        "name": "Sorin, Lord of Innistrad",
+        "manaCost": "{2}{W}{B}",
+        "cmc": 4.0,
+        "colors": [
+            "B",
+            "W"
+        ],
+        "type": "Legendary Planeswalker — Sorin",
+        "rarity": "Mythic",
+        "set": "DKA",
+        "text": "[+1]: Create a 1/1 black Vampire creature token with lifelink.\n[−2]: You get an emblem with \"Creatures you control get +1/+0.\"\n[−6]: Destroy up to three target creatures and/or other planeswalkers. Return each card put into a graveyard this way to the battlefield under your control.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=249985&type=card",
+        "multiverseId": "249985"
+    },
+    {
+        "name": "Stromkirk Captain",
+        "manaCost": "{1}{B}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "B",
+            "R"
+        ],
+        "type": "Creature — Vampire Soldier",
+        "rarity": "Uncommon",
+        "set": "DKA",
+        "text": "First strike\nOther Vampire creatures you control get +1/+1 and have first strike.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262676&type=card",
+        "multiverseId": "262676"
+    },
+    {
+        "name": "Altar of the Lost",
+        "manaCost": "{3}",
+        "cmc": 3.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Uncommon",
+        "set": "DKA",
+        "text": "Altar of the Lost enters the battlefield tapped.\n{T}: Add two mana in any combination of colors. Spend this mana only to cast spells with flashback from a graveyard.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262846&type=card",
+        "multiverseId": "262846"
+    },
+    {
+        "name": "Avacyn's Collar",
+        "manaCost": "{1}",
+        "cmc": 1.0,
+        "colors": null,
+        "type": "Artifact — Equipment",
+        "rarity": "Uncommon",
+        "set": "DKA",
+        "text": "Equipped creature gets +1/+0 and has vigilance.\nWhenever equipped creature dies, if it was a Human, create a 1/1 white Spirit creature token with flying.\nEquip {2}",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262863&type=card",
+        "multiverseId": "262863"
+    },
+    {
+        "name": "Chalice of Life // Chalice of Death",
+        "manaCost": "{3}",
+        "cmc": 3.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Uncommon",
+        "set": "DKA",
+        "text": "{T}: You gain 1 life. Then if you have at least 10 life more than your starting life total, transform Chalice of Life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=226735&type=card",
+        "multiverseId": "226735"
+    },
+    {
+        "name": "Chalice of Life // Chalice of Death",
+        "manaCost": null,
+        "cmc": 3.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Uncommon",
+        "set": "DKA",
+        "text": "{T}: Target player loses 5 life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=226721&type=card",
+        "multiverseId": "226721"
+    },
+    {
+        "name": "Elbrus, the Binding Blade // Withengar Unbound",
+        "manaCost": "{7}",
+        "cmc": 7.0,
+        "colors": null,
+        "type": "Legendary Artifact — Equipment",
+        "rarity": "Mythic",
+        "set": "DKA",
+        "text": "Equipped creature gets +1/+0.\nWhen equipped creature deals combat damage to a player, unattach Elbrus, the Binding Blade, then transform it.\nEquip {1}",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=244740&type=card",
+        "multiverseId": "244740"
+    },
+    {
+        "name": "Elbrus, the Binding Blade // Withengar Unbound",
+        "manaCost": null,
+        "cmc": 7.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Legendary Creature — Demon",
+        "rarity": "Mythic",
+        "set": "DKA",
+        "text": "Flying, intimidate, trample (A creature with intimidate can't be blocked except by artifact creatures and/or creatures that share a color with it.)\nWhenever a player loses the game, put thirteen +1/+1 counters on Withengar Unbound.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=244738&type=card",
+        "multiverseId": "244738"
+    },
+    {
+        "name": "Executioner's Hood",
+        "manaCost": "{2}",
+        "cmc": 2.0,
+        "colors": null,
+        "type": "Artifact — Equipment",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "Equipped creature has intimidate. (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=244737&type=card",
+        "multiverseId": "244737"
+    },
+    {
+        "name": "Grafdigger's Cage",
+        "manaCost": "{1}",
+        "cmc": 1.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Rare",
+        "set": "DKA",
+        "text": "Creature cards in graveyards and libraries can't enter the battlefield.\nPlayers can't cast spells from graveyards or libraries.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=278452&type=card",
+        "multiverseId": "278452"
+    },
+    {
+        "name": "Heavy Mattock",
+        "manaCost": "{3}",
+        "cmc": 3.0,
+        "colors": null,
+        "type": "Artifact — Equipment",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "Equipped creature gets +1/+1.\nAs long as equipped creature is a Human, it gets an additional +1/+1.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=244766&type=card",
+        "multiverseId": "244766"
+    },
+    {
+        "name": "Helvault",
+        "manaCost": "{3}",
+        "cmc": 3.0,
+        "colors": null,
+        "type": "Legendary Artifact",
+        "rarity": "Mythic",
+        "set": "DKA",
+        "text": "{1}, {T}: Exile target creature you control.\n{7}, {T}: Exile target creature you don't control.\nWhen Helvault is put into a graveyard from the battlefield, return all cards exiled with it to the battlefield under their owners' control.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262679&type=card",
+        "multiverseId": "262679"
+    },
+    {
+        "name": "Jar of Eyeballs",
+        "manaCost": "{3}",
+        "cmc": 3.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Rare",
+        "set": "DKA",
+        "text": "Whenever a creature you control dies, put two eyeball counters on Jar of Eyeballs.\n{3}, {T}, Remove all eyeball counters from Jar of Eyeballs: Look at the top X cards of your library, where X is the number of eyeball counters removed this way. Put one of them into your hand and the rest on the bottom of your library in any order.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=244695&type=card",
+        "multiverseId": "244695"
+    },
+    {
+        "name": "Warden of the Wall",
+        "manaCost": "{3}",
+        "cmc": 3.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Uncommon",
+        "set": "DKA",
+        "text": "Warden of the Wall enters the battlefield tapped.\n{T}: Add {C}.\nAs long as it's not your turn, Warden of the Wall is a 2/3 Gargoyle artifact creature with flying.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=247130&type=card",
+        "multiverseId": "247130"
+    },
+    {
+        "name": "Wolfhunter's Quiver",
+        "manaCost": "{1}",
+        "cmc": 1.0,
+        "colors": null,
+        "type": "Artifact — Equipment",
+        "rarity": "Uncommon",
+        "set": "DKA",
+        "text": "Equipped creature has \"{T}: This creature deals 1 damage to any target\" and \"{T}: This creature deals 3 damage to target Werewolf creature.\"\nEquip {5}",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=247124&type=card",
+        "multiverseId": "247124"
+    },
+    {
+        "name": "Evolving Wilds",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Land",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262680&type=card",
+        "multiverseId": "262680"
+    },
+    {
+        "name": "Grim Backwoods",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Land",
+        "rarity": "Rare",
+        "set": "DKA",
+        "text": "{T}: Add {C}.\n{2}{B}{G}, {T}, Sacrifice a creature: Draw a card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270939&type=card",
+        "multiverseId": "270939"
+    },
+    {
+        "name": "Haunted Fengraf",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Land",
+        "rarity": "Common",
+        "set": "DKA",
+        "text": "{T}: Add {C}.\n{3}, {T}, Sacrifice Haunted Fengraf: Return a creature card at random from your graveyard to your hand.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=245289&type=card",
+        "multiverseId": "245289"
+    },
+    {
+        "name": "Vault of the Archangel",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Land",
+        "rarity": "Rare",
+        "set": "DKA",
+        "text": "{T}: Add {C}.\n{2}{W}{B}, {T}: Creatures you control gain deathtouch and lifelink until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270938&type=card",
+        "multiverseId": "270938"
+    }
+]

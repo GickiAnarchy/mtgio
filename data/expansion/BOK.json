@@ -1,0 +1,2358 @@
+[
+    {
+        "name": "Day of Destiny",
+        "manaCost": "{3}{W}",
+        "cmc": 4.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Legendary Enchantment",
+        "rarity": "Rare",
+        "set": "BOK",
+        "text": "Legendary creatures you control get +2/+2.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74517&type=card",
+        "multiverseId": "74517"
+    },
+    {
+        "name": "Empty-Shrine Kannushi",
+        "manaCost": "{W}",
+        "cmc": 1.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Human Cleric",
+        "rarity": "Uncommon",
+        "set": "BOK",
+        "text": "Empty-Shrine Kannushi has protection from the colors of permanents you control.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74513&type=card",
+        "multiverseId": "74513"
+    },
+    {
+        "name": "Faithful Squire // Kaiso, Memory of Loyalty",
+        "manaCost": "{1}{W}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Human Soldier",
+        "rarity": "Uncommon",
+        "set": "BOK",
+        "text": "Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Faithful Squire.\nAt the beginning of the end step, if there are two or more ki counters on Faithful Squire, you may flip it.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74093&type=card",
+        "multiverseId": "74093"
+    },
+    {
+        "name": "Faithful Squire // Kaiso, Memory of Loyalty",
+        "manaCost": null,
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Legendary Creature — Spirit",
+        "rarity": "Uncommon",
+        "set": "BOK",
+        "text": "Flying\nRemove a ki counter from Kaiso, Memory of Loyalty: Prevent all damage that would be dealt to target creature this turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74093&type=card",
+        "multiverseId": "74093"
+    },
+    {
+        "name": "Final Judgment",
+        "manaCost": "{4}{W}{W}",
+        "cmc": 6.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Sorcery",
+        "rarity": "Rare",
+        "set": "BOK",
+        "text": "Exile all creatures.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=81991&type=card",
+        "multiverseId": "81991"
+    },
+    {
+        "name": "Genju of the Fields",
+        "manaCost": "{W}",
+        "cmc": 1.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Uncommon",
+        "set": "BOK",
+        "text": "Enchant Plains\n{2}: Until end of turn, enchanted Plains becomes a 2/5 white Spirit creature with \"Whenever this creature deals damage, its controller gains that much life.\" It's still a land.\nWhen enchanted Plains is put into a graveyard, you may return Genju of the Fields from your graveyard to your hand.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74087&type=card",
+        "multiverseId": "74087"
+    },
+    {
+        "name": "Heart of Light",
+        "manaCost": "{2}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Common",
+        "set": "BOK",
+        "text": "Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)\nPrevent all damage that would be dealt to and dealt by enchanted creature.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=81982&type=card",
+        "multiverseId": "81982"
+    },
+    {
+        "name": "Hokori, Dust Drinker",
+        "manaCost": "{2}{W}{W}",
+        "cmc": 4.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Legendary Creature — Spirit",
+        "rarity": "Rare",
+        "set": "BOK",
+        "text": "Lands don't untap during their controllers' untap steps.\nAt the beginning of each player's upkeep, that player untaps a land they control.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74647&type=card",
+        "multiverseId": "74647"
+    },
+    {
+        "name": "Hundred-Talon Strike",
+        "manaCost": "{W}",
+        "cmc": 1.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Instant — Arcane",
+        "rarity": "Common",
+        "set": "BOK",
+        "text": "Target creature gets +1/+0 and gains first strike until end of turn.\nSplice onto Arcane—Tap an untapped white creature you control. (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74581&type=card",
+        "multiverseId": "74581"
+    },
+    {
+        "name": "Indebted Samurai",
+        "manaCost": "{3}{W}",
+        "cmc": 4.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Human Samurai",
+        "rarity": "Uncommon",
+        "set": "BOK",
+        "text": "Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)\nWhenever a Samurai you control dies, you may put a +1/+1 counter on Indebted Samurai.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74091&type=card",
+        "multiverseId": "74091"
+    },
+    {
+        "name": "Kami of False Hope",
+        "manaCost": "{W}",
+        "cmc": 1.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Spirit",
+        "rarity": "Common",
+        "set": "BOK",
+        "text": "Sacrifice Kami of False Hope: Prevent all combat damage that would be dealt this turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74097&type=card",
+        "multiverseId": "74097"
+    },
+    {
+        "name": "Kami of Tattered Shoji",
+        "manaCost": "{4}{W}",
+        "cmc": 5.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Spirit",
+        "rarity": "Common",
+        "set": "BOK",
+        "text": "Whenever you cast a Spirit or Arcane spell, Kami of Tattered Shoji gains flying until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74460&type=card",
+        "multiverseId": "74460"
+    },
+    {
+        "name": "Kami of the Honored Dead",
+        "manaCost": "{5}{W}{W}",
+        "cmc": 7.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Spirit",
+        "rarity": "Uncommon",
+        "set": "BOK",
+        "text": "Flying\nWhenever Kami of the Honored Dead is dealt damage, you gain that much life.\nSoulshift 6 (When this creature dies, you may return target Spirit card with mana value 6 or less from your graveyard to your hand.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=81977&type=card",
+        "multiverseId": "81977"
+    },
+    {
+        "name": "Kentaro, the Smiling Cat",
+        "manaCost": "{1}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Legendary Creature — Human Samurai",
+        "rarity": "Rare",
+        "set": "BOK",
+        "text": "Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)\nYou may pay {X} rather than pay the mana cost for Samurai spells you cast, where X is that spell's mana value.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=81968&type=card",
+        "multiverseId": "81968"
+    },
+    {
+        "name": "Kitsune Palliator",
+        "manaCost": "{2}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Fox Cleric",
+        "rarity": "Uncommon",
+        "set": "BOK",
+        "text": "{T}: Prevent the next 1 damage that would be dealt to each creature and each player this turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74603&type=card",
+        "multiverseId": "74603"
+    },
+    {
+        "name": "Mending Hands",
+        "manaCost": "{W}",
+        "cmc": 1.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "BOK",
+        "text": "Prevent the next 4 damage that would be dealt to any target this turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74538&type=card",
+        "multiverseId": "74538"
+    },
+    {
+        "name": "Moonlit Strider",
+        "manaCost": "{3}{W}",
+        "cmc": 4.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Spirit",
+        "rarity": "Common",
+        "set": "BOK",
+        "text": "Sacrifice Moonlit Strider: Target creature you control gains protection from the color of your choice until end of turn.\nSoulshift 3 (When this creature dies, you may return target Spirit card with mana value 3 or less from your graveyard to your hand.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74028&type=card",
+        "multiverseId": "74028"
+    },
+    {
+        "name": "Opal-Eye, Konda's Yojimbo",
+        "manaCost": "{1}{W}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Legendary Creature — Fox Samurai",
+        "rarity": "Rare",
+        "set": "BOK",
+        "text": "Defender (This creature can't attack.)\nBushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)\n{T}: The next time a source of your choice would deal damage this turn, that damage is dealt to Opal-Eye, Konda's Yojimbo instead.\n{1}{W}: Prevent the next 1 damage that would be dealt to Opal-Eye this turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74655&type=card",
+        "multiverseId": "74655"
+    },
+    {
+        "name": "Oyobi, Who Split the Heavens",
+        "manaCost": "{6}{W}",
+        "cmc": 7.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Legendary Creature — Spirit",
+        "rarity": "Rare",
+        "set": "BOK",
+        "text": "Flying\nWhenever you cast a Spirit or Arcane spell, create a 3/3 white Spirit creature token with flying.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74027&type=card",
+        "multiverseId": "74027"
+    },
+    {
+        "name": "Patron of the Kitsune",
+        "manaCost": "{4}{W}{W}",
+        "cmc": 6.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Legendary Creature — Spirit",
+        "rarity": "Rare",
+        "set": "BOK",
+        "text": "Fox offering (You may cast this card any time you could cast an instant by sacrificing a Fox and paying the difference in mana costs between this and the sacrificed Fox. Mana cost includes color.)\nWhenever a creature attacks, you may gain 1 life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74620&type=card",
+        "multiverseId": "74620"
+    },
+    {
+        "name": "Scour",
+        "manaCost": "{2}{W}{W}",
+        "cmc": 4.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon",
+        "set": "BOK",
+        "text": "Exile target enchantment. Search its controller's graveyard, hand, and library for all cards with the same name as that enchantment and exile them. Then that player shuffles.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74640&type=card",
+        "multiverseId": "74640"
+    },
+    {
+        "name": "Shining Shoal",
+        "manaCost": "{X}{W}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Instant — Arcane",
+        "rarity": "Rare",
+        "set": "BOK",
+        "text": "You may exile a white card with mana value X from your hand rather than pay this spell's mana cost.\nThe next X damage that a source of your choice would deal to you and/or creatures you control this turn is dealt to any target instead.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74519&type=card",
+        "multiverseId": "74519"
+    },
+    {
+        "name": "Silverstorm Samurai",
+        "manaCost": "{4}{W}{W}",
+        "cmc": 6.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Fox Samurai",
+        "rarity": "Common",
+        "set": "BOK",
+        "text": "Flash\nBushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74545&type=card",
+        "multiverseId": "74545"
+    },
+    {
+        "name": "Split-Tail Miko",
+        "manaCost": "{1}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Fox Cleric",
+        "rarity": "Common",
+        "set": "BOK",
+        "text": "{W}, {T}: Prevent the next 2 damage that would be dealt to any target this turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74493&type=card",
+        "multiverseId": "74493"
+    },
+    {
+        "name": "Takeno's Cavalry",
+        "manaCost": "{3}{W}",
+        "cmc": 4.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Human Samurai Archer",
+        "rarity": "Common",
+        "set": "BOK",
+        "text": "Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)\n{T}: Takeno's Cavalry deals 1 damage to target attacking or blocking Spirit.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74597&type=card",
+        "multiverseId": "74597"
+    },
+    {
+        "name": "Tallowisp",
+        "manaCost": "{1}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Spirit",
+        "rarity": "Uncommon",
+        "set": "BOK",
+        "text": "Whenever you cast a Spirit or Arcane spell, you may search your library for an Aura card with enchant creature, reveal it, put it into your hand, then shuffle.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74412&type=card",
+        "multiverseId": "74412"
+    },
+    {
+        "name": "Terashi's Grasp",
+        "manaCost": "{2}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Sorcery — Arcane",
+        "rarity": "Common",
+        "set": "BOK",
+        "text": "Destroy target artifact or enchantment. You gain life equal to its mana value.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74585&type=card",
+        "multiverseId": "74585"
+    },
+    {
+        "name": "Terashi's Verdict",
+        "manaCost": "{1}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Instant — Arcane",
+        "rarity": "Uncommon",
+        "set": "BOK",
+        "text": "Destroy target attacking creature with power 3 or less.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74481&type=card",
+        "multiverseId": "74481"
+    },
+    {
+        "name": "Ward of Piety",
+        "manaCost": "{1}{W}",
+        "cmc": 2.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Uncommon",
+        "set": "BOK",
+        "text": "Enchant creature\n{1}{W}: The next 1 damage that would be dealt to enchanted creature this turn is dealt to any target instead.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74610&type=card",
+        "multiverseId": "74610"
+    },
+    {
+        "name": "Waxmane Baku",
+        "manaCost": "{2}{W}",
+        "cmc": 3.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Creature — Spirit",
+        "rarity": "Common",
+        "set": "BOK",
+        "text": "Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Waxmane Baku.\n{1}, Remove X ki counters from Waxmane Baku: Tap X target creatures.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74518&type=card",
+        "multiverseId": "74518"
+    },
+    {
+        "name": "Yomiji, Who Bars the Way",
+        "manaCost": "{5}{W}{W}",
+        "cmc": 7.0,
+        "colors": [
+            "W"
+        ],
+        "type": "Legendary Creature — Spirit",
+        "rarity": "Rare",
+        "set": "BOK",
+        "text": "Whenever a legendary permanent other than Yomiji, Who Bars the Way is put into a graveyard from the battlefield, return that card to its owner's hand.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74526&type=card",
+        "multiverseId": "74526"
+    },
+    {
+        "name": "Callow Jushi // Jaraku the Interloper",
+        "manaCost": "{1}{U}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Human Wizard",
+        "rarity": "Uncommon",
+        "set": "BOK",
+        "text": "Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Callow Jushi.\nAt the beginning of the end step, if there are two or more ki counters on Callow Jushi, you may flip it.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74489&type=card",
+        "multiverseId": "74489"
+    },
+    {
+        "name": "Callow Jushi // Jaraku the Interloper",
+        "manaCost": null,
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Legendary Creature — Spirit",
+        "rarity": "Uncommon",
+        "set": "BOK",
+        "text": "Remove a ki counter from Jaraku the Interloper: Counter target spell unless its controller pays {2}.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74489&type=card",
+        "multiverseId": "74489"
+    },
+    {
+        "name": "Chisei, Heart of Oceans",
+        "manaCost": "{2}{U}{U}",
+        "cmc": 4.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Legendary Creature — Spirit",
+        "rarity": "Rare",
+        "set": "BOK",
+        "text": "Flying\nAt the beginning of your upkeep, sacrifice Chisei, Heart of Oceans unless you remove a counter from a permanent you control.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74096&type=card",
+        "multiverseId": "74096"
+    },
+    {
+        "name": "Disrupting Shoal",
+        "manaCost": "{X}{U}{U}",
+        "cmc": 2.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Instant — Arcane",
+        "rarity": "Rare",
+        "set": "BOK",
+        "text": "You may exile a blue card with mana value X from your hand rather than pay this spell's mana cost.\nCounter target spell if its mana value is X.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74128&type=card",
+        "multiverseId": "74128"
+    },
+    {
+        "name": "Floodbringer",
+        "manaCost": "{1}{U}",
+        "cmc": 2.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Moonfolk Wizard",
+        "rarity": "Common",
+        "set": "BOK",
+        "text": "Flying\n{2}, Return a land you control to its owner's hand: Tap target land.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74637&type=card",
+        "multiverseId": "74637"
+    },
+    {
+        "name": "Genju of the Falls",
+        "manaCost": "{U}",
+        "cmc": 1.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Uncommon",
+        "set": "BOK",
+        "text": "Enchant Island\n{2}: Enchanted Island becomes a 3/2 blue Spirit creature with flying until end of turn. It's still a land.\nWhen enchanted Island is put into a graveyard, you may return Genju of the Falls from your graveyard to your hand.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74582&type=card",
+        "multiverseId": "74582"
+    },
+    {
+        "name": "Heed the Mists",
+        "manaCost": "{3}{U}{U}",
+        "cmc": 5.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Sorcery — Arcane",
+        "rarity": "Uncommon",
+        "set": "BOK",
+        "text": "Mill a card, then draw cards equal to the milled card's mana value.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74660&type=card",
+        "multiverseId": "74660"
+    },
+    {
+        "name": "Higure, the Still Wind",
+        "manaCost": "{3}{U}{U}",
+        "cmc": 5.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Legendary Creature — Human Ninja",
+        "rarity": "Rare",
+        "set": "BOK",
+        "text": "Ninjutsu {2}{U}{U} ({2}{U}{U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)\nWhenever Higure, the Still Wind deals combat damage to a player, you may search your library for a Ninja card, reveal it, put it into your hand, then shuffle.\n{2}: Target Ninja creature can't be blocked this turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74448&type=card",
+        "multiverseId": "74448"
+    },
+    {
+        "name": "Jetting Glasskite",
+        "manaCost": "{4}{U}{U}",
+        "cmc": 6.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Spirit",
+        "rarity": "Uncommon",
+        "set": "BOK",
+        "text": "Flying\nWhenever Jetting Glasskite becomes the target of a spell or ability for the first time each turn, counter that spell or ability.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=81976&type=card",
+        "multiverseId": "81976"
+    },
+    {
+        "name": "Kaijin of the Vanishing Touch",
+        "manaCost": "{1}{U}",
+        "cmc": 2.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Spirit",
+        "rarity": "Uncommon",
+        "set": "BOK",
+        "text": "Defender (This creature can't attack.)\nWhenever Kaijin of the Vanishing Touch blocks a creature, return that creature to its owner's hand at end of combat. (Return it only if it's on the battlefield.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74443&type=card",
+        "multiverseId": "74443"
+    },
+    {
+        "name": "Kira, Great Glass-Spinner",
+        "manaCost": "{1}{U}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Legendary Creature — Spirit",
+        "rarity": "Rare",
+        "set": "BOK",
+        "text": "Flying\nCreatures you control have \"Whenever this creature becomes the target of a spell or ability for the first time each turn, counter that spell or ability.\"",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74445&type=card",
+        "multiverseId": "74445"
+    },
+    {
+        "name": "Minamo Sightbender",
+        "manaCost": "{1}{U}",
+        "cmc": 2.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Human Wizard",
+        "rarity": "Uncommon",
+        "set": "BOK",
+        "text": "{X}, {T}: Target creature with power X or less can't be blocked this turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74600&type=card",
+        "multiverseId": "74600"
+    },
+    {
+        "name": "Minamo's Meddling",
+        "manaCost": "{2}{U}{U}",
+        "cmc": 4.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Instant",
+        "rarity": "Common",
+        "set": "BOK",
+        "text": "Counter target spell. That spell's controller reveals their hand, then discards each card with the same name as a card spliced onto that spell.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74665&type=card",
+        "multiverseId": "74665"
+    },
+    {
+        "name": "Mistblade Shinobi",
+        "manaCost": "{2}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Human Ninja",
+        "rarity": "Common",
+        "set": "BOK",
+        "text": "Ninjutsu {U} ({U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)\nWhenever Mistblade Shinobi deals combat damage to a player, you may return target creature that player controls to its owner's hand.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74084&type=card",
+        "multiverseId": "74084"
+    },
+    {
+        "name": "Ninja of the Deep Hours",
+        "manaCost": "{3}{U}",
+        "cmc": 4.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Human Ninja",
+        "rarity": "Common",
+        "set": "BOK",
+        "text": "Ninjutsu {1}{U} ({1}{U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)\nWhenever Ninja of the Deep Hours deals combat damage to a player, you may draw a card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74587&type=card",
+        "multiverseId": "74587"
+    },
+    {
+        "name": "Patron of the Moon",
+        "manaCost": "{5}{U}{U}",
+        "cmc": 7.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Legendary Creature — Spirit",
+        "rarity": "Rare",
+        "set": "BOK",
+        "text": "Moonfolk offering (You may cast this card any time you could cast an instant by sacrificing a Moonfolk and paying the difference in mana costs between this and the sacrificed Moonfolk. Mana cost includes color.)\nFlying\n{1}: Put up to two land cards from your hand onto the battlefield tapped.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74669&type=card",
+        "multiverseId": "74669"
+    },
+    {
+        "name": "Phantom Wings",
+        "manaCost": "{1}{U}",
+        "cmc": 2.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Common",
+        "set": "BOK",
+        "text": "Enchant creature\nEnchanted creature has flying.\nSacrifice Phantom Wings: Return enchanted creature to its owner's hand.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74496&type=card",
+        "multiverseId": "74496"
+    },
+    {
+        "name": "Quash",
+        "manaCost": "{2}{U}{U}",
+        "cmc": 4.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon",
+        "set": "BOK",
+        "text": "Counter target instant or sorcery spell. Search its controller's graveyard, hand, and library for all cards with the same name as that spell and exile them. Then that player shuffles.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74500&type=card",
+        "multiverseId": "74500"
+    },
+    {
+        "name": "Quillmane Baku",
+        "manaCost": "{4}{U}",
+        "cmc": 5.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Spirit",
+        "rarity": "Common",
+        "set": "BOK",
+        "text": "Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Quillmane Baku.\n{1}, {T}, Remove X ki counters from Quillmane Baku: Return target creature with mana value X or less to its owner's hand.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74657&type=card",
+        "multiverseId": "74657"
+    },
+    {
+        "name": "Reduce to Dreams",
+        "manaCost": "{3}{U}{U}",
+        "cmc": 5.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Sorcery",
+        "rarity": "Rare",
+        "set": "BOK",
+        "text": "Return all artifacts and enchantments to their owners' hands.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74110&type=card",
+        "multiverseId": "74110"
+    },
+    {
+        "name": "Ribbons of the Reikai",
+        "manaCost": "{4}{U}",
+        "cmc": 5.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Sorcery — Arcane",
+        "rarity": "Common",
+        "set": "BOK",
+        "text": "Draw a card for each Spirit you control.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74532&type=card",
+        "multiverseId": "74532"
+    },
+    {
+        "name": "Shimmering Glasskite",
+        "manaCost": "{3}{U}",
+        "cmc": 4.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Spirit",
+        "rarity": "Common",
+        "set": "BOK",
+        "text": "Flying\nWhenever Shimmering Glasskite becomes the target of a spell or ability for the first time each turn, counter that spell or ability.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=81978&type=card",
+        "multiverseId": "81978"
+    },
+    {
+        "name": "Soratami Mindsweeper",
+        "manaCost": "{3}{U}",
+        "cmc": 4.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Moonfolk Wizard",
+        "rarity": "Uncommon",
+        "set": "BOK",
+        "text": "Flying\n{2}, Return a land you control to its owner's hand: Target player mills two cards.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=73995&type=card",
+        "multiverseId": "73995"
+    },
+    {
+        "name": "Stream of Consciousness",
+        "manaCost": "{1}{U}",
+        "cmc": 2.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Instant — Arcane",
+        "rarity": "Uncommon",
+        "set": "BOK",
+        "text": "Target player shuffles up to four target cards from their graveyard into their library.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=73997&type=card",
+        "multiverseId": "73997"
+    },
+    {
+        "name": "Sway of the Stars",
+        "manaCost": "{8}{U}{U}",
+        "cmc": 10.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Sorcery",
+        "rarity": "Rare",
+        "set": "BOK",
+        "text": "Each player shuffles their hand, graveyard, and all permanents they own into their library, then draws seven cards. Each player's life total becomes 7.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74034&type=card",
+        "multiverseId": "74034"
+    },
+    {
+        "name": "Teardrop Kami",
+        "manaCost": "{U}",
+        "cmc": 1.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Spirit",
+        "rarity": "Common",
+        "set": "BOK",
+        "text": "Sacrifice Teardrop Kami: You may tap or untap target creature.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74458&type=card",
+        "multiverseId": "74458"
+    },
+    {
+        "name": "Threads of Disloyalty",
+        "manaCost": "{1}{U}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Rare",
+        "set": "BOK",
+        "text": "Enchant creature with mana value 2 or less\nYou control enchanted creature.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74652&type=card",
+        "multiverseId": "74652"
+    },
+    {
+        "name": "Toils of Night and Day",
+        "manaCost": "{2}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Instant — Arcane",
+        "rarity": "Common",
+        "set": "BOK",
+        "text": "You may tap or untap target permanent, then you may tap or untap another target permanent.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74113&type=card",
+        "multiverseId": "74113"
+    },
+    {
+        "name": "Tomorrow, Azami's Familiar",
+        "manaCost": "{5}{U}",
+        "cmc": 6.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Legendary Creature — Spirit",
+        "rarity": "Rare",
+        "set": "BOK",
+        "text": "If you would draw a card, look at the top three cards of your library instead. Put one of those cards into your hand and the rest on the bottom of your library in any order.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74447&type=card",
+        "multiverseId": "74447"
+    },
+    {
+        "name": "Veil of Secrecy",
+        "manaCost": "{1}{U}",
+        "cmc": 2.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Instant — Arcane",
+        "rarity": "Common",
+        "set": "BOK",
+        "text": "Target creature gains shroud until end of turn and can't be blocked this turn. (A creature with shroud can't be the target of spells or abilities.)\nSplice onto Arcane—Return a blue creature you control to its owner's hand. (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74515&type=card",
+        "multiverseId": "74515"
+    },
+    {
+        "name": "Walker of Secret Ways",
+        "manaCost": "{2}{U}",
+        "cmc": 3.0,
+        "colors": [
+            "U"
+        ],
+        "type": "Creature — Human Ninja",
+        "rarity": "Uncommon",
+        "set": "BOK",
+        "text": "Ninjutsu {1}{U} ({1}{U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)\nWhenever Walker of Secret Ways deals combat damage to a player, look at that player's hand.\n{1}{U}: Return target Ninja you control to its owner's hand. Activate only during your turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74033&type=card",
+        "multiverseId": "74033"
+    },
+    {
+        "name": "Bile Urchin",
+        "manaCost": "{B}",
+        "cmc": 1.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Spirit",
+        "rarity": "Common",
+        "set": "BOK",
+        "text": "Sacrifice Bile Urchin: Target player loses 1 life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74427&type=card",
+        "multiverseId": "74427"
+    },
+    {
+        "name": "Blessing of Leeches",
+        "manaCost": "{2}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Common",
+        "set": "BOK",
+        "text": "Flash\nEnchant creature\nAt the beginning of your upkeep, you lose 1 life.\n{0}: Regenerate enchanted creature.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74417&type=card",
+        "multiverseId": "74417"
+    },
+    {
+        "name": "Call for Blood",
+        "manaCost": "{4}{B}",
+        "cmc": 5.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Instant — Arcane",
+        "rarity": "Common",
+        "set": "BOK",
+        "text": "As an additional cost to cast this spell, sacrifice a creature.\nTarget creature gets -X/-X until end of turn, where X is the sacrificed creature's power.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74616&type=card",
+        "multiverseId": "74616"
+    },
+    {
+        "name": "Crawling Filth",
+        "manaCost": "{5}{B}",
+        "cmc": 6.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Spirit",
+        "rarity": "Common",
+        "set": "BOK",
+        "text": "Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)\nSoulshift 5 (When this creature dies, you may return target Spirit card with mana value 5 or less from your graveyard to your hand.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74032&type=card",
+        "multiverseId": "74032"
+    },
+    {
+        "name": "Eradicate",
+        "manaCost": "{2}{B}{B}",
+        "cmc": 4.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "BOK",
+        "text": "Exile target nonblack creature. Search its controller's graveyard, hand, and library for all cards with the same name as that creature and exile them. Then that player shuffles.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74546&type=card",
+        "multiverseId": "74546"
+    },
+    {
+        "name": "Genju of the Fens",
+        "manaCost": "{B}",
+        "cmc": 1.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Uncommon",
+        "set": "BOK",
+        "text": "Enchant Swamp\n{2}: Until end of turn, enchanted Swamp becomes a 2/2 black Spirit creature with \"{B}: This creature gets +1/+1 until end of turn.\" It's still a land.\nWhen enchanted Swamp is put into a graveyard, you may return Genju of the Fens from your graveyard to your hand.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74035&type=card",
+        "multiverseId": "74035"
+    },
+    {
+        "name": "Goryo's Vengeance",
+        "manaCost": "{1}{B}",
+        "cmc": 2.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Instant — Arcane",
+        "rarity": "Rare",
+        "set": "BOK",
+        "text": "Return target legendary creature card from your graveyard to the battlefield. That creature gains haste. Exile it at the beginning of the next end step.\nSplice onto Arcane {2}{B} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74475&type=card",
+        "multiverseId": "74475"
+    },
+    {
+        "name": "Hero's Demise",
+        "manaCost": "{1}{B}",
+        "cmc": 2.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Instant",
+        "rarity": "Rare",
+        "set": "BOK",
+        "text": "Destroy target legendary creature.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74465&type=card",
+        "multiverseId": "74465"
+    },
+    {
+        "name": "Hired Muscle // Scarmaker",
+        "manaCost": "{1}{B}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Human Warrior",
+        "rarity": "Uncommon",
+        "set": "BOK",
+        "text": "Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Hired Muscle.\nAt the beginning of the end step, if there are two or more ki counters on Hired Muscle, you may flip it.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74476&type=card",
+        "multiverseId": "74476"
+    },
+    {
+        "name": "Hired Muscle // Scarmaker",
+        "manaCost": null,
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Legendary Creature — Spirit",
+        "rarity": "Uncommon",
+        "set": "BOK",
+        "text": "Remove a ki counter from Scarmaker: Target creature gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74476&type=card",
+        "multiverseId": "74476"
+    },
+    {
+        "name": "Horobi's Whisper",
+        "manaCost": "{1}{B}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Instant — Arcane",
+        "rarity": "Common",
+        "set": "BOK",
+        "text": "If you control a Swamp, destroy target nonblack creature.\nSplice onto Arcane—Exile four cards from your graveyard. (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74590&type=card",
+        "multiverseId": "74590"
+    },
+    {
+        "name": "Ink-Eyes, Servant of Oni",
+        "manaCost": "{4}{B}{B}",
+        "cmc": 6.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Legendary Creature — Rat Ninja",
+        "rarity": "Rare",
+        "set": "BOK",
+        "text": "Ninjutsu {3}{B}{B} ({3}{B}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)\nWhenever Ink-Eyes, Servant of Oni deals combat damage to a player, you may put target creature card from that player's graveyard onto the battlefield under your control.\n{1}{B}: Regenerate Ink-Eyes.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74626&type=card",
+        "multiverseId": "74626"
+    },
+    {
+        "name": "Kyoki, Sanity's Eclipse",
+        "manaCost": "{4}{B}{B}",
+        "cmc": 6.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Legendary Creature — Demon Spirit",
+        "rarity": "Rare",
+        "set": "BOK",
+        "text": "Whenever you cast a Spirit or Arcane spell, target opponent exiles a card from their hand.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74552&type=card",
+        "multiverseId": "74552"
+    },
+    {
+        "name": "Mark of the Oni",
+        "manaCost": "{2}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Uncommon",
+        "set": "BOK",
+        "text": "Enchant creature\nYou control enchanted creature.\nAt the beginning of the end step, if you control no Demons, sacrifice Mark of the Oni.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74006&type=card",
+        "multiverseId": "74006"
+    },
+    {
+        "name": "Nezumi Shadow-Watcher",
+        "manaCost": "{B}",
+        "cmc": 1.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Rat Warrior",
+        "rarity": "Uncommon",
+        "set": "BOK",
+        "text": "Sacrifice Nezumi Shadow-Watcher: Destroy target Ninja.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74467&type=card",
+        "multiverseId": "74467"
+    },
+    {
+        "name": "Ogre Marauder",
+        "manaCost": "{1}{B}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Ogre Warrior",
+        "rarity": "Uncommon",
+        "set": "BOK",
+        "text": "Whenever Ogre Marauder attacks, it gains \"Ogre Marauder can't be blocked\" until end of turn unless defending player sacrifices a creature.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74594&type=card",
+        "multiverseId": "74594"
+    },
+    {
+        "name": "Okiba-Gang Shinobi",
+        "manaCost": "{3}{B}{B}",
+        "cmc": 5.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Rat Ninja",
+        "rarity": "Common",
+        "set": "BOK",
+        "text": "Ninjutsu {3}{B} ({3}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)\nWhenever Okiba-Gang Shinobi deals combat damage to a player, that player discards two cards.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74576&type=card",
+        "multiverseId": "74576"
+    },
+    {
+        "name": "Patron of the Nezumi",
+        "manaCost": "{5}{B}{B}",
+        "cmc": 7.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Legendary Creature — Spirit",
+        "rarity": "Rare",
+        "set": "BOK",
+        "text": "Rat offering (You may cast this card any time you could cast an instant by sacrificing a Rat and paying the difference in mana costs between this and the sacrificed Rat. Mana cost includes color.)\nWhenever a permanent is put into an opponent's graveyard, that player loses 1 life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74646&type=card",
+        "multiverseId": "74646"
+    },
+    {
+        "name": "Psychic Spear",
+        "manaCost": "{B}",
+        "cmc": 1.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Sorcery",
+        "rarity": "Common",
+        "set": "BOK",
+        "text": "Target player reveals their hand. You choose a Spirit or Arcane card from it. That player discards that card.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74554&type=card",
+        "multiverseId": "74554"
+    },
+    {
+        "name": "Pus Kami",
+        "manaCost": "{5}{B}{B}",
+        "cmc": 7.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Spirit",
+        "rarity": "Uncommon",
+        "set": "BOK",
+        "text": "{B}, Sacrifice Pus Kami: Destroy target nonblack creature.\nSoulshift 6 (When this creature dies, you may return target Spirit card with mana value 6 or less from your graveyard to your hand.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74124&type=card",
+        "multiverseId": "74124"
+    },
+    {
+        "name": "Scourge of Numai",
+        "manaCost": "{3}{B}",
+        "cmc": 4.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Demon Spirit",
+        "rarity": "Uncommon",
+        "set": "BOK",
+        "text": "At the beginning of your upkeep, you lose 2 life if you don't control an Ogre.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74488&type=card",
+        "multiverseId": "74488"
+    },
+    {
+        "name": "Shirei, Shizo's Caretaker",
+        "manaCost": "{4}{B}",
+        "cmc": 5.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Legendary Creature — Spirit",
+        "rarity": "Rare",
+        "set": "BOK",
+        "text": "Whenever a creature with power 1 or less is put into your graveyard from the battlefield, you may return that card to the battlefield at the beginning of the next end step if Shirei, Shizo's Caretaker is still on the battlefield.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=81987&type=card",
+        "multiverseId": "81987"
+    },
+    {
+        "name": "Sickening Shoal",
+        "manaCost": "{X}{B}{B}",
+        "cmc": 2.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Instant — Arcane",
+        "rarity": "Rare",
+        "set": "BOK",
+        "text": "You may exile a black card with mana value X from your hand rather than pay this spell's mana cost.\nTarget creature gets -X/-X until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74127&type=card",
+        "multiverseId": "74127"
+    },
+    {
+        "name": "Skullmane Baku",
+        "manaCost": "{3}{B}{B}",
+        "cmc": 5.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Spirit",
+        "rarity": "Common",
+        "set": "BOK",
+        "text": "Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Skullmane Baku.\n{1}, {T}, Remove X ki counters from Skullmane Baku: Target creature gets -X/-X until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74577&type=card",
+        "multiverseId": "74577"
+    },
+    {
+        "name": "Skullsnatcher",
+        "manaCost": "{1}{B}",
+        "cmc": 2.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Rat Ninja",
+        "rarity": "Common",
+        "set": "BOK",
+        "text": "Ninjutsu {B} ({B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)\nWhenever Skullsnatcher deals combat damage to a player, exile up to two target cards from that player's graveyard.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=81983&type=card",
+        "multiverseId": "81983"
+    },
+    {
+        "name": "Stir the Grave",
+        "manaCost": "{X}{B}",
+        "cmc": 1.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Sorcery",
+        "rarity": "Common",
+        "set": "BOK",
+        "text": "Return target creature card with mana value X or less from your graveyard to the battlefield.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74643&type=card",
+        "multiverseId": "74643"
+    },
+    {
+        "name": "Takenuma Bleeder",
+        "manaCost": "{2}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Ogre Shaman",
+        "rarity": "Common",
+        "set": "BOK",
+        "text": "Whenever Takenuma Bleeder attacks or blocks, you lose 1 life if you don't control a Demon.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74095&type=card",
+        "multiverseId": "74095"
+    },
+    {
+        "name": "Three Tragedies",
+        "manaCost": "{3}{B}{B}",
+        "cmc": 5.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Sorcery — Arcane",
+        "rarity": "Uncommon",
+        "set": "BOK",
+        "text": "Target player discards three cards.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74117&type=card",
+        "multiverseId": "74117"
+    },
+    {
+        "name": "Throat Slitter",
+        "manaCost": "{4}{B}",
+        "cmc": 5.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Creature — Rat Ninja",
+        "rarity": "Uncommon",
+        "set": "BOK",
+        "text": "Ninjutsu {2}{B} ({2}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)\nWhenever Throat Slitter deals combat damage to a player, destroy target nonblack creature that player controls.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74108&type=card",
+        "multiverseId": "74108"
+    },
+    {
+        "name": "Toshiro Umezawa",
+        "manaCost": "{1}{B}{B}",
+        "cmc": 3.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Legendary Creature — Human Samurai",
+        "rarity": "Rare",
+        "set": "BOK",
+        "text": "Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)\nWhenever a creature an opponent controls dies, you may cast target instant card from your graveyard. If that spell would be put into a graveyard, exile it instead.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74431&type=card",
+        "multiverseId": "74431"
+    },
+    {
+        "name": "Yukora, the Prisoner",
+        "manaCost": "{2}{B}{B}",
+        "cmc": 4.0,
+        "colors": [
+            "B"
+        ],
+        "type": "Legendary Creature — Demon Spirit",
+        "rarity": "Rare",
+        "set": "BOK",
+        "text": "When Yukora, the Prisoner leaves the battlefield, sacrifice all non-Ogre creatures you control.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74510&type=card",
+        "multiverseId": "74510"
+    },
+    {
+        "name": "Akki Blizzard-Herder",
+        "manaCost": "{1}{R}",
+        "cmc": 2.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Goblin Shaman",
+        "rarity": "Common",
+        "set": "BOK",
+        "text": "When Akki Blizzard-Herder dies, each player sacrifices a land.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74428&type=card",
+        "multiverseId": "74428"
+    },
+    {
+        "name": "Akki Raider",
+        "manaCost": "{1}{R}",
+        "cmc": 2.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Goblin Warrior",
+        "rarity": "Uncommon",
+        "set": "BOK",
+        "text": "Whenever a land is put into a graveyard from the battlefield, Akki Raider gets +1/+0 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74596&type=card",
+        "multiverseId": "74596"
+    },
+    {
+        "name": "Ashen Monstrosity",
+        "manaCost": "{5}{R}{R}",
+        "cmc": 7.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Spirit",
+        "rarity": "Uncommon",
+        "set": "BOK",
+        "text": "Haste\nAshen Monstrosity attacks each combat if able.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74469&type=card",
+        "multiverseId": "74469"
+    },
+    {
+        "name": "Aura Barbs",
+        "manaCost": "{2}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Instant — Arcane",
+        "rarity": "Uncommon",
+        "set": "BOK",
+        "text": "Each enchantment deals 2 damage to its controller, then each Aura attached to a creature deals 2 damage to the creature it's attached to.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74522&type=card",
+        "multiverseId": "74522"
+    },
+    {
+        "name": "Blademane Baku",
+        "manaCost": "{1}{R}",
+        "cmc": 2.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Spirit",
+        "rarity": "Common",
+        "set": "BOK",
+        "text": "Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Blademane Baku.\n{1}, Remove X ki counters from Blademane Baku: For each counter removed, Blademane Baku gets +2/+0 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74535&type=card",
+        "multiverseId": "74535"
+    },
+    {
+        "name": "Blazing Shoal",
+        "manaCost": "{X}{R}{R}",
+        "cmc": 2.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Instant — Arcane",
+        "rarity": "Rare",
+        "set": "BOK",
+        "text": "You may exile a red card with mana value X from your hand rather than pay this spell's mana cost.\nTarget creature gets +X/+0 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74441&type=card",
+        "multiverseId": "74441"
+    },
+    {
+        "name": "Clash of Realities",
+        "manaCost": "{3}{R}",
+        "cmc": 4.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Enchantment",
+        "rarity": "Rare",
+        "set": "BOK",
+        "text": "All Spirits have \"When this permanent enters the battlefield, you may have it deal 3 damage to target non-Spirit creature.\"\nNon-Spirit creatures have \"When this creature enters the battlefield, you may have it deal 3 damage to target Spirit creature.\"",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74598&type=card",
+        "multiverseId": "74598"
+    },
+    {
+        "name": "Crack the Earth",
+        "manaCost": "{R}",
+        "cmc": 1.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Sorcery — Arcane",
+        "rarity": "Common",
+        "set": "BOK",
+        "text": "Each player sacrifices a permanent.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74480&type=card",
+        "multiverseId": "74480"
+    },
+    {
+        "name": "Cunning Bandit // Azamuki, Treachery Incarnate",
+        "manaCost": "{1}{R}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Human Warrior",
+        "rarity": "Uncommon",
+        "set": "BOK",
+        "text": "Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Cunning Bandit.\nAt the beginning of the end step, if there are two or more ki counters on Cunning Bandit, you may flip it.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74671&type=card",
+        "multiverseId": "74671"
+    },
+    {
+        "name": "Cunning Bandit // Azamuki, Treachery Incarnate",
+        "manaCost": null,
+        "cmc": 3.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Legendary Creature — Spirit",
+        "rarity": "Uncommon",
+        "set": "BOK",
+        "text": "Remove a ki counter from Azamuki, Treachery Incarnate: Gain control of target creature until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74671&type=card",
+        "multiverseId": "74671"
+    },
+    {
+        "name": "First Volley",
+        "manaCost": "{1}{R}",
+        "cmc": 2.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Instant — Arcane",
+        "rarity": "Common",
+        "set": "BOK",
+        "text": "First Volley deals 1 damage to target creature and 1 damage to that creature's controller.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74451&type=card",
+        "multiverseId": "74451"
+    },
+    {
+        "name": "Flames of the Blood Hand",
+        "manaCost": "{2}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Instant",
+        "rarity": "Uncommon",
+        "set": "BOK",
+        "text": "Flames of the Blood Hand deals 4 damage to target player or planeswalker. The damage can't be prevented. If that player or that planeswalker's controller would gain life this turn, that player gains no life instead.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74625&type=card",
+        "multiverseId": "74625"
+    },
+    {
+        "name": "Frost Ogre",
+        "manaCost": "{3}{R}{R}",
+        "cmc": 5.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Ogre Warrior",
+        "rarity": "Common",
+        "set": "BOK",
+        "text": null,
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74589&type=card",
+        "multiverseId": "74589"
+    },
+    {
+        "name": "Frostling",
+        "manaCost": "{R}",
+        "cmc": 1.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Spirit",
+        "rarity": "Common",
+        "set": "BOK",
+        "text": "Sacrifice Frostling: It deals 1 damage to target creature.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74621&type=card",
+        "multiverseId": "74621"
+    },
+    {
+        "name": "Fumiko the Lowblood",
+        "manaCost": "{2}{R}{R}",
+        "cmc": 4.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Legendary Creature — Human Samurai",
+        "rarity": "Rare",
+        "set": "BOK",
+        "text": "Fumiko the Lowblood has bushido X, where X is the number of attacking creatures. (Whenever this creature blocks or becomes blocked, it gets +X/+X until end of turn.)\nCreatures your opponents control attack each combat if able.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74534&type=card",
+        "multiverseId": "74534"
+    },
+    {
+        "name": "Genju of the Spires",
+        "manaCost": "{R}",
+        "cmc": 1.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Uncommon",
+        "set": "BOK",
+        "text": "Enchant Mountain\n{2}: Enchanted Mountain becomes a 6/1 red Spirit creature until end of turn. It's still a land.\nWhen enchanted Mountain is put into a graveyard, you may return Genju of the Spires from your graveyard to your hand.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74666&type=card",
+        "multiverseId": "74666"
+    },
+    {
+        "name": "Goblin Cohort",
+        "manaCost": "{R}",
+        "cmc": 1.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Goblin Warrior",
+        "rarity": "Common",
+        "set": "BOK",
+        "text": "Goblin Cohort can't attack unless you've cast a creature spell this turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74433&type=card",
+        "multiverseId": "74433"
+    },
+    {
+        "name": "Heartless Hidetsugu",
+        "manaCost": "{3}{R}{R}",
+        "cmc": 5.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Legendary Creature — Ogre Shaman",
+        "rarity": "Rare",
+        "set": "BOK",
+        "text": "{T}: Heartless Hidetsugu deals damage to each player equal to half that player's life total, rounded down.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74572&type=card",
+        "multiverseId": "74572"
+    },
+    {
+        "name": "In the Web of War",
+        "manaCost": "{3}{R}{R}",
+        "cmc": 5.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Enchantment",
+        "rarity": "Rare",
+        "set": "BOK",
+        "text": "Whenever a creature enters the battlefield under your control, it gets +2/+0 and gains haste until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74041&type=card",
+        "multiverseId": "74041"
+    },
+    {
+        "name": "Ire of Kaminari",
+        "manaCost": "{3}{R}",
+        "cmc": 4.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Instant — Arcane",
+        "rarity": "Common",
+        "set": "BOK",
+        "text": "Ire of Kaminari deals damage to any target equal to the number of Arcane cards in your graveyard.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74609&type=card",
+        "multiverseId": "74609"
+    },
+    {
+        "name": "Ishi-Ishi, Akki Crackshot",
+        "manaCost": "{1}{R}",
+        "cmc": 2.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Legendary Creature — Goblin Warrior",
+        "rarity": "Rare",
+        "set": "BOK",
+        "text": "Whenever an opponent casts a Spirit or Arcane spell, Ishi-Ishi, Akki Crackshot deals 2 damage to that player.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74636&type=card",
+        "multiverseId": "74636"
+    },
+    {
+        "name": "Kumano's Blessing",
+        "manaCost": "{2}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Common",
+        "set": "BOK",
+        "text": "Flash\nEnchant creature\nIf a creature dealt damage by enchanted creature this turn would die, exile it instead.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74573&type=card",
+        "multiverseId": "74573"
+    },
+    {
+        "name": "Mannichi, the Fevered Dream",
+        "manaCost": "{2}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Legendary Creature — Spirit",
+        "rarity": "Rare",
+        "set": "BOK",
+        "text": "{1}{R}: Switch each creature's power and toughness until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74490&type=card",
+        "multiverseId": "74490"
+    },
+    {
+        "name": "Ogre Recluse",
+        "manaCost": "{3}{R}",
+        "cmc": 4.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Ogre Warrior",
+        "rarity": "Uncommon",
+        "set": "BOK",
+        "text": "Whenever a player casts a spell, tap Ogre Recluse.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74645&type=card",
+        "multiverseId": "74645"
+    },
+    {
+        "name": "Overblaze",
+        "manaCost": "{3}{R}",
+        "cmc": 4.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Instant — Arcane",
+        "rarity": "Uncommon",
+        "set": "BOK",
+        "text": "Each time target permanent would deal damage to a permanent or player this turn, it deals double that damage to that permanent or player instead.\nSplice onto Arcane {2}{R}{R} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=81986&type=card",
+        "multiverseId": "81986"
+    },
+    {
+        "name": "Patron of the Akki",
+        "manaCost": "{4}{R}{R}",
+        "cmc": 6.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Legendary Creature — Spirit",
+        "rarity": "Rare",
+        "set": "BOK",
+        "text": "Goblin offering (You may cast this card any time you could cast an instant by sacrificing a Goblin and paying the difference in mana costs between this and the sacrificed Goblin. Mana cost includes color.)\nWhenever Patron of the Akki attacks, creatures you control get +2/+0 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74109&type=card",
+        "multiverseId": "74109"
+    },
+    {
+        "name": "Ronin Cliffrider",
+        "manaCost": "{3}{R}{R}",
+        "cmc": 5.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Human Samurai",
+        "rarity": "Uncommon",
+        "set": "BOK",
+        "text": "Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)\nWhenever Ronin Cliffrider attacks, you may have it deal 1 damage to each creature defending player controls.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74122&type=card",
+        "multiverseId": "74122"
+    },
+    {
+        "name": "Shinka Gatekeeper",
+        "manaCost": "{2}{R}",
+        "cmc": 3.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Creature — Ogre Warrior",
+        "rarity": "Common",
+        "set": "BOK",
+        "text": "Whenever Shinka Gatekeeper is dealt damage, it deals that much damage to you.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74099&type=card",
+        "multiverseId": "74099"
+    },
+    {
+        "name": "Sowing Salt",
+        "manaCost": "{2}{R}{R}",
+        "cmc": 4.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "BOK",
+        "text": "Exile target nonbasic land. Search its controller's graveyard, hand, and library for all cards with the same name as that land and exile them. Then that player shuffles.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74623&type=card",
+        "multiverseId": "74623"
+    },
+    {
+        "name": "Torrent of Stone",
+        "manaCost": "{3}{R}",
+        "cmc": 4.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Instant — Arcane",
+        "rarity": "Common",
+        "set": "BOK",
+        "text": "Torrent of Stone deals 4 damage to target creature.\nSplice onto Arcane—Sacrifice two Mountains. (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=81990&type=card",
+        "multiverseId": "81990"
+    },
+    {
+        "name": "Twist Allegiance",
+        "manaCost": "{6}{R}",
+        "cmc": 7.0,
+        "colors": [
+            "R"
+        ],
+        "type": "Sorcery",
+        "rarity": "Rare",
+        "set": "BOK",
+        "text": "You and target opponent each gain control of all creatures the other controls until end of turn. Untap those creatures. Those creatures gain haste until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74023&type=card",
+        "multiverseId": "74023"
+    },
+    {
+        "name": "Body of Jukai",
+        "manaCost": "{7}{G}{G}",
+        "cmc": 9.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Spirit",
+        "rarity": "Uncommon",
+        "set": "BOK",
+        "text": "Trample\nSoulshift 8 (When this creature dies, you may return target Spirit card with mana value 8 or less from your graveyard to your hand.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74613&type=card",
+        "multiverseId": "74613"
+    },
+    {
+        "name": "Budoka Pupil // Ichiga, Who Topples Oaks",
+        "manaCost": "{1}{G}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Human Monk",
+        "rarity": "Uncommon",
+        "set": "BOK",
+        "text": "Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Budoka Pupil.\nAt the beginning of the end step, if there are two or more ki counters on Budoka Pupil, you may flip it.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74536&type=card",
+        "multiverseId": "74536"
+    },
+    {
+        "name": "Budoka Pupil // Ichiga, Who Topples Oaks",
+        "manaCost": null,
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Legendary Creature — Spirit",
+        "rarity": "Uncommon",
+        "set": "BOK",
+        "text": "Trample\nRemove a ki counter from Ichiga, Who Topples Oaks: Target creature gets +2/+2 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74536&type=card",
+        "multiverseId": "74536"
+    },
+    {
+        "name": "Child of Thorns",
+        "manaCost": "{G}",
+        "cmc": 1.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Spirit",
+        "rarity": "Common",
+        "set": "BOK",
+        "text": "Sacrifice Child of Thorns: Target creature gets +1/+1 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74461&type=card",
+        "multiverseId": "74461"
+    },
+    {
+        "name": "Enshrined Memories",
+        "manaCost": "{X}{G}",
+        "cmc": 1.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Sorcery",
+        "rarity": "Rare",
+        "set": "BOK",
+        "text": "Reveal the top X cards of your library. Put all creature cards revealed this way into your hand and the rest on the bottom of your library in any order.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=81998&type=card",
+        "multiverseId": "81998"
+    },
+    {
+        "name": "Forked-Branch Garami",
+        "manaCost": "{3}{G}{G}",
+        "cmc": 5.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Spirit",
+        "rarity": "Uncommon",
+        "set": "BOK",
+        "text": "Soulshift 4, soulshift 4 (When this creature dies, you may return up to two target Spirit cards with mana value 4 or less from your graveyard to your hand.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74410&type=card",
+        "multiverseId": "74410"
+    },
+    {
+        "name": "Genju of the Cedars",
+        "manaCost": "{G}",
+        "cmc": 1.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Uncommon",
+        "set": "BOK",
+        "text": "Enchant Forest\n{2}: Enchanted Forest becomes a 4/4 green Spirit creature until end of turn. It's still a land.\nWhen enchanted Forest is put into a graveyard, you may return Genju of the Cedars from your graveyard to your hand.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74424&type=card",
+        "multiverseId": "74424"
+    },
+    {
+        "name": "Gnarled Mass",
+        "manaCost": "{1}{G}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Spirit",
+        "rarity": "Common",
+        "set": "BOK",
+        "text": null,
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74435&type=card",
+        "multiverseId": "74435"
+    },
+    {
+        "name": "Harbinger of Spring",
+        "manaCost": "{4}{G}",
+        "cmc": 5.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Spirit",
+        "rarity": "Common",
+        "set": "BOK",
+        "text": "Protection from non-Spirit creatures\nSoulshift 4 (When this creature dies, you may return target Spirit card with mana value 4 or less from your graveyard to your hand.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74580&type=card",
+        "multiverseId": "74580"
+    },
+    {
+        "name": "Isao, Enlightened Bushi",
+        "manaCost": "{2}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Legendary Creature — Human Samurai",
+        "rarity": "Rare",
+        "set": "BOK",
+        "text": "This spell can't be countered.\nBushido 2 (Whenever this creature blocks or becomes blocked, it gets +2/+2 until end of turn.)\n{2}: Regenerate target Samurai.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74039&type=card",
+        "multiverseId": "74039"
+    },
+    {
+        "name": "Iwamori of the Open Fist",
+        "manaCost": "{2}{G}{G}",
+        "cmc": 4.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Legendary Creature — Human Monk",
+        "rarity": "Rare",
+        "set": "BOK",
+        "text": "Trample\nWhen Iwamori of the Open Fist enters the battlefield, each opponent may put a legendary creature card from their hand onto the battlefield.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74507&type=card",
+        "multiverseId": "74507"
+    },
+    {
+        "name": "Kodama of the Center Tree",
+        "manaCost": "{4}{G}",
+        "cmc": 5.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Legendary Creature — Spirit",
+        "rarity": "Rare",
+        "set": "BOK",
+        "text": "Kodama of the Center Tree's power and toughness are each equal to the number of Spirits you control.\nKodama of the Center Tree has soulshift X, where X is the number of Spirits you control. (When this creature dies, you may return target Spirit card with mana value X or less from your graveyard to your hand.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74086&type=card",
+        "multiverseId": "74086"
+    },
+    {
+        "name": "Lifegift",
+        "manaCost": "{2}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Enchantment",
+        "rarity": "Rare",
+        "set": "BOK",
+        "text": "Whenever a land enters the battlefield, you may gain 1 life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74571&type=card",
+        "multiverseId": "74571"
+    },
+    {
+        "name": "Lifespinner",
+        "manaCost": "{3}{G}",
+        "cmc": 4.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Spirit",
+        "rarity": "Uncommon",
+        "set": "BOK",
+        "text": "{T}, Sacrifice three Spirits: Search your library for a legendary Spirit permanent card, put it onto the battlefield, then shuffle.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74642&type=card",
+        "multiverseId": "74642"
+    },
+    {
+        "name": "Loam Dweller",
+        "manaCost": "{1}{G}",
+        "cmc": 2.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Spirit",
+        "rarity": "Uncommon",
+        "set": "BOK",
+        "text": "Whenever you cast a Spirit or Arcane spell, you may put a land card from your hand onto the battlefield tapped.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74584&type=card",
+        "multiverseId": "74584"
+    },
+    {
+        "name": "Mark of Sakiko",
+        "manaCost": "{1}{G}",
+        "cmc": 2.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Enchantment — Aura",
+        "rarity": "Uncommon",
+        "set": "BOK",
+        "text": "Enchant creature\nEnchanted creature has \"Whenever this creature deals combat damage to a player, add that much {G}. Until end of turn, you don't lose this mana as steps and phases end.\"",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74430&type=card",
+        "multiverseId": "74430"
+    },
+    {
+        "name": "Matsu-Tribe Sniper",
+        "manaCost": "{1}{G}",
+        "cmc": 2.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Snake Warrior Archer",
+        "rarity": "Common",
+        "set": "BOK",
+        "text": "{T}: Matsu-Tribe Sniper deals 1 damage to target creature with flying.\nWhenever Matsu-Tribe Sniper deals damage to a creature, tap that creature and it doesn't untap during its controller's next untap step.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74619&type=card",
+        "multiverseId": "74619"
+    },
+    {
+        "name": "Nourishing Shoal",
+        "manaCost": "{X}{G}{G}",
+        "cmc": 2.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Instant — Arcane",
+        "rarity": "Rare",
+        "set": "BOK",
+        "text": "You may exile a green card with mana value X from your hand rather than pay this spell's mana cost.\nYou gain X life.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74100&type=card",
+        "multiverseId": "74100"
+    },
+    {
+        "name": "Patron of the Orochi",
+        "manaCost": "{6}{G}{G}",
+        "cmc": 8.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Legendary Creature — Spirit",
+        "rarity": "Rare",
+        "set": "BOK",
+        "text": "Snake offering (You may cast this card any time you could cast an instant by sacrificing a Snake and paying the difference in mana costs between this and the sacrificed Snake. Mana cost includes color.)\n{T}: Untap all Forests and all green creatures. Activate only once each turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74542&type=card",
+        "multiverseId": "74542"
+    },
+    {
+        "name": "Petalmane Baku",
+        "manaCost": "{1}{G}",
+        "cmc": 2.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Spirit",
+        "rarity": "Common",
+        "set": "BOK",
+        "text": "Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Petalmane Baku.\n{1}, Remove X ki counters from Petalmane Baku: Add X mana of any one color.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74455&type=card",
+        "multiverseId": "74455"
+    },
+    {
+        "name": "Roar of Jukai",
+        "manaCost": "{2}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Instant — Arcane",
+        "rarity": "Common",
+        "set": "BOK",
+        "text": "If you control a Forest, each blocked creature gets +2/+2 until end of turn.\nSplice onto Arcane—An opponent gains 5 life. (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74629&type=card",
+        "multiverseId": "74629"
+    },
+    {
+        "name": "Sakiko, Mother of Summer",
+        "manaCost": "{4}{G}{G}",
+        "cmc": 6.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Legendary Creature — Snake Shaman",
+        "rarity": "Rare",
+        "set": "BOK",
+        "text": "Whenever a creature you control deals combat damage to a player, add that much {G}. Until end of turn, you don't lose this mana as steps and phases end.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74544&type=card",
+        "multiverseId": "74544"
+    },
+    {
+        "name": "Sakura-Tribe Springcaller",
+        "manaCost": "{3}{G}",
+        "cmc": 4.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Snake Shaman",
+        "rarity": "Common",
+        "set": "BOK",
+        "text": "At the beginning of your upkeep, add {G}. Until end of turn, you don't lose this mana as steps and phases end.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74092&type=card",
+        "multiverseId": "74092"
+    },
+    {
+        "name": "Scaled Hulk",
+        "manaCost": "{5}{G}",
+        "cmc": 6.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Spirit",
+        "rarity": "Common",
+        "set": "BOK",
+        "text": "Whenever you cast a Spirit or Arcane spell, Scaled Hulk gets +2/+2 until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74541&type=card",
+        "multiverseId": "74541"
+    },
+    {
+        "name": "Shizuko, Caller of Autumn",
+        "manaCost": "{1}{G}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Legendary Creature — Snake Shaman",
+        "rarity": "Rare",
+        "set": "BOK",
+        "text": "At the beginning of each player's upkeep, that player adds {G}{G}{G}. Until end of turn, they don't lose this mana as steps and phases end.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74436&type=card",
+        "multiverseId": "74436"
+    },
+    {
+        "name": "Sosuke's Summons",
+        "manaCost": "{2}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "BOK",
+        "text": "Create two 1/1 green Snake creature tokens.\nWhenever a nontoken Snake enters the battlefield under your control, you may return Sosuke's Summons from your graveyard to your hand.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74090&type=card",
+        "multiverseId": "74090"
+    },
+    {
+        "name": "Splinter",
+        "manaCost": "{2}{G}{G}",
+        "cmc": 4.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Sorcery",
+        "rarity": "Uncommon",
+        "set": "BOK",
+        "text": "Exile target artifact. Search its controller's graveyard, hand, and library for all cards with the same name as that artifact and exile them. Then that player shuffles.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74615&type=card",
+        "multiverseId": "74615"
+    },
+    {
+        "name": "Traproot Kami",
+        "manaCost": "{G}",
+        "cmc": 1.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Creature — Spirit",
+        "rarity": "Common",
+        "set": "BOK",
+        "text": "Defender; reach (This creature can block creatures with flying.)\nTraproot Kami's toughness is equal to the number of Forests on the battlefield.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74627&type=card",
+        "multiverseId": "74627"
+    },
+    {
+        "name": "Unchecked Growth",
+        "manaCost": "{2}{G}",
+        "cmc": 3.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Instant — Arcane",
+        "rarity": "Uncommon",
+        "set": "BOK",
+        "text": "Target creature gets +4/+4 until end of turn. If it's a Spirit, it gains trample until end of turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74670&type=card",
+        "multiverseId": "74670"
+    },
+    {
+        "name": "Uproot",
+        "manaCost": "{3}{G}",
+        "cmc": 4.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Sorcery — Arcane",
+        "rarity": "Common",
+        "set": "BOK",
+        "text": "Put target land on top of its owner's library.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74568&type=card",
+        "multiverseId": "74568"
+    },
+    {
+        "name": "Vital Surge",
+        "manaCost": "{1}{G}",
+        "cmc": 2.0,
+        "colors": [
+            "G"
+        ],
+        "type": "Instant — Arcane",
+        "rarity": "Common",
+        "set": "BOK",
+        "text": "You gain 3 life.\nSplice onto Arcane {1}{G} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74612&type=card",
+        "multiverseId": "74612"
+    },
+    {
+        "name": "Genju of the Realm",
+        "manaCost": "{W}{U}{B}{R}{G}",
+        "cmc": 5.0,
+        "colors": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "type": "Legendary Enchantment — Aura",
+        "rarity": "Rare",
+        "set": "BOK",
+        "text": "Enchant land\n{2}: Enchanted land becomes a legendary 8/12 Spirit creature with trample until end of turn. It's still a land.\nWhen enchanted land is put into a graveyard, you may return Genju of the Realm from your graveyard to your hand.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=75364&type=card",
+        "multiverseId": "75364"
+    },
+    {
+        "name": "Baku Altar",
+        "manaCost": "{2}",
+        "cmc": 2.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Rare",
+        "set": "BOK",
+        "text": "Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Baku Altar.\n{2}, {T}, Remove a ki counter from Baku Altar: Create a 1/1 colorless Spirit creature token.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74422&type=card",
+        "multiverseId": "74422"
+    },
+    {
+        "name": "Blinding Powder",
+        "manaCost": "{1}",
+        "cmc": 1.0,
+        "colors": null,
+        "type": "Artifact — Equipment",
+        "rarity": "Uncommon",
+        "set": "BOK",
+        "text": "Equipped creature has \"Unattach Blinding Powder: Prevent all combat damage that would be dealt to this creature this turn.\"\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=81989&type=card",
+        "multiverseId": "81989"
+    },
+    {
+        "name": "Mirror Gallery",
+        "manaCost": "{5}",
+        "cmc": 5.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Rare",
+        "set": "BOK",
+        "text": "The \"legend rule\" doesn't apply.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74555&type=card",
+        "multiverseId": "74555"
+    },
+    {
+        "name": "Neko-Te",
+        "manaCost": "{3}",
+        "cmc": 3.0,
+        "colors": null,
+        "type": "Artifact — Equipment",
+        "rarity": "Rare",
+        "set": "BOK",
+        "text": "Whenever equipped creature deals damage to a creature, tap that creature. That creature doesn't untap during its controller's untap step for as long as Neko-Te remains on the battlefield.\nWhenever equipped creature deals damage to a player, that player loses 1 life.\nEquip {2}",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74578&type=card",
+        "multiverseId": "74578"
+    },
+    {
+        "name": "Orb of Dreams",
+        "manaCost": "{3}",
+        "cmc": 3.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Rare",
+        "set": "BOK",
+        "text": "Permanents enter the battlefield tapped.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74607&type=card",
+        "multiverseId": "74607"
+    },
+    {
+        "name": "Ornate Kanzashi",
+        "manaCost": "{5}",
+        "cmc": 5.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Rare",
+        "set": "BOK",
+        "text": "{2}, {T}: Target opponent exiles the top card of their library. You may play that card this turn.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74512&type=card",
+        "multiverseId": "74512"
+    },
+    {
+        "name": "Ronin Warclub",
+        "manaCost": "{3}",
+        "cmc": 3.0,
+        "colors": null,
+        "type": "Artifact — Equipment",
+        "rarity": "Uncommon",
+        "set": "BOK",
+        "text": "Equipped creature gets +2/+1.\nWhenever a creature enters the battlefield under your control, attach Ronin Warclub to that creature.\nEquip {5} ({5}: Attach to target creature you control. Equip only as a sorcery.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74473&type=card",
+        "multiverseId": "74473"
+    },
+    {
+        "name": "Shuko",
+        "manaCost": "{1}",
+        "cmc": 1.0,
+        "colors": null,
+        "type": "Artifact — Equipment",
+        "rarity": "Uncommon",
+        "set": "BOK",
+        "text": "Equipped creature gets +1/+0.\nEquip {0} ({0}: Attach to target creature you control. Equip only as a sorcery.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74415&type=card",
+        "multiverseId": "74415"
+    },
+    {
+        "name": "Shuriken",
+        "manaCost": "{1}",
+        "cmc": 1.0,
+        "colors": null,
+        "type": "Artifact — Equipment",
+        "rarity": "Uncommon",
+        "set": "BOK",
+        "text": "Equipped creature has \"{T}, Unattach Shuriken: Shuriken deals 2 damage to target creature. That creature's controller gains control of Shuriken unless it was unattached from a Ninja.\"\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=81997&type=card",
+        "multiverseId": "81997"
+    },
+    {
+        "name": "Slumbering Tora",
+        "manaCost": "{3}",
+        "cmc": 3.0,
+        "colors": null,
+        "type": "Artifact",
+        "rarity": "Rare",
+        "set": "BOK",
+        "text": "{2}, Discard a Spirit or Arcane card: Slumbering Tora becomes an X/X Cat artifact creature until end of turn, where X is the discarded card's mana value.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74628&type=card",
+        "multiverseId": "74628"
+    },
+    {
+        "name": "That Which Was Taken",
+        "manaCost": "{5}",
+        "cmc": 5.0,
+        "colors": null,
+        "type": "Legendary Artifact",
+        "rarity": "Rare",
+        "set": "BOK",
+        "text": "{4}, {T}: Put a divinity counter on target permanent other than That Which Was Taken.\nEach permanent with a divinity counter on it has indestructible.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74644&type=card",
+        "multiverseId": "74644"
+    },
+    {
+        "name": "Umezawa's Jitte",
+        "manaCost": "{2}",
+        "cmc": 2.0,
+        "colors": null,
+        "type": "Legendary Artifact — Equipment",
+        "rarity": "Rare",
+        "set": "BOK",
+        "text": "Whenever equipped creature deals combat damage, put two charge counters on Umezawa's Jitte.\nRemove a charge counter from Umezawa's Jitte: Choose one —\n• Equipped creature gets +2/+2 until end of turn.\n• Target creature gets -1/-1 until end of turn.\n• You gain 2 life.\nEquip {2}",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=81979&type=card",
+        "multiverseId": "81979"
+    },
+    {
+        "name": "Gods' Eye, Gate to the Reikai",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Legendary Land",
+        "rarity": "Uncommon",
+        "set": "BOK",
+        "text": "{T}: Add {C}.\nWhen Gods' Eye, Gate to the Reikai is put into a graveyard from the battlefield, create a 1/1 colorless Spirit creature token.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74668&type=card",
+        "multiverseId": "74668"
+    },
+    {
+        "name": "Tendo Ice Bridge",
+        "manaCost": null,
+        "cmc": 0.0,
+        "colors": null,
+        "type": "Land",
+        "rarity": "Rare",
+        "set": "BOK",
+        "text": "Tendo Ice Bridge enters the battlefield with a charge counter on it.\n{T}: Add {C}.\n{T}, Remove a charge counter from Tendo Ice Bridge: Add one mana of any color.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74487&type=card",
+        "multiverseId": "74487"
+    }
+]
